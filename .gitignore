@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+.astro/
+.output/
+.vercel/
+.netlify/
+
+# scrape + tooling artifacts (regenerable, very large)
+www.24high.com/
+www.24high.nl/
+www.24high.fr/
+www.24high.de/
+www.24high.es/
+www.24high.it/
+wget.exe
+.wget-hsts
+
+# env
+.env
+.env.production
+.env.local
+
+# editor / os
+.DS_Store
+.vscode/
+.idea/
+*.log
+npm-debug.log*

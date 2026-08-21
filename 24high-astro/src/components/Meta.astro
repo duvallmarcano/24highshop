@@ -1,0 +1,40 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  lang?: string;
+  ogImage?: string;
+  canonical?: string;
+}
+
+const {
+  title,
+  description = '24High is the smartshop for all your psychedelic needs.',
+  lang = 'en',
+  ogImage = 'https://www.24high.com/images/layout/logo.png',
+  canonical = '',
+} = Astro.props;
+---
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta name="author" content="24High" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:type" content="website" />
+{canonical && <link rel="canonical" href={canonical} />}
+<link rel="alternate" hreflang="en" href="https://www.24high.com/en/" />
+<link rel="alternate" hreflang="nl" href="https://www.24high.nl/" />
+<link rel="alternate" hreflang="fr" href="https://www.24high.fr/" />
+<link rel="alternate" hreflang="de" href="https://www.24high.de/" />
+<link rel="alternate" hreflang="es" href="https://www.24high.es/" />
+<link rel="alternate" hreflang="it" href="https://www.24high.it/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+<link rel="stylesheet" href="/css/site.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+<script defer src="https://kit.fontawesome.com/7f43e329c7.js" crossorigin="anonymous"></script>

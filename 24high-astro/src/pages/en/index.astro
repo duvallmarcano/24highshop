@@ -1,0 +1,26 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const lang = 'en';
+const blogs = await getCollection('blog-en');
+const articles = await getCollection('article-en');
+---
+<Layout title="24High - Your Smartshop" lang={lang}>
+  <div style="padding: 20px; text-align: left;">
+    <h1>Welcome to 24High (EN)</h1>
+    <p>Your one-stop shop for magic mushrooms, cannabis edibles and more.</p>
+    <h2>Latest Blog Posts ({blogs.length})</h2>
+    <ul>
+      {blogs.slice(0, 10).map(post => (
+        <li><a href={`/en/blog/${post.slug}`}>{post.data.title}</a></li>
+      ))}
+    </ul>
+    <h2>Products ({articles.length})</h2>
+    <ul>
+      {articles.slice(0, 10).map(article => (
+        <li><a href={`/en/article/${article.slug}`}>{article.data.title}</a></li>
+      ))}
+    </ul>
+  </div>
+</Layout>

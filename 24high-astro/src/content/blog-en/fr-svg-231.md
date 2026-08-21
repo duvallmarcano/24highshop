@@ -1,0 +1,156 @@
+---
+title: "Test the psilocibina: determine the potency of sets or magicians in tan solo 30 minutes | 24High"
+description: "If you want to be sure how strong your magic mushrooms or truffles are, do a psilocybin test with this kit. Read more here!"
+---
+<div class="contentwrapper">
+<div class="wrapper">
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Test the psilocibina: determine the potency of sets or magicians in tan solo 30 minutes | 24High",
+        "image": "https://www.24high.com/images/image.php?n=308-1703406410.jpg&f=news&w=400&h=400",
+        "mainEntityOfPage": "https://www.24high.com/en/blog/308/psilocybin-test-how-much-psilocybin-does-a-magic-mushroom-contain",
+        "author": {
+            "@type": "Organization",
+            "name": "24High",
+            "url": "/authors/24High"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "24High",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.24high.com/images/layout/logo.png"
+            }
+        },
+        "datePublished": "2023-12-20",
+        "dateModified": "2026-02-10",
+        "description": "If you want to be sure how strong your magic mushrooms or truffles are, do a psilocybin test with this kit. Read more here!"
+    }
+</script>
+<script>
+    $(function() {
+        /*
+         $(".toggleFilters").click(function(e){
+         e.preventDefault();
+         $("#filters").toggleClass('mobile--sidebar');
+         });*/
+
+        $(".imagebox__thumbnail").click(function(e) {
+            e.preventDefault();
+            console.log();
+            $(".imagebox__mainimage").attr("src", $(this).data("url"));
+        });
+    });
+</script>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id))
+            return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+    function shareUrl() {
+        const url = "https://www.24high.com/en/blog/308/psilocybin-test-how-much-psilocybin-does-a-magic-mushroom-contain";
+        const title = document.title; // Get the page title
+
+        if (navigator.share) { // Check if the Web Share API is supported
+            navigator.share({
+                    title: title,
+                    url: url
+                })
+                .then(() => console.log('Successful share'))
+                .catch((error) => console.error('Error sharing:', error));
+        } else {
+            // Fallback for browsers that don't support Web Share API
+            // 
+            // Create a temporary textarea to hold the URL
+            const tempInput = document.createElement('textarea');
+            tempInput.value = url;
+            document.body.appendChild(tempInput);
+
+            // Select and copy the text
+            tempInput.select();
+            document.execCommand('copy');
+
+            // Remove the temporary textarea
+            document.body.removeChild(tempInput);
+
+            new Notification("<i class='far fa-lg fa-share-nodes'></i>", "success");
+        }
+    }
+</script>
+<div class="content">
+<h1 class="h1 primary h1--line">PSILOCYBIN TEST: HOW MUCH PSILOCYBIN DOES A MAGIC MUSHROOM CONTAIN?</h1>
+<div class="fx">
+<div class="fx__i">Last updated on: 10 February 2026</div>
+<div class="text-right" style="padding: 0 10px; min-width: 165px;">
+<div class="fb-share-button" data-href="https://www.24high.com/en/blog/308/psilocybin-test-how-much-psilocybin-does-a-magic-mushroom-contain" data-layout="button">
+</div>
+            |
+            <a href="https://twitter.com/intent/tweet?url=https://www.24high.com/en/blog/308/psilocybin-test-how-much-psilocybin-does-a-magic-mushroom-contain&amp;text=PSILOCYBIN TEST: HOW MUCH PSILOCYBIN DOES A MAGIC MUSHROOM CONTAIN?" target="_blank">
+<svg aria-hidden="true" class="svg-inline--fa fa-x-twitter fa-lg fa-fw" data-fa-i2svg="" data-icon="x-twitter" data-prefix="fab" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" fill="currentColor"></path>
+</svg>
+</a>
+            |
+            <a href="it.svg.html#" onclick="shareUrl(); return false;">
+<i class="far fa-lg fa-share-nodes"></i>
+</a>
+</div>
+</div>
+<p class="text-center"><img alt="PSILOCYBIN TEST: HOW MUCH PSILOCYBIN DOES A MAGIC MUSHROOM CONTAIN?" height="333" src="../../../../../../images/image.php@n=308-1703406410.jpg&amp;f=news&amp;w=500&amp;h=500" style="width: 500px; max-width: 100%; max-height: 500px; height: auto;" width="500"/></p><div style="padding: 0 10px;"><p>Want to know exactly how strong your bought or grown <span style="color: #1621d2;"><a href="../../../../../mushrooms.html" style="color: #1621d2; text-decoration: underline;">mushrooms</a></span> or <span style="color: #1621d2;"><a href="../../../../../mushrooms/16-magic-truffles.html" style="color: #1621d2; text-decoration: underline;">truffles</a></span> are? That's smart! Mushrooms in particular can vary considerably in strength: one harvest can be 10 times stronger than another. This strength is determined by the <span style="color: #1621d2;"><a href="../../../../194/how-much-psilocybin-does-a-fresh-or-dried-truffle-or-magic-mushroom-contain.html" style="color: #1621d2; text-decoration: underline;">amount of psilocybin</a></span> your trip medicine contains. With your naked eye, you can't see how much it is. With the Psilo-Q-test, you can be on the safe side. It shows you how potent the magic mushrooms or truffles are in your hands. And the best part is: it only takes 30 minutes. Read how to use this psilocybin test kit here.<br/><br/></p>
+<h2>Why test your trip drugs for psilocybin?</h2>
+<p>Psilocybin is the substance in trip drugs like magic mushrooms and truffles that cause psychedelic experiences, such as visuals. You may now be thinking, "I have always tripped without testing my magic mushrooms, and it always went well - so why should I use a psilocybin testing kit?".</p>
+<p>The numbers here speak for themselves:</p>
+<ul>
+<li><span style="color: #1621d2;"><a href="https://pubmed.ncbi.nlm.nih.gov/22887928/" style="color: #1621d2; text-decoration: underline;">This study</a></span> has shown that in dried mushrooms, psilocybin levels vary between 0.2% and 2%. In other words, one mushroom can be 10 times stronger than another.</li>
+<li>Mushrooms and truffles are much stronger in dried form than in fresh form because they contain less moisture. But sometimes you have a mushroom that is just a bit drier than the other - so then it might just be twice as strong as you thought. Also, the stems of the mushroom may have a different psilocybin content than the tops.</li>
+<li>Since fresh truffles contain less moisture than dried ones, the differences in psilocybin content between them are less than with magic mushrooms. But still, truffles can be three times stronger than their counterparts. And that is exactly the difference between a light trip and a very intense trip...</li>
+</ul>
+<p>Want to read more about determining the right dose of magic mushrooms or truffles? Then read <span style="color: #1621d2;"><a href="../../../../247/what-is-the-right-dose-of-magic-mushrooms-or-truffles.html" style="color: #1621d2; text-decoration: underline;">this article</a></span>.</p>
+<h3>The benefits of the Psilo-Qtest</h3>
+<ul>
+<li>The <span style="text-decoration: underline; color: #1621d2;"><a href="../../../../../article/3209168-psilo-qtest-psilocybin-test-for-truffles-shrooms-miraculix.html" style="color: #1621d2; text-decoration: underline;">Psilo-Qtest</a></span> allows you to test your trip substances very accurately. To be precise: the results of your psilocybin test kit never deviate more than 10% from those of professional, expensive laboratory tests.</li>
+<li>Within 30 minutes, you will have the test results in your hands.</li>
+<li>You only need 150 mg of material to get an accurate test result.</li>
+<li>The test can simply be thrown in the rubbish.<br/><br/></li>
+</ul>
+<p><img alt="magicmushrooms" src="../../../../../files/index.html@id=1909.jpg&amp;file=magicmushroom.jpg" style="width: 1100px; max-width: 100%;"><br/><br/></img></p>
+<h2>How do you use the psilocybin test kit for magic mushrooms and truffles?</h2>
+<p>With this test kit, you simply follow the four steps. By the way, the kit comes with a manual, which takes you through the process step by step.</p>
+<h3>Step 1: Preparation</h3>
+<p>Wear suitable clothing, including the protective gloves provided. The environment should be clean and sterile - so make sure you have an empty countertop or tidy dining table. Take about 150 mg of the material you want to test. Weigh this with a <span style="text-decoration: underline; color: #1621d2;"><a href="../../../../../headshop/13-weed-scale.html" style="color: #1621d2; text-decoration: underline;">scale</a></span>, or guess with your naked eye. Grind it into a powder. Bring a litre of water to the boil and let it cool until it is no longer very hot.</p>
+<h3>Step 2: Extraction</h3>
+<p>Put the material into the extraction vessel. Shake briefly and set it aside for 10 minutes. Repeat two more times. Now attach the sterile filter to the syringe and use it to suck 1 ml of liquid from the extraction vessel. Place the cannula on the syringe. Pierce the glass vial with the blunt needle and squirt everything from the syringe into it.</p>
+<h3>Step 3: Detection</h3>
+<p>Now place the bottle with the detection solution in warm water. You will see that the solution in the bottle changes colour. Wait for another 15 minutes. After this, you will see the result.</p>
+<h3>Step 4: Results</h3>
+<p>Use the evaluation scale in the manual provided to determine the strength of your trip drugs.<br/><br/></p>
+<p><img alt="tripping on acid" src="../../../../../files/index.html@id=1908.jpg&amp;file=-mushrooms-.jpg" style="width: 1100px; max-width: 100%;"/></p>
+<h2>This is what's in the Psilo-QTest psilocybin test kit</h2>
+<p>The psilocybin test kit contains everything you need to test your harvested or bought magic mushrooms and truffles:</p>
+<ul>
+<li>safety gloves to work with sterile hands</li>
+<li>blunt cannula</li>
+<li>star filter for extraction</li>
+<li>1 ml syringe</li>
+<li>extraction container</li>
+<li>glass vessel with detection solution</li>
+<li>instructions<br/><br/></li>
+</ul>
+<h2>Grow and test magic mushrooms or truffles yourself?</h2>
+<p>Would you like to grow your own magic mushrooms and truffles? Then, in addition to the psilocybin test kit, get yourself a handy <span style="color: #1621d2;"><a href="../../../../../mushrooms/203-fresh-mushrooms-growkits.html" style="color: #1621d2; text-decoration: underline;">grow kit</a></span> and optionally more growing equipment. With a grow kit, you can easily grow your own favourite strains at home. Take a look at our collection of test kits, follow the instructions and wait patiently until you can harvest. Then submit your harvest to a psilocybin test, and you are ready for a trip. <span style="color: #1621d2;"><a href="../../../../../mushrooms/189-microdosing.html" style="color: #1621d2; text-decoration: underline;">Microdosing</a></span> is also excellent when you know exactly how much psilocybin your tubers and mushrooms contain.</p>
+<h3>Also test your cannabis and LSD</h3>
+<p>Our range of test kits includes two more handy products: a test for your <span style="color: #1621d2;"><a href="../../../../../article/3209872-thc-cbd-qtest-cannabis-test-miraculix.html" style="color: #1621d2; text-decoration: underline;">cannabis</a></span> and for <span style="text-decoration: underline; color: #1621d2;"><a href="../../../../../article/3209311-lsd-qtest-drug-test-for-lsd-miraculix.html" style="color: #1621d2; text-decoration: underline;">LSD</a></span>. Ideal for the conscious home grower and tripper!</p></div></div>
+<div class="clear"></div>
+</div>
+</div>
