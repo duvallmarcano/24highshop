@@ -4,7 +4,7 @@ description: "How do you grow weed outdoors? Techniques and explanations PH and 
 heroImage: "/images/news/43-1595069232-400x300.webp"
 publishedAt: "2020-07-14"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>As mentioned in the title above, the advice that I would like to give everyone is that you should first read as much about cannabis and growing it as possible before starting to grow yourself. Fortunately, you are already making a good start by reading this blog. Try to get even more information about Cannabis in <a href="/en/product/1205658-the-cannabis-grow-bible">books</a>, on the internet, forums and even videos. Cannabis is a very beautiful plant (species) and, as mentioned above, the cousin (s) of the nettle. Cannabis is a one year old plant also called "seasons" plant. Under the right conditions, Cannabis can germinate, grow and flower very quickly. An average cannabis plant has a life span of more or less 3-9 months. However, Cannabis can live for years when it's kept in growth under the right conditions. So it is only when the plant starts to bloom that it prepares for the (arrival of) autumn and would die shortly afterwards.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Did you know that Kratom can help control diabetes, increase energ
 heroImage: "/images/news/147-1649329505-400x300.webp"
 publishedAt: "2022-03-30"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In the search for a healthier life, you might find yourself with so many herbal supplements or medicine choices to include in your diet. You may need to try more than one type of supplement to determine an effective one with minor side effects.</p>

@@ -4,7 +4,7 @@ description: "Anyone who has been to Thailand recently will have noticed somethi
 heroImage: "/images/news/288-1696419099-400x300.webp"
 publishedAt: "2023-10-02"
 updatedAt: "2023-10-04"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Anyone who has been to Thailand recently will have noticed something: the prominence of <a href="/en/">cannabis</a> on the streets. And that is unique for a country in Asia, where an active fondness for cannabis usually gets you a fat jail sentence. Now, cannabis is <a href="/en/">legal in few countries</a>, but Southeast Asia in particular punishes use and possession severely. Malaysians, for instance, can expect a series of canings and life-long drug tests if caught smoking cannabis. In Thailand, too, the law made cannabis use a pretty illegal activity. Until the summer of 2022. That's when cannabis was suddenly legalised. And that's quite a turnaround, considering how harsh the penalties were. What motivated the Thai government to suddenly change the law and legalise cannabis? And will they change their minds yet? Read all about this unexpected move by the government and how future-proof the law change seems.<br/><br/></p>

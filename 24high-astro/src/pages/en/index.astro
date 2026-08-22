@@ -6,7 +6,7 @@ import PostCard from '../../components/blog/PostCard.astro';
 import Button from '../../components/ui/Button.astro';
 import Icon from '../../components/ui/Icon.astro';
 import FAQ from '../../components/seo/FAQ.astro';
-import { SHOPS, SITE, TOTAL_PRODUCTS } from '../../data/site';
+import { SHOPS, SITE, TOTAL_PRODUCTS, TOP_SELLER_KEYS, SHOP_BY_ID, type ShopId } from '../../data/site';
 import { GLOBAL_FAQ } from '../../data/faq';
 import { firstImage } from '../../lib/images';
 
@@ -15,9 +15,25 @@ const posts = (await getCollection('blog')).sort(
   (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
 );
 
-const sellable = products.filter((p) => p.data.inStock && p.data.images.length);
-const featured = sellable.filter((p) => p.data.shop === 'mushrooms').slice(0, 8);
-const hero = featured[0];
+// Only the shop's own best-seller lists appear on the homepage. These are
+// real curated categories in the catalogue, not a ranking we invented — there
+// is no sales or ratings feed to rank by.
+const bestSellers = products
+  .filter(
+    (p) =>
+      p.data.inStock &&
+      p.data.images.length &&
+      TOP_SELLER_KEYS.has(`${p.data.shop}/${p.data.category}`)
+  )
+  .sort((a, b) => (b.data.price ?? 0) - (a.data.price ?? 0));
+
+// group them so each shop's list reads as its own top ten
+const byShop = [...new Set(bestSellers.map((p) => p.data.shop))].map((id) => ({
+  shop: SHOP_BY_ID.get(id as ShopId)!,
+  items: bestSellers.filter((p) => p.data.shop === id),
+}));
+
+const hero = bestSellers[0];
 const latest = posts.slice(0, 3);
 
 // The order story, told as three real steps rather than marketing beats.
@@ -26,7 +42,7 @@ const steps = [
     n: '01',
     icon: 'clock' as const,
     title: 'You order by 16:00',
-    body: 'Pay with TWINT, PostFinance, card or invoice. Nothing about the checkout names what you bought.',
+    body: 'Pay in Bitcoin or by bank transfer. Minimum order €200 — mix anything to reach it. Nothing about the payment names what you bought.',
   },
   {
     n: '02',
@@ -77,7 +93,7 @@ const steps = [
               fetchpriority="high"
             />
             <span class="hero__tag">
-              <span class="eyebrow">In stock now</span>
+              <span class="eyebrow">Best seller &middot; in stock</span>
               <strong>{hero.data.title}</strong>
             </span>
           </a>
@@ -174,16 +190,30 @@ const steps = [
     </div>
   </section>
 
-  <!-- ── products ─────────────────────────────────────────────────────── -->
+  <!-- ── best sellers ─────────────────────────────────────────────────── -->
   <section class="container band">
-    <header class="band__head band__head--row">
-      <div>
-        <h2>Mushrooms &amp; mycology</h2>
-        <p>Grow kits, liquid cultures, spores and the medicinal species.</p>
-      </div>
-      <a class="band__link" href="/en/shop/mushrooms">All mushrooms</a>
+    <header class="band__head">
+      <h2>What actually sells</h2>
+      <p>
+        {bestSellers.length} products, taken straight from our own top-ten lists rather
+        than an algorithm's guess. Everything here is in stock today.
+      </p>
     </header>
-    <ProductGrid products={featured} eagerCount={0} />
+
+    {
+      byShop.map(({ shop, items }) => (
+        <div class="tops" data-shop={shop.id}>
+          <div class="tops__head">
+            <span class="tops__icon"><Icon name={shop.icon} size={20} /></span>
+            <h3>Top {shop.label}</h3>
+            <a href={shop.href}>
+              All {shop.total} <Icon name="arrow-right" size={13} />
+            </a>
+          </div>
+          <ProductGrid products={items} eagerCount={0} />
+        </div>
+      ))
+    }
   </section>
 
   <!-- ── guides ───────────────────────────────────────────────────────── -->
@@ -202,7 +232,7 @@ const steps = [
 
   <!-- ── faq (answer engines) ─────────────────────────────────────────── -->
   <section class="container band">
-    <FAQ items={GLOBAL_FAQ} title="Ordering from 24High" />
+    <FAQ items={GLOBAL_FAQ} title="Ordering from 24highshop" />
   </section>
 </BaseLayout>
 
@@ -479,6 +509,38 @@ const steps = [
   }
 
   .why__body p + p { margin-block-start: 1.1rem; }
+
+  /* ── best sellers ── */
+  .tops + .tops { margin-block-start: 2.8rem; }
+
+  .tops__head {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    margin-block-end: 1rem;
+    padding-block-end: 0.7rem;
+    border-block-end: 2px solid var(--accent);
+  }
+
+  .tops__icon { color: var(--accent); }
+
+  .tops__head h3 {
+    flex: 1;
+    font-size: var(--step-1);
+  }
+
+  .tops__head a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    text-decoration: none;
+    white-space: nowrap;
+  }
 
   /* ── posts ── */
   .posts {

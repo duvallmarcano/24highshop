@@ -4,7 +4,7 @@ description: "More and more people are discovering the power of cannabis edibles
 heroImage: "/images/news/46-1598380172-400x300.webp"
 publishedAt: "2020-08-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>More and more people are discovering the power of cannabis edibles. These edibles include all food and drink that contains cannabis or hemp. Cannabis has been used for thousands of years, but is best known for its psychoactive effect. And yet the cannabis plant has a lot more to offer without getting you high. Our cannabis edibles do not contain <a href="/en/">THC</a>. Enjoy all the health benefits of the cannabis plant safely and with a good feeling<br/><br/></p>

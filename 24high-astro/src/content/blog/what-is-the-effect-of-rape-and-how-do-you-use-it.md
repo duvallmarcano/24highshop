@@ -4,7 +4,7 @@ description: "What is Rapé, how do you use it and what are the effects? Explana
 heroImage: "/images/news/114-1638824872-400x300.webp"
 publishedAt: "2021-12-06"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Rapé is also called the sacred tobacco of the jungle. People mainly know the tobacco as Rapeeh, but officially you pronounce it as ha-peej. It is a composite of various plants that grow in the Amazon region, with Nicotiana Rustica as the main ingredient. rapé is generally known as a way to cleanse your body and mind, and not as a stimulant. An interesting natural product! In this article we tell you what Rapé exactly, what the effects are, a bit of origin and of course how to use it.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "How do you grow magic mushrooms with your own grow kit? And what e
 heroImage: "/images/news/122-1641302090-400x300.webp"
 publishedAt: "2022-01-04"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The sale of magic mushrooms has been banned since 2008. Would you still like to trip on the magical psilocybin substance? Then you can buy truffles or grow your own magic mushrooms! Growing magic mushrooms yourself is completely legal. Growing magic mushrooms may sound like a job for a real gardener, but nothing could be further from the truth. You can make it as difficult as you want. In this article we explain what a grow kit is and emphasize how simple it is to grow and harvest your own magic mushrooms!<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Mushroom spores are much more fascinating than you might say at fi
 heroImage: "/images/news/200-1669468454-400x300.webp"
 publishedAt: "2022-11-24"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Underneath the mushroom are spores - also called the seeds of a mushroom. They are the reproductive cells from which fungi multiply and grow. On healthy mushrooms, they occur in huge populations. And these mushroom spores are far more fascinating than you might say at first glance. For instance, they act as the fingerprint of a mushroom and can reproduce with their spores. What exactly are mushroom spores and what you can do with them? You can find out in this article.<br/><br/></p>

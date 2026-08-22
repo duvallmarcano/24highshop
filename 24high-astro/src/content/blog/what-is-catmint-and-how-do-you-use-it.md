@@ -4,7 +4,7 @@ description: "Catmint: does this catnip work just as strongly on humans? Read th
 heroImage: "/images/news/229-1678283083-400x300.webp"
 publishedAt: "2023-03-06"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Catmint, also known as catnip for humans, can be found among our <a href="/en/shop/smartshop/relaxation">relaxing products</a> and <a href="/en/shop/smartshop/hallucinating-herbs">hallucinogenic herbs</a>. If you have a cat yourself, you have probably envied how happy it got from a serving of catmint. But did you know that even you as a human can get high from this plant's brother? No reason for jealousy, then; next time, trip and chill with your fluffy housemate! Read all about catmint here. What exactly are the effects you can expect? And how exactly do you use it?<br/><br/></p>

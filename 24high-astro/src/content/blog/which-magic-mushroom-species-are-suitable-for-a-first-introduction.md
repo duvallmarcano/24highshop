@@ -4,7 +4,7 @@ description: "Do you want to know which mushroom species have a mild effect? Wou
 heroImage: "/images/news/134-1645203226-400x300.webp"
 publishedAt: "2022-02-14"
 updatedAt: "2025-03-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>It's great that you want to get acquainted with magic mushrooms! As you may have seen on our website, we have a lot of different types of magic mushrooms. That's why, especially for you, in this blog our advice for a <a href="/en/">first acquaintance!</a></p>

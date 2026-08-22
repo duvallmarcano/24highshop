@@ -4,7 +4,7 @@ description: "Chacruna is a well-known shrub that grows in the Amazon jungle, ma
 heroImage: "/images/news/199-1669219515-400x300.webp"
 publishedAt: "2022-11-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The Chacruna is a well-known plant from the Amazon region. Not because the plant looks so beautiful, but mainly for its psychedelic effects. The leaves of the plant - also known as Psychotria Viridis - are used to make the well-known drink Ayahuasca. How exactly to use Chacruna and what the effects are? You can find out in this article.<br/><br/></p>

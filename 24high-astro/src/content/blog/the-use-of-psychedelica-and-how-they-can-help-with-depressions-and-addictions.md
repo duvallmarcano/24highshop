@@ -4,7 +4,7 @@ description: "More and more studies done by doctors show that psychedelics have 
 heroImage: "/images/news/47-1598901758-400x300.webp"
 publishedAt: "2020-08-26"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>After my last blogs about (growing) cannabis and CBD, this time we are going on the psychedelic tour. Let's take a look at the world of psychedelics and also consider the use of these psychedelics for medical purposes, such as depression relief and the help they can provide for many addictions. First of all, I would like to emphasize that the use of psychedelics is always at your own risk and that I do not want to encourage anyone to use psychedelics or any other substances. However, I believe that those who choose to do this should be properly informed and get to know the many benefits as well as the risks in order to make their own well-considered decision. If you are using or want to use psychedelics for the first time, this is a comprehensive explanation of what psychedelics are and what their effects are, especially the medical and therapeutic effects of psychedelics. Psychedelics are used recreationally or "relaxing" as well as medicinally and therapeutically. There are many people who can benefit from the use of psychedelics. I will explain all of you in this blog how, why or to whom this applies in particular. Let's start with exactly what we mean by psychedelics and also briefly discuss the history of these psychedelics.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Have you been sleeping badly? Fortunately, there are several thing
 heroImage: "/images/news/358-1719737846-400x300.webp"
 publishedAt: "2024-05-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>There is nothing more annoying than getting out of bed in the morning and realising that you feel more tired than the night before because you slept badly. You wonder how to get through the day. Both physically and mentally, you usually cannot perform well when you have slept badly. Fortunately, there are several things you can do to boost your energy. In this blog, we give you 6 tips!</p>

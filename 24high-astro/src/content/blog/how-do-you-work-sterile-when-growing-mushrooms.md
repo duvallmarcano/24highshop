@@ -4,7 +4,7 @@ description: "Anyone can grow their own magic mushrooms at home with a grow kit,
 heroImage: "/images/news/167-1657106204-400x300.webp"
 publishedAt: "2022-07-05"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Growing mushrooms with a grow kit is really easy and also a lot of fun to do. But it is possible that things can go wrong if your kit becomes contaminated with bacteria or fungi. It is therefore important to always work hygienically. This is especially true if you want to make a spore print yourself. When you get started with <a href="/en/shop/mushrooms/growkits-mushroom">growing magic mushrooms</a> it is useful to learn the basics of sterile working to master. You can read all about it in this blog.<br/><br/></p>

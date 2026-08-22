@@ -4,7 +4,7 @@ description: "Grow your own psychedelic truffles with a grow kit? Read how here.
 heroImage: "/images/news/242-1682235205-400x300.webp"
 publishedAt: "2023-04-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Many people know you can grow your own mushrooms with a magic mushroom grow kit, but did you know you can also grow your own magic truffles? It's a great way to save money and still get a nice, high-quality end product. In this article, we'll tell you all about growing your own truffles with one of our truffle grow kits.<br/><br/></p>

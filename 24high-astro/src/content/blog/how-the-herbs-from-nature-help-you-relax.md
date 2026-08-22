@@ -4,7 +4,7 @@ description: "Many people think that only cannabis can relax you. This is not th
 heroImage: "/images/news/59-1606834584-400x300.webp"
 publishedAt: "2020-12-01"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Relaxation is something to cherish these days. Unfortunately today's society sometimes makes us feel living under constant pressure, because of work, care for family, money matters, in short, we have and need to perform every day. When there is time to relax, we often fail because of the worries that are difficult to ignore. In this case it can be useful to let herbs from nature lend a hand. Nature is bursting with herbs that can help you unwind faster. Why should you not take advantage of that?<br/><br/></p>

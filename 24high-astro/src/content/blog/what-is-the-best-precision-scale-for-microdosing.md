@@ -4,7 +4,7 @@ description: "In this article, we tell you all about the best precision scale fo
 heroImage: "/images/news/243-1682505103-400x300.webp"
 publishedAt: "2023-04-24"
 updatedAt: "2026-07-08"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Microdosing is all about precision. Whether you microdose with truffles or dried magic mushrooms, even a small difference in weight can affect your experience. That's why an accurate precision scale is one of the most important tools for anyone who wants to microdose responsibly.</p>

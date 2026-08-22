@@ -4,7 +4,7 @@ description: "DMT is a mega potent trip drug that can just be found in nature. F
 heroImage: "/images/news/262-1688398802-400x300.webp"
 publishedAt: "2023-07-03"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>DMT is considered the strongest trip drug by most psychonauts. Although it gives you a short trip of about 20 minutes, it can be incredibly intense and life-changing. DMT is a natural substance found in our bodies in very small quantities. But where does the stuff you use to trip come from? Fortunately, it is not extracted from humans, but simply from nature. Find out which plants and herbs contain DMT here. You might be surprised to know that some of them just grow in our country!<br/><br/></p>

@@ -4,7 +4,7 @@ description: "What effects does the plant damiana have and exactly how healthy i
 heroImage: "/images/news/317-1706467125-400x300.webp"
 publishedAt: "2024-01-18"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Damiana is a plant traditionally used for various purposes. The main one: improving your sex drive and bed performance. Literally a potent plant! Besides boosting your libido, it is said to reduce anxiety and stress, calm your stomach and stomach and can give a slight high. Read here which of these claims about damiana are proven effects.<br/><br/></p>

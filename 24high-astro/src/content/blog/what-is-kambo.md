@@ -4,7 +4,7 @@ description: "Ever heard of kambo? This traditional medicine comes from deep in 
 heroImage: "/images/news/287-1696147162-400x300.webp"
 publishedAt: "2023-09-18"
 updatedAt: "2024-04-18"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Ever heard of kambo? This traditional medicine comes from deep in the Amazon jungle and has long been used there by locals. What makes kambo unique is that it comes from a frog! This special little animal secretes a substance from its glands, and you can give your body and consciousness a big whack with that. Don't ask us how the locals ever found out about it... But we can tell you all about why and how people use kambo. Read here what kambo is, what effects it has and which people can benefit from it.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Chemsex is sex on hard drugs. But you can also use psychedelics fo
 heroImage: "/images/news/338-1712997633-400x300.webp"
 publishedAt: "2024-04-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Almost everyone who has ever had sex or drugs will have combined the two at one time or another. Officially, you are having chem sex at such a time: sex under the influence of substances. In the chemsex scene, these are usually heavy narcotics and stimulants made in drug labs. This way, you can go on for hours; having a good time all the way through, with or without a bunch of total strangers. But you can also have chemsex under the influence of psychedelics, cosy with just the two of you. Does that sound more appealing to you? Then read on quickly. Below, we dive into the world of psychedelic 'party and play': sex under the influence of psychedelics.<br/><br/></p>

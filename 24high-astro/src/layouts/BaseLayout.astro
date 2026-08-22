@@ -4,6 +4,7 @@ import Header from '../components/layout/Header.astro';
 import Footer from '../components/layout/Footer.astro';
 import IconSprite from '../components/ui/IconSprite.astro';
 import AgeGate from '../components/layout/AgeGate.astro';
+import CurrencySwitcher from '../components/layout/CurrencySwitcher.astro';
 import { organizationSchema, websiteSchema } from '../lib/seo';
 import { useTranslations } from '../i18n/ui';
 import '../styles/global.css';
@@ -55,6 +56,8 @@ const graph = [organizationSchema(), websiteSchema(), ...schemas];
     </main>
 
     <Footer />
+
+    <CurrencySwitcher />
 
     <script>
       // Theme toggle. Meta.astro has already applied any stored choice before

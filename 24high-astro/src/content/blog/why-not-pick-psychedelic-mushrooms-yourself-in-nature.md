@@ -4,7 +4,7 @@ description: "Want to pick mushrooms by yourself in nature? It's not always a go
 heroImage: "/images/news/204-1670674356-400x300.webp"
 publishedAt: "2022-11-30"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Would you like to find your own mushrooms in nature? That's not always such a good idea. It can be dangerous because there are very many mushrooms growing in the wild that all look very similar. Misidentifying these fungi can turn out badly for you, as some are harmful to your health and in the worst case can sometimes lead to death. So adequate knowledge is essential!<br/><br/></p>

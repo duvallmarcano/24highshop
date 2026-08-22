@@ -4,7 +4,7 @@ description: "There are many benefits to using truffles - magic truffles that is
 heroImage: "/images/news/292-1697727155-400x300.webp"
 publishedAt: "2023-10-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Besides the world of magic mushrooms, you'll find all kinds of <a href="/en/shop/mushrooms/magic-truffles">magic truffles</a> in our webshop. With these, you can microdose, i.e. take small amounts, or go for a spiritual trip with a large portion. But why take magic truffles in the first place? What are the benefits of magic truffles, from microdoses to larger doses?<br/><br/></p>

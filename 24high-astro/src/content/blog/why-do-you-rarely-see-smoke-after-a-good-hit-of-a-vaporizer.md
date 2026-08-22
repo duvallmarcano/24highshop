@@ -4,7 +4,7 @@ description: "Do you want to know more about cannabis vaporizers? Then read our 
 heroImage: "/images/news/135-1645563682-400x300.webp"
 publishedAt: "2022-02-14"
 updatedAt: "2023-07-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>It is often thought that if a huge cloud of vapour doesn't come out of a vaporizer, the vaporizer is of poor quality. But nothing is less true. In this blog we tell you why it is good if a huge vapour cloud does not appear.<br/><br/></p>

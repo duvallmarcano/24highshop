@@ -4,7 +4,7 @@ description: "There are many types of cannabis, each with its own unique charact
 heroImage: "/images/news/276-1692796670-400x300.webp"
 publishedAt: "2023-08-23"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you want to start growing cannabis, you will no doubt come across the term cannabis strain. These are names like Pineapple Kush, Purple Haze and Blue Cheese. These are varieties of cannabis, strains that each have their own unique characteristics. In this blog, we explain exactly what <a href="/en/shop/seedshop/top10-seeds">strains</a> are and what you should know about them.<br/><br/></p>

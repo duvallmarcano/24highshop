@@ -4,7 +4,7 @@ description: "Is ashwagandha really harmful to your health? Read here whether th
 heroImage: "/images/news/340-1713718589-400x300.webp"
 publishedAt: "2024-04-18"
 updatedAt: "2024-04-21"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>You have no doubt caught on if you are into supplements and health: the uproar around <a href="/en/">ashwagandha</a>. A supplement that has been used traditionally for centuries and has now gained many fans in the West. Didn't hear about the riot? Or do you wonder how harmful ashwagandha is now? We'll bring you right up to date below.<br/><br/></p>

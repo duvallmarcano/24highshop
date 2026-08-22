@@ -4,7 +4,7 @@ description: "Which herbs promote my sleep? Check out our top 6, and before you 
 heroImage: "/images/news/216-1674226559-400x300.webp"
 publishedAt: "2023-01-19"
 updatedAt: "2025-06-12"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you a restless sleeper, having trouble falling asleep or simply sleeping poorly? There are different types of sleep herbs that can help your sleep. We discuss some soothing and relaxing herbs in this article that you can use, so you can get back to a great night's sleep soon!<br/><br/></p>

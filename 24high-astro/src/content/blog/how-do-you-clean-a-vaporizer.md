@@ -4,7 +4,7 @@ description: "Do you use a vaporizer, but have you not cleaned it before? Don't 
 heroImage: "/images/news/153-1650301172-400x300.webp"
 publishedAt: "2022-04-18"
 updatedAt: "2025-07-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Do you use a vaporizer but haven't cleaned it before? This can make your smoking experience not as pleasant as it was in the beginning. Whether you have a vaporizer for concentrates or dry herbs, or a vape pen, you should clean these devices regularly. Not only can you continue to enjoy optimal taste and smell, but your device will also last a lot longer. In this blog you can read why you should regularly clean your vaporizer, and how to do it.<br/><br/></p>

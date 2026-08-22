@@ -4,7 +4,7 @@ description: "Caffeine can cause stimulation and nervousness. Fortunately, there
 heroImage: "/images/news/315-1705497236-400x300.webp"
 publishedAt: "2024-01-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Coffee, energy drinks or heavier stimulants can provide you with a solid energy boost. Sometimes it is just a little too firm. The result: overstimulation and nervousness. Very inconvenient when you just need energy to get things done. Fortunately, there are several natural sedatives that can help. With these herbs and plants, you can restore your inner peace and calm your nerves.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "It is great fun to grow your own magic mushrooms, but if you want 
 heroImage: "/images/news/82-1623768481-400x300.webp"
 publishedAt: "2021-06-10"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>It is great fun to grow your own magic mushrooms, but if you want to store the mushrooms for a longer period, you have to dry them. If you don't, they will grow old and become moldy within a few days.  And if you have a good harvest, your magic mushrooms won't be used up within a week!</p>

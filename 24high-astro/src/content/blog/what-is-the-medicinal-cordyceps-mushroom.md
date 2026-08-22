@@ -4,7 +4,7 @@ description: "Are you already on Cordyceps, a miracle fungus in the form of a mu
 heroImage: "/images/news/244-1682709254-400x300.webp"
 publishedAt: "2023-04-26"
 updatedAt: "2025-03-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Cordyceps mushrooms are the latest craze, originating from traditional Eastern medicine. However, these <a href="/en/shop/mushrooms/medicinal-mushrooms">medicinal mushrooms</a> are not a trip drug for a change. They are also secretly not mushrooms, but are a fungus. Maybe you already use them yourself, or are curious thanks to advertisements or tips from others. Read everything you need to know about this powerful fungus here!<br/><br/></p>

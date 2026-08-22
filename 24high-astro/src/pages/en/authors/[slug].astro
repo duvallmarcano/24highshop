@@ -38,7 +38,7 @@ const crumbs = [
 
 <BaseLayout
   title={author.name}
-  description={author.bio[0] ?? `Guides written by ${author.name} for 24High.`}
+  description={author.bio[0] ?? `Guides written by ${author.name} for 24highshop.`}
   image={authorImage(author, 400)}
   schemas={[
     breadcrumbSchema(crumbs),
@@ -59,7 +59,7 @@ const crumbs = [
       )
     }
     <div>
-      <p class="eyebrow">Writer at 24High</p>
+      <p class="eyebrow">Writer at 24highshop</p>
       <h1>{author.name}</h1>
       <div class="bio__text">
         {author.bio.map((p) => <p>{p}</p>)}

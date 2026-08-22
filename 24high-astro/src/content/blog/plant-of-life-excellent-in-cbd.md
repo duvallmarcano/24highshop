@@ -4,7 +4,7 @@ description: "Plant of Life is a pioneer in developing and extracting CBD! Read 
 heroImage: "/images/news/24-1580422430-400x300.webp"
 publishedAt: "2020-01-19"
 updatedAt: "2024-02-27"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The company Plant of Life is one of the market leaders in CBD. In 2010 CBD was extracted from cannabis plants for the first time in Amsterdam by Plant of Life. Since then, the company has remained completely focused on creating <a href="/en/shop/cbdshop/cbd-vitamins">CBD</a>. And we Dutch have certainly played a role in this process again.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "What is cannabis microdosing? You can read all about it here in ou
 heroImage: "/images/news/78-1619520269-400x300.webp"
 publishedAt: "2021-04-23"
 updatedAt: "2024-03-03"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Smoking weed from time to time is a wonderful trip to higher realms. But cannabis use can also have certain health benefits. Sometimes you would like to take advantage of those benefits without getting high. And that is possible, namely by microdosing.</p>

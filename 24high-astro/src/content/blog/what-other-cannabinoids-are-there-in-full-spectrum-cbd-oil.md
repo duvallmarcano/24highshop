@@ -4,7 +4,7 @@ description: "Discover the power of a Full-Spectrum CBD oil!"
 heroImage: "/images/news/98-1634128356-400x300.webp"
 publishedAt: "2021-10-04"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>CBD (aka cannabidiol) is the most well-known cannabinoid in CBD oil, but it is certainly not the only one. CBD oil contains more than 110 cannabinoids, each of which has its own properties. By choosing a full spectrum product, you therefore not only consume CBD, but also all the other substances. The special thing about all active substances from the hemp plant is that they work together. This is called the entourage effect. For example, a full spectrum CBD can have an even greater positive effect on your health. In this blog we discuss which other cannabinoids are in CBD oil and what their influence is.<br/><br/></p>

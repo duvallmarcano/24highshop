@@ -4,7 +4,7 @@ description: "It is possible to smoke other herbs with your vaporizer. But which
 heroImage: "/images/news/61-1608281036-400x300.webp"
 publishedAt: "2020-12-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When vaping, most people think of the e-cigarette, but with a vaporizer you can also vaporize dry herbs. Not only can you then enjoy the effects of cannabis or passion flower, for example. It is also healthier, because no harmful gases are released, such as with smoking. The plants are not burned, but evaporated. Vaporizing therefore has <a href="/en/">several advantages</a> over smoking.<br/><br/></p>

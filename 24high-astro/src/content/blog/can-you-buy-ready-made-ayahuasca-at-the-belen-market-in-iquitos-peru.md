@@ -4,7 +4,7 @@ description: "During your Peru tour, be sure to visit the Belén market in Iquit
 heroImage: "/images/news/279-1693651828-400x300.webp"
 publishedAt: "2023-08-30"
 updatedAt: "2023-09-03"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Should you ever find yourself in Peru, be sure to visit the Belén market in Iquitos. This market actually has an entire section for psychonauts and shamans, also called Shaman's Alley. Here you can find all kinds of traditional herbs, plants and medicines used for spiritual purposes, healing rituals or simply a solid trip. One of the most famous and fascinating substances for sale at the Belén market in Iquitos is ready-made Ayahuasca: one of the strongest trip drugs under the sun. Not only can you just buy 'Aya' here, it is also spot on. If the various travel reports from trip enthusiasts who have visited the market are to be believed....<br/><br/>But what exactly is Ayahuasca, and how wise is it to buy it ready-made from a local market? Above all, read this article before you book a single ticket to Peru.<br/><br/></p>

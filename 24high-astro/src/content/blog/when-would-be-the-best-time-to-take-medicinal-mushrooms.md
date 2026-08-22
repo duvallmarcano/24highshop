@@ -4,7 +4,7 @@ description: "Medicinal remedies are numerous useful tools for physical and ment
 heroImage: "/images/news/342-1714304903-400x300.webp"
 publishedAt: "2024-04-26"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A common question people ask is when is the best time to take medicinal mushrooms on a normal day. Actually, it is not so important when you take a dose, more important is that you take <a href="/en/shop/mushrooms/medicinal-mushrooms">medicinal mushrooms</a> consistently and over a longer period of time. Still, there are certain unique effects of certain mushrooms that you can take into account. Therefore, in this blog, we explain the best time to take your dose.</p>

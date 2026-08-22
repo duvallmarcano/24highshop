@@ -4,7 +4,7 @@ description: "Weed butter, also known as cannabisbutter, is a butter infused wit
 heroImage: "/images/news/354-1718193270-400x300.webp"
 publishedAt: "2024-05-29"
 updatedAt: "2024-06-12"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Weed butter, also known as cannabisbutter, is a versatile and popular ingredient in the world of edibles (edible cannabis products). It is made by infusing cannabis in butter, which releases the psychoactive components such as THC and CBD and absorbs them into the fat. This process results in a butter that differs from regular butter in both taste and effect. cannabisbutter is often used in various recipes to make edible cannabis products or <a href="/en/shop/headshop/cannabis-edibles">cannabis food</a> that can be used both recreationally and medicinally.<br/><br/></p>

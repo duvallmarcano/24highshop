@@ -4,7 +4,7 @@ description: "These cannabis seeds have been selected because of their suitabili
 heroImage: "/images/news/37-1591372228-400x300.webp"
 publishedAt: "2020-06-01"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Hi, I'm Mike and this is my first grow report for 24High, and I would like to introduce myself. I am 25 years old, and I know a thing or two about outdoor growing. Weed is certainly not new to me, as I've been using cannabis for about 10 years for both medicinal reasons and its pleasurable effects. Since quite young, I have been interested in all things weed and have a large collection of cannabis stuff myself. I now mainly grow myself, because it is much cheaper. In addition, it yields completely naturally grown weed and I find it very interesting and fun to do.<br/><br/></p>

@@ -59,7 +59,7 @@ const crumbs = [
 
 // A direct-answer opening paragraph: what this category is, how many, from
 // what price, how fast it ships. Written to be quotable in one lift.
-const answer = `24High stocks ${products.length} ${category.label.toLowerCase()} ${
+const answer = `24highshop stocks ${products.length} ${category.label.toLowerCase()} ${
   fromCHF !== null ? `from CHF ${fromCHF.toFixed(2)}` : ''
 }, shipped from ${SITE.address.locality} in plain packaging. ${available} ${
   available === 1 ? 'is' : 'are'
@@ -75,7 +75,7 @@ const facts = [
   { label: 'Delivery', value: '1–2 working days in Switzerland' },
 ];
 
-const description = `${category.label} at 24High — ${products.length} products${
+const description = `${category.label} at 24highshop — ${products.length} products${
   fromCHF !== null ? ` from CHF ${fromCHF.toFixed(2)}` : ''
 }. Shipped discreetly from Zürich in 1–2 working days.`;
 ---

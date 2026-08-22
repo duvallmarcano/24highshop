@@ -4,7 +4,7 @@ description: "Had a bad trip and now wary of another experience? Use these tips 
 heroImage: "/images/news/263-1688399901-400x300.webp"
 publishedAt: "2023-07-03"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Have you ever experienced a bad trip and are now a bit hesitant to use psychedelics again? Quite understandable, because a bad trip can even be a bit traumatic. Especially if you didn't see it coming. But rest assured: you don't have to leave tripping completely. With these tips, you can pick up the threads of tripping after a bad trip.<br/><br/></p>

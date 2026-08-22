@@ -4,7 +4,7 @@ description: "Many cannabis enthusiasts are familiar with the phenomenon of mari
 heroImage: "/images/news/225-1677072066-400x300.webp"
 publishedAt: ""
 updatedAt: ""
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Many cannabis users are familiar with the phenomenon: that you get huge cravings for food when you have used cannabis. It's called the munchies. Some people don't mind it and can enjoy it. Others find it annoying. But why does <a href="/en/shop/seedshop/top10-seeds">cannabis</a> give you the munchies, and what can you do about it? Read on below, and you'll find out all about munchies from cannabis.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "What does 420 mean"
 heroImage: "/images/news/22-1572177718-400x300.webp"
 publishedAt: "2019-10-22"
 updatedAt: "2026-04-01"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>You are seeing the number <strong>420</strong> more and more often online and in the cannabis world. Think of terms such as  <em>420 friendly</em>, <em>420 time</em> or <em>420 blaze</em>. But what exactly does 420 mean, and where does this code come from?</p>

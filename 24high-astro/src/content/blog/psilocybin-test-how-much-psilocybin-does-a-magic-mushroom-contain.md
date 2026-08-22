@@ -4,7 +4,7 @@ description: "If you want to be sure how strong your magic mushrooms or truffles
 heroImage: "/images/news/308-1703406410-400x300.webp"
 publishedAt: "2023-12-20"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Want to know exactly how strong your bought or grown <a href="/en/">mushrooms</a> or <a href="/en/shop/mushrooms/magic-truffles">truffles</a> are? That's smart! Mushrooms in particular can vary considerably in strength: one harvest can be 10 times stronger than another. This strength is determined by the <a href="/en/">amount of psilocybin</a> your trip medicine contains. With your naked eye, you can't see how much it is. With the Psilo-Q-test, you can be on the safe side. It shows you how potent the magic mushrooms or truffles are in your hands. And the best part is: it only takes 30 minutes. Read how to use this psilocybin test kit here.<br/><br/></p>

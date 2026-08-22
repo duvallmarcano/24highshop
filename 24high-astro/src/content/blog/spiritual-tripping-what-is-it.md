@@ -4,7 +4,7 @@ description: "Looking for a truly spiritual experience while tripping? Read how 
 heroImage: "/images/news/271-1690817678-400x300.webp"
 publishedAt: "2023-07-23"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you take psychedelics, anything can happen. If you take more than a microdose, you will start experiencing different effects. In general, you can say that your perception of the world changes. Visually, for instance: from seeing more colours and patterns, to gnome colonies or your ancestors from another universe. Other senses, your mood, perception of time, mental and physical energy: it can all change. But what can also happen is that your trip becomes a spiritual experience that stays with you forever. Here we tell you all about spiritual tripping. What is it, and how do you reach this point that many trippers have as their ultimate goal?<br/><br/></p>

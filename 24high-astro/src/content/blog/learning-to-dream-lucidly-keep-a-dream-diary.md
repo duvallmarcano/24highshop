@@ -4,7 +4,7 @@ description: "Keeping a dream diary will help you track your dreams. In this art
 heroImage: "/images/news/295-1698841765-400x300.webp"
 publishedAt: "2023-10-30"
 updatedAt: "2023-11-01"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Want to control what you dream and make all your fantasies come true while you sleep? Keeping a dream diary will help you learn this skill called lucid dreaming. A dream diary helps you remember dreams and recognise them as such faster - the trick to lucid dreaming. Read here how exactly to keep such a diary and what all you need to consider if you want to direct your dreams from now on.</p>

@@ -58,7 +58,7 @@ def main():
     L = []
     add = L.append
 
-    add('# 24High')
+    add('# 24highshop')
     add('')
     # Swiss thousands separator is an apostrophe — applied to the number only
     total_ch = f'{total:,}'.replace(',', "\u2019")
@@ -70,12 +70,13 @@ def main():
     add('')
     add('## Key facts')
     add('')
-    add('- Legal name: 24High AG, Zürich, Switzerland')
-    add('- Currency: CHF (prices include 8.1% Swiss VAT); EUR shown for reference')
-    add('- Shipping: free within Switzerland over CHF 60, otherwise CHF 7.90; '
-        '1–2 working days domestically, 2–6 elsewhere in Europe')
+    add('- Legal name: 24highshop AG, Zürich, Switzerland')
+    add('- Currency: CHF or EUR, switchable on any page; both include 8.1% Swiss VAT')
+    add('- Minimum order: EUR 200 (about CHF 210), reachable with any mix of products')
+    add('- Shipping: included on every order; 1–2 working days within Switzerland, '
+        '2–6 elsewhere in Europe, always tracked')
     add('- Packaging: plain and unmarked, no branding or product name outside')
-    add('- Payment: TWINT, PostFinance, Visa, Mastercard, invoice')
+    add('- Payment: Bitcoin (on-chain, rate locked 15 minutes) and bank transfer (SEPA or Swiss IBAN). No cards.')
     add('- Returns: 14 days on unopened items; perishables and opened consumables excluded')
     add('- Age policy: strictly 18+')
     add('- Legal note: cannabis below 1% THC is lawful in Switzerland. Psilocybin is '
@@ -120,7 +121,7 @@ def main():
     add('## About and policies')
     add('')
     for label, path in [
-        ('About 24High', '/en/about'),
+        ('About 24highshop', '/en/about'),
         ('Editorial standards', '/en/editorial-policy'),
         ('Our writers', '/en/authors'),
         ('Shipping and returns', '/en/shipping'),

@@ -4,7 +4,7 @@ description: "Pure, raw cocoa has been used in ceremonial contexts for centuries
 heroImage: "/images/news/349-1716714631-400x300.webp"
 publishedAt: "2024-05-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Cocoa has been used in ceremonial contexts for centuries. Local cultures in the Americas have used it for spiritual and personal purposes for centuries. This is (unfortunately for chocolate lovers) not a sweet candy fest, as you are consuming pure and raw cacao. This is not nearly as tasty as a processed chocolate bar, but many times healthier. It also has spiritual effects. <a href="/en/shop/smartshop/ceremonial-cacao">Ceremonial cocoa</a>, for instance, is said to put you in touch with your true self. But above all, a cocoa ceremony is meant to be done in groups. You can travel to shamans living deep in the jungle for this, but you can also do ceremonial cocoa yourself. Read all about this magical drink here.<br/><br/></p>

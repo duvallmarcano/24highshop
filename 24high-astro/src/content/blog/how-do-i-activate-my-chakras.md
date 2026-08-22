@@ -4,7 +4,7 @@ description: "Activating your chakras: this is how to activate these energy poin
 heroImage: "/images/news/223-1676471764-400x300.webp"
 publishedAt: "2023-02-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The word chakra means 'wheel' in Sanskrit. These so-called energy points have had a central place in Eastern religions such as Hinduism for many centuries. But you also come across them in the world of <a href="/en/">yoga</a>. It is thought that the seven different chakras play an important role in your mental and physical well-being. Unfortunately, they are not always in balance, which is thought to cause symptoms such as depression and fatigue. Regularly, one or more is overactive, or just needs extra stimulation. Therefore, by properly stimulating and balancing your chakras, you would experience more peace and overall well-being. But how do you do that, activate a chakra? In this article, we explain.<br/><br/></p>

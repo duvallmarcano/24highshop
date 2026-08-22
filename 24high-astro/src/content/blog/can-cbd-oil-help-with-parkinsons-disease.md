@@ -4,7 +4,7 @@ description: "CBD oil can support dopamine production in Parkinson's patients, r
 heroImage: "/images/news/237-1680695541-400x300.webp"
 publishedAt: "2023-04-02"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <h2>Parkinson's Disease and CBD Oil</h2>

@@ -4,7 +4,7 @@ description: "Taking a trip with psychedelics is a unique experience that allows
 heroImage: "/images/news/159-1653742416-400x300.webp"
 publishedAt: "2022-05-25"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Tripping is a unique experience that allows you to go on an inner adventure. Of course, you already take into account the place where you do it: you ensure good friends around you and also safety. You can enhance or deepen the experience by looking for the best places to trip. You can choose to find a beautiful, quiet place in nature or go to a frenzied dance party. If you are looking for the best places to trip, check out our suggestions below.<br/><br/></p>

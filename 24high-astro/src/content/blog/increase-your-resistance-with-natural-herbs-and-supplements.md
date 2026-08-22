@@ -4,7 +4,7 @@ description: "Read how you can naturally support your immunity with herbs and su
 heroImage: "/images/news/84-1624873330-400x300.webp"
 publishedAt: "2021-06-25"
 updatedAt: "2025-06-23"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A properly functioning immune system is essential for maintaining overall health. The immune system consists of a complex network of cells, tissues, and organs that work together to protect the body against potential pathogens such as viruses, bacteria, parasites, and fungi. It also plays a role in eliminating foreign substances from the body.</p>

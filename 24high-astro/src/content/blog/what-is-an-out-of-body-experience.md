@@ -4,7 +4,7 @@ description: "What is an Out-Of-Body experience? How does it arise and what rela
 heroImage: "/images/news/129-1643825542-400x300.webp"
 publishedAt: "2022-01-31"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Actually, the name says it all, an out-of-body experience (abbreviated OBE) is an experience in which body and mind come apart. A fascinating and astonishing phenomenon that can evoke various emotions. From frightening to liberating and enlightening. An OBE can occur spontaneously or supposedly be induced. In this article we explain what an OBE is, how it arises and what the relationship is with psychedelics, such as Ayahuasca, DMT and LSD.<br/><br/></p>

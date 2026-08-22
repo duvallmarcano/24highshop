@@ -4,7 +4,7 @@ description: "You've probably heard of DMT, but what exactly is this powerful ps
 heroImage: "/images/news/196-1667990578-400x300.webp"
 publishedAt: "2022-11-07"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>DMT - you've probably heard of it - but what exactly is it? It is used in many kinds of psychedelic drugs such as in Ayahuasca. But did you know that we also have DMT in our own bodies? Yes we do! For a long time it was thought that this could not be true, but research shows that it really is. In this article, we will tell you all about what DMT is, how to use it and what the effects are.<br/><br/></p>

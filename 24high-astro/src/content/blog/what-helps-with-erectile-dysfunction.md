@@ -4,7 +4,7 @@ description: "Suffering from erection problems? Find out how to ensure a stiffer
 heroImage: "/images/news/337-1712754236-400x300.webp"
 publishedAt: "2024-04-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Erection problems: almost everyone with a penis experiences them at some point. Often, such a breakdown is a one-off. For example, you are tense or a little too high. 1 in 10 people with a penis suffer from this on a regular basis. The impact of not being able to get a boner can be huge. Relationships come under pressure, for example. And the self-confidence of the person in question can take a big hit. Sometimes you can't do anything about it, but often there is a cause. There are also various solutions available. From lifestyle improvements to herbs and other remedies, these potentially help with erection problems.<br/><br/></p>

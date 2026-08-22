@@ -4,7 +4,7 @@ description: "Read everything you want to know about growing cannabis here!"
 heroImage: "/images/news/80-1621596512-400x300.webp"
 publishedAt: "2021-05-07"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Welcome to my Outdoor Cannabis Grow Report for this year. Most of your green hands will be itching to put something in the ground. In general, it is best to wait a while for the outdoor cultivation until the chance of frost has completely passed. Can't really wait any longer? In this Outdoor Cannabis Grow Report, we'll explain exactly how best to start your outdoor cannabis grow to ensure successful cannabis cultivation! <br/><br/></p>

@@ -4,7 +4,7 @@ description: "Magic mushrooms are very popular hallucinogens that can alter stat
 heroImage: "/images/news/166-1656242687-400x300.webp"
 publishedAt: "2022-06-21"
 updatedAt: "2026-08-11"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Anyone curious about magic mushrooms often wonders how many fresh or dried mushrooms are needed for a particular experience. The dosage depends on several factors, such as your experience, individual sensitivity, mindset, surroundings, and the potency of the mushrooms. Because magic mushrooms contain psilocybin and their effects can vary from person to person, it is always wise to start cautiously.</p>

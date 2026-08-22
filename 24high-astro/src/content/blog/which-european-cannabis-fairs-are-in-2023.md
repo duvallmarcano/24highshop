@@ -4,7 +4,7 @@ description: "These cannabis fairs are worth visiting in 2023. From a relaxed ev
 heroImage: "/images/news/233-1679492861-400x300.webp"
 publishedAt: "2023-03-20"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Want to keep up to date with all the news around cannabis and its uses? Then visit one of these cannabis fairs in Europe this year. It's the way to keep abreast of the latest developments, network or get inspired. Attend interesting lectures, learn more about the versatility of cannabis products in workshops or immerse yourself in the latest trends. Just enjoying all the beauty that cannabis has to offer? Then trade fairs are the place to be. Luckily, there are some great events on the calendar again next year. From big business events to laid-back festival-like gatherings, in this article you will read which cannabis fairs in 2023 you should not miss.<br/><br/></p>

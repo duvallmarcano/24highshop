@@ -4,7 +4,7 @@ description: "Learn all about the world of karma and the 12 karma laws. Which un
 heroImage: "/images/news/346-1715503083-400x300.webp"
 publishedAt: "2024-05-02"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Karma is a concept familiar to everyone. By doing something good, you score karma points. In turn, 'wrong' behaviour is bad for your karma. The philosophy behind karma is that actions have consequences. How exactly it works is laid down in 12 laws of karma. Read all about these principles and how to apply them here. And... whether you believe in them or not: you probably agree that the world would be a much nicer place if everyone lived according to this philosophy. Moreover, you probably think you are a nicer person when you live more consciously according to the laws of karma. So take advantage of it!<br/><br/></p>

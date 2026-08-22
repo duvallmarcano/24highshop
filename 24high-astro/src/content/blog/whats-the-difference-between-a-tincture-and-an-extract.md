@@ -4,7 +4,7 @@ description: "What is a tincture and what is an extract? And more importantly: w
 heroImage: "/images/news/155-1652376250-400x300.webp"
 publishedAt: "2022-05-10"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Today, we increasingly opt for natural products and solutions when we suffer from a flu or other ailment. And that is not surprising, because nature does a person good, both physically and mentally. Get a breath of fresh air in nature to relax or to clear your head completely. If you are, like us, convinced that nature can work wonders, then you may have already come into contact with tinctures and extracts. Natural products that provide many benefits for human health. But what exactly are these products, and what is the difference between a tincture and an extract? In this article, we tell you all about it!<br/><br/></p>

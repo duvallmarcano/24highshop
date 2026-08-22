@@ -4,7 +4,7 @@ description: "What are happiness hormones and how do they affect your mood? Find
 heroImage: "/images/news/253-1685533312-400x300.webp"
 publishedAt: "2023-05-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you have had a pleasant day with friends, taken a nice walk in the woods, or enjoyed a romantic dinner with your partner, you feel satisfied and happy. Valuable activities ensure this, you would think. But not only what you do gives you feelings of happiness, substances in your body called happiness hormones also play a role. In this blog, you will read what these happiness hormones are and how they affect your mood.<br/><br/></p>

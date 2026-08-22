@@ -4,7 +4,7 @@ description: "What are the differences between a water pipe and a bong? They app
 heroImage: "/images/news/162-1654677849-400x300.webp"
 publishedAt: "2022-06-07"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A bong is often also called a water pipe, or a water pipe is a bong. It just depends on how you look at it. In any case, they are very similar, and often we mean the same thing, but in fact there are differences between the two. In appearance, they differ from each other, but also the way in which both are intended to be used differ. To clarify this once and for all, we tell you more about what a bong or water pipe is in this article.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Read in our blogs which cannabis fair suits you best!"
 heroImage: "/images/news/58-1606243777-400x300.webp"
 publishedAt: "2020-11-24"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Visiting a cannabis fair is the way to keep up to date with the latest trends in cannabis and its use. At a cannabis fair you will find new products, you can network, get ideas, go to lectures or workshops and enjoy everything that the beautiful cannabis plant has to offer. Due to corona most of the fairs have been canceled this year, but next year it will many interesting things on the program. These fairs are sometimes only for professionals, but there are also fairs that you can visit as a cannabis enthusiast. View the overview below and put the dates in your agenda! Please note that this schedule is subject to change due to events surrounding corona<br/><br/></p>

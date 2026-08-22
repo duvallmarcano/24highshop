@@ -4,7 +4,7 @@ description: "When you reach an altered state of consciousness, it means you per
 heroImage: "/images/news/207-1671626764-400x300.webp"
 publishedAt: "2022-12-12"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you reach an altered state of consciousness, it means you perceive reality in a different way. Usually, drugs are used for this, such as <a href="/en/shop/mushrooms/growkits-mushroom">magic mushrooms</a> or LSD. But you can also achieve an altered state of consciousness without drugs. In this blog, we will discuss what this actually means and how you can achieve it.<br/><br/></p>

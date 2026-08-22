@@ -4,7 +4,7 @@ description: "Kratom can relieve many and aches! Do you want to know which ailme
 heroImage: "/images/news/28-1585942707-400x300.webp"
 publishedAt: "2020-03-19"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Do you suffer from pain? Then consider the medicinal effect of kratom (Mitragyna speciosa). It has been a narcotic when it comes to pain relief in Southeast Asia for years. Kratom does not only work against pain but also against diarrhea, parasites and fever. Maybe Mitragyna speciosa is the right solution for you? We'll help you figure that out.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Although mushrooms are known for growing in shady spots in the for
 heroImage: "/images/news/85-1625598212-400x300.webp"
 publishedAt: "2021-07-02"
 updatedAt: "2023-06-01"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Although mushrooms are known for growing in shady spots in the forest, they do need light. If you want to grow mushrooms, it is a good idea to study the amount of light and the type of light they need. Do you put your magic mushroom grow kit in full sun or do you use artificial lighting? Do they need light all day or just a few hours? Read this blog and you'll know all about how to put your magic mushrooms in the spotlight.<br/><br/></p>

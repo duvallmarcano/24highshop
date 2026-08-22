@@ -4,7 +4,7 @@ description: "You can grow all sorts of things to trip on at home: magic mushroo
 heroImage: "/images/news/314-1705227794-400x300.webp"
 publishedAt: "2024-01-09"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Almost anything can be vaped - but you need to know what. That is why in this article we address the question: what is best to put in a vape? We also give you tips for making your own vape with mind-altering substances like cannabis and DMT. Because you can just put that in too!<br/><br/></p>

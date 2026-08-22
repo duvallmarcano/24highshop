@@ -4,7 +4,7 @@ description: "Mushrooms contain a large amount of healthy substances that can bo
 heroImage: "/images/news/283-1694939557-400x300.webp"
 publishedAt: "2023-09-15"
 updatedAt: "2025-06-12"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>If you eat mushrooms regularly, then you are doing good. Mushrooms are fungi that contain a large amount of healthy substances that can support our mental, emotional and physical health. Consequently, more and more research is being done on the positive effects of mushrooms. In this blog, we give you 5 reasons why you should consume more <a href="/en/shop/mushrooms/medicinal-mushrooms">mushrooms</a>.<br/><br/></p>

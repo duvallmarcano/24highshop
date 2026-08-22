@@ -4,7 +4,7 @@ description: "Fresh Mushrooms is a renowned brand of mushroom grow kits that are
 heroImage: "/images/news/348-1716383922-400x300.webp"
 publishedAt: "2024-05-14"
 updatedAt: "2024-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p><a href="/en/shop/mushrooms/fresh-mushrooms-growkits">Fresh Mushrooms</a> is a well-established brand that the average psychonaut will surely know from their 100% Mycelium Magic mushroom grow kits. Fresh Mushrooms has a suitable kit for every tripper. From the Golden Teacher to the McKennaii and grow kits with shrooms from all over the world. And whether you are a mushroom novice or just like looking for an extra potent strain. What their grow kits have in common is that they are very easy to use. Minimal effort and a maximum harvest of mushrooms, is in summary what you can expect from Fresh Mushrooms. Read more about this brand and their simple grow kits here.<br /><a href="/en/shop/mushrooms/fresh-mushrooms-growkits">Check out our Fresh Mushrooms products &gt;&gt;</a><br/><br/></p>

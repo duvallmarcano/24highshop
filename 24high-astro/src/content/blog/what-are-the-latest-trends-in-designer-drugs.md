@@ -4,7 +4,7 @@ description: "Designer drugs in 2024: what are the trends, what will the future 
 heroImage: "/images/news/319-1707063535-400x300.webp"
 publishedAt: "2024-01-30"
 updatedAt: "2024-02-04"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Designer drugs are also called new psychoactive substances (NPS). Another name used by sellers is research chemicals. This is because they are supposedly intended only for research, and not for ingestion. Of course, the reality is different, as everyone knows! The market for these research chemicals is huge and keeps growing. This is very easy to do, because they are legal. So what are the latest trends in designer drugs? And what should you look out for when buying them?<br/><br/></p>

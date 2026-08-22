@@ -4,7 +4,7 @@ description: "Do you want to know how to make your own magic mushroom spore syri
 heroImage: "/images/news/131-1644426046-400x300.webp"
 publishedAt: "2022-02-07"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Growing your own psilocybin mushrooms is not a difficult task, but it is a very painstaking job. Have you managed to successfully grow your own magic mushrooms? Then it is possible to realize a new harvest through the traces of your <a href="/en/shop/mushrooms/growkits-mushroom">magic mushrooms</a>. To support the germination process, it is recommended to inject the substrate with a spore syringe. In this article we would like to explain what spores are, what a spore syringe is and how you can make it yourself for a successful mushroom harvest!<br/><br/></p>

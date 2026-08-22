@@ -1,14 +1,15 @@
-# 24High
+# 24highshop
 
 > Swiss smartshop for botanicals and mycology, based in Zürich and trading since 2018. 1’152 products across six shops — mushroom grow kits, spores and cultures, kratom and kanna, cannabis genetics, CBD, and headshop hardware — shipped from Swiss stock in plain packaging, usually within one to two working days.
 
 ## Key facts
 
-- Legal name: 24High AG, Zürich, Switzerland
-- Currency: CHF (prices include 8.1% Swiss VAT); EUR shown for reference
-- Shipping: free within Switzerland over CHF 60, otherwise CHF 7.90; 1–2 working days domestically, 2–6 elsewhere in Europe
+- Legal name: 24highshop AG, Zürich, Switzerland
+- Currency: CHF or EUR, switchable on any page; both include 8.1% Swiss VAT
+- Minimum order: EUR 200 (about CHF 210), reachable with any mix of products
+- Shipping: included on every order; 1–2 working days within Switzerland, 2–6 elsewhere in Europe, always tracked
 - Packaging: plain and unmarked, no branding or product name outside
-- Payment: TWINT, PostFinance, Visa, Mastercard, invoice
+- Payment: Bitcoin (on-chain, rate locked 15 minutes) and bank transfer (SEPA or Swiss IBAN). No cards.
 - Returns: 14 days on unopened items; perishables and opened consumables excluded
 - Age policy: strictly 18+
 - Legal note: cannabis below 1% THC is lawful in Switzerland. Psilocybin is controlled and is NOT sold. Kratom is sold as a botanical specimen, not for consumption.
@@ -203,7 +204,7 @@
 
 ## About and policies
 
-- [About 24High](https://www.24high.com/en/about)
+- [About 24highshop](https://www.24high.com/en/about)
 - [Editorial standards](https://www.24high.com/en/editorial-policy)
 - [Our writers](https://www.24high.com/en/authors)
 - [Shipping and returns](https://www.24high.com/en/shipping)

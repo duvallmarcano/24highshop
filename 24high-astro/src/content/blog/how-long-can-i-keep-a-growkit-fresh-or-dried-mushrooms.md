@@ -4,7 +4,7 @@ description: "How do you best store a grow kit, fresh mushrooms and dried mushro
 heroImage: "/images/news/128-1643383012-400x300.webp"
 publishedAt: "2022-01-28"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>You want to save your own cultivated magic mushrooms for the perfect moment, we understand that! Tripping on psilocybin mushrooms can be intense, and timing and setting are therefore extremely important. In addition, it is unrealistic and perhaps not so wise to consume your home-grown magic mushroom harvest immediately and completely. But how do you make sure that your magic mushrooms don't lose strength or, worse, get damaged and are no longer edible at all. In this article, we explain how long you can store a grow kit, fresh and dried mushrooms.<br/><br/></p>

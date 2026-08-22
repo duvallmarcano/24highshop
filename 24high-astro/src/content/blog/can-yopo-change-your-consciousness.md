@@ -4,7 +4,7 @@ description: "Yopo is a very special large, green plant with psychoactive seeds.
 heroImage: "/images/news/184-1663591011-400x300.webp"
 publishedAt: "2022-09-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Yopo is a very special and large green plant that produces an abundance of seeds that are highly psychoactive once prepared. Traditionally, it has been used for ceremonial purposes and spiritual healing. This is because the active substances in Yopo have a special effect that are consciousness-expanding. And in this article, we'll tell you all about how Yopo can change your consciousness.</p>

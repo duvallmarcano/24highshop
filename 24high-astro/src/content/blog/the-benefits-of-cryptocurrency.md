@@ -4,7 +4,7 @@ description: "Paying with cryptocurrency has advantages and disadvantages! Read 
 heroImage: "/images/news/62-1608661326-400x300.webp"
 publishedAt: "2020-12-22"
 updatedAt: "2023-05-12"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Nowadays we do a lot of virtual payments: every time you pay with your bank card, digital money is transferred. In that case you still pay with euros, so it is not cryptocurrency. The big difference with cryptocurrency is the fact that they only exist digitally. There are no banks involved and the currency is separate from countries or governments. Nowadays you can already pay with it at many online shops.</p>

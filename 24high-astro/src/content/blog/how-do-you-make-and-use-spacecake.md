@@ -4,7 +4,7 @@ description: "Making space cake is easy if you know how to do it. In this blog y
 heroImage: "/images/news/67-1612193718-400x300.webp"
 publishedAt: "2021-01-28"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Spacecake is probably the best-known cannabis food for getting high. Whether you are an experienced user or trying edibles for the first time, a well-baked spacecake is a tasty and powerful experience. In this blog, we explain exactly what spacecake is, what to expect in terms of effects and how to make your own delicious (and responsible) spacecake step by step.<br/><br/></p>

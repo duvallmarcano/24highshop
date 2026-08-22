@@ -4,7 +4,7 @@ description: "What's so special about California weed, Cali Weed? Read all about
 heroImage: "/images/news/277-1692994212-400x300.webp"
 publishedAt: "2023-08-24"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In the Netherlands, we are naturally incredibly spoiled when it comes to cannabis. Not only can you easily get top cannabis, we are also allowed to grow it ourselves. And that gives you full control over the quality of the harvest. But great <a href="/en/">cannabis</a> can also be found outside our cannabis paradise. In the smokers scene, the American cannabis strain Cali Weed is highly regarded. Cali weed refers to the state from which it originates: California. When it comes to marijuana, it is the most progressive state in the USA. And you can think a lot about America, but one thing is certain: they like it strong. So that's exactly what Cali Weed is known for... Read all about this strain and the effects you can expect from it here.<br/><br/></p>

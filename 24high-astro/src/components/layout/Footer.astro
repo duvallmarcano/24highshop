@@ -1,12 +1,13 @@
 ---
-import { SHOPS, SITE, LOCALES } from '../../data/site';
+import Icon from '../ui/Icon.astro';
+import { SHOPS, SITE, LOCALES, PAYMENT_METHODS, MIN_ORDER_EUR, toCHF } from '../../data/site';
 import { useTranslations } from '../../i18n/ui';
 
 const t = useTranslations('en');
 const year = new Date().getFullYear();
 
 const company = [
-  { label: 'About 24High', href: '/en/about' },
+  { label: 'About 24highshop', href: '/en/about' },
   { label: 'Our writers', href: '/en/authors' },
   { label: 'Editorial standards', href: '/en/editorial-policy' },
   { label: 'Guides', href: '/en/blog' },
@@ -21,9 +22,7 @@ const legal = [
   { label: 'Disclaimer', href: '/en/disclaimer' },
 ];
 
-// Swiss payment rails, written rather than shown — the source site's payment
-// logos were Dutch and Belgian (iDEAL, Bancontact) and do not apply here.
-const payments = ['TWINT', 'PostFinance', 'Visa', 'Mastercard', 'Invoice'];
+const minCHF = toCHF(MIN_ORDER_EUR);
 ---
 
 <footer class="ftr">
@@ -49,7 +48,9 @@ const payments = ['TWINT', 'PostFinance', 'Visa', 'Mastercard', 'Invoice'];
 
     <div class="ftr__grid">
       <div class="ftr__brand">
-        <a class="ftr__logo" href="/en/">24High</a>
+        <a class="ftr__logo" href="/en/">
+          <span class="ftr__logo-a">24high</span><span class="ftr__logo-b">shop</span>
+        </a>
         <p class="ftr__tag">{SITE.description}</p>
 
         {/* Consistent NAP — the same name, address and contact everywhere. */}
@@ -103,9 +104,24 @@ const payments = ['TWINT', 'PostFinance', 'Visa', 'Mastercard', 'Invoice'];
     </div>
 
     <div class="ftr__pay">
-      <span class="eyebrow">Payment</span>
+      <div class="ftr__pay-head">
+        <span class="eyebrow">Payment</span>
+        <span class="ftr__min">
+          Minimum order &euro;{MIN_ORDER_EUR} &middot; CHF {minCHF.toFixed(0)}
+        </span>
+      </div>
       <ul role="list">
-        {payments.map((p) => <li>{p}</li>)}
+        {
+          PAYMENT_METHODS.map((m) => (
+            <li class={`pay pay--${m.id}`}>
+              <Icon name={m.id === 'bitcoin' ? 'bitcoin' : 'bank'} size={22} />
+              <span>
+                <strong>{m.label}</strong>
+                <em>{m.note}</em>
+              </span>
+            </li>
+          ))
+        }
       </ul>
     </div>
 
@@ -159,11 +175,13 @@ const payments = ['TWINT', 'PostFinance', 'Visa', 'Mastercard', 'Invoice'];
   .ftr__logo {
     font-family: var(--font-display);
     font-size: 1.2rem;
-    font-weight: 700;
     letter-spacing: -0.045em;
     color: var(--ink);
     text-decoration: none;
   }
+
+  .ftr__logo-a { font-weight: 700; }
+  .ftr__logo-b { font-weight: 400; color: var(--ink-3); }
 
   .ftr__tag {
     max-width: 34ch;
@@ -221,30 +239,59 @@ const payments = ['TWINT', 'PostFinance', 'Visa', 'Mastercard', 'Invoice'];
   .ftr__soon { color: var(--ink-3); opacity: 0.6; }
 
   .ftr__pay {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    padding-block: 1.2rem;
+    padding-block: 1.5rem;
     border-block-start: 1px solid var(--line);
   }
 
-  .ftr__pay ul {
+  .ftr__pay-head {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.4rem;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-block-end: 0.9rem;
+  }
+
+  .ftr__min {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--warn);
+  }
+
+  .ftr__pay ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
+    gap: 0.5rem;
     padding: 0;
     margin: 0;
     list-style: none;
   }
 
-  .ftr__pay li {
-    padding: 0.2rem 0.5rem;
-    border: 1px solid var(--line-strong);
-    border-radius: var(--radius-sm);
-    font-family: var(--font-mono);
-    font-size: var(--step--2);
-    color: var(--ink-2);
+  .pay {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.7rem;
+    padding: 0.8rem 0.9rem;
+    border: 1px solid var(--line);
   }
+
+  .pay strong {
+    display: block;
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .pay em {
+    font-style: normal;
+    font-size: var(--step--2);
+    color: var(--ink-3);
+    line-height: 1.5;
+  }
+
+  /* Bitcoin keeps its own mark colour; the bank mark takes the brand accent */
+  .pay--bitcoin :global(.icon) { color: #f7931a; }
+  .pay--bank-transfer :global(.icon) { color: var(--spruce); }
 
   .ftr__base {
     display: flex;

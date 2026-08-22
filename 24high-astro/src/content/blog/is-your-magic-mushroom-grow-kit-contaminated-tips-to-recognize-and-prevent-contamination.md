@@ -4,7 +4,7 @@ description: "You want to avoid an infected mushroom grow kit at all times! Read
 heroImage: "/images/news/69-1613502145-400x300.webp"
 publishedAt: "2021-02-11"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Anyone can grow magic mushrooms at home, it is not very complicated, and you do not need any special skills, but it is important to work hygienically. You will need to keep an eye on your mushroom grow kit for possible contamination by fungi, bacteria or vermin. The magic mushroom grow kit is vulnerable to such an infection. Every step of the cultivation carries the risk of contamination: from the spores, the mycelium or the magic mushrooms. In this blog you can read more about what an infection means, how to detect it and what you can do to prevent it.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "What can medical cannabis help with, and is it safe for the elderl
 heroImage: "/images/news/325-1708709165-400x300.webp"
 publishedAt: "2024-02-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Elderly people seem to function better when they use medical cannabis, research shows. More and more elderly people are using this natural remedy because of health benefits. THC and CBD affect many processes in the body. But what can it help with and is it safe for the elderly? In this blog, we take a closer look at this.<br/><br/></p>

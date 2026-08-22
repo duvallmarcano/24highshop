@@ -4,7 +4,7 @@ description: "We all know the trip that magical truffles or magic mushrooms can 
 heroImage: "/images/news/25-1581625853-400x300.webp"
 publishedAt: "2020-02-13"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>We're all familiar with the trip that magical truffles or magic mushrooms can give. Sometimes these long hours of experiencing a trip can bring you new insights and can change your outlook on life. 5-MeO-DMT does this in about 20 minutes. A <a href="https://www.ncbi.nlm.nih.gov/pubmed/30982127">recent European study</a> found that only single use of the substance 5-MeO-DMT can result in a lasting improvement in life satisfaction. t could Even bring relief to anxiety, depression and post-traumatic stress disorder (PTSD).<br/><br/></p>

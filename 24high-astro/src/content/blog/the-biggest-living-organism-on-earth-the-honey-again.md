@@ -4,7 +4,7 @@ description: "The largest living organism in the world is the honey mushroom wit
 heroImage: "/images/news/164-1655470538-400x300.webp"
 publishedAt: "2022-06-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The largest living organism on Earth, what could it be? The answer will most likely surprise you. We are not talking about the 30 meter long blue whale here, but about a fungus. Yes, you read that right, a fungus. More precisely, it concerns the so-called honey fungus, whose mycelium is as large as 1665 football fields! It may not look as spectacular as the blue whale, but this largest living organism on earth is certainly special. The Honey Mushroom is not a <a href="/en/shop/mushrooms/growkits-mushroom">psychedelic mushroom</a>.<br/><br/></p>

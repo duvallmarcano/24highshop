@@ -4,7 +4,7 @@ description: "What are the best examples of psychedelic art? Here our favo books
 heroImage: "/images/news/304-1701864743-400x300.webp"
 publishedAt: "2023-11-29"
 updatedAt: "2023-12-06"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Psychedelics trigger all kinds of things in us. They provide us with uniquely enlightening insights and life lessons, for instance. But psychedelics have also regularly contributed significantly to the creation of art. From <a href="/en/">music</a> to paintings, films and books, these are some of the finest examples of how psychedelic experiences have been used in art. Some will undoubtedly surprise you!<br/><br/></p>

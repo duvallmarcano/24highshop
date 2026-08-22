@@ -30,11 +30,11 @@ const fromCHF = prices.length ? toCHF(Math.min(...prices)) : null;
 const available = products.filter((p) => p.data.inStock).length;
 
 const crumbs = [{ label: 'Home', href: '/en/' }, { label: shop.label }];
-const description = `${shop.label} at 24High — ${shop.total} products across ${shop.categories.length} categories${
+const description = `${shop.label} at 24highshop — ${shop.total} products across ${shop.categories.length} categories${
   fromCHF !== null ? `, from CHF ${fromCHF.toFixed(2)}` : ''
 }. Shipped from Zürich in 1–2 working days.`;
 
-const answer = `24High's ${shop.label.toLowerCase()} carries ${shop.total} products in ${
+const answer = `24highshop’s ${shop.label.toLowerCase()} carries ${shop.total} products in ${
   shop.categories.length
 } categories${fromCHF !== null ? `, starting at CHF ${fromCHF.toFixed(2)}` : ''}. ${available} are in stock in ${
   SITE.address.locality

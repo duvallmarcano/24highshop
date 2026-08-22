@@ -4,7 +4,7 @@ description: "There are plenty of mind-altering herbs you can grow yourself in y
 heroImage: "/images/news/301-1700661634-400x300.webp"
 publishedAt: "2023-11-20"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Do you also want a miracle garden full of mind-blowing herbs? If you have a garden (or balcony), you can choose what to plant here. Do you go for plain geraniums and hosta or do you put powerful, colourful flowers in your garden, like Yopo or Morning Glory? Are you curious? Then read more about which plants are suitable to put in your own garden below.<br/><br/></p>

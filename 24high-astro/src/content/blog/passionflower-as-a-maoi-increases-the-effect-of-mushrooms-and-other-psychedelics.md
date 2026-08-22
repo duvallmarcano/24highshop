@@ -4,7 +4,7 @@ description: "Using passionflower as an MAO inhibitor enhances the effects of ma
 heroImage: "/images/news/118-1640030950-400x300.webp"
 publishedAt: "2021-12-20"
 updatedAt: "2026-07-09"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Passion flower, also known as <em>Passiflora incarnata</em>, is a striking climbing plant best known for its calming properties. It has traditionally been used to promote relaxation, reduce restlessness, and support healthy sleep, but it is also of particular interest within the world of psychedelics.</p>

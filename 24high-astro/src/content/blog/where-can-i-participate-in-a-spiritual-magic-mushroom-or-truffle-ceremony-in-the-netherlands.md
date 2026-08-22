@@ -4,7 +4,7 @@ description: "Are you considering taking part in a spiritual mushroom or truffle
 heroImage: "/images/news/280-1693923647-400x300.webp"
 publishedAt: "2023-09-04"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Have you ever done truffles or <a href="/en/">magic mushrooms</a> at home, or somewhere in nature with friends? Or are you completely new to this field and ready for your first spiritual experience with these natural trip aids? Then definitely consider participating in a spiritual mushroom or truffle ceremony. Indeed, with the right setting and guidance, you can experience a deep and meaningful trip that will stay with you all your life. Here, we tell you all about what such a ceremony looks like and what to look out for when picking the right provider.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "We all have to deal with stress. But did you know that stress can 
 heroImage: "/images/news/20-1569524476-400x300.webp"
 publishedAt: "2019-09-19"
 updatedAt: "2024-03-03"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>We all have to deal with stress in our daily lives. These are often small peak times when multiple things coincide. However, in some cases, this stress may also persist for longer. For example, financial worries or high working pressure. Prolonged stress, will be noticed in your eyes in a way that you will have a blurry and less good vision. This will be temporarily. <br/><br/></p>

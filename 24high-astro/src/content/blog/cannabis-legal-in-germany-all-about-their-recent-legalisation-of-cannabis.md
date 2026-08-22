@@ -4,7 +4,7 @@ description: "In Germany, weed has been legal since April 2024. Read all about t
 heroImage: "/images/news/366-1721808918-400x300.webp"
 publishedAt: "2024-07-22"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Since this spring, <a href="/en/">weed</a> has also been legal in Germany. Now. 'too'... Actually, the Germans are currently more progressive in their cannabis policy than we Dutch are. Because with us, cannabis is still not really legal, but soft drugs are tolerated. Legalising weed is quite a remarkable move by our eastern neighbours. After all, Germany is not exactly known for their positive attitude towards <a href="/en/">jonko's klappen</a>. So that was not exactly something you could do leisurely in a park. Getting weed was also quite an adventure, literally knocking on strangers' doors in certain alleys and parks.</p>

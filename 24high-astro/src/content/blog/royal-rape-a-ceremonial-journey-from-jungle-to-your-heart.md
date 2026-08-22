@@ -4,7 +4,7 @@ description: "Royal Rapé - Ceremonial Plant Product Safe to Use | 24High"
 heroImage: "/images/news/424-1742918442-400x300.webp"
 publishedAt: "2025-03-25"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>At Royal Rapé, they believe in the power of nature, in reverence for tradition and in bringing special plant to you. Royal Rapé is the ultimate example of this. This unique snuff takes you on a sacred journey straight from the Amazon, full of respect, intention and ancient wisdom.<br/><br/></p>

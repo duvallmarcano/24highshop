@@ -4,7 +4,7 @@ description: "Do you want to know more about the difference in feminized, auto-f
 heroImage: "/images/news/6-1557158253-400x300.webp"
 publishedAt: "2019-01-16"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When we talk about cannabis seeds, we are talking about a Feminized, <a href="/en/shop/seedshop/autoflower-seeds">Autoflower</a> or CBD seeds. The difference between these three, is huge, and they serve different purposes. An Autoflower plant will not grow very tall because it will automatically flower after about 2 weeks of growing.  This makes it more suitable for indoor cultivation. A feminized cannabis plant follows the cycle of light. So these have much more time to grow and will only flower when the number of days or artificial light hours decreases. A feminized cannabis plant is suitable for both indoor and outdoor use. Below we explain the differences even more clearly and what the reason is for choosing a CBD seed.<br/><br/></p>

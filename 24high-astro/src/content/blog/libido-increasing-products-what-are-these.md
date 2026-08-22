@@ -4,7 +4,7 @@ description: "Libido enhancing products, what are these? What does it do and wha
 heroImage: "/images/news/145-1648890863-400x300.webp"
 publishedAt: "2022-03-28"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Welcome to another new blog! This time we take you on libido enhancing products. Because what exactly are these products, how can it increase your libido, and is it widely used? This can of course be quite handy in some cases – and tasty – to be? Read more about the different products in this article.<br/><br/></p>

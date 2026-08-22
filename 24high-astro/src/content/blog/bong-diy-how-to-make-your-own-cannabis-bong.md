@@ -4,7 +4,7 @@ description: "Making your own bong to smoke your cannabis/weed/hash in? Read how
 heroImage: "/images/news/333-1711654007-400x300.webp"
 publishedAt: "2024-03-25"
 updatedAt: "2025-07-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A bong, also known as a bong, is a handy tool for smoking cannabis. Some <em>smokers </em>find it a nicer method of getting high than, say, a jonko with tobacco. Bongs can be bought in all kinds of designs, from impressive glass works of art to petite and practical pipes. But you can also make your own bong. Read how to make a bong step by step here.<br/><br/></p>

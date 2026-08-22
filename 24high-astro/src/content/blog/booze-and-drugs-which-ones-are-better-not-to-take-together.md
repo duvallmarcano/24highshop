@@ -4,7 +4,7 @@ description: "Mixing alcohol with other drugs can have unexpected and dangerous 
 heroImage: "/images/news/300-1700381306-400x300.webp"
 publishedAt: "2023-11-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Fancy a night out? You might have thought of combining drinks or different kinds of drugs. But you should still be careful, because some types of mind-altering drugs really don't combine well. They can have unexpected and dangerous consequences. Therefore, in this blog, we explain which drinks and drugs are better not to take together.<br/><br/></p>

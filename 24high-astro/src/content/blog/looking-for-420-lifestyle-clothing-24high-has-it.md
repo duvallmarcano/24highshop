@@ -4,7 +4,7 @@ description: "Want to look cool and most importantly: express your love for weed
 heroImage: "/images/news/246-1683371837-400x300.webp"
 publishedAt: "2023-05-05"
 updatedAt: "2026-04-01"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>4:20 lifestyle clothing symbolizes relaxation, creativity, and the global cannabis culture. From caps and socks to grinders and accessories: with 420 lifestyle products you show what you stand for. In this guide you will discover which 4:20 clothing and accessories are popular and how to complete your cannabis lifestyle style.</p>

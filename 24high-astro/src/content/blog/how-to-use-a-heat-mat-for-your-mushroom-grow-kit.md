@@ -4,7 +4,7 @@ description: "How to use a heat mat for your mushroom grow kit? Read everything 
 heroImage: "/images/news/222-1676192327-400x300.webp"
 publishedAt: "2023-02-11"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Mushrooms love heat and now that the weather is getting colder, they could use some extra help. After all, at low temperatures, your mushroom growing kit suffers a lot. And that is not the intention! Soon all the hard work will have been for nothing. Thermal mats are available especially for this purpose. How to use a heat mat for your mushroom grow kit? Read all about it here!<br/><br/></p>

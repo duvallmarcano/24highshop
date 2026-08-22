@@ -4,7 +4,7 @@ description: "Mad Honey is a very special honey. Namely, it has a trippy and rel
 heroImage: "/images/news/367-1722158604-400x300.webp"
 publishedAt: "2024-07-22"
 updatedAt: "2024-07-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Nature is awesome. Mad Honey's products show that! Mad Honey is special honey made by bees extracting nectar from the flowers of two rhododendron species. These contain a magical psychoactive substance that ends up in the honey. The result: mild hallucinations and a chill feeling.<br/><br/></p>

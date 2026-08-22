@@ -4,7 +4,7 @@ description: "Do you want to learn how to take control consciously in a dream? R
 heroImage: "/images/news/124-1641994217-400x300.webp"
 publishedAt: "2022-01-12"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The world of dreams is fascinating and mysterious. Some people wake up and can tell exactly what they dreamed. You hear about strange encounters, travelling through an eerie environment, or even that someone can fly. Do you ever get jealous of these kinds of stories, or would you like to discover what is happening in your subconscious? Dream herbs make it easier to remember your dreams, and you are even more likely to dream lucid. With our top 5 dream herbs, you choose the herb that suits your goals, and you can discover your own dream world.<br/><br/></p>

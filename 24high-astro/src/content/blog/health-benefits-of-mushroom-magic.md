@@ -4,7 +4,7 @@ description: "Magic mushrooms can certainly be used against depression. Read in 
 heroImage: "/images/news/55-1604349383-400x300.webp"
 publishedAt: "2020-11-02"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The magical effects of magic mushrooms are famous and infamous, but what many people don't know is that magic mushrooms can also have health benefits. Studies have already been done on a small scale. It turns out that the substance in magic mushrooms that provides the mind-altering effects, psilocybin, can have positive effects on our mental health. More research is needed, but the results are promising.<br/><br/></p>

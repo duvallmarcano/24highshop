@@ -4,7 +4,7 @@ description: "The system that we know today emerged from the hippie times and th
 heroImage: "/images/news/36-1590764960-400x300.webp"
 publishedAt: "2020-05-22"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The system we know today has emerged from the hippie era and the struggle for freedom. The so-called cannabis tolerance policy or in Dutch gedoogbeleid, was introduced in 1976. It was unique at the time and the first in the world. The whole world thought we were crazy. The use of cannabis is tolerated in the Netherlands. But what does this mean now?<br/><br/></p>

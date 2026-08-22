@@ -4,7 +4,7 @@ description: "Colanut is a super seed that is chock-full of caffeine. Read all a
 heroImage: "/images/news/321-1707668887-400x300.webp"
 publishedAt: "2024-02-06"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>That there was once real 'coca' in Coca Cola, you've probably already heard. But then where did the second part of that brand name come from? The answer: cola nut! And this ingredient too made a glass of Coca Cola a refreshing pick-me-up. So what is this 'cola nut' magical stuff? In a nutshell, cola nut is a hefty nut or mega-seed that West Africans have long enjoyed. In the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3842857/">19th</a> century, this nut found its way to the West. And so, thanks to an inventive pharmacist, it found its way into Coca Cola in 1880, along with those then-normal cocaine extracts. That coke soon disappeared from the recipe, but the invigorating cola nut could still be found in your can of cola until recently. Read more about this interesting energy source here: <a href="/en/">More energy get more out of your day with these tips and supplements.</a><br/><br/></p>

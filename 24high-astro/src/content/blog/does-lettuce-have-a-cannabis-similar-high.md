@@ -4,7 +4,7 @@ description: "Does poison lettuce have a cannabis comparable high? We looked it 
 heroImage: "/images/news/146-1649236159-400x300.webp"
 publishedAt: "2022-03-28"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Poison lettuce is something we hear more and more often. You sometimes hear that it could have the same effect as cannabis. But is this true? What is poison lettuce, and how does it work? We looked it up for you and wrote a blog about it.<br/><br/></p>

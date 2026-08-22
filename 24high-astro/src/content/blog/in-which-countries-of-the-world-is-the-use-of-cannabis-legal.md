@@ -4,7 +4,7 @@ description: "In which countries of the world is the use of cannabis legal? In t
 heroImage: "/images/news/268-1690352417-400x300.webp"
 publishedAt: "2023-07-19"
 updatedAt: "2025-03-19"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>As the Dutch, we should consider ourselves really lucky with the legislation surrounding cannabis. As one of the few countries, cannabis is legal with us. We are allowed to buy, use and possess it. Even growing cannabis ourselves is allowed. Besides the Netherlands, there are a number of other nations where weed is okay under the law. Read here which countries of the world have legal cannabis use.<br/><br/></p>

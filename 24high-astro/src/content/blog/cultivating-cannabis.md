@@ -4,7 +4,7 @@ description: "First of all, let's clarify the law regarding cannabis and its cul
 heroImage: "/images/news/38-1591973944-400x300.webp"
 publishedAt: ""
 updatedAt: ""
-author: "24High"
+author: "24highshop"
 ---
 
 <p>First of all, let's clarify the law regarding cannabis and its cultivation. Growing cannabis or the ‘’Grow’’, as it is also called, is not (yet) legal, so illegal. In the Netherlands, however, we make a distinction between hard and soft drugs.<br/><br/></p>

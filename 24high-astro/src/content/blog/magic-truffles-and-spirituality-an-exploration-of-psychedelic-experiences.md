@@ -4,7 +4,7 @@ description: "Learn how magic truffles can contribute to spiritual growth and co
 heroImage: "/images/news/341-1713797620-400x300.webp"
 publishedAt: "2024-04-22"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Magic truffles, also known as psilocybin truffles, are a fascinating natural product that has been used for spiritual and religious purposes for centuries. These psychedelic substances, derived from certain fungal species, have the potential to induce profound and transformative experiences that transcend the boundaries of our consciousness. In this blog, we take a closer look at the relationship between <a href="/en/shop/mushrooms/magic-truffles">magic truffles</a> and spirituality.<br/><br/></p>

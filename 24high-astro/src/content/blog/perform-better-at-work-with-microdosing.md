@@ -4,7 +4,7 @@ description: "In Silicon Valley they have long known that microdosing can help a
 heroImage: "/images/news/66-1611343825-400x300.webp"
 publishedAt: "2021-01-22"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Being more creative, being able to concentrate better, thinking out-of-the-box, in short performing better at work is possible with microdosing. Taking miniscule amounts of psychedelics boosts your brain. You will not notice any huge differences with how you normally function, they are subtle changes in the field of cognition and creativity. You can benefit a lot from that at work.<br/><br/></p>

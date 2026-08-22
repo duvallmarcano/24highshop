@@ -4,7 +4,7 @@ description: "This is how you can enhance a magic mushroom or truffle trip. Two 
 heroImage: "/images/news/267-1690101742-400x300.webp"
 publishedAt: "2023-07-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you one of those people who think "this could be stronger" while tripping? Do you feel like your trip buddies see and feel more than you every time? Does an ordinary serving of magic mushrooms or truffles barely impress you? In short: are you looking for a way to enhance your psychedelic mushroom or truffle trip and make it more intense? Read here how, among other things, an MAOI helps you take psychedelics to the next level.<br/><br/></p>

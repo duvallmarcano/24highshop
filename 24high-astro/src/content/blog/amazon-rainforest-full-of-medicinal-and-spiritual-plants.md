@@ -4,7 +4,7 @@ description: "The Amazon is home to 80,000 plant species, a huge number. Read th
 heroImage: "/images/news/290-1696840323-400x300.webp"
 publishedAt: "2023-10-02"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The Amazon forest is also known as the world's biggest medicine chest. Those who fall ill here do not even have to leave the entire rainforest to find cures. The Amazon is home to 80,000 plant species, which is extremely large. By comparison, the Netherlands has 3,900 plant species. A significant proportion of the plants in the Amazon are medicinal. A magical place, then! Not least because, besides medicinal plants, there are also plants with psychoactive compounds. In other words: those that make you trip. Below are some of the most popular plants from the Amazon with medicinal or spiritual properties.<br/><br/></p>

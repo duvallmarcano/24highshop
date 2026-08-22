@@ -4,7 +4,7 @@ description: "Are traces of drugs in the air and water harmful to health? In thi
 heroImage: "/images/news/220-1675453003-400x300.webp"
 publishedAt: "2023-02-01"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Italy is a beautiful holiday country with beautiful cities where you can wander around for hours. People there are kind and open, and you can enjoy art, culture as well as good food everywhere. But it seems that in some major Italian cities there is more than culture and history that makes life there so relaxed and appealing. Maybe drugs are involved! At least that is what seems to emerge from research on traces of drugs, such as <a href="/en/shop/seedshop/top10-seeds">cannabis</a> and nicotine, in water and air in Italian cities.<br/><br/></p>

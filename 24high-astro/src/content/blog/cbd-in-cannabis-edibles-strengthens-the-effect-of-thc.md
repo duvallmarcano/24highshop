@@ -4,7 +4,7 @@ description: "Does CBD boost the high of THC? Read more about this in this blog.
 heroImage: "/images/news/90-1629302094-400x300.webp"
 publishedAt: "2021-08-18"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>THC is the active ingredient in cannabis that will get you high or stoned. But did you know that when you take CBD-candy prior before smoking your joint, you can enhance your high! Most people do not know there is an interaction between CBD and THC. Many studies have shown this. The best known cannabinoid besides the THC in cannabis is CBD. <br/><br/></p>

@@ -4,7 +4,7 @@ description: "You cannot read the composition or strength of the drug from the o
 heroImage: "/images/news/102-1635323365-400x300.webp"
 publishedAt: "2021-10-25"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Drugs stimulate your brain and have an effect on your body and mind. The effects can be stimulating or, on the contrary, anaesthetic. They change your behaviour, feeling, thinking, and mood. That is precisely why drugs are used by people: to become relaxed or hyper. Drugs can give you a lot of pleasure, but they can also carry risks. And believe us, you would like to reduce these risks by having your drugs tested before use.<br/><br/></p>

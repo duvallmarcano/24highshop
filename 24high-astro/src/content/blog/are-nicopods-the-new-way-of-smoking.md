@@ -4,7 +4,7 @@ description: "The popularity of nicopods is increasing rapidly. For many, nicopo
 heroImage: "/images/news/113-1638607447-400x300.webp"
 publishedAt: "2021-11-30"
 updatedAt: "2023-07-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The popularity of nicopods are increasing strongly. The so-called nicotine pouches can help smokers to get rid of their addiction. The pouch is the size of a piece of chewing gum and releases flavor and nicotine. For many, nicopods are the new smoking. But what exactly is a nicopod, how does it work, and why is it so popular? We'll tell you in this article.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "We offer many different herbs each with their unique effects. Medi
 heroImage: "/images/news/30-1584991569-400x300.webp"
 publishedAt: "2020-03-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The Indian Elements brand offers a diverse range of different spice mixes. These spice mixes from Indian Elements all have one thing in common, they all have the goal of living a healthier life. For example, the herbal spliff mix from Indian Elements is a well-known tobacco substitute when rolling a joint. In this article we walk through all the spice mixes from Indian Elements and share the benefits of these special herbs with you.<br/><br/></p>

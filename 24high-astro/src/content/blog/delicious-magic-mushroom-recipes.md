@@ -4,7 +4,7 @@ description: "A mushroom trip is something you look forward to, but often eating
 heroImage: "/images/news/53-1603204242-400x300.webp"
 publishedAt: "2020-10-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Tripping on magic mushrooms is something you really look forward to, but eating them often not. Most people are not fond of the taste and that sometimes makes them dread the magic mushrooms, which is not necessary at all. There are plenty of ways to hide the bitter tast of magic mushrooms. You can make a delicious pesto with magic mushrooms or use them in a healthy salad. <br/><br/></p>

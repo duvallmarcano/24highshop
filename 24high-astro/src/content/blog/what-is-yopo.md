@@ -4,7 +4,7 @@ description: "Do you want to experience of an intense trip full of visual effect
 heroImage: "/images/news/3-1551823698-400x300.webp"
 publishedAt: "2018-12-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Yopo is a genus of trees, some of which have variable concentrations and proportions of DMT, bufotenine and <a href="/en/">5-MeO-DMT</a> in their seeds. The use of cohoba goes back thousands of years. Over 55 Southern American tribes are known to use Yopo.<br/><br/></p>

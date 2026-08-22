@@ -4,7 +4,7 @@ description: "Broke or planning a night of drinking or drinking through? Our Ref
 heroImage: "/images/news/281-1694178618-400x300.webp"
 publishedAt: "2023-09-08"
 updatedAt: "2023-09-08"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Jumping out of the band once in a while should be allowed; except that the hangover that often follows this is often not very welcome. Fortunately, there is something you can do about it these days! The Refresh Sober Up anti-hangover pill is specially designed for this purpose. So say goodbye to those broke days. Read all about this magic pill that will get you back on your feet in no time.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "What if CBD doesn't help? Read our blog and discover why!"
 heroImage: "/images/news/95-1633171840-400x300.webp"
 publishedAt: "2021-09-27"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Suppose, after hearing many enthusiastic stories, you also started using CBD, but what do you do if it turns out that CBD does not help? You had hoped it would help with your headaches or your sleeping problems. It is a fact that the effect of CBD is not the same for everyone.</p>

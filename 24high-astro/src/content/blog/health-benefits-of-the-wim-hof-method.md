@@ -4,7 +4,7 @@ description: "What are the health benefits of the Wim Hof method and how can you
 heroImage: "/images/news/218-1674916997-400x300.webp"
 publishedAt: "2023-01-28"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Those who know him already know, but Wim Hof is known as an extreme person. He broke the craziest world records, like sitting in an ice bath for almost two hours. But while he may be extreme, he is definitely not crazy. In fact, the Wim Hof method is becoming more popular by the day. For many people, his method has changed their lives. Therefore, in this article, we dive into the health benefits of the Wim Hof method.<br/><br/></p>

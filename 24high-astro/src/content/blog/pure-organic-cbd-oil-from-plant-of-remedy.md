@@ -4,7 +4,7 @@ description: "CBD oil has a very positive effect on your body and mind. In this 
 heroImage: "/images/news/171-1659625774-400x300.webp"
 publishedAt: "2022-08-04"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The popularity of CBD oil has grown tremendously in recent years. And that is of course not for nothing! In this article, we will tell you more about the best CBD oil from Plant of Remedy, what it does exactly and what the 100% natural oil is good for.<br/><br/></p>

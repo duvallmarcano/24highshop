@@ -4,7 +4,7 @@ description: "Psychedelic tea can be made from different psychedelics. But how d
 heroImage: "/images/news/71-1614347809-400x300.webp"
 publishedAt: "2021-02-24"
 updatedAt: "2025-06-12"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Of course you can just eat magic mushrooms, truffles or mescaline cactus if you want to trip, but a cup of psychedelic tea can also lift you to higher spheres. Making tea is not difficult and it is yet another way to take your psychedelic drugs. Here are 5 tripping tea recipes that are easy and quick to make.</p>

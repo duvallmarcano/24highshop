@@ -4,7 +4,7 @@ description: "A trip on psychedelics is an experience for a lifetime! Read our b
 heroImage: "/images/news/81-1622877766-400x300.webp"
 publishedAt: "2021-05-11"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>If a friend has asked you to be a trip sitter, you can probably use some tips. A trip sitter involves more than just sitting next to someone who has taken a psychedelic. It is especially important that you are there if the trip does not go as planned.</p>

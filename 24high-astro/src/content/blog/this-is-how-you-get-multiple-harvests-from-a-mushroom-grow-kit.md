@@ -4,7 +4,7 @@ description: "It is possible to harvest mushrooms multiple times with one grow k
 heroImage: "/images/news/64-1609967054-400x300.webp"
 publishedAt: "2021-01-06"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Growing mushrooms is not difficult with a grow kit and the nice thing is that you can get multiple flushes (or harvests) from it. Not once, but harvest three or four times. This way you get even more out of your grow kit. And you don't even need green fingers for that. Read all about how easy it is to grow and how to get multiple harvests from a container in this blog.</p>

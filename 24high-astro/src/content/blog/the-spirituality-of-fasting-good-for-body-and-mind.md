@@ -4,7 +4,7 @@ description: "How spiritual is fasting? Read here how to apply fasting for more 
 heroImage: "/images/news/334-1711875570-400x300.webp"
 publishedAt: "2024-03-29"
 updatedAt: "2024-03-31"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Like <a href="/en/">meditation</a>, fasting is a good way to get to <a href="/en/">know yourself</a> and clear your mind. Fasting and spirituality are not entirely surprisingly linked. You see this in various religions, for example, from Muslim Ramadan to Jewish traditions, Buddhists and Hindus. But you don't have to believe in a god to reap the spiritual benefits of fasting. Read here why fasting fits into a spiritual life and how to go about it.<br/><br/></p>

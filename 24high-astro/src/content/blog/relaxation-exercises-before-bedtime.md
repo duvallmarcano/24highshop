@@ -4,7 +4,7 @@ description: "Do you not succeed falling asleep? Try these relaxation exercises 
 heroImage: "/images/news/21-1569521880-400x300.webp"
 publishedAt: "2019-09-19"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Its so dam annoying that you can't sleep when you want to. You must get out of bed early or maybe you will have a long day ahead so getting up tired is a no go. Sleeping on time and 8 hours is so important for your health. Relaxation exercises will help before going to sleep. Let me present to you these tips and exercises to fall asleep.<br/><br/></p>

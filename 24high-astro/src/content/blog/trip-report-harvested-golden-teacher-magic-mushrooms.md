@@ -4,7 +4,7 @@ description: "In this blog you can read how you can best prepare for a mushroom 
 heroImage: "/images/news/42-1594062656-400x300.webp"
 publishedAt: "2020-06-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>After "growing", harvesting and drying my first self-grown mushrooms, i couldn't wait to test them. Since this will be my <a href="/en/">first experience with Psychedelics</a>, I would like to have everything planned well in advance. I definitely recommend this to anyone who uses Magic Mushrooms. First to arrange a "Trip Sitter". This is the down to earth person who can pay attention to all magic mushroom users. Make sure you have a <a href="/en/product/7112720-trip-stopper">trip stopper</a> in advance. This provides a sense of security and safety if the trip becomes too intense, it ensures that the intensity decreases. This is (also) a natural remedy consisting of valerian and dextro that reduce the trip intensity.<br/><br/></p>

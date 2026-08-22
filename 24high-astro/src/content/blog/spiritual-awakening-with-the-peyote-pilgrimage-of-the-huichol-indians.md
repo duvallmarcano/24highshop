@@ -4,7 +4,7 @@ description: "All about the spiritual Peyote pilgrimage of the Huichols Indians.
 heroImage: "/images/news/130-1644014228-400x300.webp"
 publishedAt: "2022-02-03"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The Huichol Indians live in the Mexican state of Jalisco and are particularly known for the Peyote rituals and ceremonies. They live in rough places that are difficult to reach and are therefore hardly influenced by the Western world. Centuries-old customs and traditions are still part of the life of the Huichol Indians today. In this article we would like to explain who the Huichol Indians are and what role the mescaline cactus Peyote plays in their lives.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Dry, red and burning eyes from weed/hash/cannabis: why does this h
 heroImage: "/images/news/311-1704356527-400x300.webp"
 publishedAt: "2024-01-02"
 updatedAt: "2024-01-04"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Many cannabis users recognise it: dry and red eyes after blowing weed or hash. While smoking or after eating your <a href="/en/">edible</a>, it starts, and with a bit of bad luck, you're left with sticky eyelids and red eyes the next day. Why do you sometimes get such dry and red eyes from weed? And more importantly, what can you do about it?<br/><br/></p>

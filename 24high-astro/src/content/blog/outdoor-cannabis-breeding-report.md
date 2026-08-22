@@ -4,7 +4,7 @@ description: "In this blog you can read a lot about growing cannabis with seeds 
 heroImage: "/images/news/48-1601399713-400x300.webp"
 publishedAt: "2020-09-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Welcome to the fourth part of my outdoor cannabis grow report. In my previous <a href="/en/">outdoor cannabis grow report</a>. I have harvested my two Sensi Skunk Autoflowers. As a replacement, I have start growing two Royal Queen Sweet Skunk ladies. My photoperiod cannabis plants do well with the cages around them. I still have and had a small leaf problem with some plants. However, this problem has now been almost resolved.<br/><br/></p>

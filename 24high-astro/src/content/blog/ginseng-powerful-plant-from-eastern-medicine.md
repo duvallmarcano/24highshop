@@ -4,7 +4,7 @@ description: "Read all about ginseng here: how healthy is it, and what are the e
 heroImage: "/images/news/350-1716982010-400x300.webp"
 publishedAt: "2024-05-14"
 updatedAt: "2024-05-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p><a href="/en/product/3211666-ginseng-powder-panax-ginseng">Ginseng</a> is a plant you see a lot in traditional Eastern medicine. Particularly in eastern Asia, for thousands of years. But it is also a popular plant used by many people in North America. What for? What for, you'd better ask! For instance, you will find it in potency enhancers and brain and energy boosters. It also inhibits inflammation and boosts your immunity. This tuber is therefore called the 'King of Herbs'. Read here why exactly!<br/><br/></p>

@@ -4,7 +4,7 @@ description: "What is the herb Guayusa and how to use it? Read all about the eff
 heroImage: "/images/news/249-1684322718-400x300.webp"
 publishedAt: "2023-05-15"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Guayusa - besides being quite a tongue twister - is a herb from the Amazon rainforest that indigenous people have used for centuries as a healthy pick-me-up. The leaves of this tree, which can grow 30 metres tall, are dried and then brewed into tea. Recently, it has become popular in the West because of its stimulant properties as well as its potential health benefits. Read here how to use Guayusa and what all this herb is good for.<br/><br/></p>

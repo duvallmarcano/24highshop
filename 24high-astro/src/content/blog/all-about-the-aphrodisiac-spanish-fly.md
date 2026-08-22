@@ -4,7 +4,7 @@ description: "Spanish Fly is a well-known and very popular aphrodisiac. It is a 
 heroImage: "/images/news/180-1661936917-400x300.webp"
 publishedAt: "2022-08-25"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p><!-- #######  YAY, I AM THE SOURCE EDITOR! #########--></p>

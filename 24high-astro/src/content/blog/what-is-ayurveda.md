@@ -4,7 +4,7 @@ description: "Read all about Ayurveda, the traditional medicine from India. How 
 heroImage: "/images/news/368-1722756526-400x300.webp"
 publishedAt: "2024-07-31"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Ayurveda is an ancient alternative traditional medicine with roots in India. It is a holistic practice, focusing on a balance of energies in body and mind. Literally, Ayurveda therefore means 'knowledge of life'. A personalised approach is central to treatment methods. Every individual is unique, and so is every treatment or path to optimal health. Ayurveda is quite an alternative medicine, as it deviates quite a bit from our traditional approach with medication and science as its foundation. It is quite floaty and therefore not the best treatment for all ailments. Still, you can learn some pretty wonderful life lessons from it that will make you a healthier and happier person. Read everything you need to know about the principles of Ayurveda here.<br/><br/></p>

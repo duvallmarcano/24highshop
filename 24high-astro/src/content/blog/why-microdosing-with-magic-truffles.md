@@ -4,7 +4,7 @@ description: "What is microdosing with magic truffles and does it really work? 2
 heroImage: "/images/news/177-1661935618-400x300.webp"
 publishedAt: "2022-08-25"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you looking for more focus, creativity, or balance in your daily life? Then microdosing with magic truffles might be an interesting topic for you. While the use of psychedelics is still a sensitive subject in some circles, scientific interest in microdosing is growing worldwide. Microdosing refers to the intentional intake of a very low, sub-perceptual dose of a psychedelic substance, such as psilocybin from truffles.</p>

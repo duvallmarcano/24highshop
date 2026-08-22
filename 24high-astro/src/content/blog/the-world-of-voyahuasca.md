@@ -4,7 +4,7 @@ description: "Want to know more about the – as yet unknown – voyahuasca? Rea
 heroImage: "/images/news/132-1644579456-400x300.webp"
 publishedAt: "2022-02-10"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Ayahuasca is a much-discussed brew that is drunk during a spiritual ceremony. The power of Ayahuasca is to destroy the human ego. The ego often acts as an unnecessary line of defence. For many people the ego therefore stands in the way of the path of happiness. A large ego may have been built up in childhood during upbringing or for protection after experiencing a terrible event that completely betrayed trust. Ayahuasca is a concoction of a <a href="/en/product/2208266-banisteriopsis-caapi-trueno-indian-spirit">MAO-inhibitor</a> with a plant with the substance DMT, which can reset the inner mind through hallucinations and insights. In addition to the Ayahuasca ceremonies, nowadays we also hear the word ‘voyahuasca’ pass by. It was also quite difficult for us to find out exactly what this is, because relatively little is known about it. In this blog we will take you, as best we can, into the world of – still unknown – voyahuasca.<br/><br/><strong> </strong></p>

@@ -4,7 +4,7 @@ description: "Prevent and cure nausea from shrooms, truffles and other psychedel
 heroImage: "/images/news/310-1703933494-400x300.webp"
 publishedAt: "2023-12-27"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Blowing, tripping and spacing is hearty fun and valuable. But sometimes you suddenly get nauseous. How can this happen? And more importantly, how do you prevent it? Read here what to do in case of nausea while tripping <a href="/en/">magic mushrooms,</a> <a href="/en/shop/mushrooms/magic-truffles">truffles</a> and other psychedelics.<br/><br/></p>

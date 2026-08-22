@@ -4,7 +4,7 @@ description: "We increasingly find ourselves in stressful situations, so it is v
 heroImage: "/images/news/175-1661352154-400x300.webp"
 publishedAt: "2022-08-23"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A good balance between body and mind, you hear it more and more. With our current lifestyle, we are increasingly creating or ending up in stressful situations. We push our own limits and always want to perform as well as possible. On top of that, we are often only used to turning outwards. But a good balance between body and mind - inside and outside - is very important. And this does not have to be woolly at all; even the more down-to-earth Dutch people can find balance in a practical way.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Green smoothies are very popular. But did you know that you can al
 heroImage: "/images/news/205-1670968740-400x300.webp"
 publishedAt: "2022-12-12"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Green juices or smoothies are popular. They make it easier to get super healthy green vegetables and all kinds of fruits. But if you grow your own <a href="/en/shop/seedshop/top10-seeds">cannabis</a>, you can add something extra to your smoothie - cannabis leaves. Not only do they give your juice a unique flavour, but you also get all kinds of cannabinoid acids right away. So read more about how to make this special cannabis green juice below.<br/><br/></p>

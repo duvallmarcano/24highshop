@@ -1,0 +1,110 @@
+---
+import { EUR_TO_CHF } from '../../data/site';
+
+/**
+ * Floating CHF / EUR switch.
+ *
+ * Every <Price> renders both currencies and CSS shows one, so switching is a
+ * single attribute on <html> — no rebuild, no request, and it works on a
+ * fully static page. The choice persists in localStorage and is applied
+ * before first paint by the inline script in Meta.astro.
+ */
+---
+
+<div class="fx" role="group" aria-label="Display currency">
+  <button type="button" class="fx__btn fx__btn--chf" data-currency="chf" aria-pressed="true">
+    CHF
+  </button>
+  <button type="button" class="fx__btn fx__btn--eur" data-currency="eur" aria-pressed="false">
+    EUR
+  </button>
+  <span class="fx__rate" aria-hidden="true">1 &euro; = {(1 / EUR_TO_CHF).toFixed(2)} CHF</span>
+</div>
+
+<script>
+  const KEY = '24high-currency';
+  const root = document.documentElement;
+  const buttons = document.querySelectorAll<HTMLButtonElement>('[data-currency]');
+
+  function apply(cur: 'chf' | 'eur', persist = true) {
+    root.setAttribute('data-currency', cur);
+    buttons.forEach((b) =>
+      b.setAttribute('aria-pressed', String(b.dataset.currency === cur))
+    );
+    if (!persist) return;
+    try {
+      localStorage.setItem(KEY, cur);
+    } catch {
+      /* storage blocked — the choice just won't persist */
+    }
+  }
+
+  buttons.forEach((b) =>
+    b.addEventListener('click', () => apply(b.dataset.currency as 'chf' | 'eur'))
+  );
+
+  // reflect whatever the pre-paint script already resolved
+  apply((root.getAttribute('data-currency') as 'chf' | 'eur') || 'chf', false);
+</script>
+
+<style>
+  .fx {
+    position: fixed;
+    inset-block-end: 1.1rem;
+    inset-inline-end: 1.1rem;
+    z-index: 90;
+    display: flex;
+    align-items: center;
+    background: var(--paper);
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius-pill);
+    padding: 0.2rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+  }
+
+  .fx__btn {
+    padding: 0.35rem 0.7rem;
+    border-radius: var(--radius-pill);
+    color: var(--ink-3);
+    letter-spacing: 0.06em;
+    transition: background-color 0.14s ease, color 0.14s ease;
+  }
+
+  .fx__btn:hover { color: var(--ink); }
+
+  .fx__btn[aria-pressed='true'] {
+    background: var(--spruce);
+    color: var(--ink-on-brand);
+  }
+
+  /* the rate is context, not a control — revealed on hover/focus so the
+     resting state stays a small, quiet pill */
+  .fx__rate {
+    max-width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    color: var(--ink-3);
+    transition: max-width 0.24s ease, padding 0.24s ease;
+  }
+
+  .fx:hover .fx__rate,
+  .fx:focus-within .fx__rate {
+    max-width: 12rem;
+    padding-inline: 0.5rem 0.6rem;
+  }
+
+  /* keep clear of the age gate while it is up */
+  :global(html.age-pending) .fx,
+  :global(html.age-locked) .fx {
+    display: none;
+  }
+
+  @media (max-width: 640px) {
+    .fx {
+      inset-block-end: 0.8rem;
+      inset-inline-end: 0.8rem;
+    }
+    .fx__rate { display: none; }
+  }
+</style>

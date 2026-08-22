@@ -4,7 +4,7 @@ description: "The dose of magic mushrooms or truffles you take is very important
 heroImage: "/images/news/247-1683798342-400x300.webp"
 publishedAt: "2023-05-10"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Determining which dose of magic mushrooms or truffles works best for you is a tricky question, with no single answer, really. Sometimes shrooms or trip nodules are used to trip heavily with a high dose, but it is also used to microdose to experience mild benefits. In addition, choosing the right dosage also depends on the product you choose. Whether the product is fresh or dried, what you eat and how much you weigh. You can always use our handy <a href="/en/">Magic Mushroom Calculator</a> on our website, but in this article we will give you even more detailed information on the correct dosage of magic mushrooms and truffles.<br/><br/></p>

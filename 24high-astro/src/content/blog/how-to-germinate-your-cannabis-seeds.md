@@ -4,7 +4,7 @@ description: "We show you how to germinates your cannabis seeds in the classic w
 heroImage: "/images/news/7-1557158213-400x300.webp"
 publishedAt: "2019-03-03"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>It is of course useful that when you buy seeds that you also know how to germinate/grow them. It can happen that a cannabis seed does not germinate. This is what no grower wants. Of course the way of germination/growing does influence the emergence of the cannabis <a href="/en/">seeds</a>. <br/><br/></p>

@@ -4,7 +4,7 @@ description: "Blog about how to set up and harvest a mushroom grow kit supported
 heroImage: "/images/news/39-1592578395-400x300.webp"
 publishedAt: "2020-06-15"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>I'm Mike and this is my second mushroom growing report for 24High. However, this grow report is about Cannabis this time, but about Magic Mushrooms, also called (Magic) Mushrooms. After my previous blog about growing Cannabis, this blog will be about growing Magic Mushrooms. Anyway, let's talk about the shrooms now. What exactly are psilocybin Mushrooms? Literally translated, they are just mushrooms. However, when people talk about ‘’Mushrooms’’, it's often the ones that give you a good trip. Magic shrooms are mind-altering and hallucinogenic drugs. Unfortunately, the sale of a freshly harvested mushroom is no longer allowed in the Netherlands. Fresh Truffles, family of the Magic Mushroom (species), may be sold. Growing mushrooms at home is still allowed! That is why you can still enjoy a delicious Mushroom Trip. A growkit is quite easy to use, and I'm going to explain how to do it in this blog. The easiest way to grow them is to start with an All-in-One <a href="/en/shop/mushrooms/growkits-mushroom">Mushroom Growkit.</a><br/><br/></p>

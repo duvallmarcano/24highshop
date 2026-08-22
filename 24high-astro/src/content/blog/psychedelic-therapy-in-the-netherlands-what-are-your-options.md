@@ -4,7 +4,7 @@ description: "If you have therapy and want to add psychedelics to it, you will p
 heroImage: "/images/news/316-1706196595-400x300.webp"
 publishedAt: "2024-01-18"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>That psychedelics can help with mental health complaints has escaped no one's attention, we even wrote a blog about it: <a href="/en/">Research on the benefits of psychedelics for mental complaints</a>. Do you yourself have therapy for PTSD, depression or anxiety, and want to know if psychedelics can do anything for you? Then it is important to be aware of the possibilities. After all, you can't just mention to your therapist that you want to add MDMA, magic mushrooms or other psychedelics to your therapy. Because even though the hopeful reports in the media seem to make you believe that psychedelic therapy has become normal, officially it is far from that. Read here what your options really are if you want to safely add psychedelics to your existing therapy. And: how safe is it really?<br/><br/></p>

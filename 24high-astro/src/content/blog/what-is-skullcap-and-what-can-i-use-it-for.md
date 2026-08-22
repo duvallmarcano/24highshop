@@ -4,7 +4,7 @@ description: "Have you ever heard of the Skullcap? In this blog, read all about 
 heroImage: "/images/news/254-1685714826-400x300.webp"
 publishedAt: "2023-05-15"
 updatedAt: "2023-06-04"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Have you heard of skullcap (also known as Skullcap)? This little plant has been used in Asia and America for centuries. But it can also be of great use today. For instance, you could use it for sleeping problems, mood problems and infections. And perhaps interestingly, it can also cause a mild high. In this blog, you can read all about this medicinal herb.<br/><br/></p>

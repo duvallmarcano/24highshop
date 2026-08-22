@@ -4,7 +4,7 @@ description: "What exactly are Happy Caps and what can you use them for? Read mo
 heroImage: "/images/news/214-1673612819-400x300.webp"
 publishedAt: "2023-01-13"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you looking for a powerful and natural herb with which to achieve a euphoric or tripping effect? Then Happy Caps are perfect for you! Whether you enjoy a night out or need a pick-me-up after a miserable day, with these caps you can improve your mood! In this article, we'll tell you all about the magic caps.<br/><br/></p>

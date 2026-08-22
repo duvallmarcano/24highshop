@@ -4,7 +4,7 @@ description: "Looking for a truffle tea? In this blog i will share with you the 
 heroImage: "/images/news/16-1571567791-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2026-02-12"
-author: "24High"
+author: "24highshop"
 ---
 
 <p><strong>Truffle tea usually produces a faster and more intense onset compared to eating magic truffles directly.</strong> Because the active compounds are already dissolved in warm water, they are absorbed more quickly. In this complete guide, you’ll learn exactly how to make truffle tea, what dosage to use, what effects to expect, and what to consider for a safe experience.</p>

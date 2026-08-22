@@ -4,7 +4,7 @@ description: "5-HTP can help with problems with your mood, sleep and appetite. R
 heroImage: "/images/news/282-1694596196-400x300.webp"
 publishedAt: "2023-09-11"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p><a href="/en/product/3207800-5-htp-40-pieces">5-HTP</a> is a dietary supplement mainly used to improve mood. This amino acid is a precursor of the happiness chemical serotonin, which incidentally is also involved in the regulation of sleep and appetite. Therefore, it seems that 5-HTP can also help people with sleep problems and excessive appetite reduce them. Read all about this supplement and what you can use it for here.<br/><br/></p>

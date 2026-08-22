@@ -4,7 +4,7 @@ description: "Do you want to microdose with magic mushrooms? Read how to proceed
 heroImage: "/images/news/141-1647362108-400x300.webp"
 publishedAt: "2022-03-14"
 updatedAt: "2024-04-18"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you think of magic mushrooms, you probably immediately think of tripping. However, you don't always have to use magic mushrooms to get high, you can also use it for other purposes. A small amount of magic mushrooms could help you function better, be more balanced and may even have medicinal effects. Taking a small amount for this reason is also called microdosing (or microdosing). How do you handle this? We explain it to you in this blog.<br/><br/></p>

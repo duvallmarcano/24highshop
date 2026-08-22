@@ -4,7 +4,7 @@ description: "The vaporizer is becoming increasingly popular as an alternative t
 heroImage: "/images/news/191-1665328641-400x300.webp"
 publishedAt: "2022-10-09"
 updatedAt: "2023-07-27"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Have you ever smoked weed in a vaporizer? The vaporizer has become increasingly popular in recent years as a way to smoke weed. It is better for your lungs because the air cools down more and, in addition, you get less harmful substances. But it is important to replace the weed in time. It's a waste to do it too early, but also not useful if you do it too late. In this blog, we explain what to look out for, so you know when it's time to replace the weed in your vaporizer.<br/><br/></p>

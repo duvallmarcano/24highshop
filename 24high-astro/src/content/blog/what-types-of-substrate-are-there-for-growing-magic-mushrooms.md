@@ -4,7 +4,7 @@ description: "Read in our blog about the many different types of substrates that
 heroImage: "/images/news/76-1618240689-400x300.webp"
 publishedAt: "2021-04-08"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Welcome to this blog about making a mushroom growing substrate, which covers all the necessary information about the different substrates for your mushroom growing and how to prepare them. We help you choose a suitable substrate and much more. If you want to grow mushrooms, it is very important that you choose the right substrate. If you are not using a ready-to-use grow kit, you will have to prepare the medium yourself. Growing magic mushrooms is very different from growing (cannabis) plants, where soil from a garden center is often sufficient. Mushrooms are not plants, but belong to the fungal family. As a result, they logically also need specific cultivation conditions, in which the right substrate plays a very important role.<br/><br/></p>

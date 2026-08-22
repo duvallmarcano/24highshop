@@ -4,7 +4,7 @@ description: "Recently, you can trip with an app, which guides you in different 
 heroImage: "/images/news/299-1700047462-400x300.webp"
 publishedAt: "2023-11-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>There is an app for everything these days. So too for those going tripping: the Field Trip app guides you on that inner journey. The makers of the app: <a href="https://www.fieldtriphealth.com/">Field Trip Health</a>, a chain of clinics that tackle mental problems with psychedelics like <a href="/en/shop/mushrooms/magic-truffles">truffles</a> or <a href="/en/shop/mushrooms/growkits-mushroom">magic mushrooms.</a> Their mission with this app: to be your 'psychedelic guide' before, during and after your trip. How does this app work and is it something for you?<br/><br/></p>

@@ -4,7 +4,7 @@ description: "You will read all about cannabis, what weed does and what the acti
 heroImage: "/images/news/251-1684913918-400x300.webp"
 publishedAt: "2023-05-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>You've probably heard of it before - cannabis - also known as marijuana. It is a plant that has been used for thousands of years as a medicine and for recreational purposes. It contains a number of active substances, including THC and CBD, which are responsible for its psychoactive and therapeutic effects. In this article, we will discuss the properties of cannabis, its effects on the brain and differences between products from the cannabis plant.<br/><br/></p>

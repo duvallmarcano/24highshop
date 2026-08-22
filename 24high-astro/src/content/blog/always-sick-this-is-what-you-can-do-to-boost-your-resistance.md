@@ -4,7 +4,7 @@ description: "Are you always sick and want to boost your immunity? Follow these 
 heroImage: "/images/news/326-1709216805-400x300.webp"
 publishedAt: "2024-02-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you always sick and seem to take every virus home with you? Incredibly frustrating! So how can you boost your resistance? There are several strategies you can employ to improve your immune system. From behaviour to nutrition and supplements, these are the best, scientifically proven tips to improve your resistance.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "If you want to grow magic mushrooms yourself, you will also have t
 heroImage: "/images/news/50-1600780460-400x300.webp"
 publishedAt: "2020-09-22"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The world of magic mushrooms is a bit mysterious, but always fascinating. This is not only because of the influence they can have on you, but also because of their growth habit. Especially if you want to grow <a href="/en/">magic mushrooms</a>, it is useful to know a little more about it. In mushroom cultivation, you often come across the word mycelium. That is the network of hyphae from which the magic mushrooms originate. You can read more about that in this blog. <br/><br/></p>

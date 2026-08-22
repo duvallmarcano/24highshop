@@ -4,7 +4,7 @@ description: "If you want to grow mushrooms and have a nice harvest, a grow book
 heroImage: "/images/news/245-1683112654-400x300.webp"
 publishedAt: "2023-05-02"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Growing <a href="/en/">mushrooms</a> can be a great experience, but it does require some planning and preparation. Since you are not the first to take up this fun hobby, there is no need for you to reinvent the wheel yourself when it comes to growing. The manual for a good harvest is a so-called grow book. This bible for mushroom growers explains step by step what to do. And that has the advantage that you have more fun while maximising your yield. More mushrooms for less effort.</p>

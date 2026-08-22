@@ -4,7 +4,7 @@ description: "In this blog, we will tell you all about how the Lion's Mane mushr
 heroImage: "/images/news/197-1668595054-400x300.webp"
 publishedAt: "2022-11-15"
 updatedAt: "2025-03-03"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The Lion's Mane is a beautiful mushroom to look at. It has an imposing white-yellow bunch of lion's mane from which it gets its name. Just as imposing as its appearance is its action. In fact, this fungus could give you the focus, concentration and memory of a lion with nerves of steel! Time to give this mushroom a little more attention.<br/><br/></p>

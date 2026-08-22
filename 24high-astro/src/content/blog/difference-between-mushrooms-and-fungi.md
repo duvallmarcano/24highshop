@@ -4,7 +4,7 @@ description: "Have you ever thought whether there is a difference between mushro
 heroImage: "/images/news/219-1675262793-400x300.webp"
 publishedAt: "2023-01-30"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Have you ever thought whether there is a difference between mushrooms and fungi? Whether you see a mushroom growing in the forest among the trees, or they are on your plate as part of a healthy meal: these mushrooms are fungi. But not all fungi are mushrooms. How that works, in short, what the difference is between <a href="/en/shop/mushrooms/medicinal-mushrooms">mushrooms</a> and fungi, we explain in this blog.<br/><br/></p>

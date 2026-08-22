@@ -4,7 +4,7 @@ description: "Want to know when your outdoor cannabis plants will flower? Find o
 heroImage: "/images/news/264-1689153092-400x300.webp"
 publishedAt: "2023-07-03"
 updatedAt: "2023-07-30"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Cannabis plants have a fairly predictable life cycle, mainly following the light. An outdoor cannabis plant tracks when and how long it is light outside and shoots into flowering based on that. Knowing when your cannabis plant flowers gives you an indication of when you can harvest. Valuable knowledge, in other words! Find out when the flowering period starts here, so you know what to expect from your outdoor cannabis plant.<br/><br/></p>

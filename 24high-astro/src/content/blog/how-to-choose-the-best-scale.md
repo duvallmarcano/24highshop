@@ -4,7 +4,7 @@ description: "Do you know which scale to use for psychedelics? Learn more about 
 heroImage: "/images/news/140-1647010993-400x300.webp"
 publishedAt: "2022-03-10"
 updatedAt: "2024-04-18"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Choosing a scale does not seem so important. But there is a lot of choice, and how do you know which scale suits you best? You may be using cannabis, magic mushrooms or truffles. A scale gives you the opportunity to accurately weigh how much you are going to take. They are certainly not just for professionals. Even if you are a hobby grower or do microdosing, a scale can be very useful. If you want to buy one, read below what you should pay attention to when buying a scale.<br/><br/></p>

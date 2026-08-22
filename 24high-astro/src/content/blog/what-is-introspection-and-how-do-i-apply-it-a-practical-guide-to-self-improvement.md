@@ -4,7 +4,7 @@ description: "Look within and improve your life. Here is a practical guide to se
 heroImage: "/images/news/352-1717586869-400x300.webp"
 publishedAt: "2024-05-29"
 updatedAt: "2024-06-05"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Introspection is an important part of self-reflection and self-awareness. It literally means 'looking inside'. Here, you examine your own thoughts, feelings, emotions and behaviour and analyse them to become a better person. So introspection allows you to gain a better understanding of yourself, your motivations and your goals. And so you can make strides and become a nicer and better person. It does take some work. You will almost literally encounter yourself and be confronted with less pleasant sides of yourself. But then you will have something! Here we tell you how to apply introspection in practice.<br/><br/></p>

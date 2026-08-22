@@ -4,7 +4,7 @@ description: "What is kanna and how can it help you? Read this and more in our b
 heroImage: "/images/news/27-1585598031-400x300.webp"
 publishedAt: "2020-03-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Almost everyone has fears. Yet there is a group of people who have lived for years without any form of fear. The secret behind this fearless existence? Kanna, also known as sceletium tortuosum. Kanna reduces feelings of anxiety, stress and can even help with depressive symptoms.<br/><br/></p>

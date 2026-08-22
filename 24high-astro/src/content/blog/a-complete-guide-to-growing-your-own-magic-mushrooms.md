@@ -4,7 +4,7 @@ description: "In this complete guide, you will read all about growing psilocybe 
 heroImage: "/images/news/272-1690818757-400x300.webp"
 publishedAt: "2023-07-23"
 updatedAt: "2026-06-23"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Want to grow your own magic mushrooms with a magic mushroom grow kit? A grow kit offers one of the easiest ways to cultivate psilocybin-containing mushrooms in a controlled environment at home. Most mushroom grow kits contain a prepared substrate colonised with mycelium and a grow bag, allowing you to start growing without having to prepare everything from scratch.</p>

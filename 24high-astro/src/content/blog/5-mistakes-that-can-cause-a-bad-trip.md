@@ -4,7 +4,7 @@ description: "Nobody wants to experience a Bad trip with magic mushrooms, read h
 heroImage: "/images/news/89-1628852223-400x300.webp"
 publishedAt: "2021-08-03"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Did you know that you can also do things wrong when tripping? Tripping can be an experience that can give your life a positive boost, change your view of everyday reality and help you move past fears or other barriers. However, it is important that you do not make mistakes when using your trip resources. For example, you should provide a nice environment, good company and not combine drugs. Do you make these 5 common mistakes when you trip? Read here how you can prevent this.</p>

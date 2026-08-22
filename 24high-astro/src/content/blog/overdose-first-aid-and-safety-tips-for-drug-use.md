@@ -4,7 +4,7 @@ description: "What do you do if you go too hard on XTC, truffles, LSD or GHB? Re
 heroImage: "/images/news/453-1752504509-400x300.webp"
 publishedAt: "2025-07-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>You might know the scene: the vibe is great, the music is perfect, everyone is in the zone. You decide to take half a pill or a lick of an LSD blotter. But then things go wrong. Your heart races, your hands sweat, your body trembles, or your thoughts spiral. Chances are you're experiencing an overdose. This happens more often than you'd think, but fortunately, there are things you can do. In this article, you'll learn what to do in case of an overdose.<br/><br/></p>

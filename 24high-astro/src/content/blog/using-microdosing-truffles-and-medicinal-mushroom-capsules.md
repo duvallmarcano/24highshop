@@ -4,7 +4,7 @@ description: "Discovering microdosing truffles? 24High offers explanations, prot
 heroImage: "/images/news/182-1663579442-400x300.webp"
 publishedAt: "2022-09-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The careful application of microdosing with psilocybin-containing truffles is increasingly being studied for its potential effects on mental clarity, creativity, and emotional well-being. Interest is also growing in combining this with  medicinal mushrooms, such as Lion’s Mane. In this article, we explain how microdosing works, what protocols you can follow, and how to potentially combine it with supplements based on medicinal mushrooms.</p>

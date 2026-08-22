@@ -4,7 +4,7 @@ description: "What is Resin or Rosin, and how do you extract THC from Cannabis? 
 heroImage: "/images/news/33-1588610597-400x300.webp"
 publishedAt: "2020-04-30"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Each industry has its own characteristics, including the cannabis world. The cannabis world is constantly evolving. New genetics are discovered almost every year. Growing techniques, nutrients and equipment are constantly being developed and more professional. All these new developments are supported by the huge legal growth sectors in countries such as the United States and Canada. Billions of euros are invested annually in research into the medical benefits of cannabis. In recent years, cannabis consumption has gone well beyond the joint you lit in the schoolyard at 18. Today, cannabis users can enjoy weed in several innovative forms that would blow away the joints of previous generations of smokers. <a href="/en/"> Creativity</a> triumphs in the field of cannabis products, some examples are: CBD oils, CBD edibles, CBD ointments. But when we talk about Cannabis users who want to get well stoned and high, the preference is for butane hash oil, rosin/resin or a strong weed. The Cannabis industry is growing so fast that it will continue to surprise us in the coming years with interesting products, such as resin, and new trends!<br/><br/></p>

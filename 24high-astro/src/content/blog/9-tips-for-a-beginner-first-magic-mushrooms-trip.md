@@ -4,7 +4,7 @@ description: "Are you going to try mushrooms for the first time? Then read our 9
 heroImage: "/images/news/14-1572900572-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2024-04-18"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you going to use mushrooms for the first time? Then it is wise to read these 9 golden tips before you start your first mushroom trip. They make sure you have the best trip possible, and let's face it, that's what we do it all for, right?<br/><br/></p>

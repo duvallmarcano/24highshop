@@ -4,7 +4,7 @@ description: "Need more energy? I've gathered 6 tips for more energy that will t
 heroImage: "/images/news/19-1569526111-400x300.webp"
 publishedAt: "2019-09-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Want more energy? Do you no longer feel tired and lifeless? I have collected 6 tips for more energy for you that will completely change your life. From now on, you can handle anything, and you will never be exhausted on the couch again.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Which drugs is best for microdosing to become smarter? The best mi
 heroImage: "/images/news/11-1569605596-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Have you heard about the success stories that can be achieved with microdosing? Then you may be curious about which types of drugs you can start microdosing with? There are several substances that can help you get more out of life than you currently do.<br/><br/></p>

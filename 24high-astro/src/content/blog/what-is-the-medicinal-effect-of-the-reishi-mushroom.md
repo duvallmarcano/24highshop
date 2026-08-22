@@ -4,7 +4,7 @@ description: "The mushroom of immortality. And that's not for nothing. Are you c
 heroImage: "/images/news/142-1647621515-400x300.webp"
 publishedAt: "2022-03-17"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In this blog, we tell you everything about the Reishi mushroom. This special mushroom has a beautiful appearance and is known as the mushroom of immortality. You can guess that this mushroom has a lot of medicinal effects. That's why they are very well-known in the east and truly respected by the TCM (Traditional Medicinal Medicine). We tell you all about it in this blog, and we are very curious if you will give it a try after reading.<br/><br/></p>

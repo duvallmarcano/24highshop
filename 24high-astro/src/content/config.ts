@@ -31,7 +31,7 @@ const blog = defineCollection({
     heroImage: z.string().default(''),
     publishedAt: z.string(),
     updatedAt: z.string().default(''),
-    author: z.string().default('24High'),
+    author: z.string().default('24highshop'),
   }),
 });
 

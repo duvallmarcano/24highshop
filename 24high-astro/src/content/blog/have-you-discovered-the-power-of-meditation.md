@@ -4,7 +4,7 @@ description: "What is the power of meditation? Meditation is an age-old techniqu
 heroImage: "/images/news/51-1601105815-400x300.webp"
 publishedAt: "2020-09-25"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>What is the power of meditation? Meditation is an age-old technique to calm the mind. Even before our era, there were philosophers who remarked how restless the human mind could be. Many people try to cope with tension, but find that they just keep on worrying. Meditating can help you distance yourself from your thoughts. It really works, but you will have to practice. Read in this blog about the benefits of meditation and whether there are any other resources that can help.<br/><br/></p>

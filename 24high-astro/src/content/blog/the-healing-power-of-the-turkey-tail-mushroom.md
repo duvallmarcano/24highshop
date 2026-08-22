@@ -4,7 +4,7 @@ description: "Find out all about Turkey Tail Mushroom (Trametes versicolor), its
 heroImage: "/images/news/209-1672168068-400x300.webp"
 publishedAt: "2022-12-12"
 updatedAt: "2025-03-13"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In the Netherlands, this mushroom is known as the Trametes versicolor because of its colourful layers. We are talking about the Turkey Tail, also called Trametes versicolor or Coriolus versicolor in Latin. Originating from traditional Chinese medicine. This medicinal mushroom has a number of unique properties that make it worth finding out more about it. In this article, we would like to tell you more about the Turkey Tail mushroom as well as both its spores.</p>

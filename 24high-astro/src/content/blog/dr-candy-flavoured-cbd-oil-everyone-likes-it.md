@@ -4,7 +4,7 @@ description: "Do you think CBD oil is gross? Not to worry, as Dr Candy has relea
 heroImage: "/images/news/307-1702899732-400x300.webp"
 publishedAt: "2023-12-12"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>CBD oil has a rather distinct taste. Would you even call the taste experience 'gross'? For you, 24High has something new: flavoured CBD oil. <br/><br/></p>

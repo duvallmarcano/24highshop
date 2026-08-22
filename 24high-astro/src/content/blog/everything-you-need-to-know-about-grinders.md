@@ -4,7 +4,7 @@ description: "A grinder will crumble your cannabis, but certainly other herbs to
 heroImage: "/images/news/52-1602058557-400x300.webp"
 publishedAt: "2020-10-07"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In this blog, we'll tell you everything you should know about grinders. First let's start with a simple explanation, most of you know what a grinder is but some probably don't (yet). In addition, it is always important to keep a grinder clean so that it lasts longer and remains smoother. Of course it is also better hygiene to keep your grinder clean. More on this further in this blog. Do you want to buy a grinder? These can be found here: <a href="/en/shop/headshop/grinders">grinders</a></p>

@@ -4,7 +4,7 @@ description: "Keta for anxiety, depression and PTSD: can it help? Read about thi
 heroImage: "/images/news/332-1711186734-400x300.webp"
 publishedAt: "2024-02-21"
 updatedAt: "2024-03-23"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>You may know ketamine mainly as a recreational drug, but it is actually a strong anaesthetic. If you break a leg on the football pitch, you might get a shot of ketamine to get you through the rest of the day. However, 'Keta','ket' or 'K' has also recently become known for its ability to treat psychological symptoms. In particular, people with therapy-resistant depression and post-traumatic stress disorder (PTSD) seem to benefit from ketamine. But besides the potential life-enhancing effects, there are also risks associated with the use of ketamine for psychological symptoms... Read all about the opportunities offered by this so-called 'ketatherapy' here.</p>

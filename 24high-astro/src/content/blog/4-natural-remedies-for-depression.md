@@ -4,7 +4,7 @@ description: "Depression is one of the most emotional trastornos in the communit
 heroImage: "/images/news/258-1687087281-400x300.webp"
 publishedAt: "2023-06-15"
 updatedAt: "2023-06-18"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Depression is the most common mental illness in the Netherlands. GPs are quick to prescribe regular medication for depression, the commonly used antidepressants. But natural remedies can often be just as effective and have less serious side effects. In this blog, you can read more about 4 of these natural remedies you can use for depression.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Discover this year's best psytrance festivals that are absolutely 
 heroImage: "/images/news/356-1719130321-400x300.webp"
 publishedAt: "2024-05-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The best music, the most mind-blowing atmosphere, dancing and partying until the sun rises again: if you love music and psychedelics, you must have been at one of these Psytrance festivals this year. In Europe, great festivals are taking place everywhere this summer. We list the best and most special ones for you below.</p>

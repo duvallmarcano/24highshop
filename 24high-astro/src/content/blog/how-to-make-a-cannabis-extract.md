@@ -4,7 +4,7 @@ description: "How do you make a cannabis extract? It is very easy. But you need 
 heroImage: "/images/news/185-1664972990-400x300.webp"
 publishedAt: "2022-09-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Make your own extract? It is very simple! But you need to know exactly what you are doing. You need to choose the right liquid and know how to extract cannabis safely and carefully. In this article, we'll tell you all about how to make an extract.<br/><br/></p>

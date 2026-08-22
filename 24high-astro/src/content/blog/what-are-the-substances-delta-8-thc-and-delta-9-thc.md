@@ -4,7 +4,7 @@ description: "We tell you everything about Delta 8 THC and Delta 9 THC. What doe
 heroImage: "/images/news/143-1648287384-400x300.webp"
 publishedAt: "2022-03-21"
 updatedAt: "2024-09-09"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Delta 8 THC and Delta 9 THC are substances that are very similar. However, they are also very different from each other. We will take you along in this blog and tell you everything about these substances. What is THC? What is the difference between the fabrics, and how do they resemble each other? Read more about it in this blog.<br/><br/></p>

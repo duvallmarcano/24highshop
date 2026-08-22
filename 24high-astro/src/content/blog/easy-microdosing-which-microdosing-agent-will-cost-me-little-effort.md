@@ -4,7 +4,7 @@ description: "Want to go microdosing, but preferably with little effort? Read he
 heroImage: "/images/news/297-1699449667-400x300.webp"
 publishedAt: "2023-11-06"
 updatedAt: "2023-11-09"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Of the substances you can microdose with in this article, not all are legal. That makes some substances a little easier to get hold of than others. Want to go 100% legal? Then these are your options, from easy to more tricky:<br/><br/></p>

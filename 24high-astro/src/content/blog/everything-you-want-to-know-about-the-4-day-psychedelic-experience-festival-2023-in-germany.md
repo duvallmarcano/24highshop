@@ -4,7 +4,7 @@ description: "Everything you want to know about the 2023 Pyschedelic Experience 
 heroImage: "/images/news/230-1678551759-400x300.webp"
 publishedAt: "2023-03-07"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <h2>Everything you want to know about the 4-day Psychedelic Experience Festival 2023 in Germany!</h2>

@@ -4,7 +4,7 @@ description: "Read more about the medicinal properties of the Wild Dagga, also c
 heroImage: "/images/news/156-1652891781-400x300.webp"
 publishedAt: "2022-05-10"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The history of the medicinal plant Wild Dagga, also known as lion's tail or wild cannabis, goes back thousands of years. This plant grows in the Southern regions of Africa and has been much loved by the indigenous people for centuries. They use the plant to treat various insect and snake bites. Not only that, the <a href="/en/shop/smartshop/medicinal-herbs">Wild Dagga</a> also has a positive effect on headache, diarrhea and fever. Reason enough to explain the medicinal properties of Wild Dagga in more detail in this article.<br/><br/></p>

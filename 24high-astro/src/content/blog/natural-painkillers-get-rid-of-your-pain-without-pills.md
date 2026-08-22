@@ -4,7 +4,7 @@ description: "How to reduce pain like headaches and muscle aches without painkil
 heroImage: "/images/news/369-1722889944-400x300.webp"
 publishedAt: "2024-07-31"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Whether it's a headache, menstrual pain or muscle ache: you want to get rid of it as soon as possible. If you are not into drugs, then we have good news: you can also fight pain with natural painkillers and plants. Some of them you will probably never have heard of. At least, not in the form of a painkiller! Read here how to relieve pain with plants and other natural remedies.<br/><br/></p>

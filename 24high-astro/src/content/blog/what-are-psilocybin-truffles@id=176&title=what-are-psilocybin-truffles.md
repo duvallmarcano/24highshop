@@ -4,7 +4,7 @@ description: "What are magic truffles or psilocybin truffles and what effects do
 heroImage: "/images/news/176-1770813873-400x300.webp"
 publishedAt: "2022-08-25"
 updatedAt: "2026-02-11"
-author: "24High"
+author: "24highshop"
 ---
 
 <p><strong>Psilocybin truffles</strong> are legal psychedelic products in the Netherlands that contain the active compound psilocybin. This substance is converted in the body into psilocin and causes temporary changes in perception, emotions, and consciousness. In this complete guide, you will read exactly what truffles are, how they work, what effects you can expect, how dosing works, and what the risks are.</p>

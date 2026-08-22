@@ -40,7 +40,7 @@ const MEGA_LIMIT = 10;
       </button>
 
       <a class="hdr__logo" href="/en/">
-        24High
+        <span class="hdr__logo-a">24high</span><span class="hdr__logo-b">shop</span>
         <span class="hdr__ch" aria-hidden="true">CH</span>
       </a>
 
@@ -55,29 +55,6 @@ const MEGA_LIMIT = 10;
           <Icon name="sun" size={17} class="icon-light" />
           <Icon name="moon" size={17} class="icon-dark" />
         </button>
-
-        <details class="langsel">
-          <summary aria-label={t('nav.language')}>
-            EN <Icon name="chevron-down" size={12} />
-          </summary>
-          <ul role="list">
-            {
-              LOCALES.map((l) => (
-                <li>
-                  {l.enabled ? (
-                    <a href="/en/" hreflang={l.hreflang} lang={l.code}>
-                      {l.label}
-                    </a>
-                  ) : (
-                    <span class="langsel__soon">
-                      {l.label} <em>soon</em>
-                    </span>
-                  )}
-                </li>
-              ))
-            }
-          </ul>
-        </details>
 
         <a class="hdr__act hdr__cart" href="/en/cart" aria-label={t('nav.basket')}>
           <Icon name="cart" size={17} />
@@ -141,6 +118,33 @@ const MEGA_LIMIT = 10;
             </li>
           ))
         }
+
+        <li class="nav__item nav__item--end">
+          <details class="langsel">
+            <summary aria-label={t('nav.language')}>
+              <Icon name="external" size={13} />
+              English
+              <Icon name="chevron-down" size={12} />
+            </summary>
+            <ul role="list">
+              {
+                LOCALES.map((l) => (
+                  <li>
+                    {l.enabled ? (
+                      <a href="/en/" hreflang={l.hreflang} lang={l.code} aria-current="true">
+                        {l.label}
+                      </a>
+                    ) : (
+                      <span class="langsel__soon">
+                        {l.label} <em>soon</em>
+                      </span>
+                    )}
+                  </li>
+                ))
+              }
+            </ul>
+          </details>
+        </li>
       </ul>
     </div>
   </nav>
@@ -253,11 +257,15 @@ const MEGA_LIMIT = 10;
     gap: 0.3rem;
     font-family: var(--font-display);
     font-size: 1.28rem;
-    font-weight: 700;
     letter-spacing: -0.045em;
     color: var(--ink);
     text-decoration: none;
+    white-space: nowrap;
   }
+
+  .hdr__logo-a { font-weight: 700; }
+  .hdr__logo-b { font-weight: 400; color: var(--ink-3); }
+  .hdr__logo:hover .hdr__logo-b { color: var(--spruce); }
 
   .hdr__ch {
     font-family: var(--font-mono);
@@ -344,11 +352,11 @@ const MEGA_LIMIT = 10;
   .langsel summary {
     display: flex;
     align-items: center;
-    gap: 0.2rem;
-    height: 2.1rem;
-    padding-inline: 0.45rem;
-    font-family: var(--font-mono);
-    font-size: var(--step--2);
+    gap: 0.4rem;
+    padding-block: 0.7rem;
+    font-family: var(--font-display);
+    font-size: var(--step--1);
+    font-weight: 500;
     color: var(--ink-2);
     cursor: pointer;
     list-style: none;
@@ -394,11 +402,14 @@ const MEGA_LIMIT = 10;
 
   .nav__list {
     display: flex;
+    align-items: center;
     gap: 1.5rem;
     padding: 0;
     margin: 0;
     list-style: none;
   }
+
+  .nav__item--end { margin-inline-start: auto; }
 
   .nav__item { position: static; }
 

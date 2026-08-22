@@ -4,7 +4,7 @@ description: "Full-spectrum CBD oil contains not only the well-known cannabinoid
 heroImage: "/images/news/206-1671128883-400x300.webp"
 publishedAt: "2022-12-12"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you use a full spectrum CBD oil, it contains not only the well-known cannabinoid CBD, but also other substances. Think flavonoids, other cannabinoids and terpenes. Although this last group is not so well known, terpenes also have their own unique properties. If you want to know what terpenes in <a href="/en/shop/cbdshop/cbd-oil">CBD Oil</a> actually are and what they do, be sure to read on below.<br/><br/></p>

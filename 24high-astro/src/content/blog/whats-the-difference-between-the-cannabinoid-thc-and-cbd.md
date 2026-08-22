@@ -4,7 +4,7 @@ description: "THC and CBD are often confused, and this is strange because they h
 heroImage: "/images/news/137-1646226191-400x300.webp"
 publishedAt: "2022-02-28"
 updatedAt: "2026-03-31"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>CBD and THC are both active compounds from the cannabis plant that have gained significant attention in recent years—both in healthcare and among consumers. Although they are often mentioned together, they differ fundamentally in their effects, legal status, and applications.</p>

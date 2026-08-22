@@ -4,7 +4,7 @@ description: "Increase intelegence with microdosing magic truffles? I'll show yo
 heroImage: "/images/news/10-1566981796-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Want to get more out of life? Then microdosing with magic truffles might be something for you. It may sound exciting, magic truffles, but a lot of research is currently being done, and the results are promising. More creativity, less stress and sharper concentration. These are all characteristics of microdosing with magic truffles. Interesting of course. We want to know more about that.<br/><br/></p>

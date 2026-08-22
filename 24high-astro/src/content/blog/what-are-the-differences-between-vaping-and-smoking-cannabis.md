@@ -4,7 +4,7 @@ description: "Are you looking for a way to ingest THC without nicotine? Then qui
 heroImage: "/images/news/83-1624368640-400x300.webp"
 publishedAt: "2021-06-17"
 updatedAt: "2025-03-31"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>If you want to use cannabis, it is useful to know the differences between vaping and smoking. The use of vaporizers is becoming more and more popular, because it is clear that smoking has certain disadvantages. But the threshold for using a vaporizer may be a bit higher than just rolling a joint.</p>

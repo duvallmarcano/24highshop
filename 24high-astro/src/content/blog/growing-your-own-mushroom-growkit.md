@@ -4,7 +4,7 @@ description: "Do you want to grow mushrooms with a growkit? Read this handy inst
 heroImage: "/images/news/8-1557157781-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2026-07-07"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A growkit is the ultimate way to grow your mushrooms. Don't worry, growing mushrooms is childishly easy. By ordering a mushroom Grow kit you are fully equipped and your magic mushrooms will give you more satisfaction than ever before. You have grown them yourself. Make no mistake, from a mushroom grow kit you can pick up more than one harvest. So you can have several trips on one mushroom grow kit and count on how cheap your mushroom trip is at that time.<br/><br/></p>

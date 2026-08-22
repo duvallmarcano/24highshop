@@ -4,7 +4,7 @@ description: "What are the differences between hashish and marijuana? In this bl
 heroImage: "/images/news/329-1710070569-400x300.webp"
 publishedAt: "2024-02-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>If you have just started to delve into the world of cannabis, you may be wondering what the differences are between hash and weed. There are all sorts of cannabis-based products available, from cannabis seeds and edibles to hashish. It's good to know exactly what is what, so you can choose the right product for you. In this blog, you will read what hash and weed are, how they differ, but also how they are similar.<br/><br/></p>

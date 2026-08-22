@@ -4,7 +4,7 @@ description: "What is journaling and how do you keep a journal for more spiritua
 heroImage: "/images/news/345-1715158492-500x500.webp"
 publishedAt: "2024-05-02"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Do you want more peace of mind, work on yourself, achieve certain life goals and know how to grow internally? Then journaling is a very smart move. Keeping a journal is more than spitting your bile in a diary. It goes many steps further and is a really good tool for personal growth. This is because journaling allows you to reflect and feel more connection with your true self. You can also hurl your wishes for the future into the universe by manifesting these things in your journal. Then you have to do something with it of course - but don't underestimate the power of your pen! Read here how to put your soul's feelings on paper through journaling and turn them into personal and spiritual growth.<br/><br/></p>

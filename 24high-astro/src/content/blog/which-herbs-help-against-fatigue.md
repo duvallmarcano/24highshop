@@ -4,7 +4,7 @@ description: "Which herbs help against fatigue? In this article, we discuss some
 heroImage: "/images/news/212-1673086295-400x300.webp"
 publishedAt: "2023-01-06"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When we are tired, we also tend to be more irritable and cranky. Of course, we would rather avoid this. Fortunately, there are many herbs we can use to boost our energy so that we feel better again. Which herb is right for you, of course, depends on the cause why you experience fatigue. This could be because of stress, for instance, or because you are simply a difficult sleeper. There are several herbs that can help reduce our fatigue. Below we discuss some, so you can make your own choice about which herbs can help you.<br/><br/></p>

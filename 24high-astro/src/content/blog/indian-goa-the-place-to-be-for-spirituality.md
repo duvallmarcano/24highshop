@@ -4,7 +4,7 @@ description: "Indian Goa was once the place to be for spirituality, happiness an
 heroImage: "/images/news/169-1658154153-400x300.webp"
 publishedAt: "2022-07-18"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The Flower Power Culture was once hugely present in Indian Goa. In the '60s and '70s, Goa was a true hippie paradise and the absolute party destination of India. Hordes of young people visited the Indian state of Goa in search of happiness, spirituality and freedom. But what about the party paradise? And is Indian Goa still the place to be for spirituality?<br/><br/></p>

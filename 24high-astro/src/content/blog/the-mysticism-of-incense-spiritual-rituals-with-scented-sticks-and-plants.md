@@ -4,7 +4,7 @@ description: "What is the use of incense, palo santo, sage and other herbs? Read
 heroImage: "/images/news/353-1717919895-400x300.webp"
 publishedAt: "2024-05-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Incense is not just a fragrant tool to make your home more cosy or dispel the smell of <a href="/en/">jonko</a>. These fragrant sticks have long been used in religious and spiritual rituals around the world. In ancient Egypt, Christianity and Buddhism, incense has a central place. American indigenous peoples were already burning Palo Santo and sage many centuries ago. Read all about the traditional uses of these fragrant rituals here.<br/><br/></p>

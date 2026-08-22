@@ -4,7 +4,7 @@ description: "Why are so many spiritual people vegan? Read about the link betwee
 heroImage: "/images/news/335-1712149448-400x300.webp"
 publishedAt: "2024-04-03"
 updatedAt: "2025-06-12"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Spirituality is about many things: meaning-making, connecting with the earthly and otherworldly, personal deepening, heightened awareness and compassion. Just to name a few things. It is common for people who have <a href="/en/">a spiritual awakening</a> to see their beliefs change. And so it is that quite a lot of spiritual people go vegan, or at least consider it. Read all about the relationship between veganism and spirituality in this article.<br/><br/></p>

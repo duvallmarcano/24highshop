@@ -4,7 +4,7 @@ description: "Magic truffles come in all kinds and variants. But what are the st
 heroImage: "/images/news/168-1657815723-400x300.webp"
 publishedAt: "2022-07-05"
 updatedAt: "2026-07-03"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Magic truffles come in many different varieties and strengths. Some varieties are known for their intense visuals and profound psychedelic experiences, while others are more commonly chosen by beginners because of their milder effects.</p>

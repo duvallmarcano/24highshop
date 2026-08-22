@@ -4,7 +4,7 @@ description: "A bubbler is a small glass bong that offers all the benefits of tr
 heroImage: "/images/news/187-1665268846-400x300.webp"
 publishedAt: "2022-10-09"
 updatedAt: "2023-07-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Most people are familiar with the vaporizer and the bong, but bubblers are not so well known. Still, it is worth getting acquainted with this device. In fact, a bubbler is small and portable and combines the features of a pipe and a bong. They are made of glass and give your smoking or vaping experience a softer twist. There are even bubblers that can be attached to your vaporizer. So it is a very versatile device! That's why in this blog you will read about what bubblers are and how to use them.<br/><br/></p>

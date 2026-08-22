@@ -95,6 +95,12 @@ const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
       /* private mode — fall back to the OS preference */
     }
     try {
+      var c = localStorage.getItem('24high-currency');
+      d.setAttribute('data-currency', c === 'eur' ? 'eur' : 'chf');
+    } catch (e) {
+      d.setAttribute('data-currency', 'chf');
+    }
+    try {
       var ok = Number(localStorage.getItem('24high-age-ok')) > Date.now();
       if (!ok && sessionStorage.getItem('24high-age-ok') !== '1') {
         d.classList.add('age-pending');

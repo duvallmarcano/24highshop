@@ -4,7 +4,7 @@ description: "Substances that can alter states of consciousness, moods, and thou
 heroImage: "/images/news/203-1670411069-400x300.webp"
 publishedAt: "2022-11-30"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Mind-altering substances have been used in various rituals for centuries. Around the world, many shamans and medics used psychedelic herbs to contact spirits or gods. The herbs have been used for centuries to induce visions. Nowadays, they are mainly used recreationally, but there are certainly still cultures that consume the herbs for certain rituals. Wondering what you can do with hallucinogenic psychedelic herbs? In this article, we will tell you more about it.<br/><br/></p>

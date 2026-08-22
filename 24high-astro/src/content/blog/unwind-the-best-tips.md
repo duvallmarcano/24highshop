@@ -4,7 +4,7 @@ description: "Stress, tension and anxiety are increasingly common mental disorde
 heroImage: "/images/news/252-1685194996-400x300.webp"
 publishedAt: "2023-05-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Stress, tension and anxiety are common complaints these days. Everyone has to-do lists that never get finished, we have so much on our minds that our concentration suffers and we are constantly worrying. We don't get around to relaxing. But this has unpleasant consequences for our physical and mental health. Therefore, this blog contains 4 tips to completely unwind.<br/><br/></p>

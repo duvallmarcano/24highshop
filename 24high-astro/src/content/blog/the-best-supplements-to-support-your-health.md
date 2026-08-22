@@ -4,7 +4,7 @@ description: "Even if you try very hard to take care of your health, it can be q
 heroImage: "/images/news/256-1686465422-400x300.webp"
 publishedAt: "2023-05-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Even if you try so hard to work on your health, it can be quite difficult in today's society. You are tempted on all sides with unhealthy snacks, and stress can keep you from exercising or cooking for yourself. But you can at least make sure you have the best supplements that can help support your health, such as CBD oil, medicinal mushrooms and microdosing.<br/><br/></p>

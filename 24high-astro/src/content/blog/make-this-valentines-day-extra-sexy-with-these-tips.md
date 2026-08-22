@@ -4,7 +4,7 @@ description: "Fancy a sexy and sensual Valentine's Day this year? In this blog, 
 heroImage: "/images/news/320-1707403868-400x300.webp"
 publishedAt: "2024-02-06"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>It's February and that means Valentine's Day is coming up! The day of love, but love can be filled in broadly of course... Do you fancy a sexy Valentine's Day this year? Then we can definitely help you with that. Read here how to make this day a party in bed and excite your partner.<br/><br/></p>

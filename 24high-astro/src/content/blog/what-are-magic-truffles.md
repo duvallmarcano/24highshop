@@ -4,7 +4,7 @@ description: "Magic truffles are called magic for a good reason. You change your
 heroImage: "/images/news/17-1569619539-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Curious about what magic truffles are? And where do they come from? Then you've come to the right place. We are going to explain exactly what magic truffles are and where they come from. Magic truffles are actually not truffles at all. Magic truffles grow underground in the mycelium and function as a kind of food reserve for the magic mushrooms. The official name for the magic truffle is sclerotia. Popularly, magic truffles are also called 'Philosopher's Stones'. This is because it encourages you to think in a different way, more philosophically.<br/><br/></p>

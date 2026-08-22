@@ -4,7 +4,7 @@ description: "In this blog, we take a closer look at what beurre de Marrakech is
 heroImage: "/images/news/365-1721569696-400x300.webp"
 publishedAt: "2024-07-10"
 updatedAt: "2024-07-22"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Beurre de Marrakech, also known as Moroccan hashish butter, is a traditional form of edibles that originated in Morocco. This special butter is made by infusing cannabis (usually <a href="/en/">hash</a>) with butter, creating a potent base for various dishes and pastries. In this blog, we take a closer look at what beurre de Marrakech is, how to make it and how it can be used.<br/><br/></p>

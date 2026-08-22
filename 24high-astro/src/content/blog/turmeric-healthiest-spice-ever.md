@@ -4,7 +4,7 @@ description: "The healthiest spice ever almost has to be turmeric, also known as
 heroImage: "/images/news/370-1722889911-400x300.webp"
 publishedAt: "2024-08-05"
 updatedAt: "2024-08-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Actually, all <a href="/en/shop/smartshop/medicinal-herbs">spices</a> are healthy, but turmeric seems to be the absolute healthiest. This bright orange root has surprisingly many health benefits, all of which have been scientifically proven. From cancer to pain and intestinal problems, this yellow powder can work small miracles. And it is a delicious seasoning in yellow curries!<br/><br/></p>

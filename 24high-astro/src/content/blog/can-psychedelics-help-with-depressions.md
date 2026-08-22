@@ -4,7 +4,7 @@ description: "How do psychedelics and depression interact? Can psychedelics help
 heroImage: "/images/news/119-1640384604-400x300.webp"
 publishedAt: "2021-12-23"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The use of psychedelics goes back centuries and was mainly used for medicinal purposes. Going through magical rituals and ceremonies using psychedelic plants and mushrooms had a very strong function within the tribes. It helped to purify and detoxify people's bodies and minds from negative experiences and thoughts.</p>

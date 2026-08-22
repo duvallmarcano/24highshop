@@ -23,7 +23,7 @@ const lookup = Object.fromEntries(
 const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
 ---
 
-<BaseLayout title="Your basket" description="Review the items in your 24High basket." noindex>
+<BaseLayout title="Your basket" description="Review the items in your 24highshop basket." noindex>
   <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'Basket' }]} />
 
   <div class="cart">
@@ -43,7 +43,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
           <strong data-cart-total>CHF 0.00</strong>
         </div>
         <p class="cart__note">
-          Checkout runs on the 24High order system, which this static build does not
+          Checkout runs on the 24highshop order system, which this static build does not
           include. Your basket is stored in this browser only.
         </p>
       </div>

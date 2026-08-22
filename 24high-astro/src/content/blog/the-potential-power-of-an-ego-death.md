@@ -4,7 +4,7 @@ description: "Ego-death stands for letting go of your own self. By letting go of
 heroImage: "/images/news/152-1650276536-400x300.webp"
 publishedAt: "2022-04-14"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Death is never far away. In fact, death is part of life, yet many people have a hard time accepting it. Death stands for an end. Then why bother with ego-death? Ego death stands for letting go of your own self, of that which makes you feel like an individual. By letting go you can feel a deeper contact with the world around you. That is why many psychonauts go in search of ego death. Are you curious about this phenomenon? In this blog, we explore what ego-death is and what it can bring you.<br/><br/></p>

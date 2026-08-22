@@ -4,7 +4,7 @@ description: "The ideal microdosing routine answers questions such as: how often
 heroImage: "/images/news/15-1573752727-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Curious about the amazing results of microdosing with psychedelic truffles or magic mushrooms? Then it is important to know how to successfully plan microdosing in your daily life. With the microdosing routine magic truffles below, you benefit from all the benefits of microdosing.<br/><br/></p>

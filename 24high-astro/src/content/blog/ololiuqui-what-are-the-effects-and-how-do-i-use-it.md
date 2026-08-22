@@ -4,7 +4,7 @@ description: "Ever heard of Ololiuqui? You probably haven't! Read all about Olol
 heroImage: "/images/news/312-1704621272-400x300.webp"
 publishedAt: "2024-01-02"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Have you heard of Ololiuqui? These seeds from the Rivea corymbosa plant have been used for centuries in Aztec cultures. What can you use it for? Tripping! These 100% natural seeds have the potential to give you an LSD-like trip. This article tells you everything you need to know about Ololiuqui, its effects and how to use it.<br/><br/></p>

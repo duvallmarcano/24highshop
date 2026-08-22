@@ -13,7 +13,7 @@ const posts = (await getCollection('blog')).sort(
 
 const [lead, ...rest] = posts;
 const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Guides' }];
-const description = `${posts.length} guides on growing, dosing, harm reduction and the botany behind what 24High stocks — written by named authors and checked in-house.`;
+const description = `${posts.length} guides on growing, dosing, harm reduction and the botany behind what 24highshop stocks — written by named authors and checked in-house.`;
 ---
 
 <BaseLayout
@@ -21,7 +21,7 @@ const description = `${posts.length} guides on growing, dosing, harm reduction a
   description={description}
   schemas={[
     breadcrumbSchema(crumbs),
-    collectionPageSchema('24High Guides', description, '/en/blog'),
+    collectionPageSchema('24highshop Guides', description, '/en/blog'),
   ]}
 >
   <Breadcrumbs items={crumbs} />

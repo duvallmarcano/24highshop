@@ -4,7 +4,7 @@ description: "We tell you all about why there are designer drugs. Are you readin
 heroImage: "/images/news/139-1646820021-400x300.webp"
 publishedAt: "2022-03-07"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Lately, we hear a lot about Design drugs in the media and at parties. But what exactly are designer drugs? Why are they often still legal? What is she doing to you? And why can the use of these drugs be so dangerous? We take you into the world of designer drugs and tell you all about it. Are you reading along?<br/><br/></p>

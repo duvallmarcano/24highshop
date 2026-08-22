@@ -11,14 +11,17 @@ import type { IconName } from '../lib/icons';
  * ─────────────────────────────────────────────────────────────────────────
  */
 export const SITE = {
-  name: '24High',
-  legalName: '24High AG',
+  name: '24highshop',
+  /** Rendered as two weights in the logo: "24high" + "shop". */
+  nameParts: ['24high', 'shop'] as const,
+  legalName: '24highshop AG',
   tagline: 'Swiss smartshop for botanicals & mycology',
+  freeShipping: true,
   description:
     'Magic truffles, mushroom grow kits, spores, kratom, kanna and CBD — sourced, checked and shipped discreetly from Zürich across Switzerland and Europe.',
   url: 'https://www.24high.com',
   lang: 'en',
-  email: 'hello@24high.com',
+  email: 'hello@24highshop.com',
   phone: '+41 44 000 00 00', // PLACEHOLDER
   established: 2018,
   uid: 'CHE-000.000.000', // PLACEHOLDER — Swiss business identification number
@@ -37,6 +40,30 @@ export const SITE = {
 
 /** Swiss standard VAT. Reduced rate (2.6%) applies to some foodstuffs. */
 export const VAT_RATE = 0.081;
+
+/**
+ * Minimum order value. Both accepted payment methods settle manually, so
+ * orders below this are not economic to process. Expressed in EUR because
+ * that is how the threshold was set; the CHF equivalent is derived.
+ */
+export const MIN_ORDER_EUR = 200;
+
+/**
+ * Bitcoin and bank transfer only. Every order clears the EUR 200 minimum, so
+ * shipping is included rather than threshold-based.
+ */
+export const PAYMENT_METHODS = [
+  {
+    id: 'bitcoin',
+    label: 'Bitcoin',
+    note: 'On-chain BTC. Rate locked for 15 minutes at checkout.',
+  },
+  {
+    id: 'bank-transfer',
+    label: 'Bank transfer',
+    note: 'SEPA or Swiss IBAN. Dispatched once the payment clears.',
+  },
+] as const;
 
 /**
  * Prices come out of the source catalogue in EUR. CHF is the shop's primary
@@ -181,6 +208,22 @@ export function categoryOf(shop: string, slug: string): Category | undefined {
 }
 
 export const TOTAL_PRODUCTS = SHOPS.reduce((n, s) => n + s.total, 0);
+
+/**
+ * The shop's own best-seller lists. These are real curated categories from
+ * the catalogue ("Top 10 Smartshop", "Top10 Seeds", …) rather than an
+ * invented ranking — there is no sales or ratings feed to rank by.
+ */
+export const TOP_SELLER_CATEGORIES: { shop: ShopId; slug: string }[] = SHOPS.flatMap(
+  (shop) =>
+    shop.categories
+      .filter((c) => /^top-?\d*(-|$)/.test(c.slug))
+      .map((c) => ({ shop: shop.id, slug: c.slug }))
+);
+
+export const TOP_SELLER_KEYS = new Set(
+  TOP_SELLER_CATEGORIES.map((c) => `${c.shop}/${c.slug}`)
+);
 
 export const UTILITY_NAV = [
   { label: 'Guides', href: '/en/blog' },

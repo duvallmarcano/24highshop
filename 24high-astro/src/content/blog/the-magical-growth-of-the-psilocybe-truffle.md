@@ -4,7 +4,7 @@ description: "How does the psilocybe truffle grow and in which countries can you
 heroImage: "/images/news/221-1675888498-400x300.webp"
 publishedAt: "2023-02-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The psilocybe truffle contains the same substances and active properties as the magic mushroom. The psychedelic magic mushroom is found mainly in the tropical regions of Mexico, Central and South America. This fungus or mycelium from which the magic mushroom grows is found underground and usually around shrubs and trees. How exactly does the psilocybe truffle grow? We explain that to you in this article.<br/><br/></p>

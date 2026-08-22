@@ -4,7 +4,7 @@ description: "In this blog, we will tell you all about how maca root works and t
 heroImage: "/images/news/339-1713337895-400x300.webp"
 publishedAt: "2024-04-16"
 updatedAt: "2025-03-31"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Maca root, maca for short, is a supplement that is gaining increasing attention from the general public. The main reason: this 'Peruvian ginseng' is said to boost your libido and sexual performance. Whatever your gender. It is therefore a common ingredient in several of our <a href="/en/shop/smartshop/erotic">erotica products</a>. It could also help with fertility problems. Read all about maca, its effects and possible risks here.<br/><br/></p>

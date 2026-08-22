@@ -4,7 +4,7 @@ description: "What exactly is Ibogaine and what are the medicinal and psychedeli
 heroImage: "/images/news/161-1654171076-400x300.webp"
 publishedAt: "2022-06-02"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Ibogaïne, a plant-based and psychedelic drug that was used in the past to help addicts of heroin, among other things. There are still many questions and uncertainties about this powerful herb today. The medical community is not yet in full agreement about the possible medicinal properties, and Ibogaïne is therefore not registered as a medicine. But what is Ibogaïne then wél and what kind of effects does it have? You can read all about it in this article.<br/><br/></p>

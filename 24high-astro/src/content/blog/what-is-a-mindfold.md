@@ -4,7 +4,7 @@ description: "What is a Mindfold? Here's how to use this blindfold while trippin
 heroImage: "/images/news/250-1684588134-400x300.webp"
 publishedAt: "2023-05-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you already familiar with the Mindfold: a special blindfold for those who like to get away from it all while tripping? The creator of this amazing product that every tripper should have is none other than Alex Grey. This psychonaut creates stunning trippy art. And now so does the Mindfold. Read all about what this special blindfold can do for you here.<br/><br/></p>

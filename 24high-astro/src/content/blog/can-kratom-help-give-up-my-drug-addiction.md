@@ -4,7 +4,7 @@ description: "What is Kratom and how does it work? And how can Kratom help me ge
 heroImage: "/images/news/108-1637073269-400x300.webp"
 publishedAt: "2021-11-04"
 updatedAt: "2026-07-09"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Can kratom help people reduce or stop using drugs? This is a question often asked by people looking for support while tapering off certain substances. Kratom is especially mentioned in discussions about opioids. At the same time, it is important to understand that kratom is <strong>not</strong> an officially recognised treatment for addiction, and scientific evidence supporting this use remains limited.</p>

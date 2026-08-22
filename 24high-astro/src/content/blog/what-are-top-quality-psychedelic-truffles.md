@@ -4,7 +4,7 @@ description: "How to get quality psychedelic truffles and a top trip? Read all a
 heroImage: "/images/news/248-1683992434-400x300.webp"
 publishedAt: "2023-05-11"
 updatedAt: "2026-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you planning to use psychedelic truffles? Then of course you want the best possible experience. But one truffle is not the other. So how do you know if the psychedelic truffles you have in your hands are of high quality? In this article, our tips for buying and using the right magic truffles.<br/><br/></p>

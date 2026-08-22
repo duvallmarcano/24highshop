@@ -4,7 +4,7 @@ description: "Guarana can help boost your energy levels and concentration. But t
 heroImage: "/images/news/360-1720360245-400x300.webp"
 publishedAt: "2024-06-10"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In the beautiful Amazon region, a miraculous plant grows among the many medicinal plants and trees: guarana. This little plant has been used for centuries by indigenous people for various purposes, including <a href="/en/">increased energy</a>. In our modern world, you can find guarana in energy drinks and supplements. With these, you can boost your energy levels and focus. But the plant has even more health benefits! Read exactly how healthy guarana is here.<br/><br/></p>

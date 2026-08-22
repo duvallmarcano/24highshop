@@ -4,7 +4,7 @@ description: "Visual effects, or visuals: it is often the reason why people star
 heroImage: "/images/news/318-1706719923-400x300.webp"
 publishedAt: "2024-01-30"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you use psychedelics like LSD, <a href="/en/shop/mushrooms/magic-truffles">magic truffles</a> or <a href="/en/">DMT</a>, you can't escape it: visuals, or visual effects. Depending on how strong your trip is, everything becomes more colourful, you see extra patterns or entities or the world around you even becomes unrecognisable. But where do these visuals actually come from? How is it that your brain produces such visual effects when you trip?<br/><br/></p>

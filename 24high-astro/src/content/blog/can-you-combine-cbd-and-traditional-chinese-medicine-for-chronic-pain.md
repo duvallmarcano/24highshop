@@ -4,7 +4,7 @@ description: "Many people today choose natural and remedies, such as CBD and med
 heroImage: "/images/news/298-1699780699-400x300.webp"
 publishedAt: "2023-11-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Many people nowadays choose natural remedies to treat pain conditions. Chronic pain can seriously hamper you in your daily life and the regular painkillers that are often prescribed can then help a lot. However, these bring with them the necessary side effects. Is it therefore a good idea to combine <a href="/en/shop/cbdshop/cbd-vitamins">CBD</a> and Traditional Chinese Medicine for chronic pain? In this blog, we explain what the benefits are and how effective these remedies are for pain symptoms.<br/><br/></p>

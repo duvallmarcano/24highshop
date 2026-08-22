@@ -4,7 +4,7 @@ description: "Using a Liquid Culture is incredibly useful for growing your own m
 heroImage: "/images/news/270-1690816175-400x300.webp"
 publishedAt: "2023-07-23"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Would you like to grow your own magic mushrooms from <a href="/en/product/0210732-mexican-sporeprint-psilocybe-cubensis">spores</a>, but have no idea where to start? No worries, we're going to introduce you to a handy technique called Liquid Culture. With Liquid Culture, you can grow magic mushroom mycelium quickly and easily. In this article, we'll explain what Liquid Culture is, how to use it and where to buy a Liquid Culture kit.<br/><br/></p>

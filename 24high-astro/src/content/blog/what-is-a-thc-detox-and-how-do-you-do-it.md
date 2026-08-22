@@ -4,7 +4,7 @@ description: "Find out everything you need to know about THC detox and how to ta
 heroImage: "/images/news/344-1714917903-400x300.webp"
 publishedAt: "2024-05-02"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Detoxing means cleansing your body of certain harmful chemicals, but did you know that you can also do a THC detox? When you use cannabis, THC stays in your body for a longer period of time. You may want to temporarily stop using cannabis to detox or your intention is to stop altogether. In this blog, we explain how to approach a THC detox and what you should and should not do.</p>

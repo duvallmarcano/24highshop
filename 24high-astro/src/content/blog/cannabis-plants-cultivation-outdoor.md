@@ -4,7 +4,7 @@ description: "Read this grow report about growing cannabis outdoors and discover
 heroImage: "/images/news/54-1603832236-400x300.webp"
 publishedAt: "2020-10-22"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The previously harvested Sensi Skunk is fully enjoyed, but the stock is starting to decrease considerably. So it is high time that we are almost harvesting again. Fortunately, that's okay, because the Monster Zkittlez # 1 is already pretty close to harvest time. I think another week or two, if the weather allows it. My leaf problem has been solved with all cannabis plants, except for 1 Hollands Hoop, where I still see a tiny bit of yellow burnt leaves, so the problem is (as good as) solved.</p>

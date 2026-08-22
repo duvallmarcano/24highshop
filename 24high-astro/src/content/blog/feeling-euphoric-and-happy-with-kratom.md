@@ -4,7 +4,7 @@ description: "Kratom, you may have heard of it. It is extremely popular in Thail
 heroImage: "/images/news/31-1650016842-400x300.webp"
 publishedAt: "2020-03-19"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Kratom (Mitragyna speciosa), you may have heard of it. It is extremely popular in Thailand and for good reason. Kratom gives you a euphoric and happy feeling at a low dose. It also gives you an energy boost. Not bad for a pleasant afternoon or evening.<br/><br/></p>

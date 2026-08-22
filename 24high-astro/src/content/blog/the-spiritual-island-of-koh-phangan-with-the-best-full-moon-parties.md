@@ -4,7 +4,7 @@ description: "Read this blog and discover that in Koh Phangan, you can not only 
 heroImage: "/images/news/174-1661022224-400x300.webp"
 publishedAt: "2022-08-18"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Among many young people, backpackers and lovers of the island Koh Phangan, it is now a big concept: the Full Moon Party. A huge party on the night of full moon where thousands of people come every month. The drinks flow richly and there is a lot of partying to different music. Visitors to this island often plan their visit around this party. But the island is not only popular because of the Full Moon parties, it also attracts many people because you can relax there and find all kinds of spiritual things.<br/><br/></p>

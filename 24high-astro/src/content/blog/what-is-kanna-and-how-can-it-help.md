@@ -4,7 +4,7 @@ description: "What is kanna, and how can it help? This herb has special medicina
 heroImage: "/images/news/208-1671631900-400x300.webp"
 publishedAt: "2022-12-12"
 updatedAt: "2024-09-09"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Kanna is a herb from South Africa traditionally used to reduce stress and improve mood. The herb contains a number of substances that stimulate the brain and reduce irritability. It is therefore sometimes called a “natural antidepressant”. Wondering why this is so? In this article, we will tell you more about what exactly Kanna is and what it can help you with.<br/><br/></p>

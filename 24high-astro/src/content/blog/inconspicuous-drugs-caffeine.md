@@ -4,7 +4,7 @@ description: "When the word drugs come to mind, most people probably think of co
 heroImage: "/images/news/213-1673447063-400x300.webp"
 publishedAt: "2023-01-09"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When the word drugs come to mind, most people probably think first of cocaine, speed or maybe cannabis. The chances are very slim that someone will mention coffee. And yet caffeine is a drug, although a fairly unremarkable one. Because caffeine consumption is quite common and most people don't worry about the impact it has on their bodies and minds. Therefore, in this blog, we look at the unremarkable drug caffeine and the effects it has on us.<br/><br/></p>

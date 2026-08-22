@@ -4,7 +4,7 @@ description: "Want to grow your own mushrooms? Then it is important that you pre
 heroImage: "/images/news/198-1668968699-400x300.webp"
 publishedAt: "2022-11-15"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Want to grow your own mushrooms? Then it is vital that you choose the right substrate. After all, growing them is not as easy as with cannabis plants, where soil from a garden centre is often enough. They need specific growing conditions, in which the substrate plays an important role. Another option is to grow your own mushrooms with a grow kit: the right substrate is included.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Want to discuss your psychedelic use with those around you, such a
 heroImage: "/images/news/322-1707900953-400x300.webp"
 publishedAt: "2024-02-07"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>If you use psychedelics and benefit or enjoy them, you would prefer to tell the whole world. And of course show your friends and loved ones how valuable tripping or <a href="/en/shop/mushrooms/microdosing">microdosing</a> can be. Even in therapy, it would help clients if use of psychedelics is discussable. Unfortunately, this is not the case with every mental health provider. Despite our country being quite progressive, there is still quite a stigma attached to psychedelic use. Especially among healthcare providers. A missed opportunity, because more and more studies are showing that mind-altering drugs have a lot of potential in therapeutic settings. If you would still like to be open about your experiences with people around you, here are some tips for you.<br/><br/></p>

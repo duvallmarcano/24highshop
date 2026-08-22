@@ -4,7 +4,7 @@ description: "Music is a great addition to a psychedelic trip on magic mushrooms
 heroImage: "/images/news/296-1699174797-400x300.webp"
 publishedAt: "2023-11-03"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Music is a great addition to a psychedelic trip on <a href="/en/shop/mushrooms/growkits-mushroom">magic mushrooms,</a> <a href="/en/shop/mushrooms/magic-truffles">truffles</a>, LSD, <a href="/en/">DMT</a> and other psychedelics. It can make your trip experience very intense, or lighter. Music can almost literally take you by the hand and make the trip go in a certain direction. It can also put you back on the right, happy path during an (almost) bad trip. Are you a beginner when it comes to psychedelic music and want some tips? Here are some top artists to listen to while tripping. Which often do well with a joint too, by the way.<br/><br/></p>

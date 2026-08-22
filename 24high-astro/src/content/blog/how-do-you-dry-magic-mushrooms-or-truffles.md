@@ -4,7 +4,7 @@ description: "Of course, you can eat your own freshly picked mushrooms or truffl
 heroImage: "/images/news/201-1669819819-400x300.webp"
 publishedAt: "2022-11-24"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>You can of course eat magic mushrooms or truffles fresh, but chances are you will also like to save some for later. By drying <a href="/en/shop/mushrooms/growkits-mushroom">magic mushrooms</a> or <a href="/en/shop/mushrooms/magic-truffles">truffles</a>, you can store them for months without losing their flavor or potency. In this article, we'll tell you all about how to dry magic mushrooms or truffles.<br/><br/></p>

@@ -31,9 +31,9 @@ export const INFO_PAGES: InfoPage[] = [
         ],
       },
       {
-        heading: 'Shipping costs',
+        heading: 'Shipping costs and minimum order',
         body: [
-          'Within Switzerland: CHF 7.90, or free on orders over CHF 60. European orders are calculated at checkout from destination and weight, starting at CHF 14.90.',
+          'Nothing. Shipping is included on every order, in Switzerland and across Europe, and every parcel is tracked. That is possible because there is a minimum order value of €200 — roughly CHF 210 — which you can reach with any mix of products.',
         ],
       },
       {
@@ -61,14 +61,14 @@ export const INFO_PAGES: InfoPage[] = [
     slug: 'contact',
     title: 'Contact',
     description:
-      'How to reach 24High in Zürich about an order, a product, or advice before you buy.',
+      'How to reach 24highshop in Zürich about an order, a product, or advice before you buy.',
     intro:
       'Email reaches the people who pack the boxes. For anything about an order, include your order number and we will have the answer in front of us.',
     sections: [
       {
         heading: 'Email',
         body: [
-          'hello@24high.com — answered within one working day, usually much sooner. We read everything in English, German, French and Italian.',
+          'hello@24highshop.com — answered within one working day, usually much sooner. We read everything in English, German, French and Italian.',
         ],
       },
       {
@@ -86,7 +86,7 @@ export const INFO_PAGES: InfoPage[] = [
       {
         heading: 'Post',
         body: [
-          '24High AG, Pfingstweidstrasse 10, 8005 Zürich, Switzerland. Please do not send returns to this address without contacting us first.',
+          '24highshop AG, Pfingstweidstrasse 10, 8005 Zürich, Switzerland. Please do not send returns to this address without contacting us first.',
         ],
       },
     ],
@@ -95,20 +95,27 @@ export const INFO_PAGES: InfoPage[] = [
     slug: 'terms',
     title: 'Terms & conditions',
     description:
-      'The terms that apply to orders placed with 24High AG, a company registered in Zürich, Switzerland.',
+      'The terms that apply to orders placed with 24highshop AG, a company registered in Zürich, Switzerland.',
     intro:
       'These terms apply to every order placed through this site. They sit alongside your rights under the Swiss Code of Obligations rather than replacing them.',
     sections: [
       {
         heading: 'Who you are buying from',
         body: [
-          '24High AG, registered in Zürich, Switzerland under UID CHE-000.000.000. All prices are shown in Swiss francs and include Swiss VAT at 8.1% unless stated otherwise. EUR prices are shown for reference and are converted at a fixed internal rate; the CHF figure is the one you pay.',
+          '24highshop AG, registered in Zürich, Switzerland under UID CHE-000.000.000. Prices can be displayed in Swiss francs or euros using the currency switch; both include Swiss VAT at 8.1%. The EUR figure is converted at a fixed internal rate.',
         ],
       },
       {
         heading: 'Age requirement',
         body: [
           'You must be 18 or over to order. We may ask for proof of age, and we will cancel and refund any order where we have reason to believe the buyer is under 18.',
+        ],
+      },
+      {
+        heading: 'Payment and minimum order',
+        body: [
+          'We accept Bitcoin and bank transfer only. Bitcoin is settled on-chain, with the exchange rate locked for 15 minutes once you reach checkout; if payment does not arrive inside that window the rate is recalculated. Bank transfer accepts SEPA and Swiss IBAN, and goods are dispatched once the funds clear.',
+          'There is a minimum order value of €200. Both methods are settled manually, which is what makes smaller orders uneconomic — and what allows shipping to be included on every order.',
         ],
       },
       {
@@ -141,7 +148,7 @@ export const INFO_PAGES: InfoPage[] = [
     slug: 'privacy',
     title: 'Privacy policy',
     description:
-      'What personal data 24High collects, why, how long it is kept, and your rights under the Swiss Data Protection Act.',
+      'What personal data 24highshop collects, why, how long it is kept, and your rights under the Swiss Data Protection Act.',
     intro:
       'We collect the minimum needed to take payment and get a parcel to you. We do not sell your data, and we do not share it for advertising.',
     sections: [
@@ -172,7 +179,7 @@ export const INFO_PAGES: InfoPage[] = [
       {
         heading: 'Your rights',
         body: [
-          'Under the revised Swiss Federal Act on Data Protection (revDSG) you can ask for a copy of the data we hold on you, ask us to correct it, or ask us to delete it. If you are in the EU, the GDPR gives you equivalent rights and we honour them the same way. Email hello@24high.com and we will respond within 30 days.',
+          'Under the revised Swiss Federal Act on Data Protection (revDSG) you can ask for a copy of the data we hold on you, ask us to correct it, or ask us to delete it. If you are in the EU, the GDPR gives you equivalent rights and we honour them the same way. Email hello@24highshop.com and we will respond within 30 days.',
         ],
       },
     ],
@@ -208,7 +215,7 @@ export const INFO_PAGES: InfoPage[] = [
     slug: 'disclaimer',
     title: 'Disclaimer',
     description:
-      'Important limits on the information and products offered by 24High — not medical advice, and not encouragement to break the law.',
+      'Important limits on the information and products offered by 24highshop — not medical advice, and not encouragement to break the law.',
     intro:
       'Nothing on this site is medical advice, and nothing here should be read as encouragement to break the law where you live.',
     sections: [

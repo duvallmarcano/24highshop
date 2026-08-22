@@ -4,7 +4,7 @@ description: "If you want to grow outdoor cannabis, you need to know when it's b
 heroImage: "/images/news/239-1681288483-400x300.webp"
 publishedAt: "2023-04-10"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Spring is coming, and with it, the best time to sow your outdoor cannabis! A great hobby that you can do just fine in your backyard or balcony. But then you need to know how to go about it. And you have to deal with our Dutch weather and climate, which of course will affect the growing process and its outcome. So get a good start with the tips in this article. Read the answer to the pressing question: when do I start growing outdoor weed?<br/><br/></p>

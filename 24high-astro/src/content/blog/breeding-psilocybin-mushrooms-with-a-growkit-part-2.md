@@ -4,7 +4,7 @@ description: "Grow report of the All-In-One grow kit Mcsmart! Not sure when to h
 heroImage: "/images/news/41-1593858020-400x300.webp"
 publishedAt: "2020-06-29"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>This is my second cultivation report on Magic Mushrooms. Read my first blog about growing mushrooms here: <a href="/en/blog/breeding-psilocybin-mushrooms-with-a-growkit-part-1">Breeding psilocybin mushrooms</a>. This second Magic Mushroom grow report would be about my first harvest and the start of a new "grow" also called "flush". Just a quick reminder, so I have grown and harvested Golden Teacher Mushrooms with an all-in-one growkit.</p>

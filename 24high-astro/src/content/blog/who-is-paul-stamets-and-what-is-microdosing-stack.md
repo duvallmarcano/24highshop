@@ -4,7 +4,7 @@ description: "Give your brain the ultimate boost with Paul Stamets' microdosing 
 heroImage: "/images/news/259-1687358220-400x300.webp"
 publishedAt: "2023-06-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Ever heard of microdosing stacking with the Paul Stamets stack? This is a way of microdosing for the real pros in this field. With microdosing, as you probably already know, you use a fraction of a normal dose of a drug. This usually involves psychedelics like truffles or magic mushrooms, of which you take 5-10% of a serving. You do this several days of the week on a specific schedule. With micodosing stacking, you combine different substances that would thus enhance each other's potency. One of the most famous microdosing stacks is that of scientist and fungus expert Paul Stamets. Read all about this man and what his special stack can do for you here.<br/><br/></p>

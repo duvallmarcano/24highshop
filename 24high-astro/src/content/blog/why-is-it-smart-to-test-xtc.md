@@ -4,7 +4,7 @@ description: "Do you Test your XTC pills? It is wise to do this to avoid problem
 heroImage: "/images/news/18-1568802598-400x300.webp"
 publishedAt: "2019-06-18"
 updatedAt: "2024-09-09"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The use of XTC began to gain popularity in the Netherlands in the nineties. Pounding beats, symphonic and electronic melodies were a trend that was accompanied by the use of ecstasy. Over the years, House music began to take a progressive and harder form. The number of beats per minute doubled, just like the usage of XTC. Testing your pill or powder could be done at any house party, this was of self-explanatory. Large pupils and a training suits were the model of a true house enthusiast.<br/><br/></p>

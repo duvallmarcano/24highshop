@@ -4,7 +4,7 @@ description: "In this blog we take you into the wonderful world of microdosing w
 heroImage: "/images/news/35-1649254421-400x300.webp"
 publishedAt: "2020-05-06"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>You may like the movie Lucy with Scarlett Johansson yet bring to mind. In this movie, Lucy has a bag of a new kind of drug called CPH4 hidden in her stomach. When Lucy gets into a fight moments later, she gets a kick in the stomach that tears open the bag with the drugs in her stomach. Little by little, the drugs are released and enter her bloodstream. As a result, Lucy is able to use more and more of her brain capacity. Gradually she turns into a kind of superhero with the brains of 10,000 supercomputers together. This is a movie and not reality. At least that's what you would think... Perhaps not so extreme, but you too can give your life a boost by means of <a href="/en/shop/mushrooms/microdosing">microdosing</a>. In this article we briefly explain what microdosing is and how you can use it to be more active, productive, creative and energetic.<br/><br/></p>

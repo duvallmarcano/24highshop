@@ -4,7 +4,7 @@ description: "The vision quest is not well known among Western people, but it st
 heroImage: "/images/news/87-1626701076-400x300.webp"
 publishedAt: "2021-07-15"
 updatedAt: "2023-06-01"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The vision quest is not well known among western people, but it still plays a major role in the development of people among natural peoples. A vision quest can help to gain insight into a problem or mark a transition to another phase of life. During such a quest, you withdraw into yourself and take a look inside yourself. Psychedelic drugs can also be used for this. In fact, you are on a spiritual journey. Are you looking for answers, are you in a crisis? Maybe it's time for a vision quest!<br/><br/></p>

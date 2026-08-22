@@ -4,7 +4,7 @@ description: "Valerian is one of those medicinal plants that almost everyone has
 heroImage: "/images/news/190-1665328419-400x300.webp"
 publishedAt: "2022-10-09"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Valerian is one of those herbs that almost everyone has heard of. It is well established in our modern society. As such, it has been used for centuries. Valerian is known as a sedative that you can take if you have sleep problems. But it can be used in a whole range of different complaints. In this blog, you will read more about what exactly valerian is and what you can use it for.<br/><br/></p>

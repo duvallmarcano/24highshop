@@ -4,7 +4,7 @@ description: "Have you ever wondered how hashish is made? In this article, we wi
 heroImage: "/images/news/323-1708266713-400x300.webp"
 publishedAt: "2024-02-14"
 updatedAt: "2024-02-18"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Hashish and cannabis have been making people stoned for many centuries. Yet they are two very different substances, if you ask the connoisseur and enthusiast. Apart from the effects, the difference lies mainly in the way it is made. But how exactly is hashish made? And is it much different now in modern times than it was hundreds of years ago? Read here how exactly hash is made.<br/><br/></p>

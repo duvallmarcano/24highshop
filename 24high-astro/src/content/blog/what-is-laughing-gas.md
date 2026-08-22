@@ -4,7 +4,7 @@ description: "Nitric oxide (N2O) is better known as nitrous oxide. In the hospit
 heroImage: "/images/news/34-1588767933-400x300.webp"
 publishedAt: "2020-05-06"
 updatedAt: "2024-03-01"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Di-nitrogen monoxide (N2O) is better known as laughing gas. In the hospital it is used to give the patient a sedative and in the party scene to party with it. As a party goer it gives you a short-lived intoxication, think of 1 to 5 minutes. It makes you light-headed and gives you a relaxing and euphoric feeling. Image and sound can enter differently, and you can see and hear things that may not be there. Nevertheless, it is an interesting drug within the range.<br/><br/></p>

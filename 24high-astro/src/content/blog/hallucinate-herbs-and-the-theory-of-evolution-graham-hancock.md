@@ -4,7 +4,7 @@ description: "Insight into Graham Hancock's view of evolutionary theory and the 
 heroImage: "/images/news/121-1641053112-400x300.webp"
 publishedAt: "2021-12-30"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The use of hallucinogenic herbs and psychedelics goes back centuries. It is still used as a guideline in ceremonies and rituals. Deep experiences with the help of psychedelics, where the perspective on the world changes is nothing new. It helps to free your body and mind from negative influences and thoughts. Pretty powerful effects.</p>

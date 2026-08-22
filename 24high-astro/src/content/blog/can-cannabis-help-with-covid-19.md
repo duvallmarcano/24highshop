@@ -4,7 +4,7 @@ description: "The cannabis plant has been used for thousands of years for its sp
 heroImage: "/images/news/56-1605038623-400x300.webp"
 publishedAt: "2020-11-09"
 updatedAt: "2023-07-27"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The cannabis plant has been used for thousands of years for its special properties. The plant contains a large number of cannabinoids, terpenes and flavonoids, which have beneficial properties for our body and mind. Scientists are now also studying the cannabis plant to see what it could mean in the event of a COVD-19 infection.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Erythrina Mulungu is a Brazilian tree that you can make relaxing t
 heroImage: "/images/news/238-1680888504-400x300.webp"
 publishedAt: "2023-04-05"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Ever heard of the herb Erythrina Mulungu? This Brazilian little tree has found its way to the Netherlands as a medicinal and mind-boosting remedy. The products derived from this small tree have several positive properties that might benefit you. For instance, it is a proven anti-anxiety agent. So of course, <a href="/en/shop/smartshop/relaxation">Mulungu</a> can be found with us! What are all the known effects of Mulungu that make it so interesting? You can read it here!<br/><br/></p>

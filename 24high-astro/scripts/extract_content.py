@@ -331,7 +331,7 @@ def extract_post(path):
         heroImage=yaml_str(hero),
         publishedAt=yaml_str((ld.get('datePublished') or '')[:10]),
         updatedAt=yaml_str((ld.get('dateModified') or ld.get('datePublished') or '')[:10]),
-        author=yaml_str((ld.get('author') or {}).get('name') or '24High'),
+        author=yaml_str((ld.get('author') or {}).get('name') or '24highshop'),
     )
     lines = [f'{k}: {v}' for k, v in fm.items()]
     return slug_of(path), '---\n' + '\n'.join(lines) + '\n---\n\n' + body + '\n'

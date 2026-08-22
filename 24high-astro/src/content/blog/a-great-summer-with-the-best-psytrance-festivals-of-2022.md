@@ -4,7 +4,7 @@ description: "Due to the pandemic we had to wait a long time, but the time has f
 heroImage: "/images/news/158-1653485295-400x300.webp"
 publishedAt: "2022-05-24"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Finally, it's that time again: you can party again this summer! We had to wait a long time for it, but on the other hand: the longer you wait for something, the more beautiful it will be. This year you can finally enjoy long nights full of music and dance. We've rounded up the best, cosiest and wildest festivals in Europe for you.<br/><br/></p>

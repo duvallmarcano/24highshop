@@ -4,7 +4,7 @@ description: "Are you planning to grow weed outdoors and wondering when is the b
 heroImage: "/images/news/163-1654933864-400x300.webp"
 publishedAt: "2022-06-09"
 updatedAt: "2025-07-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Spring may be the most beautiful time of the year for growers. Nature awakens, the days grow longer, and the sun shows itself more often. For many outdoor growers, it's the perfect moment to get started again. In this blog, we share our knowledge and experience about growing cannabis outdoors: when to begin, what to look out for, and how proper preparation can increase your chances of a healthy and successful harvest.</p>

@@ -4,7 +4,7 @@ description: "Do you want to know which mushrooms have a medicinal effect? Read 
 heroImage: "/images/news/138-1646472847-400x300.webp"
 publishedAt: "2022-03-02"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Mushrooms, we see them in many shapes and sizes. You see them in the forest, in your diet or as a tripping agent. But did you also know that mushrooms have a <a href="/en/shop/mushrooms/medicinal-mushrooms">medicinal effect</a>? We researched the benefits for you and wrote a blog about it. Enjoy reading!<br/><br/></p>

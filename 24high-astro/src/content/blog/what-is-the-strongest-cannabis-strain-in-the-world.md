@@ -4,7 +4,7 @@ description: "Wondering what the most potent cannabis strains are? New potent ca
 heroImage: "/images/news/183-1663585697-400x300.webp"
 publishedAt: "2022-09-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Wondering what is the strongest cannabis strain in the world with the highest THC? We have listed them for you. Every year, new <a href="/en/shop/seedshop/high-thc-strain">cannabis strains with high strains</a> appear on the market and this can make it difficult to choose from the hundreds, maybe even thousands, of strains available. In this article, you will find an overview of the best and strongest cannabis strains in the world.<br/><br/></p>

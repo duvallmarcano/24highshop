@@ -4,7 +4,7 @@ description: "Our spiritual journey is our spiritual journey. Continue your refl
 heroImage: "/images/news/294-1698573742-400x300.webp"
 publishedAt: "2023-10-26"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A psychedelic or <a href="/en/">spiritual trip</a> can be quite an experience. All kinds of thoughts can enter your mind. About how the world works, for instance, but also about how you yourself work. As with a sober impressive experience, you can learn a lot from a trip. But you probably know that you quickly forget such lessons and ideas. After which you do nothing with them. A shame, of course. Therefore, in this article we focus on the ways in which you can really learn from your trips to become a better person. Both in terms of personal growth and mental well-being. Reflection is the magic word here. Read here how to do that, reflect and learn from your psychedelic trip.<br/><br/></p>

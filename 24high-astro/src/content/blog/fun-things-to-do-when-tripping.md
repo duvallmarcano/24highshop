@@ -4,7 +4,7 @@ description: "In this blog we describe the fun things you can do during a trip o
 heroImage: "/images/news/172-1660136364-400x300.webp"
 publishedAt: "2022-08-09"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you are tripping on <a href="/en/shop/mushrooms/growkits-mushroom">mushrooms</a><a href="/en/shop/mushrooms/growkits-mushroom">,</a> <a href="/en/shop/smartshop/mescaline-cacti">mescaline</a> or <a href="/en/shop/smartshop/hallucinating-herbs">hallucinating herbs</a>, you can just sit back and relax on the couch. But it is much more fun to get more out of your trip and to look for something fun to do. Listening to music, being in nature or doing something creative, gets a whole different meaning than when you are not high. If you need some inspiration, read on below. In this blog we give you 5 fun things to do when you are tripping.<br/><br/></p>

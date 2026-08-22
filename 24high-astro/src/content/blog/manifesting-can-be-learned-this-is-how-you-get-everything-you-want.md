@@ -4,7 +4,7 @@ description: "Manifesting, how do you do it? In this blog, we explain to you exa
 heroImage: "/images/news/347-1715774471-400x300.webp"
 publishedAt: "2024-05-14"
 updatedAt: "2024-05-15"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A life full of abundance, happiness, <a href="/en/shop/smartshop/erotic">love</a> and success: not for you do you think? Yet it is! With the power of manifesting, you can realise your dreams, ambitions and desires. Facts. There is even a law named after it, so then it must be true. The Law of Attraction, you undoubtedly know it. But of course, it is not simply a matter of shouting that you want something and then having it thrown into your lap. You have to put a bit of work and action into it. Here we will teach you all about this amazing technique and how you can apply it in your soon-to-be happier life.</p>

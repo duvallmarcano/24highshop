@@ -4,7 +4,7 @@ description: "Looking for and easy recipe that incorporates magic truffles? Here
 heroImage: "/images/news/305-1702198305-400x300.webp"
 publishedAt: "2023-11-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>'Normal' truffles are a true delicacy. Some are so rare and beloved that the price per kilo can skyrocket. For instance, an enthusiast recently paid a tonne for a white truffle weighing not even a kilo. <a href="/en/shop/mushrooms/magic-truffles">Magic truffles</a> could also be said to have a distinct flavour. But you won't hear users call it a delicacy. Not exactly a fan of the taste of magic truffles? Then you can also incorporate them into a culinary delight or simple recipe. That way, you kill two birds with one stone: a tasty snack and the positive effects of a serving of truffles.<br/><br/></p>

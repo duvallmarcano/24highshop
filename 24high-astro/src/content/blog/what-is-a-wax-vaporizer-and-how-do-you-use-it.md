@@ -4,7 +4,7 @@ description: "Which vaporizers are there and what exactly is a wax vaporizer? An
 heroImage: "/images/news/157-1653061625-400x300.webp"
 publishedAt: "2022-05-10"
 updatedAt: "2023-07-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>We all know that smoking is harmful to your lungs and poses other health risks. And in case we have forgotten this, we are reminded of this when we look at the cigarette pack. In fact, anything you burn and get into your lungs carries risks. But luckily there is a way to reduce these risks by, for example, eating weed or hash, or using a vaporizer. A vaporizer is also called a vaporizer, and there are different types of it. One of these is the wax vaporizer. In this article, we tell you everything about what a wax vaporizer is and how it works.<br/><br/></p>

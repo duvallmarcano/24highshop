@@ -4,7 +4,7 @@ description: "Lots of information about the outdoor cultivation of cannabis! Rea
 heroImage: "/images/news/74-1616584156-400x300.webp"
 publishedAt: "2021-03-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Just a little while longer and spring is already here! This is good news for many of us. After all, spring represents the beginning of life, the birds are singing again, the weather is also getting better and with it our mood. However, spring also heralds the start of the outdoor growing season. And that is fantastic news for the growers among us! That is why we at 24High are going to help you choose the right and best cannabis seeds for outdoor cultivation in the Dutch and Northern European climate. Choosing the right genetics is of the utmost importance! First of all, let's start with one of the most important questions you should ask yourself before you start growing your own cannabis plants: do you want a regular, a feminized or a <a href="/en/shop/seedshop/autoflower-seeds">autoflower</a> growing a seed? <br /></p>

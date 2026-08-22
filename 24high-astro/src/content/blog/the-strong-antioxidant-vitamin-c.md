@@ -4,7 +4,7 @@ description: "Vitamin C is one of the best known vitamins in the world. Vitamin 
 heroImage: "/images/news/170-1658847195-400x300.webp"
 publishedAt: "2022-07-25"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>It is one of the best known vitamins in the world, vitamin C. It is an essential vitamin for keeping and maintaining our bodies in good health. This is often known, but nowadays, we don't get enough nutrients for a long time. Mainly because of our diet, mineral-poor soil and our stressed lifestyle. And that is a shame! Because the strong antioxidant, vitamin C brings many benefits.<br/><br/></p>

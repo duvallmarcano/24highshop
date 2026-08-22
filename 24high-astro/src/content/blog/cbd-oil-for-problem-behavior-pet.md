@@ -4,7 +4,7 @@ description: "CBD in pets for behavioral improvement, read more here.."
 heroImage: "/images/news/110-1637525003-400x300.webp"
 publishedAt: "2021-11-16"
 updatedAt: "2024-02-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>What's better than the company of a pet? They bring joy to the lives of children, adults and the elderly by providing a source of play, a listening ear, and companionship, especially in moments of loneliness or cold. However, when a pet is not feeling well, this can be challenging. A cat that pees outside the litter box can be a nuisance, while an aggressive dog can even be dangerous. Supporting your pet through difficult times can help them adapt better and improve behavior.<br/><br/></p>

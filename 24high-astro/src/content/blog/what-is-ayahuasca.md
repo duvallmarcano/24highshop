@@ -4,7 +4,7 @@ description: "What is Ayahuasca, what are the physical and mental effects and ho
 heroImage: "/images/news/126-1642758999-400x300.webp"
 publishedAt: "2022-01-21"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Ayahuasca is one of the most famous herbal mixtures from the Amazon. The effects are very powerful and the use goes back centuries. Because of the sometimes life-changing effects, it is certainly not suitable for a relaxed evening with friends. In this article we would like to explain to you what Ayahuasca is, what the effects are and how the herbal mixture with a sacred status is used.<br/><br/></p>

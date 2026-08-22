@@ -4,7 +4,7 @@ description: "What exactly is traditional Chinese medicine aka traditional Chine
 heroImage: "/images/news/331-1710773945-400x300.webp"
 publishedAt: "2024-02-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Traditional Chinese medicine, known internationally as <em>Traditional Chinese Medicine</em> (TCM), is a millennia-old holistic healing method. Needless to say, this medicine was and is used in China. But countries in the region also make use of the knowledge and skills from TCM and overarching Oriental medicine. It is seen by other sciences as a woolly pseudoscience, but you will be surprised how much evidence is now being found for various traditional practices within this ancient science. However, this is offset by many totally unproven claims... Read here what exactly TCM means and the best remedies you can take according to this medicine.<br/><br/></p>

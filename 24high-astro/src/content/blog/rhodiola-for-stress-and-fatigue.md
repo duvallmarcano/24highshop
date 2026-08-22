@@ -4,7 +4,7 @@ description: "Rhodiola rosea, also known as"
 heroImage: "/images/news/188-1665308632-400x300.webp"
 publishedAt: ""
 updatedAt: ""
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Do you use a dietary supplement? If so, you are one of the many in the Netherlands. It is estimated that more than 60% of Dutch people aged 17 and above regularly use a supplement. These can be vitamins, but also herbs, medicinal mushrooms or extracts. One of these herbs that is increasing in popularity is rhodiola. And this is not surprising, as rhodiola could help with various health conditions. If you want to know more about rhodiola for stress and fatigue, read on below.<br/><br/></p>

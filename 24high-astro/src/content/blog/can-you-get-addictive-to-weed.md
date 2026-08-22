@@ -4,7 +4,7 @@ description: "Is weed addictive or not? Discover this and more in our blog..."
 heroImage: "/images/news/79-1620135681-400x300.webp"
 publishedAt: "2021-05-01"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Can you become addicted to weed, just like alcohol or hard drugs, cocaine or meth? Everyone has an opinion: some claim that cannabis is just as bad as hard drugs and that your life is in danger if you use it. Another claims that you can't get addicted to weed at all. What is the truth? As is often the case, it turns out to be in the middle. Weed, or cannabis, is not completely safe to use, but certainly not as dangerous as hard drugs.<br/><br/></p>

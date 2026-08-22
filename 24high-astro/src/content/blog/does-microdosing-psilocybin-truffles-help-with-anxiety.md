@@ -4,7 +4,7 @@ description: "Does microdosing psilocybin truffles help with anxiety? In this ar
 heroImage: "/images/news/211-1672835515-400x300.webp"
 publishedAt: "2022-12-12"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Anxiety is a common problem that affects many people on a daily basis. It can take a number of different forms, including social anxiety and PTSD. Many people look for different ways to reduce their anxiety, including treatments such as behavioural therapy and medication. However, sometimes these treatments cannot help, or they may have unwanted side effects. Microdosing psilocybin truffles for anxiety can be an effective and safe way to reduce symptoms.<br/><br/></p>

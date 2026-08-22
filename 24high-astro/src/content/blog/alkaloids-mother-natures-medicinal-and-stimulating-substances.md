@@ -4,7 +4,7 @@ description: "What is an alkaloid, and what are alkaloids in? Read all about it 
 heroImage: "/images/news/362-1720968025-400x300.webp"
 publishedAt: "2024-06-10"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Alkaloids are active substances found in plants and animals. They can be very healthy, but can also make you spackle. Well-known examples of alkaloids are caffeine, cocaine and nicotine. The psychoactive substance that makes you trip from magic mushrooms and magic mushrooms is also an alkaloid: psilocybin. Read everything you need to know about these natural products here.<br/><br/></p>

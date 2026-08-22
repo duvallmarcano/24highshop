@@ -4,7 +4,7 @@ description: "New research shows that cannabis may show promise in treating depr
 heroImage: "/images/news/359-1720005513-400x300.webp"
 publishedAt: "2024-05-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Cannabis use was always advised against for depression, as cannabis users were more often diagnosed with the condition. Hence, it was suspected that cannabis could actually cause or worsen depression. Now there is research that suggests it could actually help. In this blog, we take a look at what is now known about this.<br/><br/></p>

@@ -16,7 +16,7 @@ const postalAddress = {
 /**
  * The shop as an entity. Search engines and answer engines both resolve the
  * brand from this: one consistent name, address and contact point across
- * every page is what makes 24High a *thing* rather than a string.
+ * every page is what makes 24highshop a *thing* rather than a string.
  */
 export function organizationSchema() {
   return {
@@ -48,7 +48,7 @@ export function organizationSchema() {
       { '@type': 'Place', name: 'European Union' },
     ],
     currenciesAccepted: 'CHF, EUR',
-    paymentAccepted: 'TWINT, PostFinance, Visa, Mastercard, Invoice',
+    paymentAccepted: 'Bitcoin, Bank transfer',
     contactPoint: {
       '@type': 'ContactPoint',
       contactType: 'customer support',
@@ -124,8 +124,9 @@ export function productSchema(p: ProductSchemaInput) {
         shippingDetails: {
           '@type': 'OfferShippingDetails',
           shippingRate: {
+            // every order clears the EUR 200 minimum, so shipping is included
             '@type': 'MonetaryAmount',
-            value: chf >= 60 ? '0.00' : '7.90',
+            value: '0.00',
             currency: 'CHF',
           },
           shippingDestination: {

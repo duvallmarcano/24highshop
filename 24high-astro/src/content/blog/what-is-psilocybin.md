@@ -4,7 +4,7 @@ description: "Want to know more about psilocybin and magic mushrooms? Here are t
 heroImage: "/images/news/2-1553202393-400x300.webp"
 publishedAt: "2018-12-08"
 updatedAt: "2023-11-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>There are psychoactive hallucinogenic mushrooms all over the world. The most famous among psychonauts and shamans is the Psilocybe cubensis from Mexico. But the Dutch baldhead (Psilocybe semilanceata) and Copelandia cyanescens from Asia, the Philippines and Hawaii also contain a high concentration of the active ingredient psilocybin. It all started for me with my first psilocybin magic mushroom grow kit or whatever you can call it, a journey in a box. Very <a href="/en/">easy to grow</a> by the way, place the magic mushroom grow kit in a supplied bag and spray some water every other day. She grew like a cannabis plant, and it gave several harvests per Magic Mushroom grow kit. That was already Magical.<br/><br/></p>

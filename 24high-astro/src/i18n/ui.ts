@@ -19,7 +19,7 @@ export const UI = {
     'nav.moreCategories': '+{n} more categories',
     'nav.skip': 'Skip to content',
 
-    'promo.shipping': 'Free Swiss shipping over CHF 60',
+    'promo.shipping': 'Free shipping on every order',
     'promo.packaging': 'Neutral packaging',
     'promo.since': 'Shipping from Zürich since {year}',
 
@@ -45,7 +45,7 @@ export const UI = {
     'blog.readingTime': '{n} min read',
     'blog.updated': 'Updated {date}',
     'blog.by': 'By',
-    'blog.reviewed': 'Reviewed by the 24High editorial team',
+    'blog.reviewed': 'Reviewed by the 24highshop editorial team',
     'blog.more': 'Keep reading',
     'blog.allGuides': 'All guides',
 
@@ -57,12 +57,12 @@ export const UI = {
     'footer.rights': 'All rights reserved.',
     'footer.vatNote': 'Prices include Swiss VAT.',
 
-    'usp.shipping': 'Free Swiss shipping over CHF 60',
+    'usp.shipping': 'Free shipping, every order',
     'usp.shippingSub': 'Tracked, 1–2 working days',
     'usp.packaging': 'Neutral packaging',
     'usp.packagingSub': 'Unmarked, no branding outside',
-    'usp.payment': 'Swiss payment methods',
-    'usp.paymentSub': 'TWINT, PostFinance, card, invoice',
+    'usp.payment': 'Bitcoin or bank transfer',
+    'usp.paymentSub': 'Minimum order €200',
     'usp.origin': 'Shipped from Zürich',
     'usp.originSub': 'Swiss stock, Swiss customs',
 

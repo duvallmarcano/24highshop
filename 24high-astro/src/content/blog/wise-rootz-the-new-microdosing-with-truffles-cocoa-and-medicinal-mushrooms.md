@@ -4,7 +4,7 @@ description: "The Wise Rootz protocols combine the powers of truffles, cocoa and
 heroImage: "/images/news/265-1689497140-400x300.webp"
 publishedAt: "2023-07-03"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you already familiar with Wise Rootz, a new way of microdosing with truffles, cocoa and medicinal mushrooms? Combining psilocybin with other brain-stimulating natural substances is becoming increasingly popular. And for a reason: individually, these substances are already effective in boosting your brain, mood and performance. If you combine them with each other, they will reinforce and complement each other. Read all about the combo of psilocybin with cocoa and mushrooms like Cordyceps here. What can this so-called microdosing stack do for you?<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Can't stand coffee or caffeine and are now looking for alternative
 heroImage: "/images/news/284-1695195543-400x300.webp"
 publishedAt: "2023-09-18"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Did you know that, after water, coffee is the second most consumed drink in the world? The stimulating substance caffeine is what most likely makes coffee so popular. The same goes for energy drinks. Unfortunately, caffeine is not everyone's best friend. Some people get restless or nervous from it. Still looking for a good substitute that can give you a boost? These are the best alternatives to caffeine and coffee.<br/><br/></p>

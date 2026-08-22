@@ -4,7 +4,7 @@ description: "A stoner room is the ideal place to consume cannabis. A comfortabl
 heroImage: "/images/news/241-1681889083-400x300.webp"
 publishedAt: "2023-04-17"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A stoner room is the ideal place to use weed. A comfortable place to relax, be yourself and have everything you need. Of course, you can also get high on the beach or at a party. But sometimes you want to retreat to your own special room. What do you find in such a stoner room and how do you create it? We explain in this blog.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Are you often tired or lethargic? Don't have the motivation to get
 heroImage: "/images/news/68-1612950897-400x300.webp"
 publishedAt: "2021-02-04"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>With the herbs listed below you will quickly regain energy. They give you a boost, allowing you to perform better both physically and mentally. Sometimes you just need a little more support and why not check out what Mother Nature has to offer? In this blog you will find 5 natural herbs for more energy.<br/><br/></p>

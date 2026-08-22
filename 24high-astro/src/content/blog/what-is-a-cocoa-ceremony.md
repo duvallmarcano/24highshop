@@ -4,7 +4,7 @@ description: "That chocolate makes you happy, we all know. Yet, the chocolate ba
 heroImage: "/images/news/224-1676729533-400x300.webp"
 publishedAt: "2023-02-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>That chocolate makes you happy, we all know. Yet the chocolate bar as we know it has nothing to do with a cacao ceremony. During such a gathering, you use raw cacao in a spiritual setting. The active substances of the cacao plant are then maximised and have a healing and strengthening effect on the mental and physical body. Are you curious to know exactly how such a ceremony works? In this blog, we would like to tell you all about what you can expect from a cocoa ceremony, what the effects are and how you can organise and supervise such a gathering yourself.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "In the world of Dutch cannabis culture, the term 'jonko rolls' is 
 heroImage: "/images/news/302-1701259481-400x300.webp"
 publishedAt: "2023-11-22"
 updatedAt: "2023-11-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In the world of Dutch cannabis culture, the term "jonko (spliff) rollen" is a familiar one, especially among young people and in street slang. The term has a specific meaning in the cannabis community and is much more than just an action; it is part of a culture. In this blog, we dive deeper into what "jonko rollen/klappen" means, and explore its context and usage in cannabis street slang.<br/><br/></p>

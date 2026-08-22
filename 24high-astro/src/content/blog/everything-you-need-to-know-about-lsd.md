@@ -4,7 +4,7 @@ description: "What is LSD, what are the effects you can expect and what are the 
 heroImage: "/images/news/327-1709454160-400x300.webp"
 publishedAt: "2024-02-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>LSD, short for lysergic acid di-ethylamide, is a very strong hallucinogenic drug. LSD is known for the long and intense trip you can experience with it, although the latter depends mainly on the dose. It is capable of changing your reality considerably. Hence its affectionate nickname 'Alice', after Alice in Wonderland. So don't underestimate this drug! Read all about it here. What should you know about LSD before you start?<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Liquid cultures or the liquid culture method? What is it and what 
 heroImage: "/images/news/133-1645030507-400x300.webp"
 publishedAt: "2022-02-11"
 updatedAt: "2025-09-15"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In this blog you can read all about ‘liquid cultures’ or 'liquid culture'. Liquid cultures are indispensable among the real magic mushroom connoisseurs and mycologists. It is used to grow potent magic mushrooms at home. In this blog we will tell you what it is, what its benefits are and why it is so popular. This method is becoming increasingly popular, and that is why we wrote a blog about it especially for you. Happy reading!</p>

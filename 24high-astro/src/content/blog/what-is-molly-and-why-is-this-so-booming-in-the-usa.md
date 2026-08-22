@@ -4,7 +4,7 @@ description: "Molly, XTC or MDMA are indispensable in the dance scene, but what 
 heroImage: "/images/news/75-1701099086-400x300.webp"
 publishedAt: "2021-03-19"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Who doesn't actually know it? The well-known Molly, also called XTC (Ecstasy, E) or MDMA. These drugs are now among the most popular (party) drugs among mainly Western youth. What exactly are Molly, XTC and MDMA? What psychoactive effects do they exactly have ? And why are they so hugely popular? We will cover that and much more in this blog.<br/><br/></p>

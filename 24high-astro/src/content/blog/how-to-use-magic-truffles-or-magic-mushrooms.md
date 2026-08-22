@@ -4,7 +4,7 @@ description: "Want to know more about how to use magic mushrooms or truffles? In
 heroImage: "/images/news/255-1686129692-400x300.webp"
 publishedAt: "2023-05-15"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Whether you use them for pleasure, spiritual depth or simply for their psychedelic effect, using magic mushrooms is a fine addition to many people's lives. There are many different ways to use magic truffles or mushrooms. Raw, incorporated into something, <a href="/en/">fresh or dried</a> or in <a href="/en/">combination with food</a>. The strain you take also strongly influences the way you use magic mushrooms or truffles. However, there are some rules of thumb for using these natural goodies.<br/><br/></p>

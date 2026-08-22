@@ -4,7 +4,7 @@ description: "The flow state is an almost mythical feeling of being"
 heroImage: "/images/news/227-1677668335-400x300.webp"
 publishedAt: ""
 updatedAt: ""
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A state of flow is an almost mythical feeling of being "in the now", where you are completely absorbed in what you are doing. When you are in flow, time falls away and everything seems to happen by itself. So that is something you would like to experience more often, but generally flow is not something you can consciously evoke. Psilocybin, however, seems to be able to help. In this blog, we look at what exactly flow is and how you can get into it more easily with microdosing.</p>

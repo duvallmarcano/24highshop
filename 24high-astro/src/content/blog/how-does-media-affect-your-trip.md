@@ -4,7 +4,7 @@ description: "How can it be that the communication media are onto your mental he
 heroImage: "/images/news/328-1709735337-400x300.webp"
 publishedAt: "2024-02-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Nowadays, we spend a lot of time on our smartphones and social media, and the question is: how does all that media affect your trip? Just like in a dream, while tripping you may come across things you have seen on your phone during the day. So surfing the internet can indeed affect your trip. It can be positive, but also negative.<br/><br/></p>

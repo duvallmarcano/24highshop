@@ -4,7 +4,7 @@ description: "In this blog we discuss the Top-10 coffee shops in Amsterdam. This
 heroImage: "/images/news/29-1749714574-400x300.webp"
 publishedAt: "2020-03-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Amsterdam is more than just the capital of the Netherlands and the associated canal belt. Our city is also known for its vibrant cannabis culture with its coffee shops, because let's be honest. Why wouldn't you want to try a joint as a tourist, if you know that it is legal and allowed. While in your own country you can expect sky-high penalties. Even for the true native cannabis lover, there is of course nothing better than a visit to a coffee shop in beautiful Amsterdam.<br/><br/></p>

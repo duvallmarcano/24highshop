@@ -4,7 +4,7 @@ description: "Want to enjoy THC in the purest possible way? Use an extraction sy
 heroImage: "/images/news/136-1645644667-400x300.webp"
 publishedAt: "2022-02-23"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Do you want to enjoy THC in the purest possible way? Use an extraction system to make this happen. We will tell you what this is and how it works in this blog. Happy reading!</p>

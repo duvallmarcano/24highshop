@@ -4,7 +4,7 @@ description: "Chances are you have never heard of Copaiba. In this article, we w
 heroImage: "/images/news/257-1686745482-400x300.webp"
 publishedAt: "2023-06-12"
 updatedAt: "2023-06-14"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Copaiba: chances are you have never heard of this before and are now rightly thinking: what is it? Like most of our products, this is a natural product with several potential health benefits attached to it. Read here which ones they all are, and exactly how to use copaiba.<br/><br/></p>

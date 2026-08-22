@@ -4,7 +4,7 @@ description: "Does Cannabis Affect Dreams Positively or Negatively? Read more ab
 heroImage: "/images/news/123-1641481912-400x300.webp"
 publishedAt: "2022-01-06"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>There are many people who like to use cannabis before going to sleep. Weed can help you fall asleep a little easier. But the question is what exactly is the influence of cannabis on your night's sleep, and in particular on your dreams. When you've used weed for a long time, you may notice that you hardly dream or even don't dream at all. And then when you stop using it, your nights are suddenly filled with bizarre, intense and vivid dreams. Dreams have always been an elusive phenomenon, but what is the influence of <a href="/en/">cannabis</a> on dreams and is it necessary to adjust your cannabis use?<br/><br/></p>

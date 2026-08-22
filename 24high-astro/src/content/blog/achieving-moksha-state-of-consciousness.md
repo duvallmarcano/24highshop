@@ -4,7 +4,7 @@ description: "Reaching a Moksha state with magic mushrooms? It is possible! This
 heroImage: "/images/news/181-1663159605-400x300.webp"
 publishedAt: "2022-09-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Achieve a Moksha state with magic mushrooms? It is possible! This is liberation from samsara, the cycle of death and rebirth that depends on karma. Are you curious about how to achieve this so-called Moksha state with magic mushrooms? You can read about that in this article.<br/><br/></p>

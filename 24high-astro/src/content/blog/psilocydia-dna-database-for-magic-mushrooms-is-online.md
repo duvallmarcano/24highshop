@@ -4,7 +4,7 @@ description: "Did you know that there is an online mushroom DNA database called 
 heroImage: "/images/news/189-1665329310-400x300.webp"
 publishedAt: "2022-10-09"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The internet is an incredibly comprehensive source of information, and more is added to this every day. For example, there is now Psilocydia, a DNA database for magic mushrooms. This is a genetic library for psilocybin mushrooms. This is where the genetic makeup of unique mushroom species is recorded. In this blog, you will read more about Psilocydia, the DNA database for magic mushrooms, what exactly it is and what you as a user or grower can gain from it.</p>

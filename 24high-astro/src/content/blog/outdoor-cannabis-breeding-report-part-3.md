@@ -4,7 +4,7 @@ description: "Read here which cultivation techniques you can apply to your canna
 heroImage: "/images/news/44-1596144102-400x300.webp"
 publishedAt: "2020-07-23"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Welcome to my third grow report, for those who missed out on part-2 clcik here: Breeding report - part 2. In my previous report you have read that I have germinated an extra Hollands Hoop seed, the Hollands Hoop # 2. This 'seed' is already a large plant and even longer than some other cannabis plants of mine that had germinated before.<br/><br/></p>

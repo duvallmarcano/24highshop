@@ -4,7 +4,7 @@ description: "Whether you use psychedelics yourself or are just curious, the wor
 heroImage: "/images/news/150-1650272064-400x300.webp"
 publishedAt: "2022-04-07"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Whether you use psychedelics yourself or are just curious, the world of psychedelics is fascinating. That is why it is always interesting to learn more about it. Mind-altering drugs can have a profound impact on you and probably even have health benefits. That is why we have put together a top 5 of wonderful books about psychedelics for you. Let yourself be carried away and go on an adventure with these special writers.<br/><br/></p>

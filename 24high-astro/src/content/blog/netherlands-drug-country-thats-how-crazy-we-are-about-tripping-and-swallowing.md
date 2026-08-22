@@ -4,7 +4,7 @@ description: "Is the Netherlands really such a drug country? If you look at the 
 heroImage: "/images/news/330-1710331762-400x300.webp"
 publishedAt: "2024-02-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>If you ask tourists about the icons of the Netherlands, they will mention tulips, cheese and windmills. Boomers might start talking about the dykes and delta works. However, younger generations also know the Netherlands as a drug country. <a href="/en/">Cannabis</a>, <a href="/en/shop/mushrooms/growkits-mushroom">magic mushrooms,</a> <a href="/en/shop/mushrooms/magic-truffles">truffles</a> and the harder stuff like XTC and ketamine; we have it all. Drug tourism, meanwhile, is becoming a headache in Amsterdam. Englishmen and other tourists come to our capital purely to get very stoned or high for a few days. And combine <a href="/en/">booze and drugs</a> like it's nothing.</p>

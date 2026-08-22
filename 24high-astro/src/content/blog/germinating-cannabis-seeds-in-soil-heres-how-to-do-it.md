@@ -4,7 +4,7 @@ description: "Learn step-by-step how to successfully germinate cannabis seeds in
 heroImage: "/images/news/357-1719389652-400x300.webp"
 publishedAt: "2024-05-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Germinating cannabis seeds in soil is a delicate process. Some growers, even if they have a lot of experience, run into problems. But most problems arise precisely because you do too much rather than too little. In this blog you will read what you can do to get your cannabis seeds through this period without too many problems.<br/><br/></p>

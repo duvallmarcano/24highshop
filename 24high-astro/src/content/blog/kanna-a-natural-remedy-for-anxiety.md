@@ -4,7 +4,7 @@ description: "If you constantly suffer from fears, it can limit your life consid
 heroImage: "/images/news/60-1607630189-400x300.webp"
 publishedAt: "2020-12-09"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Is kanna a natural remedy that can help against anxiety? Everyone is scared at some point, you may be afraid of dogs, of fireworks or of a difficult conversation. These are fears with a clear cause, and you only experience them occasionally. But if you constantly suffer from fears, it can limit your life considerably. It causes stress, worry, and will likely stop you from doing things. Would kanna be a godsend?<br/><br/></p>

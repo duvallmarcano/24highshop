@@ -4,7 +4,7 @@ description: "What is spiritual awakening and what are the symptoms? In this art
 heroImage: "/images/news/165-1655906082-400x300.webp"
 publishedAt: "2022-06-20"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>More and more people today feel that they are awakening spiritually. And by spiritual awakening, we mean that you intuitively shift your attention from the outside in. So that your body and mind come into balance, and you learn to love yourself again. Some describe this process as if they suddenly ‘see the light’ or like a bright bolt of lightning. Are you also in the middle of a spiritual awakening, or do you hear this more and more around you? And are you curious about what spiritual awakening is, what the symptoms are, and how you can best deal with this? Then read on quickly!<br/><br/></p>

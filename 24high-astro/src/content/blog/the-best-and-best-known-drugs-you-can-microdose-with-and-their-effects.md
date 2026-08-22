@@ -4,7 +4,7 @@ description: "In our shop, you will find all kinds of natural medicinal herbs or
 heroImage: "/images/news/293-1698322696-400x300.webp"
 publishedAt: "2023-10-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In our shop, you will find all kinds of natural medicinal herbs or psychoactive mind-altering substances. You can take large portions of these, for tripping or to get a nice high, for instance. But with many of the substances in our smart and head shop, you can also microdose. You probably already know that magic mushrooms are great for a cure to experience <a href="/en/">more creativity and productivity with microdoses</a> and <a href="/en/">perform better at work</a>. But there are more substances you can microdose with.... Some of them will surprise you! Read here which well-known and lesser-known substances you can microdose with and what benefits they each can have for you.<br/><br/></p>

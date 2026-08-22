@@ -4,7 +4,7 @@ description: "What is the best time to start feeding your outdoor cannabis plant
 heroImage: "/images/news/260-1687859265-400x300.webp"
 publishedAt: "2023-06-19"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>A relevant question for the outdoor grower: when is it smart to start feeding your cannabis plant? Because that it needs nutrition to grow optimally is a fact. In terms of that nutrition, though, you need to know when, how much and what. The answers to these questions depend on the age of your plants. So here is a handy overview. Read all our feeding tips for your outdoor cannabis here and get your cannabis harvest off to a flying start!<br/><br/></p>

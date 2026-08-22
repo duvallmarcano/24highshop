@@ -4,7 +4,7 @@ description: "Did you manage to grow your first mushrooms from your psychedelic 
 heroImage: "/images/news/173-1660741451-400x300.webp"
 publishedAt: "2022-08-09"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Did you manage to grow your first mushrooms from your <a href="/en/shop/mushrooms/growkits-mushroom">psychedelic growkit</a>? Then it is now time to harvest your magic mushrooms! But how do you do that? In this article we explain it to you step by step.</p>

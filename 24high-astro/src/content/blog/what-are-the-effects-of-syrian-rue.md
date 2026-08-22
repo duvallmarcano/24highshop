@@ -4,7 +4,7 @@ description: "Anyone who has ever delved into the world of mind-altering plant s
 heroImage: "/images/news/226-1677333716-400x300.webp"
 publishedAt: "2023-02-23"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Anyone who has ever delved into plant-based mind-altering substances is surely familiar with magic mushrooms, magic truffles and Hawaiian Baby Woodrose. Syrian rue is not yet so well known. This is a herbaceous plant that grows in deserts on saline soils. The little plant has interesting mind-altering effects. In this blog, we explain what <a href="/en/shop/smartshop/exotic-seeds">Syrian rue</a> actually is and its most common effects.<br/><br/></p>

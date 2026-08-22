@@ -24,8 +24,8 @@ const facts = [
 ---
 
 <BaseLayout
-  title="About 24High"
-  description={`24High is a Swiss smartshop based in ${SITE.address.locality}, trading since ${SITE.established}. What we stock, how we check it, and how we ship it.`}
+  title="About 24highshop"
+  description={`24highshop is a Swiss smartshop based in ${SITE.address.locality}, trading since ${SITE.established}. What we stock, how we check it, and how we ship it.`}
   schemas={[breadcrumbSchema(crumbs)]}
 >
   <Breadcrumbs items={crumbs} />
@@ -35,7 +35,7 @@ const facts = [
       <p class="eyebrow">Zürich · since {SITE.established}</p>
       <h1>A smartshop that answers its own questions.</h1>
       <p class="about__answer">
-        24High is a Swiss smartshop based in {SITE.address.locality}, trading since
+        24highshop is a Swiss smartshop based in {SITE.address.locality}, trading since
         {SITE.established}. We stock {TOTAL_PRODUCTS.toLocaleString('en-CH')} products
         across {SHOPS.length} shops — mycology, botanicals, CBD, cannabis genetics and
         the hardware that goes with them — and ship them from Swiss stock in plain
@@ -101,7 +101,7 @@ const facts = [
     </div>
 
     <section class="about__faq">
-      <FAQ items={GLOBAL_FAQ} title="Ordering from 24High" />
+      <FAQ items={GLOBAL_FAQ} title="Ordering from 24highshop" />
     </section>
   </div>
 </BaseLayout>

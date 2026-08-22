@@ -4,7 +4,7 @@ description: "What are Baby Hawaiian Woodrose Seeds? What is it and what are its
 heroImage: "/images/news/149-1649935456-400x300.webp"
 publishedAt: "2022-04-07"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In this blog, we are going to talk about the unique seeds called “baby hawaiian woodrose seeds”. What is it? And what exactly are the effects? In any case, it is becoming more and more popular. And that is not for nothing. In this blog, we will tell you more about these special seeds! Happy reading.<br/><br/></p>

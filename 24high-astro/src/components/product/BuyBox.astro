@@ -2,7 +2,7 @@
 import Button from '../ui/Button.astro';
 import Price from '../ui/Price.astro';
 import Icon from '../ui/Icon.astro';
-import { SITE, toCHF } from '../../data/site';
+import { SITE, MIN_ORDER_EUR, toCHF } from '../../data/site';
 import { exVat } from '../../lib/seo';
 import { useTranslations } from '../../i18n/ui';
 
@@ -18,12 +18,17 @@ const t = useTranslations('en');
 
 const chf = price === null ? null : toCHF(price);
 const net = chf === null ? null : exVat(chf);
-const freeShipping = chf !== null && chf >= 60;
+const minCHF = toCHF(MIN_ORDER_EUR);
+
+// How many of this item it takes to reach the minimum order value.
+const needed = price === null || price >= MIN_ORDER_EUR
+  ? 0
+  : Math.ceil(MIN_ORDER_EUR / price);
 ---
 
 <div class="buy">
   <div class="buy__price">
-    <Price value={price} size="lg" showEUR />
+    <Price value={price} size="lg" />
   </div>
 
   <p class="buy__vat">
@@ -51,13 +56,19 @@ const freeShipping = chf !== null && chf >= 60;
     </Button>
   </form>
 
+  {/* Stated on the product page, not discovered at checkout. */}
+  <p class="buy__min">
+    <Icon name="info" size={15} />
+    <span>
+      Minimum order &euro;{MIN_ORDER_EUR} (CHF {minCHF.toFixed(0)}).
+      {needed > 1 && ` That is ${needed}× this item, or mix with anything else.`}
+    </span>
+  </p>
+
   <ul class="buy__usp" role="list">
-    <li>
-      <Icon name="truck" size={15} />
-      {freeShipping ? 'Free Swiss shipping on this item' : 'Swiss shipping CHF 7.90 · free over CHF 60'}
-    </li>
+    <li><Icon name="truck" size={15} /> Free shipping on every order</li>
     <li><Icon name="package" size={15} /> Neutral, unmarked packaging</li>
-    <li><Icon name="shield" size={15} /> 14-day returns on unopened items</li>
+    <li><Icon name="bitcoin" size={15} /> Bitcoin or bank transfer</li>
   </ul>
 
   <p class="buy__sku">{t('product.sku')} {sku}</p>
@@ -113,6 +124,19 @@ const freeShipping = chf !== null && chf >= 60;
     border: 1px solid var(--line);
     border-radius: var(--radius);
   }
+
+  .buy__min {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    padding: 0.65rem 0.75rem;
+    background: var(--warn-soft);
+    color: var(--warn);
+    font-size: var(--step--1);
+    line-height: 1.45;
+  }
+
+  .buy__min :global(.icon) { margin-block-start: 0.15rem; flex: none; }
 
   .buy__usp {
     display: flex;

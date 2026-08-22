@@ -4,7 +4,7 @@ description: "What do you do when your trip ends to feel good? Read our tips on 
 heroImage: "/images/news/306-1702475910-400x300.webp"
 publishedAt: "2023-12-12"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you go tripping on magic mushrooms, <a href="/en/shop/mushrooms/magic-truffles">truffles</a> or other psychedelics, you often let the moment guide you. Totally fine! Most trippers sometimes struggle with the end of a trip, when things slowly wear off. What is the best thing to do at that moment to keep yourself entertained and comfortable? Here are our tips for the best possible end to a psychedelic trip.<br/><br/></p>

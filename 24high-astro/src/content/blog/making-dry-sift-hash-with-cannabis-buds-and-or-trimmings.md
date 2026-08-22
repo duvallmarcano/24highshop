@@ -4,7 +4,7 @@ description: "How to make hash from kief! Read more about this topic in our blog
 heroImage: "/images/news/88-1627392809-400x300.webp"
 publishedAt: "2021-07-23"
 updatedAt: "2024-02-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Almost every smoker has smoked hash at some point. Some like it very much, others prefer weed. Also, more than enough smokers smoke both, mixed together or not. In the vast majority of cases, this hash has been bought at the coffeeshop. Many cannabis smokers and growers do not know how to make hash themselves. This blog discusses the fastest and easiest way to make your own hash, also known as the dry method.<br/><br/></p>

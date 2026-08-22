@@ -4,7 +4,7 @@ description: "We'll explain you step by step how to use magical truffles to enjo
 heroImage: "/images/news/9-1566984575-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2026-07-07"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Magic truffles are among the most popular psychedelic products in the Netherlands. In this complete guide, you will learn everything about buying, choosing, using, storing and responsibly using magic truffles. You will also discover which varieties are available, how the effects can differ and what to keep in mind when determining the right dosage.</p>

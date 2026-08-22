@@ -4,7 +4,7 @@ description: "Do you want to experience how beautiful nature can look like with 
 heroImage: "/images/news/105-1636038148-400x300.webp"
 publishedAt: "2021-11-03"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Tripping with drugs strengthens your existing emotions, changes your perceptions and your perception of time and space. Well-known tripping agents are LSD, <a href="/en/shop/mushrooms/growkits-mushroom">shrooms</a>, ketamine and 2C-B. Exactly how you experience the effects of a trip depends on the drugs and setting. Think about the amount of drugs you take, whether you're in a familiar or unfamiliar environment, and whether you're tripping alone or with friends. Opinions are divided about the best locations and way of tripping, but as far as we are concerned, nature is one of the most beautiful places to experience your trip. We give you some tips for your outdoor trips.<br/><br/></p>

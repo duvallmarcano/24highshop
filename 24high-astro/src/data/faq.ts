@@ -1,5 +1,5 @@
 import type { QA } from '../lib/seo';
-import { SITE, toCHF, type ShopId } from './site';
+import { SITE, MIN_ORDER_EUR, toCHF, type ShopId } from './site';
 
 /**
  * Answer-engine copy.
@@ -10,17 +10,21 @@ import { SITE, toCHF, type ShopId } from './site';
  * product's own data rather than asserted.
  */
 
-const FREE_SHIPPING_CHF = 60;
+const MIN_CHF = toCHF(MIN_ORDER_EUR);
 
 /** Applies to every page; kept short so it can be quoted whole. */
 export const GLOBAL_FAQ: QA[] = [
   {
-    q: 'Where does 24High ship from?',
-    a: `24High ships from ${SITE.address.locality}, Switzerland. Orders placed before ${SITE.cutoff} on a working day are dispatched the same day. Delivery within Switzerland takes one to two working days; elsewhere in Europe, two to five.`,
+    q: 'Where does 24highshop ship from?',
+    a: `24highshop ships from ${SITE.address.locality}, Switzerland. Orders placed before ${SITE.cutoff} on a working day are dispatched the same day. Delivery within Switzerland takes one to two working days; elsewhere in Europe, two to five.`,
   },
   {
     q: 'How much does shipping cost?',
-    a: `Shipping within Switzerland is free on orders over CHF ${FREE_SHIPPING_CHF}, and CHF 7.90 below that. European orders are calculated at checkout from destination and weight. Every parcel is tracked.`,
+    a: `Nothing. Shipping is included on every order, within Switzerland and across Europe, and every parcel is tracked. This is possible because there is a minimum order value of €${MIN_ORDER_EUR}.`,
+  },
+  {
+    q: `Is there a minimum order?`,
+    a: `Yes — €${MIN_ORDER_EUR}, about CHF ${MIN_CHF.toFixed(0)}. Both payment methods settle manually, so smaller orders are not economic to process. You can reach the minimum with any mix of products.`,
   },
   {
     q: 'Is the packaging discreet?',
@@ -28,11 +32,11 @@ export const GLOBAL_FAQ: QA[] = [
   },
   {
     q: 'Which payment methods can I use?',
-    a: 'TWINT, PostFinance, Visa, Mastercard and invoice for Swiss customers. Card payments are accepted from elsewhere in Europe. Card details are handled by the payment provider and never reach 24High.',
+    a: `Bitcoin and bank transfer only. Bitcoin is settled on-chain with the rate locked for 15 minutes at checkout. Bank transfer accepts SEPA and Swiss IBAN, and the order is dispatched once the payment clears. No card details are collected at any point.`,
   },
   {
     q: 'Do I have to be 18 to order?',
-    a: 'Yes. 24High sells strictly to adults aged 18 and over. Orders may be cancelled and refunded where there is reason to believe the buyer is underage.',
+    a: 'Yes. 24highshop sells strictly to adults aged 18 and over. Orders may be cancelled and refunded where there is reason to believe the buyer is underage.',
   },
   {
     q: 'Can I return an order?',
@@ -53,7 +57,7 @@ export const SHOP_FAQ: Record<ShopId, QA[]> = {
     },
     {
       q: 'Are magic truffles legal in Switzerland?',
-      a: 'No. Psilocybin-containing truffles and mushrooms are controlled substances under Swiss narcotics law. 24High supplies grow kits, spores and cultivation equipment; psilocybin products are not shipped to Swiss addresses.',
+      a: 'No. Psilocybin-containing truffles and mushrooms are controlled substances under Swiss narcotics law. 24highshop supplies grow kits, spores and cultivation equipment; psilocybin products are not shipped to Swiss addresses.',
     },
     {
       q: 'Do medicinal mushrooms contain psilocybin?',
@@ -150,7 +154,7 @@ export function productFAQ(p: {
   if (chf !== null) {
     out.push({
       q: `How much does ${p.title} cost?`,
-      a: `${p.title} costs CHF ${chf.toFixed(2)} including 8.1% Swiss VAT. Swiss orders over CHF ${FREE_SHIPPING_CHF} ship free; below that, shipping is CHF 7.90.`,
+      a: `${p.title} costs CHF ${chf.toFixed(2)} including 8.1% Swiss VAT, with shipping included. 24highshop has a minimum order value of €${MIN_ORDER_EUR}, which you can reach with any mix of products.`,
     });
   }
 

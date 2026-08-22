@@ -5,35 +5,26 @@ interface Props {
   /** Catalogue price, always in EUR. CHF is derived. */
   value: number | null;
   size?: 'sm' | 'md' | 'lg';
-  /** Show the EUR equivalent beneath. */
-  showEUR?: boolean;
   class?: string;
 }
 
-const { value, size = 'md', showEUR = false, class: className } = Astro.props;
+const { value, size = 'md', class: className } = Astro.props;
 
+// Both currencies are rendered; the floating switcher decides which is shown,
+// so a static page can change currency without a rebuild or a round trip.
 const chf = value === null ? null : toCHF(value);
-const fmt = (n: number, cur: string) =>
-  new Intl.NumberFormat('de-CH', { style: 'currency', currency: cur }).format(n);
+const fmt = (n: number, cur: string, loc: string) =>
+  new Intl.NumberFormat(loc, { style: 'currency', currency: cur }).format(n);
 ---
 
 <span class:list={['price', `price--${size}`, className]}>
-  <span class="price__chf">{chf === null ? '—' : fmt(chf, 'CHF')}</span>
-  {
-    showEUR && value !== null && (
-      <span class="price__eur">{fmt(value, 'EUR')}</span>
-    )
-  }
+  <span class="price__v price__v--chf">{chf === null ? '—' : fmt(chf, 'CHF', 'de-CH')}</span>
+  <span class="price__v price__v--eur">{value === null ? '—' : fmt(value, 'EUR', 'de-DE')}</span>
 </span>
 
 <style>
   .price {
-    display: inline-flex;
-    flex-direction: column;
-    gap: 0.1rem;
-  }
-
-  .price__chf {
+    display: inline-block;
     font-family: var(--font-display);
     font-weight: 600;
     font-variant-numeric: tabular-nums;
@@ -42,14 +33,13 @@ const fmt = (n: number, cur: string) =>
     line-height: 1.1;
   }
 
-  .price__eur {
-    font-family: var(--font-mono);
-    font-size: 0.7em;
-    font-variant-numeric: tabular-nums;
-    color: var(--ink-3);
-  }
+  .price__v--eur { display: none; }
 
-  .price--sm .price__chf { font-size: var(--step-0); }
-  .price--md .price__chf { font-size: var(--step-2); }
-  .price--lg .price__chf { font-size: var(--step-4); }
+  /* the switcher stamps data-currency on <html> */
+  :global(html[data-currency='eur']) .price__v--chf { display: none; }
+  :global(html[data-currency='eur']) .price__v--eur { display: inline; }
+
+  .price--sm { font-size: var(--step-0); }
+  .price--md { font-size: var(--step-2); }
+  .price--lg { font-size: var(--step-4); }
 </style>

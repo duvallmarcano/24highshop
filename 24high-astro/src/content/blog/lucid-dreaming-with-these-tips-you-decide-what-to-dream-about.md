@@ -4,7 +4,7 @@ description: "With lucid dreaming, you are in control of what you dream. Do you 
 heroImage: "/images/news/273-1690908970-400x300.webp"
 publishedAt: "2023-07-30"
 updatedAt: "2025-04-14"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Anyone who has seen the film Inception will have wondered: how can I influence my dreams? Self-determining what you dream is called lucid dreaming. Going as deep as in Inception will probably be impossible. But with a little effort and support, you really can get a lot more out of your dreams than you think. For instance, there are several techniques you can use for this purpose. There are also natural supplements that can make your dream world a great place. Here are all kinds of tips to help you master lucid dreaming.<br/><br/></p>

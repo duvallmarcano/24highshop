@@ -4,7 +4,7 @@ description: "If you want to grow your own cannabis, you will face several probl
 heroImage: "/images/news/291-1697630290-400x300.webp"
 publishedAt: "2023-10-02"
 updatedAt: "2023-11-09"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Would you like to grow your own cannabis? Or have you made previous attempts to raise cannabis plants, which unfortunately failed? Know that growing cannabis can be quite a challenge. A cannabis plant is more sensitive than you think. But if you get it right, you can count on a big harvest. Read about all the challenges and problems you can encounter when growing cannabis, indoors and outdoors.<br/><br/></p>

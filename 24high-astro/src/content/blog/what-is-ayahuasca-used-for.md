@@ -4,7 +4,7 @@ description: "Ayahuasca was until recently an obscure drug that no one was famil
 heroImage: "/images/news/275-1690914812-400x300.webp"
 publishedAt: "2023-07-30"
 updatedAt: "2023-08-03"
-author: "24High"
+author: "24highshop"
 ---
 
 <p><a href="/en/">Ayahuasca</a> was until recently an obscure drug that no one was familiar with, except indigenous tribes. Nowadays, that has changed. You too will undoubtedly know someone who has done 'Aya'. Or maybe you have attended a ceremony yourself, in the jungle of Peru or just in our little country. But what is Ayahuasca actually used for? Could you benefit from a ceremony with this potent psychedelic brew?<br/><br/></p>

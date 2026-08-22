@@ -4,7 +4,7 @@ description: "Want tastier and healthier food? Then go for these herbs and spice
 heroImage: "/images/news/355-1718795422-400x300.webp"
 publishedAt: "2024-05-29"
 updatedAt: "2024-06-19"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Nature is full of healthy plants and herbs that can perk up your body and brain. Some of them are super tasty too. So with those spices you can not only give your meals an extra taste experience, but also strengthen your <a href="/en/">immune system</a>, inhibit inflammation, calm your mind and improve your general health.</p>

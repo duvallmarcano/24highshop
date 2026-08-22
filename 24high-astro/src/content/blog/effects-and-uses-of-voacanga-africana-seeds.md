@@ -4,7 +4,7 @@ description: "The effect, use and dosage explained of the seeds of the exotic tr
 heroImage: "/images/news/228-1677932064-400x300.webp"
 publishedAt: "2023-03-02"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Voacanga Africana is the name of a tree in the rainforests of West and Central Africa. Its seeds and bark contain psychoactive substances with stimulating, aphrodisiac and sometimes even hallucinogenic effects. From ancient medicine teachings, the powerful effects of this unique tree are confirmed, yet to this day it is difficult to assess exactly what it can do for someone. A matter of trying it, then. But not before you have read all about the active ingredients, effects and experiences with Voacanga Africana seeds in this article.<br/><br/></p>

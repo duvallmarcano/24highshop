@@ -4,7 +4,7 @@ description: "What is transcending? How can you do it, and what can you achieve 
 heroImage: "/images/news/217-1674639008-400x300.webp"
 publishedAt: "2023-01-24"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Discovering your true inner nature? You can do that with transcendence! An age-old meditation technique and also the most natural way to get to your inner self. Would you like to discover what it really means to be yourself? In this article, we tell you all about what transcendence is exactly.<br/><br/></p>

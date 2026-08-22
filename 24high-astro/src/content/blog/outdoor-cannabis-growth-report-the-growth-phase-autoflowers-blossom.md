@@ -4,7 +4,7 @@ description: "Cannabis outdoor grow report, information about growing cannabis o
 heroImage: "/images/news/86-1626351070-400x300.webp"
 publishedAt: "2021-07-07"
 updatedAt: "2024-05-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Welcome to my second Outdoor Cannabis Grow Report of the year. In my previous Outdoor Cannabis <a href="/en/">Grow Report</a> we explained exactly how you can best start your cannabis (outdoor) cultivation to guarantee a successful cannabis harvest!</p>

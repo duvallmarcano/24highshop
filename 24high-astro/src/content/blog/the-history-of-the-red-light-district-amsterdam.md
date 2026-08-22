@@ -4,7 +4,7 @@ description: "The history of the ramparts and the origin of the famous Amsterdam
 heroImage: "/images/news/72-1615307204-400x300.webp"
 publishedAt: "2021-02-26"
 updatedAt: "2026-03-26"
-author: "24High"
+author: "24highshop"
 ---
 
 <p><strong>What is De Wallen in Amsterdam?</strong><br/>De Wallen, also known as the Red Light District, is the oldest and most famous area of Amsterdam. This historic neighborhood combines medieval history with modern culture and is world-famous for window prostitution, coffeeshops, and unique attractions.</p>

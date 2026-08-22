@@ -4,7 +4,7 @@ description: "How were psychedelics discovered? Read everything you need to know
 heroImage: "/images/news/104-1635934530-400x300.webp"
 publishedAt: "2021-10-26"
 updatedAt: "2023-08-24"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Thanks to an accidental invention, the free spirits of the 1960s were able to fully enjoy psychedelic drugs like LSD. In 1943, the hallucinogenic effect of the drug LSD was accidentally discovered by chemist Albert Hofmann. However, if we take the theory of <a href="https://en.wikipedia.org/wiki/Terence_McKenna"> Terence McKenna</a>, the discovery of psychedelics took place much earlier. According to the “stoned ape theory”, magic mushrooms helped us develop our language, culture, and human evolution over 55 million years ago.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "You often see blue spots on your mushrooms when you grow them in a
 heroImage: "/images/news/236-1680336060-400x300.webp"
 publishedAt: "2023-03-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you grow your own mushrooms with a <a href="/en/shop/mushrooms/growkits-mushroom">growkit</a>, you may encounter many different colours. Sometimes your mushrooms will turn blue, which raises quite a few questions. Where does the blue colour come from? Are the blue spots harmful to your shrooms? How does that blue colour affect the strength of your mushroom? We explain it to you in this article.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Everything you need to know about preparing the magical mescaline 
 heroImage: "/images/news/127-1643294078-400x300.webp"
 publishedAt: "2022-01-24"
 updatedAt: "2024-09-09"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The San Pedro is a beautiful mescaline cactus native to South America and known for being a strong hallucinogen. The active, psychoactive ingredient in this mind-altering and body-purifying cactus is <a href="https://www.drugs.com/illicit/mescaline">mescaline</a>. The effects of Mescaline can be said to be intense. You therefore only use a San Pedro cactus in the form of a ceremony and under the guidance of a tripsitter or shaman. Have you done your research on the effects of San Pedro, have you arranged the setting and ordered the cutting of the cactus? Then only the correct preparation of the cactus stands between you and your spiritual journey. In this article, we would like to explain how to properly prepare a San Pedro cactus.<br/><br/></p>

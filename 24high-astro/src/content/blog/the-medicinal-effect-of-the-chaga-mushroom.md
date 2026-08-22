@@ -4,7 +4,7 @@ description: "What is the medicinal effect of the Chaga mushroom and what are th
 heroImage: "/images/news/154-1652183075-400x300.webp"
 publishedAt: "2022-05-10"
 updatedAt: "2026-07-02"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The Chaga mushroom is a remarkable fungus that has been used for centuries in traditional herbal and mushroom practices. Especially in cold regions such as Siberia and Northern Europe, Chaga is well known as a unique birch fungus that is commonly processed into tea, extracts and supplements.</p>

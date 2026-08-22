@@ -4,7 +4,7 @@ description: "What is qat? Read all about the effects and risks of khat here. We
 heroImage: "/images/news/343-1714566607-400x300.webp"
 publishedAt: "2024-04-30"
 updatedAt: "2025-03-31"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Qat, besides being a nice scrabble word, is also a stimulating plant. In parts of Africa and the Arab world, people chew on the leaves of the plant to get more energy and a better mood. Sounds good? Here we tell you all about the uses and effects of qat.<br/><br/></p>

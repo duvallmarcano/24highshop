@@ -4,7 +4,7 @@ description: "These top 10 comedy movies will have you laughing! Check quickly i
 heroImage: "/images/news/57-1605732866-400x300.webp"
 publishedAt: "2020-11-16"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Welcome to this blog about "stoner movies". There are many things that go well with smoking a big joint or other THC-related stimulants. One of them is watching a movie. During an evening of chilling, there is hardly anything more fun than to watch a good movie alone or together with some friends. Watching a movie while being stoned gets me and many other smokers more carried away by the movie. I must say, that there is a chance that you may not remember parts of the movie afterwards. However, you get a greater empathy, more creativity and sometimes even old-fashioned laugh kicks in return. There are many genres and almost everyone has a favorite movie, directors or actors. This blog is mainly about films that you will find (more) fun while being high., The vast majority of stoner films will be comedies. Let's get started so that you can enjoy a movie (stoned) quickly and relaxed. Oh one more thing, make sure you have enough (cold) drinks, cannabis and some snacks for when the munchies strike during the movie. So be well prepared! Here, in 24High you can of course order your <a href="/en/shop/headshop/smoking-accessories">rolling papers and filter/tips</a> for an unforgettable stoney movie night.<br/><br/></p>

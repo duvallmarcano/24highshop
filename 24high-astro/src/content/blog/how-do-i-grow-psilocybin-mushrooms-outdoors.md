@@ -4,7 +4,7 @@ description: "Everything you need to know about growing your own psilocybin mush
 heroImage: "/images/news/125-1642588469-400x300.webp"
 publishedAt: "2022-01-17"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When you walk through the forest on a sunny autumn afternoon, you will spot a lot of mushrooms! They pop up in all shapes and sizes. Imagen how it would be if you could cultivate your own outdoor psilocybin mushrooms! In this blog, we will explain the difference with growing magic mushrooms indoors, which step-by-step preparation plan you should follow to guarantee a successful harvest.<br/><br/></p>

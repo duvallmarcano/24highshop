@@ -4,7 +4,7 @@ description: "Growing mushrooms at home is a fun activity. But how exactly do yo
 heroImage: "/images/news/232-1679146045-400x300.webp"
 publishedAt: "2023-03-16"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Growing mushrooms can be a good way to replenish your stock or get quality mushrooms at home. After all, they can be hard to come by. With one of our magic <a href="/en/shop/mushrooms/growkits-mushroom">mushroom grow kits</a>, growing these different mushrooms is not a difficult process. However, it does require observation to get a nice harvest, as they often grow quickly. It's also important to work sterile and perform the harvest as accurately as possible to get the perfect magic mushrooms. In this article, we explain all about harvesting your mushrooms from your grow kits.<br/><br/></p>

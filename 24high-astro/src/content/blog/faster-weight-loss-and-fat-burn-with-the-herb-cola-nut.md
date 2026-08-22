@@ -4,7 +4,7 @@ description: "Can you lose weight faster and burn fat with the herb cola nut? We
 heroImage: "/images/news/144-1648640054-400x300.webp"
 publishedAt: "2022-03-25"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>What is the cola nut? What does it do? And why is this so popular? We tell you all about it in this article. Who knows, after reading this article, it might be something for you and you might want to give it a try. We are certainly fans!<br/><br/></p>

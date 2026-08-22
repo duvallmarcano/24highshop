@@ -4,7 +4,7 @@ description: "Where do Christmas traditions come from?"
 heroImage: "/images/news/23-1670753327-400x300.webp"
 publishedAt: "2019-12-23"
 updatedAt: "2024-02-29"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>As a young child, I had all my doubts about that big, fat man with a white long beard, dressed in his red-white robe flying through the air in a sledge drawn by reindeer who didn't even have wings, bs! When I read this sentence back, it's only logical that my doubts were well-founded. There were no answers to questions such as, why does these reindeer fly, why does that fat man sink through the chimney to give us all those presents. After hours of research, I found out the true story, or rather, a story that is a lot more credible to me than the current, traditional story about the origin of Santa Claus and his reindeer. Read on and decide for yourself which of the two versions owns the honour of the true story behind the origin of this tradition and symbols. <br/><br/></p>

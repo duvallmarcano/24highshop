@@ -4,7 +4,7 @@ description: "Before you embark on a spiritual trip on magic mushrooms: go medit
 heroImage: "/images/news/278-1693387361-400x300.webp"
 publishedAt: "2023-08-28"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Preparation is half the battle, and this is certainly true for a magic mushroom trip. There are all sorts of ways to prepare for a spiritual trip on <a href="/en/">magic mushrooms</a>. For instance, it is smart not to eat too much the hours or day before the trip. A comfortable trip environment, the right company and a nice playlist can also make quite a difference. It is also wise to go into a trip with a healthy, relaxed mindset. A good way to achieve this is by practising meditation and yoga. Read here how to approach this and in what way it will deepen your paddotrip.<br/><br/></p>

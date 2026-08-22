@@ -4,7 +4,7 @@ description: "Are you having trouble sleeping? Then CBD could be a solution! Rea
 heroImage: "/images/news/96-1633465135-400x300.webp"
 publishedAt: "2021-10-04"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Sleep problems can be terrible: not only do the nights last long, you lie tossing and turning and may suffer from fretting, pain or restlessness. The day after, you usually feel lousy, too. And the frustrating thing is often, the harder you try to fall asleep, the harder it is to find peace. Many people then reach for sleeping pills, but this really only takes you further from home.</p>

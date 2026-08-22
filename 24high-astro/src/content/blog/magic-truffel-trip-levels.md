@@ -4,7 +4,7 @@ description: "The strength of your magic truffle trip can be organized in 5 leve
 heroImage: "/images/news/13-1566982021-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2024-04-18"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Every trip is different, with <a href="/en/">magic truffles</a> or magic mushrooms. Sometimes it is more intense than other times, and that has to do with the type of truffle you choose and the amount you consume. To indicate how deep you are in your trip, there are different truffle and mushroom trip levels that you can reach. This ranges from mild trips to severe trips and is divided into levels from 1 to 5. A mild trip is level 1 and level 5 is a severe trip. <br/><br/></p>

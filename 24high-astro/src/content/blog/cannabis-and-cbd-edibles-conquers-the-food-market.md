@@ -4,7 +4,7 @@ description: "Cannabis is the new trend in 2020! Science has made great strides 
 heroImage: "/images/news/32-1585943185-400x300.webp"
 publishedAt: "2020-04-01"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Cannabis is the new trend in 2020! Science has made great strides and has now discovered that CBD is a very interesting substance. Are you also curious about these new discoveries? Discover the limitless possibilities of CBD here in our blog.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Combining Cannabis and Magic Mushrooms? Read our blog and find out
 heroImage: "/images/news/94-1632832242-400x300.webp"
 publishedAt: "2021-09-27"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Would you like to combine magic mushrooms and cannabis? Using several types of drugs at the same time (polydrug use) is not uncommon. You can do this for several reasons, but usually it is to induce a more powerful high.</p>

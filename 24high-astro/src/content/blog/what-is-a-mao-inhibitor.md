@@ -4,7 +4,7 @@ description: "You may have heard of monoamine oxidase inhibitors, but what exact
 heroImage: "/images/news/195-1667919059-400x300.webp"
 publishedAt: "2022-11-07"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>MAOIs or with a difficult word Monoamine oxidase inhibitors. The word says it all: it inhibits something. But how exactly does this work? In this article, we'll tell you all about what an MAOI is and how they work.<br/><br/></p>

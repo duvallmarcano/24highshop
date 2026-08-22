@@ -4,7 +4,7 @@ description: "Slept for 8 hours and still tired? Discover how you can get rid of
 heroImage: "/images/news/12-1569608947-400x300.webp"
 publishedAt: "2019-04-21"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Are you tired all day? Do you feel lifeless and do you have the idea that you have no strength left? When you Google this or ask around in your circle of friends, you may always come up with the same tips.<br/><br/></p>

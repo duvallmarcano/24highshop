@@ -4,7 +4,7 @@ description: "What is the ratio of psilocybin in fresh truffles and magic mushro
 heroImage: "/images/news/194-1667646879-400x300.webp"
 publishedAt: "2022-10-27"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Curious about the ratio of psilocybin in fresh truffles and magic mushrooms? Or how much psilocybin there is in, say, one gram of fresh truffles or <a href="/en/shop/mushrooms/growkits-mushroom">magic mushrooms</a>? Then you are in the right place. In this article, we'll tell you more about the ratio of these mushrooms, so you can dose them properly.<br/><br/></p>

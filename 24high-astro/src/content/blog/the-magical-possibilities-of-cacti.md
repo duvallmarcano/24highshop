@@ -4,7 +4,7 @@ description: "What is a magic cactus? Which cacti are these and how do you prepa
 heroImage: "/images/news/73-1615894234-400x300.webp"
 publishedAt: "2021-03-05"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When using psychedelic drugs, most people think of magic mushrooms or weed, but did you know that you can also trip with cacti? This is not possible with every cactus, but with the Peyote and San Pedro cactus. These contain mescaline, a substance that takes you to higher spheres, just as with LSD. If you want to know more about magical cacti, read on below.<br/><br/></p>

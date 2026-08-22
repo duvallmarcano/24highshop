@@ -4,7 +4,7 @@ description: "Kratom is becoming an increasingly popular psychedelic substance. 
 heroImage: "/images/news/178-1661935802-400x300.webp"
 publishedAt: "2022-08-25"
 updatedAt: "2026-07-06"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Kratom is a tropical plant native to Southeast Asia that has been used for generations because of the unique properties of its leaves. In recent years, interest in kratom has also grown significantly in Europe. Many people are curious about its potential stimulating or relaxing effects, the different varieties available, and how to use kratom responsibly.</p>

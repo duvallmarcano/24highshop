@@ -4,7 +4,7 @@ description: "Discover what science says about CBD for pain relief. Read about i
 heroImage: "/images/news/77-1750087304-400x300.webp"
 publishedAt: "2021-04-16"
 updatedAt: "2025-06-19"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>CBD (cannabidiol) is being investigated as a possible additional treatment for pain complaints. Chronic pain is often treated with regular painkillers, which can be effective, but also have side effects. This blog discusses the current scientific insights into the role of CBD in pain management.</p>

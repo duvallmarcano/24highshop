@@ -4,7 +4,7 @@ description: "Why trip on an empty stomach with truffles or magic mushrooms? In 
 heroImage: "/images/news/215-1674074247-400x300.webp"
 publishedAt: "2023-01-16"
 updatedAt: "2026-07-07"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Many people choose to use magic truffles on an empty stomach. This may sound contradictory, because when drinking alcohol people are often advised to eat well beforehand. With psychedelic truffles, however, many users experience the opposite.</p>

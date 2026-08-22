@@ -4,7 +4,7 @@ description: "Nowadays, more and more CBD products are being seen. Besides the w
 heroImage: "/images/news/179-1661935947-400x300.webp"
 publishedAt: "2022-08-25"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Nowadays, you see more and more products with cannabidiol besides the well-known CBD-oil. For instance, various <a href="/en/shop/cbdshop/cbd-edibles">edibles</a> are available with cannabidiol, including different CBD sweets like lollipops, brownies, gummy bears and chewing gum. A fun way to get acquainted with CBD, if you are already a fan, or as a new way to ingest this amazing substance. In this article we will tell you more about what cannabidiol candy is.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "What is the difference between a bong and a shisha? We looked it u
 heroImage: "/images/news/148-1649836800-400x300.webp"
 publishedAt: "2022-04-07"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In this blog, we discuss the differences between a bong and a shisha. In principle, they are fairly similar to each other, but there are also major differences, and they are used for completely different purposes. Read more about the differences between a bong and a shisha in this blog and see which product suits you best.<br/><br/></p>

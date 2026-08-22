@@ -4,7 +4,7 @@ description: "Does microdosing psilocybin magic mushrooms or truffles help with 
 heroImage: "/images/news/192-1667146712-400x300.webp"
 publishedAt: "2022-10-27"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>To get straight to the point: various studies show that microdosing psilocybin helps with PTSD. It is common knowledge that mind-altering substances such as psilocybin from magic mushrooms or truffles have positive effects on your mental well-being. And when you take a small amount of this substance, you can benefit from its mind-altering effects without ending up in a trip.<br/><br/></p>

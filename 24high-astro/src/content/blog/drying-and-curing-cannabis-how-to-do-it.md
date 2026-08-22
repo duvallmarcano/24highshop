@@ -4,7 +4,7 @@ description: "Drying and curing your cannabis buds is an important step if you w
 heroImage: "/images/news/303-1701536379-400x300.webp"
 publishedAt: "2023-11-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>After the cannabis harvest, you can't enjoy your cannabis right away. Drying and curing cannabis is an important step if you want to preserve the plant's optimal strength and aroma. Drying allows you to get all the water out of the buds, making them easier to smoke. And curing, which takes a few weeks, gives your <a href="/en/">weed</a> a lovely, smooth aroma. So it's worth applying these techniques. This blog tells you how.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Today, the use of psychedelics to treat various mental disorders i
 heroImage: "/images/news/160-1654089095-400x300.webp"
 publishedAt: "2022-05-30"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Nowadays, the use of psychedelics for various disorders is no longer viewed so negatively, certainly not in the Netherlands. For example, there is the well-known medicinal weed and magic mushrooms are increasingly used for depression or anxiety. Psychedelics can have a beneficial effect on body and mind. However, it is important that we learn more about this. Fortunately, more and more research is being done into the possibilities of these resources. In this blog, we list which studies have been done into the benefits of <a href="/en/">psychedelics</a> in mental complaints.<br/><br/></p>

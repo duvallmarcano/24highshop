@@ -4,7 +4,7 @@ description: "Could you use a boost to your sex life or could you last longer in
 heroImage: "/images/news/289-1696696878-400x300.webp"
 publishedAt: "2023-10-02"
 updatedAt: "2023-10-08"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Could your sex life or libido use a boost, or do you want to be able to last longer in bed? Then take a look at our aphrodisiacs: aphrodisiac products that enhance your sexual pleasure and performance. The good thing is: nature is secretly full of them! Read here which plants can help you in bed.<br/><br/></p>

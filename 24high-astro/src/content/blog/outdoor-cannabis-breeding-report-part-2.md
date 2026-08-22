@@ -4,7 +4,7 @@ description: "Grow report cannabis plants buds and nutrition and much more infor
 heroImage: "/images/news/40-1593251079-400x300.webp"
 publishedAt: "2020-06-22"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Ey, here we are again. After my first report: <a href="/en/">Outdoor cannabis breeding report part 1</a>, now comes my second outdoor growing report. For the sake of convenience, I number the types / strains that I double in this report with # 1 and # 2. I also tagged my cannabis plants with these labels and stickers on the pots.<br/><br/></p>

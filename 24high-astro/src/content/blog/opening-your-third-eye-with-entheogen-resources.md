@@ -4,7 +4,7 @@ description: "Do you want to know how to open your third eye? With entheogenic m
 heroImage: "/images/news/1-1557157608-400x300.webp"
 publishedAt: "2018-12-08"
 updatedAt: "2023-11-28"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Entheogen means 'coming from the God within ourselves'. And that is exactly what you can come into contact with the use of an Entheogenic agent. There are many entheogenic substances that were discovered by ancient tribes and peoples hundreds to thousands of years ago and are still used today as magic mushrooms. In Eastern beliefs / spirituality this is called 'opening the third eye', science keeps it on influencing the pituitary gland. <br/><br/></p>

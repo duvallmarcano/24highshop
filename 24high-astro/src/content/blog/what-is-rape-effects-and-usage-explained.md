@@ -4,7 +4,7 @@ description: "What is rapé and how do you use it? Read all about this magical s
 heroImage: "/images/news/266-1689759837-400x300.webp"
 publishedAt: "2023-07-17"
 updatedAt: "2026-03-23"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Rapé, also known as snuff, is snuff with a rich indigenous tradition. Originally, it was used by South American peoples in ritual settings. While it contains nicotine, it certainly does not compare to casual cigarette smoking. Read all about the history of rapé here. How and why do you use it and what are the effects?<br/><br/></p>

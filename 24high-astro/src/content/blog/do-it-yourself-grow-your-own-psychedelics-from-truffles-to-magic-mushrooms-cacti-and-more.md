@@ -4,7 +4,7 @@ description: "You can grow all kinds of things to trip on at home: magic mushroo
 heroImage: "/images/news/313-1704912154-400x300.webp"
 publishedAt: "2024-01-09"
 updatedAt: "2024-01-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>In our shop, you will not only find ready-made products for psychedelic experiences, but also grow kits and seeds. These allow you to grow your own psychedelics. Totally legal! After all, it gives a trip just that little bit extra when you know you're spiking on your own cultivated substances. That's why you'll find a complete overview of trip drugs you can grow at home here. What will be your next project?<br/><br/></p>

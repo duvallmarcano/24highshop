@@ -4,7 +4,7 @@ description: "There are several studies showing that cannabis can help treat var
 heroImage: "/images/news/186-1665232137-400x300.webp"
 publishedAt: "2022-09-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Cannabis has been a popular plant since ancient times because of the psychological and physical effects it brings. Several positive and medicinal properties are attributed to it. This is due to the active ingredients in marijuana, known as cannabinoids tetrahydrocannabinol (THC) and cannabidiol (CBD). And there are several studies showing that cannabis helps with various conditions. Whether this also applies to cannabis oil for cancer, we'd like to tell you more about that in this article.<br/><br/></p>

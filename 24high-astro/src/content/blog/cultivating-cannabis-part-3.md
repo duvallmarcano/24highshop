@@ -4,7 +4,7 @@ description: "Blog about the growth phase of the cannabis plant up to and includ
 heroImage: "/images/news/45-1596798063-400x300.webp"
 publishedAt: "2020-08-05"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Welcome to my third blog about Growing Cannabis. I also have a few blogs on the site about cultivating my cannabis plants this year. This blog will be about the preparations and knowledge about Cannabis and grow information. First we will talk about the growth phase of the cannabis plant and the training techniques that can be used during this phase. Furthermore, we are going to talk briefly about all growing mediums, the choice between open ground or pots, in short enough reading material and information so let's start?<br/><br/></p>

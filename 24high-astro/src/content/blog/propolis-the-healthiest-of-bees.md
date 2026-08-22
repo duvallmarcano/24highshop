@@ -4,7 +4,7 @@ description: "What exactly is propolis and how healthy is it for us humans? Read
 heroImage: "/images/news/377-1725545591-400x300.webp"
 publishedAt: "2024-08-28"
 updatedAt: "2024-09-05"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When bees make honey, they produce something extra healthy: propolis. Propolis is a sticky substance that the bees themselves use to keep bacteria, fungi and other threats to their health out of the hive. Without really realising it themselves, their method of production creates a very healthy good that has all kinds of benefits for humans too. The ancient Greeks realised this thousands of years ago and used it for wound care. Read all you need to know about it here!<br/><br/></p>

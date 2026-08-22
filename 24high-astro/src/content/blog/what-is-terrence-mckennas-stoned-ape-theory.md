@@ -4,7 +4,7 @@ description: "Have you ever heard of the Stoned Ape theory? In this blog, we tel
 heroImage: "/images/news/269-1690609821-400x300.webp"
 publishedAt: "2023-07-23"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The fact that humans use mind-altering substances is quite extraordinary and especially that we have been doing so for thousands of years. Terrence McKenna wrote a book about it and argued that the use of such substances initiated and underpinned the development of our brains. The question is whether this is really so. Scientists disagree. In this blog, we look at exactly what the theory means.<br/><br/></p>

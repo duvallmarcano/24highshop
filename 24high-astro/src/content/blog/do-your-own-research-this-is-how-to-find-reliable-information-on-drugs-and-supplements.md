@@ -4,7 +4,7 @@ description: "How and where can you find reliable information to make the right 
 heroImage: "/images/news/351-1717343736-400x300.webp"
 publishedAt: "2024-05-14"
 updatedAt: "2024-06-03"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Information is everywhere, thanks to the internet. Great, all that knowledge at our fingertips. But there is a big drawback: we don't really know anymore what is correct and what is not. It sometimes seems as if scientists contradict each other. And so a lot of people fall for complete nonsense stories. The consequences can vary. You may lose a few tens because you buy a supplement that doesn't work. But your health could also be at risk. For instance, millions of people don't eat gluten because a few influencers shout that wheat and bread are bad for you. Which, by the way, is not true, so by all means eat those croissants if you're feeling good about it. So what are sources you can trust? How and where can you find reliable information to make the right choices regarding drugs, supplements and your overall health?<br/><br/></p>

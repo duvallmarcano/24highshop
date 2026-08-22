@@ -4,7 +4,7 @@ description: "What is canary grass and how do you grow these seeds for tripping?
 heroImage: "/images/news/261-1688283900-400x300.webp"
 publishedAt: "2023-06-29"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Canary grass has a harmless name, but it certainly isn't... In fact, you are not dealing with bird food here, but with a very strong trip drug. At least: from this plant you can extract DMT, which is one of the strongest psychedelic drugs in existence. Read all about canary grass here. How do you grow it and what effects can you expect from it?<br/><br/></p>

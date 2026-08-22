@@ -4,7 +4,7 @@ description: "Meditating not so successful? Here's how to get better at meditati
 heroImage: "/images/news/285-1695545259-400x300.webp"
 publishedAt: "2023-09-18"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Looking for a calmer mind? Then meditation is a great way to relax mentally and physically. Meditation is ideally suited for people struggling with stress or constantly racing (negative) thoughts. Do you recognise yourself in this? Then this article is for you! Read here what you can do to get more out of your meditation.<br/><br/></p>

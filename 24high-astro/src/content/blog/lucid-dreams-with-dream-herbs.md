@@ -4,7 +4,7 @@ description: "Sí, puedes inducir sueños lúcidos con hierbas. Para que puedas 
 heroImage: "/images/news/63-1609776654-400x300.webp"
 publishedAt: "2020-12-22"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Everything is possible while dreaming! Do you want to fly through the universe like Superman searching for Krypton? This is also possible, provided you can control and experience the dreams consciously. Dream herbs are natural remedies that can help you induce lucid dreams. This means that you are aware of the fact that you are dreaming and that you can be in control of everything that goes on in the dream.</p>

@@ -4,7 +4,7 @@ description: "Was Mike Tyson Addicted, and How Did He Get Over It? This and more
 heroImage: "/images/news/26-1584649091-400x300.webp"
 publishedAt: "2020-02-14"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>When former heavyweight boxing champion Mike Tyson tried 5-MeO-DMT for first time, he said; it knocked me  off the ground and dramatically changed my life. " I came across 5-MeO-DMT. I smoked it and I've never been the same,  I look at life differently, I look at people differently. It's almost like dying and being reborn. It's unthinkable. I tried to explain to some people, like my wife, but I couldn't find any words. It is almost as if you die, you are submissive, you are modest, you are vulnerable, but you are still invincible. " 5-MeO-DMT derived from a toad venom. The same substance is present in the Anadenanthera peregrina seeds, also known as <a href="/en/product/8101166-yopo">Yopo seeds</a>.<br/><br/></p>

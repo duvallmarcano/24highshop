@@ -4,7 +4,7 @@ description: "Why are medicinal mushrooms good for your immune system and what e
 heroImage: "/images/news/107-1636559536-400x300.webp"
 publishedAt: "2021-11-04"
 updatedAt: "2025-01-22"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The interest in alternative medicines to support your immune system is increasing day by day. Understandable, because who doesn't want a strong immune system? Let medicinal mushrooms have a major influence on that. In addition to the general property to strengthen your immune system, each medicinal mushroom also has very specific properties for your health. In this article we discuss how medicinal mushrooms can support your immune system and what effects they have on it.<br/><br/></p>

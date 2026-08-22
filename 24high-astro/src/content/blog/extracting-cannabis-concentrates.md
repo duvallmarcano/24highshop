@@ -4,7 +4,7 @@ description: "What are cannabis concentrates, what types are there and how does 
 heroImage: "/images/news/112-1638198041-400x300.webp"
 publishedAt: "2021-11-27"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The way we use cannabis today has completely changed. The market for extracts has exploded in recent years. While some types of hash have been around for years, many new concentrates have appeared on the market today. Each with its own unique taste, concentrations, and effects. In this article, we will introduce you to the different types of cannabis concentrates and explain the different methods of extracting cannabis concentrates.</p>

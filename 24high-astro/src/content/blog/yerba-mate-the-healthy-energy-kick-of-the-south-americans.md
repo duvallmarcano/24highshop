@@ -4,7 +4,7 @@ description: "What is yerba mate and how healthy is it? We tell you all about th
 heroImage: "/images/news/364-1721223260-400x300.webp"
 publishedAt: "2024-06-12"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Yerba Mate is the coffee among teas. South Americans like to drink this herbal tea a lot for a good energy boost. It has since also found its way to the West. All the hipsters in Berlin, for instance, have been getting their energy from bottles of Club Mate for years, in which the main ingredient is of course Yerba Mate. But besides energy, drinking 'mate' has other benefits. It can also contribute to a healthy cholesterol profile, your heart health, inflammation and even lend a hand if you want to lose weight. Some people find that mate gives a finer energy kick than coffee because it is said to make you less nervous. Curious? Read all about this interesting little plant here.<br/><br/></p>

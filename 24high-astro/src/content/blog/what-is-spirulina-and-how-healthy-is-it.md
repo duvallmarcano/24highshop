@@ -4,7 +4,7 @@ description: "Spirulina: what exactly is this alga and what effects does it have
 heroImage: "/images/news/336-1712420194-400x300.webp"
 publishedAt: "2024-04-03"
 updatedAt: "2024-04-07"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Spirulina: you have probably heard of this bright green goodness. This supplement is sold in capsules and as powder, but you will also find it regularly in smoothies and healthy shots. But how healthy is spirulina really? And what exactly does it contain? Read all about its health benefits here.</p>

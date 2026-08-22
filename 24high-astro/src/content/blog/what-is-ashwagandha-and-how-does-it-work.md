@@ -4,7 +4,7 @@ description: "Answers to all your questions around ashwagandha and information o
 heroImage: "/images/news/210-1672253100-400x300.webp"
 publishedAt: "2022-12-12"
 updatedAt: "2025-04-14"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>We have all heard of herbs that help us feel better. Sometimes they help us relax, other times they help us become more energetic. One such special herb is Ashwagandha. A particularly powerful herb with a special effect. In this article, we will tell you more about what Ashwaganda is and how to use it.<br/><br/></p>

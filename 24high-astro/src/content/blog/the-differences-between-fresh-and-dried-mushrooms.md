@@ -4,7 +4,7 @@ description: "If you are thinking about trying magic mushrooms, you might be won
 heroImage: "/images/news/240-1681547310-400x300.webp"
 publishedAt: "2023-04-12"
 updatedAt: "2023-05-25"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>If you are thinking about trying magic mushrooms, you might be wondering what the differences are between fresh and dried mushrooms. If you ask experienced cosmonauts about it, you will probably hear different opinions. Some say they prefer fresh, while others will never take anything but dried. In this blog, we explain how these <a href="/en/shop/mushrooms/growkits-mushroom">mushrooms</a> differ from each other, so you can make a better choice.<br/><br/></p>

@@ -4,7 +4,7 @@ description: "Curious what CBD oil is and which benefits are useful to you? CBD 
 heroImage: "/images/news/4-1557158052-400x300.webp"
 publishedAt: "2018-12-08"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Cannabidiol (CBD) is extracted from leaves and flower tops of industrial hemp (fibre hemp). CBD is a non-psychoactive cannabinoid found in cannabis that has pharmacological interactions with <a href="/en/">tetrahydrocannabinol</a>. CBD inhibits the breakdown of THC by liver enzymes. CBD (Cannabidiol) is a cannabinoid and has many applications such as reducing (chronic) pain, inflammation, epilepsy, migraines and many psychological complaints. Hemp oil has an ideal ratio of Omega 3, 6 and 9 fatty acids and can contribute to healthy cholesterol levels. Cannabidiol (CBD) is a cannabinoid and not THC. You don't get stoned or high from CBD oil.</p>

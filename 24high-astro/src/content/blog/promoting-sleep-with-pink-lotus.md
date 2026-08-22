@@ -4,7 +4,7 @@ description: "What is the Pink Lotus, and what are its effects? Can I promote my
 heroImage: "/images/news/193-1667313420-400x300.webp"
 publishedAt: "2022-10-27"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>The Pink Lotus is a special aquatic plant with a rich history. It is a pure and clean flower that has several names. Some speak of Indian lotus or sacred lotus, others of the bean of India, and some simply stick to the pink lotus. But anyone who knows this flower knows that it has special effects. Among other things, the flower can promote your sleep. So time to delve into the pink lotus!<br/><br/></p>

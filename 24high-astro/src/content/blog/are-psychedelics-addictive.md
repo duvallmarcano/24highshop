@@ -4,7 +4,7 @@ description: "Psychedelics are psychoactive substances that cause you to experie
 heroImage: "/images/news/202-1670055839-400x300.webp"
 publishedAt: "2022-11-30"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>Psychedelics are trip drugs that let you experience the world differently from how you normally see and experience it. Everything your senses can perceive changes. This can go as far as hearing, seeing, smelling and feeling things differently. Also, objects sometimes seem to move, and you see colors more vividly. Even awareness of time and space can change. This is why psychedelics are often called trip aids or hallucinogens. Such a trip often provides extraordinary experiences, but are they also addictive?<br/><br/></p>

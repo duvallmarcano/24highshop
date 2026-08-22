@@ -4,7 +4,7 @@ description: "Cannabidiol (CBD) has become very popular in recent years because 
 heroImage: "/images/news/235-1680089594-400x300.webp"
 publishedAt: "2023-03-26"
 updatedAt: "2026-02-10"
-author: "24High"
+author: "24highshop"
 ---
 
 <p>CBD has become very popular in recent years, with many people using it for sleep problems, PMS, mood issues or pain. But no package leaflet is given with CBD and you are supposed to find the right dosage yourself. You may therefore wonder if it is possible to take too much CBD. In this blog, we will discuss how safe this drug is, what to watch out for when dosing and whether it is possible to overdose on <a href="/en/shop/cbdshop/cbd-oil">CBD</a>.<br/><br/></p>
