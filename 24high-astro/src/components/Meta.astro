@@ -7,6 +7,8 @@ interface Props {
   image?: string;
   type?: 'website' | 'article' | 'product';
   noindex?: boolean;
+  /** Overrides the generated canonical, for paginated or filtered views. */
+  canonicalPath?: string;
 }
 
 const {
@@ -15,12 +17,14 @@ const {
   image = '/images/layout/logo-200.png',
   type = 'website',
   noindex = false,
+  canonicalPath,
 } = Astro.props;
 
-// Astro builds directory-style URLs, and the sitemap emits them with a
-// trailing slash — canonical has to agree with it or the two disagree about
-// which URL is the real one.
-const path = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
+// Astro builds directory-style URLs and the sitemap emits them with a
+// trailing slash; canonical has to agree or the two disagree about which
+// URL is the real one.
+const raw = canonicalPath ?? Astro.url.pathname;
+const path = raw.endsWith('/') ? raw : `${raw}/`;
 const canonical = new URL(path, SITE.url).href;
 const ogImage = new URL(image, SITE.url).href;
 const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
@@ -32,33 +36,52 @@ const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
 {noindex && <meta name="robots" content="noindex, nofollow" />}
+{
+  !noindex && (
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+  )
+}
+
+{/* Where the business actually is. Read by local and map surfaces. */}
+<meta name="geo.region" content="CH-ZH" />
+<meta name="geo.placename" content={SITE.address.locality} />
+<meta name="geo.position" content={`${SITE.geo.lat};${SITE.geo.lng}`} />
+<meta name="ICBM" content={`${SITE.geo.lat}, ${SITE.geo.lng}`} />
 
 <meta property="og:site_name" content={SITE.name} />
 <meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={ogImage} />
+<meta property="og:image:alt" content={title} />
 <meta property="og:type" content={type === 'product' ? 'website' : type} />
 <meta property="og:url" content={canonical} />
-<meta property="og:locale" content="en_GB" />
+<meta property="og:locale" content="en_CH" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={ogImage} />
 
-{LOCALES.map((l) => <link rel="alternate" hreflang={l.code} href={l.href} />)}
+{
+  LOCALES.filter((l) => l.enabled).map((l) => (
+    <link rel="alternate" hreflang={l.hreflang} href={canonical} />
+  ))
+}
 <link rel="alternate" hreflang="x-default" href={`${SITE.url}/en/`} />
 
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 <link rel="icon" href="/favicon-32x32.png" sizes="32x32" />
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-<meta name="theme-color" content="#0e5138" />
+<meta name="theme-color" content="#0b5136" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
   rel="stylesheet"
-  href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
+  href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
 />
 
 {/* Resolve the stored theme before first paint so the page never flashes. */}

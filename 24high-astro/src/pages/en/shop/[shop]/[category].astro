@@ -3,11 +3,18 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from '../../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../../components/layout/Breadcrumbs.astro';
 import ProductGrid from '../../../../components/product/ProductGrid.astro';
-import { SHOPS, type Shop, type Category } from '../../../../data/site';
+import FAQ from '../../../../components/seo/FAQ.astro';
+import KeyFacts from '../../../../components/seo/KeyFacts.astro';
+import { SHOPS, toCHF, SITE, type Shop, type Category, type ShopId } from '../../../../data/site';
+import { SHOP_FAQ } from '../../../../data/faq';
+import {
+  breadcrumbSchema,
+  collectionPageSchema,
+  itemListSchema,
+} from '../../../../lib/seo';
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
-
   return SHOPS.flatMap((shop) =>
     shop.categories.map((category) => ({
       params: { shop: shop.id, category: category.slug },
@@ -37,90 +44,176 @@ const sorted = [...products].sort((a, b) => {
 });
 
 const prices = products.map((p) => p.data.price).filter((p): p is number => p !== null);
-const from = prices.length ? Math.min(...prices) : null;
+const fromEUR = prices.length ? Math.min(...prices) : null;
+const toEUR = prices.length ? Math.max(...prices) : null;
+const fromCHF = fromEUR === null ? null : toCHF(fromEUR);
+const toCHFmax = toEUR === null ? null : toCHF(toEUR);
 const available = products.filter((p) => p.data.inStock).length;
+
+const url = `/en/shop/${shop.id}/${category.slug}`;
+const crumbs = [
+  { label: 'Home', href: '/en/' },
+  { label: shop.label, href: shop.href },
+  { label: category.label },
+];
+
+// A direct-answer opening paragraph: what this category is, how many, from
+// what price, how fast it ships. Written to be quotable in one lift.
+const answer = `24High stocks ${products.length} ${category.label.toLowerCase()} ${
+  fromCHF !== null ? `from CHF ${fromCHF.toFixed(2)}` : ''
+}, shipped from ${SITE.address.locality} in plain packaging. ${available} ${
+  available === 1 ? 'is' : 'are'
+} in stock today and dispatch the same working day when ordered before ${SITE.cutoff}.`;
+
+const facts = [
+  { label: 'Products', value: String(products.length) },
+  { label: 'In stock', value: String(available) },
+  ...(fromCHF !== null && toCHFmax !== null
+    ? [{ label: 'Price range', value: `CHF ${fromCHF.toFixed(2)} – ${toCHFmax.toFixed(2)}` }]
+    : []),
+  { label: 'Shop', value: shop.label },
+  { label: 'Delivery', value: '1–2 working days in Switzerland' },
+];
+
+const description = `${category.label} at 24High — ${products.length} products${
+  fromCHF !== null ? ` from CHF ${fromCHF.toFixed(2)}` : ''
+}. Shipped discreetly from Zürich in 1–2 working days.`;
 ---
 
 <BaseLayout
   title={`${category.label} — ${shop.label}`}
-  description={`${category.count} ${category.label.toLowerCase()} at 24High${
-    from !== null ? `, from €${from.toFixed(2)}` : ''
-  }. Discreet shipping across Europe.`}
+  description={description}
   activeShop={shop.id}
+  schemas={[
+    breadcrumbSchema(crumbs),
+    collectionPageSchema(category.label, description, url),
+    itemListSchema(
+      sorted.map((p) => ({ slug: p.slug, title: p.data.title, price: p.data.price })),
+      category.label
+    ),
+  ]}
 >
-  <Breadcrumbs
-    items={[
-      { label: 'Home', href: '/en/' },
-      { label: shop.label, href: shop.href },
-      { label: category.label },
-    ]}
-  />
+  <Breadcrumbs items={crumbs} />
 
-  <header class="cathead">
-    <h1>{category.label}</h1>
-    <dl class="cathead__stats">
-      <div><dt>Products</dt><dd>{products.length}</dd></div>
-      <div><dt>In stock</dt><dd>{available}</dd></div>
-      {from !== null && (
-        <div><dt>From</dt><dd>&euro;{from.toFixed(2)}</dd></div>
-      )}
-    </dl>
+  <header class="cat">
+    <div class="cat__lead">
+      <p class="eyebrow">{shop.label}</p>
+      <h1>{category.label}</h1>
+      <p class="cat__answer">{answer}</p>
+    </div>
+    <div class="cat__facts">
+      <KeyFacts facts={facts} />
+    </div>
   </header>
 
   {
     sorted.length > 0 ? (
       <ProductGrid products={sorted} eagerCount={8} />
     ) : (
-      <p class="empty">Nothing in this category right now. <a href={shop.href}>Browse all {shop.label.toLowerCase()}</a>.</p>
+      <p class="empty">
+        Nothing in this category right now.{' '}
+        <a href={shop.href}>Browse all {shop.label.toLowerCase()}</a>.
+      </p>
     )
   }
+
+  <section class="cat__faq">
+    <FAQ items={SHOP_FAQ[shop.id as ShopId] ?? []} title={`${shop.label} — common questions`} />
+  </section>
+
+  <nav class="siblings" aria-label={`Other ${shop.label} categories`}>
+    <h2 class="eyebrow">More in {shop.label}</h2>
+    <ul role="list">
+      {
+        shop.categories
+          .filter((c) => c.slug !== category.slug)
+          .slice(0, 14)
+          .map((c) => (
+            <li>
+              <a href={c.href}>
+                {c.label} <span>{c.count}</span>
+              </a>
+            </li>
+          ))
+      }
+    </ul>
+  </nav>
 </BaseLayout>
 
 <style>
-  .cathead {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-end;
-    justify-content: space-between;
-    gap: 1.2rem;
-    margin-block: 1.2rem 1.6rem;
-    padding-block-end: 1.2rem;
+  .cat {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 20rem;
+    gap: clamp(1.5rem, 5vw, 4rem);
+    align-items: start;
+    margin-block: 1.5rem 2.5rem;
+    padding-block-end: 2rem;
     border-block-end: 1px solid var(--line);
   }
 
-  .cathead h1 {
-    font-size: var(--step-4);
+  .cat h1 {
+    margin-block: 0.6rem 0;
+    font-size: var(--step-5);
+    letter-spacing: -0.04em;
   }
 
-  .cathead__stats {
-    display: flex;
-    gap: 1.6rem;
-    margin: 0;
-  }
-
-  .cathead__stats dt {
-    font-family: var(--font-mono);
-    font-size: 0.64rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--ink-3);
-  }
-
-  .cathead__stats dd {
-    margin: 0.15rem 0 0;
-    font-family: var(--font-display);
+  /* the lift-able answer paragraph */
+  .cat__answer {
+    max-width: 60ch;
+    margin-block-start: 1rem;
+    color: var(--ink-2);
     font-size: var(--step-1);
-    font-weight: 600;
-    font-variant-numeric: tabular-nums;
-    color: var(--ink);
+    line-height: 1.55;
   }
 
   .empty {
-    padding: 2.5rem;
+    padding: 3rem;
     text-align: center;
     color: var(--ink-2);
-    background: var(--surface);
-    border: 1px dashed var(--line);
-    border-radius: var(--radius-lg);
+    border: 1px dashed var(--line-strong);
+  }
+
+  .cat__faq {
+    margin-block-start: clamp(3rem, 7vw, 5rem);
+    padding-block-start: clamp(2rem, 5vw, 3rem);
+    border-block-start: 1px solid var(--line);
+  }
+
+  .siblings {
+    margin-block-start: clamp(2.5rem, 6vw, 4rem);
+    padding-block-start: 1.5rem;
+    border-block-start: 1px solid var(--line);
+  }
+
+  .siblings ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding: 0;
+    margin-block-start: 1rem;
+    list-style: none;
+  }
+
+  .siblings a {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.4rem;
+    padding: 0.4rem 0.7rem;
+    border: 1px solid var(--line);
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    text-decoration: none;
+  }
+
+  .siblings a:hover { border-color: var(--ink); color: var(--ink); }
+
+  .siblings span {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--ink-3);
+  }
+
+  @media (max-width: 900px) {
+    .cat { grid-template-columns: 1fr; }
   }
 </style>

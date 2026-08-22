@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
+import { toCHF } from '../../data/site';
 
 // The whole catalogue is static, so search runs in the browser against a
 // small prebuilt index rather than needing a server.
@@ -13,7 +14,7 @@ const index = products.map((p) => ({
   s: p.slug,
   t: p.data.title,
   c: p.data.categoryLabel,
-  p: p.data.price,
+  p: p.data.price === null ? null : toCHF(p.data.price),
   i: p.data.images[0] ?? '',
   k: p.data.inStock ? 1 : 0,
 }));
@@ -59,7 +60,7 @@ const index = products.map((p) => ({
     const out = document.querySelector<HTMLElement>('[data-search-results]');
     const count = document.querySelector<HTMLElement>('[data-search-count]');
 
-    const money = new Intl.NumberFormat('en-IE', { style: 'currency', currency: 'EUR' });
+    const money = new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF' });
 
     function score(row: Row, terms: string[]) {
       const title = row.t.toLowerCase();
@@ -145,7 +146,6 @@ const index = products.map((p) => ({
     padding: 0.85rem 1rem;
     background: var(--surface);
     border: 1px solid var(--line);
-    border-radius: var(--radius);
     font-size: var(--step-1);
   }
 
@@ -174,13 +174,12 @@ const index = products.map((p) => ({
     column-gap: 0.9rem;
     padding: 0.55rem 0.7rem;
     background: var(--surface);
-    border: 1px solid var(--line-soft);
-    border-radius: var(--radius);
+    border: 1px solid var(--line);
     text-decoration: none;
   }
 
   .results :global(.hit:hover) {
-    border-color: var(--spruce);
+    border-color: var(--ink);
   }
 
   .results :global(.hit img) {
@@ -188,7 +187,6 @@ const index = products.map((p) => ({
     width: 56px;
     height: 56px;
     object-fit: cover;
-    border-radius: var(--radius-sm);
     background: var(--surface-2);
   }
 

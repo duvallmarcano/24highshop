@@ -1,5 +1,4 @@
 ---
-import Badge from '../ui/Badge.astro';
 import Price from '../ui/Price.astro';
 import { firstImage, productSrcSet } from '../../lib/images';
 
@@ -7,26 +6,16 @@ interface Props {
   slug: string;
   title: string;
   price: number | null;
-  currency?: string;
   inStock?: boolean;
   images?: string[];
   categoryLabel?: string;
-  /** Cards in a horizontal rail size themselves differently. */
   compact?: boolean;
-  /** Above-the-fold cards should not lazy-load. */
   eager?: boolean;
 }
 
 const {
-  slug,
-  title,
-  price,
-  currency = 'EUR',
-  inStock = true,
-  images = [],
-  categoryLabel = '',
-  compact = false,
-  eager = false,
+  slug, title, price, inStock = true, images = [],
+  categoryLabel = '', compact = false, eager = false,
 } = Astro.props;
 
 const href = `/en/product/${slug}`;
@@ -35,59 +24,50 @@ const srcset = images.length ? productSrcSet(images[0]) : undefined;
 ---
 
 <article class:list={['card', compact && 'card--compact']}>
-  <a class="card__media" href={href} tabindex="-1" aria-hidden="true">
+  <div class="card__media">
     <img
       src={src}
       srcset={srcset}
-      sizes="(max-width: 600px) 45vw, 260px"
+      sizes="(max-width: 600px) 45vw, 250px"
       alt=""
-      width="260"
-      height="260"
+      width="250"
+      height="250"
       loading={eager ? 'eager' : 'lazy'}
       decoding="async"
     />
-    {!inStock && <Badge tone="warn" class="card__stock">Sold out</Badge>}
-  </a>
+    {!inStock && <span class="card__out">Sold out</span>}
+  </div>
 
   <div class="card__body">
     {categoryLabel && <p class="card__cat">{categoryLabel}</p>}
-    <h3 class="card__title">
-      <a href={href}>{title}</a>
-    </h3>
+    <h3 class="card__title"><a href={href}>{title}</a></h3>
     <div class="card__foot">
-      <Price value={price} currency={currency} size="sm" />
+      <Price value={price} size="sm" />
       {inStock && <span class="card__ready">In stock</span>}
     </div>
   </div>
 </article>
 
 <style>
+  /* Flat: a hairline and the image do the work. Hover changes the rule, not
+     the elevation — nothing lifts off the page. */
   .card {
     position: relative;
     display: flex;
     flex-direction: column;
     background: var(--surface);
-    border: 1px solid var(--line-soft);
-    border-radius: var(--radius-lg);
-    overflow: hidden;
-    transition: border-color 0.16s ease, box-shadow 0.16s ease, transform 0.16s ease;
+    border: 1px solid var(--line);
+    transition: border-color 0.14s ease;
   }
 
-  .card:hover {
-    border-color: var(--line);
-    box-shadow: var(--shadow-md);
-    transform: translateY(-2px);
-  }
-
-  .card:focus-within {
-    border-color: var(--spruce);
-  }
+  .card:hover,
+  .card:focus-within { border-color: var(--ink); }
 
   .card__media {
     position: relative;
-    display: block;
     aspect-ratio: 1;
     background: var(--surface-2);
+    overflow: hidden;
   }
 
   .card__media img {
@@ -96,23 +76,32 @@ const srcset = images.length ? productSrcSet(images[0]) : undefined;
     object-fit: cover;
   }
 
-  .card__stock {
+  .card__out {
     position: absolute;
-    inset-block-start: 0.6rem;
-    inset-inline-start: 0.6rem;
+    inset-block-start: 0;
+    inset-inline-start: 0;
+    padding: 0.25rem 0.5rem;
+    background: var(--paper);
+    border-inline-end: 1px solid var(--line);
+    border-block-end: 1px solid var(--line);
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-3);
   }
 
   .card__body {
     display: flex;
     flex: 1;
     flex-direction: column;
-    gap: 0.35rem;
+    gap: 0.3rem;
     padding: 0.85rem 0.9rem 0.95rem;
   }
 
   .card__cat {
     font-family: var(--font-mono);
-    font-size: 0.64rem;
+    font-size: var(--step--2);
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--ink-3);
@@ -120,9 +109,9 @@ const srcset = images.length ? productSrcSet(images[0]) : undefined;
 
   .card__title {
     font-size: var(--step-0);
-    font-weight: 550;
-    line-height: 1.3;
-    letter-spacing: -0.01em;
+    font-weight: 500;
+    line-height: 1.28;
+    letter-spacing: -0.012em;
   }
 
   .card__title a {
@@ -130,39 +119,30 @@ const srcset = images.length ? productSrcSet(images[0]) : undefined;
     text-decoration: none;
   }
 
-  /* let the whole card be the hit target without nesting interactive elements */
+  /* whole card is the hit target, without nesting interactive elements */
   .card__title a::after {
     content: '';
     position: absolute;
     inset: 0;
   }
 
-  .card__title a:hover {
-    color: var(--spruce);
-  }
-
   .card__foot {
     display: flex;
-    align-items: baseline;
+    align-items: flex-end;
     justify-content: space-between;
     gap: 0.5rem;
     margin-block-start: auto;
-    padding-block-start: 0.5rem;
+    padding-block-start: 0.7rem;
   }
 
   .card__ready {
     font-family: var(--font-mono);
-    font-size: 0.64rem;
+    font-size: var(--step--2);
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--ok);
   }
 
-  .card--compact .card__body {
-    padding: 0.7rem 0.75rem 0.8rem;
-  }
-
-  .card--compact .card__title {
-    font-size: var(--step--1);
-  }
+  .card--compact .card__body { padding: 0.7rem 0.75rem 0.8rem; }
+  .card--compact .card__title { font-size: var(--step--1); }
 </style>

@@ -3,8 +3,10 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
 import PostCard from '../../../components/blog/PostCard.astro';
+import AuthorBox from '../../../components/blog/AuthorBox.astro';
 import { formatDate } from '../../../lib/format';
-import { SITE } from '../../../data/site';
+import { authorByName, authorImage } from '../../../lib/authors';
+import { articleSchema, breadcrumbSchema } from '../../../lib/seo';
 
 export async function getStaticPaths() {
   const posts = (await getCollection('blog')).sort(
@@ -15,7 +17,6 @@ export async function getStaticPaths() {
     params: { slug: entry.slug },
     props: {
       entry,
-      // simple adjacency: the posts either side of this one by date
       more: [posts[i + 1], posts[i + 2], posts[i - 1]].filter(Boolean).slice(0, 3),
     },
   }));
@@ -30,69 +31,81 @@ const { entry, more } = Astro.props;
 const { title, description, heroImage, publishedAt, updatedAt, author } = entry.data;
 const { Content } = await entry.render();
 
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'BlogPosting',
-  headline: title,
-  description,
-  image: heroImage ? new URL(heroImage, SITE.url).href : undefined,
-  datePublished: publishedAt,
-  dateModified: updatedAt || publishedAt,
-  author: { '@type': 'Organization', name: author, url: SITE.url },
-  publisher: {
-    '@type': 'Organization',
-    name: SITE.name,
-    logo: {
-      '@type': 'ImageObject',
-      url: new URL('/images/layout/logo-200.png', SITE.url).href,
-    },
-  },
-  mainEntityOfPage: new URL(`/en/blog/${entry.slug}`, SITE.url).href,
-};
+const person = authorByName(author);
+const url = `/en/blog/${entry.slug}`;
+
+// reading time from the rendered body, not a guess
+const words = entry.body.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
+const minutes = Math.max(1, Math.round(words / 220));
+
+const crumbs = [
+  { label: 'Home', href: '/en/' },
+  { label: 'Guides', href: '/en/blog' },
+  { label: title },
+];
 ---
 
-<BaseLayout title={title} description={description} image={heroImage} type="article">
-  <script type="application/ld+json" is:inline set:html={JSON.stringify(schema)} />
-
-  <Breadcrumbs
-    items={[
-      { label: 'Home', href: '/en/' },
-      { label: 'Blog', href: '/en/blog' },
-      { label: title },
-    ]}
-  />
+<BaseLayout
+  title={title}
+  description={description}
+  image={heroImage}
+  type="article"
+  schemas={[
+    breadcrumbSchema(crumbs),
+    articleSchema({
+      title,
+      description,
+      image: heroImage,
+      published: publishedAt,
+      modified: updatedAt || publishedAt,
+      url,
+      wordCount: words,
+      author: person
+        ? {
+            name: person.name,
+            slug: person.slug,
+            bio: person.bio[0],
+            image: authorImage(person, 400),
+          }
+        : { name: author },
+    }),
+  ]}
+>
+  <Breadcrumbs items={crumbs} />
 
   <article class="article">
     <header class="article__head">
       <h1>{title}</h1>
       <p class="article__meta">
-        <span>{author}</span>
-        <span aria-hidden="true">&middot;</span>
+        <span>{person ? person.name : 'The 24High editorial team'}</span>
+        <span aria-hidden="true">·</span>
         <time datetime={publishedAt}>{formatDate(publishedAt)}</time>
-        {updatedAt && updatedAt !== publishedAt && (
-          <>
-            <span aria-hidden="true">&middot;</span>
-            <span>Updated {formatDate(updatedAt)}</span>
-          </>
-        )}
+        <span aria-hidden="true">·</span>
+        <span>{minutes} min read</span>
       </p>
+      {description && <p class="article__standfirst">{description}</p>}
     </header>
 
-    {heroImage && (
-      <img
-        class="article__hero"
-        src={heroImage}
-        alt=""
-        width="800"
-        height="600"
-        loading="eager"
-        fetchpriority="high"
-      />
-    )}
+    {
+      heroImage && (
+        <img
+          class="article__hero"
+          src={heroImage}
+          alt=""
+          width="800"
+          height="600"
+          loading="eager"
+          fetchpriority="high"
+        />
+      )
+    }
 
-    <div class="prose">
-      <Content />
-    </div>
+    <div class="prose"><Content /></div>
+
+    <AuthorBox
+      author={person}
+      updated={formatDate(updatedAt || publishedAt)}
+    />
   </article>
 
   {
@@ -111,46 +124,57 @@ const schema = {
   .article {
     max-width: var(--container-prose);
     margin-inline: auto;
-    margin-block-start: 1.5rem;
+    margin-block-start: 2rem;
   }
 
   .article__head h1 {
-    font-size: var(--step-4);
+    font-size: var(--step-5);
+    letter-spacing: -0.04em;
   }
 
   .article__meta {
     display: flex;
     flex-wrap: wrap;
     gap: 0.45rem;
-    margin-block-start: 0.8rem;
+    margin-block-start: 1rem;
     font-family: var(--font-mono);
-    font-size: 0.7rem;
+    font-size: var(--step--2);
     letter-spacing: 0.04em;
     color: var(--ink-3);
+  }
+
+  .article__standfirst {
+    margin-block-start: 1.2rem;
+    color: var(--ink-2);
+    font-size: var(--step-1);
+    line-height: 1.55;
   }
 
   .article__hero {
     width: 100%;
     aspect-ratio: 4 / 3;
     object-fit: cover;
-    margin-block: 1.5rem;
-    border-radius: var(--radius-lg);
+    margin-block: 2rem;
+    border: 1px solid var(--line);
   }
 
+  .article :global(.prose) { margin-block-end: 2.5rem; }
+
   .more {
-    margin-block-start: clamp(2.5rem, 6vw, 4rem);
+    max-width: var(--container);
+    margin-block-start: clamp(3rem, 7vw, 5rem);
     padding-block-start: 2rem;
     border-block-start: 1px solid var(--line);
   }
 
   .more h2 {
-    margin-block-end: 1.2rem;
+    margin-block-end: 1.4rem;
     font-size: var(--step-2);
   }
 
   .more__grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
-    gap: 1.1rem;
+    gap: 1.2rem;
   }
 </style>

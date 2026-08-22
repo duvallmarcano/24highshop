@@ -6,7 +6,11 @@ import Gallery from '../../../components/product/Gallery.astro';
 import BuyBox from '../../../components/product/BuyBox.astro';
 import ProductSchema from '../../../components/product/ProductSchema.astro';
 import ProductRail from '../../../components/product/ProductRail.astro';
-import { SHOP_BY_ID, type ShopId } from '../../../data/site';
+import FAQ from '../../../components/seo/FAQ.astro';
+import KeyFacts from '../../../components/seo/KeyFacts.astro';
+import { SHOP_BY_ID, SITE, toCHF, type ShopId } from '../../../data/site';
+import { productFAQ, SHOP_FAQ } from '../../../data/faq';
+import { breadcrumbSchema } from '../../../lib/seo';
 import { firstImage } from '../../../lib/images';
 
 export async function getStaticPaths() {
@@ -25,8 +29,6 @@ export async function getStaticPaths() {
     params: { slug: entry.slug },
     props: {
       entry,
-      // siblings from the same category, so "related" is real rather than
-      // a carousel of whatever the scrape happened to capture
       related: (byCategory.get(`${entry.data.shop}/${entry.data.category}`) ?? [])
         .filter((p) => p.slug !== entry.slug && p.data.images.length)
         .slice(0, 8),
@@ -40,35 +42,63 @@ interface Props {
 }
 
 const { entry, related } = Astro.props;
-const { title, description, sku, price, currency, inStock, shop, category, categoryLabel, images } =
+const { title, description, sku, price, inStock, shop, category, categoryLabel, images } =
   entry.data;
 const { Content } = await entry.render();
 
 const shopMeta = SHOP_BY_ID.get(shop as ShopId);
+const url = `/en/product/${entry.slug}`;
+
 const crumbs = [
   { label: 'Home', href: '/en/' },
   ...(shopMeta ? [{ label: shopMeta.label, href: shopMeta.href }] : []),
   ...(categoryLabel ? [{ label: categoryLabel, href: `/en/shop/${shop}/${category}` }] : []),
   { label: title },
 ];
+
+const chf = price === null ? null : toCHF(price);
+
+// Scannable facts, placed above the description so both a hurried reader and
+// an answer engine hit the specifics first.
+const facts = [
+  ...(chf !== null ? [{ label: 'Price', value: `CHF ${chf.toFixed(2)} incl. VAT` }] : []),
+  { label: 'Availability', value: inStock ? 'In stock, ships today' : 'Currently sold out' },
+  { label: 'Article no.', value: sku },
+  ...(categoryLabel ? [{ label: 'Category', value: categoryLabel }] : []),
+  { label: 'Ships from', value: `${SITE.address.locality}, Switzerland` },
+  { label: 'Delivery', value: '1–2 working days within Switzerland' },
+  { label: 'Packaging', value: 'Plain and unmarked' },
+];
+
+// Product-specific questions first, then the ones people ask about the shop
+// this product belongs to.
+const faqs = [
+  ...productFAQ({ title, priceEUR: price, inStock, categoryLabel, shop }),
+  ...(SHOP_FAQ[shop as ShopId] ?? []).slice(0, 2),
+];
+
+const metaDescription =
+  description ||
+  `${title}${chf !== null ? ` — CHF ${chf.toFixed(2)}` : ''}. In stock in Zürich, shipped discreetly across Switzerland in 1–2 working days.`;
 ---
 
 <BaseLayout
   title={title}
-  description={description}
+  description={metaDescription}
   image={firstImage(images, 1000)}
   type="product"
   activeShop={shop}
+  schemas={[breadcrumbSchema(crumbs)]}
 >
   <ProductSchema
     title={title}
-    description={description}
+    description={metaDescription}
     sku={sku}
-    price={price}
-    currency={currency}
+    priceEUR={price}
     inStock={inStock}
     images={images}
-    url={`/en/product/${entry.slug}`}
+    url={url}
+    category={categoryLabel}
   />
 
   <Breadcrumbs items={crumbs} />
@@ -79,22 +109,32 @@ const crumbs = [
     </div>
 
     <div class="pdp__info">
-      {categoryLabel && <p class="eyebrow">{categoryLabel}</p>}
+      {categoryLabel && (
+        <a class="pdp__cat eyebrow" href={`/en/shop/${shop}/${category}`}>{categoryLabel}</a>
+      )}
       <h1>{title}</h1>
       {description && <p class="pdp__lead">{description}</p>}
-      <BuyBox title={title} sku={sku} price={price} currency={currency} inStock={inStock} />
+      <BuyBox title={title} sku={sku} price={price} inStock={inStock} />
     </div>
   </div>
 
-  <section class="pdp__desc">
-    <h2>Description</h2>
-    <div class="prose">
-      <Content />
-    </div>
+  <div class="pdp__detail">
+    <section class="pdp__desc">
+      <h2>About this product</h2>
+      <div class="prose"><Content /></div>
+    </section>
+
+    <aside class="pdp__aside">
+      <KeyFacts facts={facts} title="At a glance" />
+    </aside>
+  </div>
+
+  <section class="pdp__faq">
+    <FAQ items={faqs} title={`${title} — common questions`} />
   </section>
 
   <ProductRail
-    title={`More from ${categoryLabel || shopMeta?.label || 'the shop'}`}
+    title={`More ${categoryLabel || shopMeta?.label || 'products'}`}
     products={related}
     href={`/en/shop/${shop}/${category}`}
   />
@@ -104,18 +144,24 @@ const crumbs = [
   .pdp {
     display: grid;
     grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
-    gap: clamp(1.2rem, 4vw, 3rem);
-    margin-block-start: 1.2rem;
+    gap: clamp(1.5rem, 4vw, 3.5rem);
+    margin-block-start: 1.5rem;
   }
 
   .pdp__info {
     display: flex;
     flex-direction: column;
-    gap: 0.75rem;
+    gap: 0.9rem;
+  }
+
+  .pdp__cat {
+    text-decoration: none;
+    color: var(--spruce);
   }
 
   .pdp__info h1 {
     font-size: var(--step-4);
+    letter-spacing: -0.035em;
   }
 
   .pdp__lead {
@@ -124,20 +170,28 @@ const crumbs = [
     line-height: 1.6;
   }
 
-  .pdp__desc {
-    margin-block-start: clamp(2rem, 5vw, 3.5rem);
-    padding-block-start: clamp(1.5rem, 4vw, 2.5rem);
+  .pdp__detail {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 22rem;
+    gap: clamp(1.5rem, 5vw, 4rem);
+    margin-block-start: clamp(2.5rem, 6vw, 4rem);
+    padding-block-start: clamp(2rem, 5vw, 3rem);
     border-block-start: 1px solid var(--line);
   }
 
   .pdp__desc h2 {
-    margin-block-end: 1rem;
+    margin-block-end: 1.2rem;
     font-size: var(--step-2);
   }
 
-  @media (max-width: 820px) {
-    .pdp {
-      grid-template-columns: 1fr;
-    }
+  .pdp__faq {
+    margin-block-start: clamp(2.5rem, 6vw, 4rem);
+    padding-block-start: clamp(2rem, 5vw, 3rem);
+    border-block-start: 1px solid var(--line);
+  }
+
+  @media (max-width: 900px) {
+    .pdp,
+    .pdp__detail { grid-template-columns: 1fr; }
   }
 </style>

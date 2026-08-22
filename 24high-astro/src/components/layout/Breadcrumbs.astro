@@ -1,6 +1,5 @@
 ---
 import Icon from '../ui/Icon.astro';
-import { SITE } from '../../data/site';
 
 export interface Crumb {
   label: string;
@@ -13,18 +12,6 @@ interface Props {
 
 const { items } = Astro.props;
 
-// Breadcrumb structured data, emitted once from the component that already
-// knows the trail rather than hand-written per page.
-const schema = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: items.map((c, i) => ({
-    '@type': 'ListItem',
-    position: i + 1,
-    name: c.label,
-    ...(c.href && { item: new URL(c.href, SITE.url).href }),
-  })),
-};
 ---
 
 <nav class="crumbs" aria-label="Breadcrumb">
@@ -43,8 +30,6 @@ const schema = {
     }
   </ol>
 </nav>
-
-<script type="application/ld+json" is:inline set:html={JSON.stringify(schema)} />
 
 <style>
   .crumbs ol {

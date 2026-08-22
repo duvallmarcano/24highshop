@@ -1,6 +1,10 @@
 /**
- * Short-form information pages. They live as data rather than as eight
- * near-identical .astro files, because the only thing that varies is the copy.
+ * Short-form information pages. They live as data rather than as six
+ * near-identical .astro files, because the only thing that varies is copy.
+ *
+ * Written for Swiss law: revDSG rather than GDPR as the primary regime, Swiss
+ * VAT at 8.1%, and the Obligationenrecht rather than the EU distance-selling
+ * directive. Have a Swiss lawyer read these before launch.
  */
 export interface InfoPage {
   slug: string;
@@ -14,34 +18,41 @@ export const INFO_PAGES: InfoPage[] = [
   {
     slug: 'shipping',
     title: 'Shipping & returns',
-    description: 'Delivery times, shipping costs, packaging and how to return an order.',
+    description:
+      'Delivery times from Zürich, shipping costs in CHF, packaging, customs and how to return an order.',
     intro:
-      'Orders placed before 17:00 on a working day are packed and dispatched the same day, in plain packaging with nothing on the outside that identifies the contents.',
+      'Orders placed before 16:00 on a working day are picked from Swiss stock and dispatched the same day, in plain packaging with nothing on the outside identifying the contents.',
     sections: [
       {
         heading: 'Delivery times',
         body: [
-          'Netherlands and Belgium: 1–2 working days. Germany, France and the rest of the EU: 2–5 working days. Every parcel is tracked, and the tracking code reaches you by email as soon as the label is created.',
-          'Fresh products such as truffles and grow kits are shipped early in the week so they do not sit in a depot over a weekend.',
+          'Switzerland and Liechtenstein: one to two working days by Swiss Post. Germany, Austria and France: two to four working days. The rest of Europe: three to six. Every parcel is tracked, and the tracking code reaches you by email when the label is created.',
+          'Perishables — fresh truffles, grow kits, anything with a live culture — ship early in the week so they do not sit in a depot over the weekend.',
         ],
       },
       {
         heading: 'Shipping costs',
         body: [
-          'Shipping is free on EU orders over €50. Below that, the cost is calculated at checkout from the destination and the weight of the parcel.',
+          'Within Switzerland: CHF 7.90, or free on orders over CHF 60. European orders are calculated at checkout from destination and weight, starting at CHF 14.90.',
+        ],
+      },
+      {
+        heading: 'Customs and import',
+        body: [
+          'Swiss orders ship domestically — no customs, no import duty, no handling fee. Orders leaving Switzerland cross a customs border, and any duty or VAT charged on arrival is payable by you. Some products cannot lawfully be imported into some countries; checking that is your responsibility, and we cannot refund parcels seized by customs.',
         ],
       },
       {
         heading: 'Packaging',
         body: [
-          'Everything ships in neutral, unmarked boxes or bags. There is no branding, no product name and no indication of the sender on the outside of the parcel.',
+          'Plain, unmarked boxes and bags. No branding, no product name, nothing on the outside indicating what is inside or that it came from a smartshop. The sender line shows a neutral company name.',
         ],
       },
       {
         heading: 'Returns',
         body: [
-          'Unopened, undamaged items can be returned within 14 days of delivery for a refund. Perishable goods — fresh truffles, grow kits and anything with a live culture — are excluded, as are opened consumables, for hygiene reasons.',
-          'Contact us before sending anything back so we can confirm the return address and expect the parcel.',
+          'Unopened, undamaged items can be returned within 14 days of delivery for a refund. Perishable goods and opened consumables are excluded for hygiene reasons, as are seeds once the packaging is broken.',
+          'Contact us before sending anything back so we can confirm the return address and expect the parcel. Return postage is payable by you unless the item arrived faulty or we sent the wrong thing.',
         ],
       },
     ],
@@ -49,26 +60,33 @@ export const INFO_PAGES: InfoPage[] = [
   {
     slug: 'contact',
     title: 'Contact',
-    description: 'How to reach 24High about an order, a product or advice before you buy.',
+    description:
+      'How to reach 24High in Zürich about an order, a product, or advice before you buy.',
     intro:
-      'Questions about an order, a product, or what to choose — email is the fastest route, and it reaches the people who pack the boxes.',
+      'Email reaches the people who pack the boxes. For anything about an order, include your order number and we will have the answer in front of us.',
     sections: [
       {
         heading: 'Email',
         body: [
-          'info@24high.com — we answer within one working day, usually much sooner. Include your order number if your question is about an existing order.',
+          'hello@24high.com — answered within one working day, usually much sooner. We read everything in English, German, French and Italian.',
         ],
       },
       {
         heading: 'Advice before you buy',
         body: [
-          'If you are not sure which strain, dose or grow kit suits you, ask. We would rather spend five minutes on an email than have you buy the wrong thing.',
+          'If you are not sure which strain, dose, kit or strength suits you, ask before ordering. We would rather spend five minutes on an email than have you buy the wrong thing and be disappointed — or worse, take too much of something.',
         ],
       },
       {
         heading: 'Something wrong with an order',
         body: [
-          'Damaged in transit, missing an item, or a grow kit that has not started? Send a photo with your order number and we will sort it out.',
+          'Damaged in transit, missing an item, or a grow kit that has not started colonising after three weeks? Send a photo with your order number. Grow kits that fail through no fault of yours are replaced.',
+        ],
+      },
+      {
+        heading: 'Post',
+        body: [
+          '24High AG, Pfingstweidstrasse 10, 8005 Zürich, Switzerland. Please do not send returns to this address without contacting us first.',
         ],
       },
     ],
@@ -76,14 +94,15 @@ export const INFO_PAGES: InfoPage[] = [
   {
     slug: 'terms',
     title: 'Terms & conditions',
-    description: 'The terms that apply to orders placed with 24High.',
+    description:
+      'The terms that apply to orders placed with 24High AG, a company registered in Zürich, Switzerland.',
     intro:
-      'These terms apply to every order placed through this site. They sit alongside your statutory rights as an EU consumer rather than replacing them.',
+      'These terms apply to every order placed through this site. They sit alongside your rights under the Swiss Code of Obligations rather than replacing them.',
     sections: [
       {
         heading: 'Who you are buying from',
         body: [
-          '24High is a retailer registered in the Netherlands. All prices shown include VAT at the applicable Dutch rate unless stated otherwise.',
+          '24High AG, registered in Zürich, Switzerland under UID CHE-000.000.000. All prices are shown in Swiss francs and include Swiss VAT at 8.1% unless stated otherwise. EUR prices are shown for reference and are converted at a fixed internal rate; the CHF figure is the one you pay.',
         ],
       },
       {
@@ -95,13 +114,25 @@ export const INFO_PAGES: InfoPage[] = [
       {
         heading: 'Availability and pricing',
         body: [
-          'Stock levels and prices are kept current, but errors happen. If a product turns out to be unavailable or was listed at a clearly incorrect price, we will contact you before charging and offer a refund or an alternative.',
+          'Stock levels and prices are kept current, but errors happen. If a product turns out to be unavailable or was listed at a clearly incorrect price, we will contact you before charging and offer a refund or an alternative. A listing is an invitation to treat, not a binding offer.',
+        ],
+      },
+      {
+        heading: 'What we will not ship',
+        body: [
+          'We do not ship controlled substances. Psilocybin-containing mushrooms and truffles are controlled under Swiss narcotics law and are not sold to Swiss addresses. Cannabis seeds and CBD products are sold in line with the Swiss 1% THC threshold.',
         ],
       },
       {
         heading: 'Import restrictions',
         body: [
-          'Some products are legal in the Netherlands but restricted or prohibited elsewhere. Checking what may lawfully be imported into your country is your responsibility. We cannot refund parcels seized by customs.',
+          'Several products are lawful in Switzerland but restricted or prohibited elsewhere. Checking what may lawfully be imported into your country is your responsibility. We cannot refund parcels seized by customs, and we cannot advise on foreign law.',
+        ],
+      },
+      {
+        heading: 'Governing law',
+        body: [
+          'Swiss law governs these terms. The place of jurisdiction is Zürich, subject to any mandatory consumer protection rules that apply where you live.',
         ],
       },
     ],
@@ -109,32 +140,39 @@ export const INFO_PAGES: InfoPage[] = [
   {
     slug: 'privacy',
     title: 'Privacy policy',
-    description: 'What personal data 24High collects, why, and what happens to it.',
+    description:
+      'What personal data 24High collects, why, how long it is kept, and your rights under the Swiss Data Protection Act.',
     intro:
-      'We collect the minimum needed to take payment and get a parcel to you, and we do not sell or share it for marketing.',
+      'We collect the minimum needed to take payment and get a parcel to you. We do not sell your data, and we do not share it for advertising.',
     sections: [
       {
         heading: 'What we collect',
         body: [
-          'Your name, delivery address, email address and order history. Payment details are handled by the payment provider and never reach our servers.',
+          'Your name, delivery address, email address and order history. Payment details are handled entirely by the payment provider and never reach our servers — we see that a payment succeeded, not the card number behind it.',
         ],
       },
       {
         heading: 'Why we hold it',
         body: [
-          'To process and deliver your order, to handle returns and support requests, and to meet the record-keeping obligations that apply to a registered retailer.',
+          'To process and deliver your order, handle returns and support requests, and meet the record-keeping obligations that apply to a registered Swiss retailer.',
         ],
       },
       {
         heading: 'How long',
         body: [
-          'Order records are kept for seven years, as Dutch tax law requires. Everything else is deleted on request.',
+          'Order and invoice records are kept for ten years, as Swiss commercial law requires. Everything not subject to that obligation is deleted on request.',
+        ],
+      },
+      {
+        heading: 'Where your data sits',
+        body: [
+          'Order data is held on servers in Switzerland. Where a processor outside Switzerland is used — a shipping carrier, for example — only the data needed for that job is transferred, and only to countries with adequate protection or under contractual safeguards.',
         ],
       },
       {
         heading: 'Your rights',
         body: [
-          'Under the GDPR you can ask for a copy of the data we hold on you, ask us to correct it, or ask us to delete it. Email info@24high.com and we will respond within 30 days.',
+          'Under the revised Swiss Federal Act on Data Protection (revDSG) you can ask for a copy of the data we hold on you, ask us to correct it, or ask us to delete it. If you are in the EU, the GDPR gives you equivalent rights and we honour them the same way. Email hello@24high.com and we will respond within 30 days.',
         ],
       },
     ],
@@ -142,26 +180,26 @@ export const INFO_PAGES: InfoPage[] = [
   {
     slug: 'cookies',
     title: 'Cookie policy',
-    description: 'The cookies this site sets and what they do.',
+    description: 'The cookies and browser storage this site uses, and what each one does.',
     intro:
-      'This site keeps its cookie use small: what is needed to run a basket, plus anonymous analytics.',
+      'This site keeps its cookie use small: what is needed to run a basket, plus aggregate analytics. No advertising trackers.',
     sections: [
       {
         heading: 'Strictly necessary',
         body: [
-          'Your basket contents and your light/dark preference are stored in your own browser. They never leave your device and are not readable by us.',
+          'Your basket contents and your light/dark preference are stored in your own browser using localStorage. They never leave your device, are not readable by us, and are not shared with anyone.',
         ],
       },
       {
         heading: 'Analytics',
         body: [
-          'We use aggregate analytics to see which pages and products people look at, so we know what to stock and what to write about. It is not used to identify individuals.',
+          'We use aggregate analytics to see which pages and products people look at, so we know what to stock and what to write about. It is not used to identify individuals and is not shared with advertising networks.',
         ],
       },
       {
         heading: 'Turning them off',
         body: [
-          'Blocking cookies in your browser will not break browsing or reading, but the basket will not remember what you put in it between visits.',
+          'Blocking cookies in your browser will not break browsing or reading. The basket will simply not remember what you put in it between visits.',
         ],
       },
     ],
@@ -169,26 +207,27 @@ export const INFO_PAGES: InfoPage[] = [
   {
     slug: 'disclaimer',
     title: 'Disclaimer',
-    description: 'Important limits on the information and products offered by 24High.',
+    description:
+      'Important limits on the information and products offered by 24High — not medical advice, and not encouragement to break the law.',
     intro:
       'Nothing on this site is medical advice, and nothing here should be read as encouragement to break the law where you live.',
     sections: [
       {
         heading: 'Not medical advice',
         body: [
-          'The guides on this site describe traditional use, botany and the published research as we understand it. They are not a substitute for a doctor. If you take prescription medication — particularly antidepressants, MAO inhibitors or blood pressure medication — talk to a professional before using anything psychoactive.',
+          'Our guides describe traditional use, botany and the published research as we understand it. They are not a substitute for a doctor or pharmacist. If you take prescription medication — particularly antidepressants, MAO inhibitors, thyroid medication or blood pressure medication — talk to a professional before using anything psychoactive or any new supplement.',
         ],
       },
       {
         heading: 'Use responsibly',
         body: [
-          'Start low. Do not combine substances. Do not drive. Have a sober person present if you are trying something for the first time, and give yourself somewhere safe and unhurried to be.',
+          'Start low. Do not combine substances. Do not drive. Have a sober person present if you are trying something for the first time, and give yourself somewhere safe and unhurried to be. If something goes wrong, calling for medical help is always the right decision — Swiss emergency services are 144.',
         ],
       },
       {
         heading: 'Legality',
         body: [
-          'Products offered here are legal to sell in the Netherlands. Their status elsewhere varies and changes. You are responsible for knowing the law that applies to you.',
+          'Products offered here are lawful to sell in Switzerland. Their status elsewhere varies and changes. Cannabis below 1% THC is legal in Switzerland; psilocybin is not, and we do not sell it. Kratom is unlisted here but not authorised as a foodstuff, so it is sold as a botanical specimen and not for consumption. You are responsible for knowing the law that applies to you.',
         ],
       },
       {

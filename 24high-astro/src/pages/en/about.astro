@@ -2,125 +2,149 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
-import Icon from '../../components/ui/Icon.astro';
-import { SHOPS, SITE } from '../../data/site';
+import KeyFacts from '../../components/seo/KeyFacts.astro';
+import FAQ from '../../components/seo/FAQ.astro';
+import { SHOPS, SITE, TOTAL_PRODUCTS } from '../../data/site';
+import { GLOBAL_FAQ } from '../../data/faq';
+import { AUTHORS } from '../../lib/authors';
+import { breadcrumbSchema } from '../../lib/seo';
 
-const products = await getCollection('products');
 const posts = await getCollection('blog');
+const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'About' }];
+
+const facts = [
+  { label: 'Legal name', value: SITE.legalName },
+  { label: 'Registered', value: `${SITE.address.locality}, Switzerland` },
+  { label: 'Trading since', value: String(SITE.established) },
+  { label: 'VAT / UID', value: SITE.uid },
+  { label: 'Catalogue', value: `${TOTAL_PRODUCTS.toLocaleString('en-CH')} products, ${SHOPS.length} shops` },
+  { label: 'Guides', value: `${posts.length}, by ${AUTHORS.length} named writers` },
+  { label: 'Contact', value: SITE.email },
+];
 ---
 
-<BaseLayout title="About us" description={SITE.description}>
-  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'About us' }]} />
+<BaseLayout
+  title="About 24High"
+  description={`24High is a Swiss smartshop based in ${SITE.address.locality}, trading since ${SITE.established}. What we stock, how we check it, and how we ship it.`}
+  schemas={[breadcrumbSchema(crumbs)]}
+>
+  <Breadcrumbs items={crumbs} />
 
   <div class="about">
-    <header>
-      <p class="eyebrow">Since {SITE.established}</p>
+    <header class="about__head">
+      <p class="eyebrow">Zürich · since {SITE.established}</p>
       <h1>A smartshop that answers its own questions.</h1>
+      <p class="about__answer">
+        24High is a Swiss smartshop based in {SITE.address.locality}, trading since
+        {SITE.established}. We stock {TOTAL_PRODUCTS.toLocaleString('en-CH')} products
+        across {SHOPS.length} shops — mycology, botanicals, CBD, cannabis genetics and
+        the hardware that goes with them — and ship them from Swiss stock in plain
+        packaging, usually within one to two working days.
+      </p>
     </header>
 
-    <div class="prose about__prose">
-      <p>
-        24High is a Dutch smartshop. We stock botanicals with a long ethnographic record —
-        magic truffles, kratom, kanna, mescaline cacti — alongside the practical kit that
-        goes with them: grow kits, spores, substrates, grinders and storage.
-      </p>
-      <p>
-        Most of what we sell rewards knowing something about it first. That is why the
-        catalogue sits next to {posts.length} guides rather than behind a contact form. If a
-        product needs a dosing note, a substrate recipe or a word of caution, it is written
-        down and linked from the product page.
-      </p>
-      <h2>How we ship</h2>
-      <p>
-        Orders placed before 17:00 on a working day leave the same day, in plain, unmarked
-        packaging with nothing on the outside that says what is inside. Shipping is free
-        across the EU above &euro;50, and tracked either way.
-      </p>
-      <h2>Age and responsible use</h2>
-      <p>
-        Everything here is strictly 18+. Some products are legal in the Netherlands but not
-        in every destination we can ship to — checking the rules where you live is your
-        responsibility, and we would rather you asked us first than found out later.
-      </p>
+    <div class="about__body">
+      <div class="prose">
+        <h2>What we actually do</h2>
+        <p>
+          We buy from European growers and labs we have worked with for years, hold
+          the stock ourselves in Zürich, and ship it the same day where we can.
+          Nothing here is dropshipped from a warehouse we have never seen.
+        </p>
+        <p>
+          Holding our own stock is the part that matters. It means we know how old a
+          grow kit is, whether a batch of truffles travelled well, and which supplier
+          quietly changed a formulation. It also means when something is listed as in
+          stock, it is on a shelf a few kilometres from the post office.
+        </p>
+
+        <h2>Why the guides exist</h2>
+        <p>
+          Most of what we sell rewards knowing something first. A grow kit that fruits
+          depends on temperature and patience. A kratom vein does something different
+          at 2&nbsp;g than at 6&nbsp;g. Swiss CBD is legal below 1% THC — several times
+          the EU threshold — so strength here is not the strength you know from abroad.
+        </p>
+        <p>
+          So we publish {posts.length} guides, written by <a href="/en/authors">named
+          people</a> rather than anonymously, and checked in-house before they go up.
+          Where a product needs a dosing note or a plain word of caution, it is written
+          down and linked from the product page — before you buy, not after.
+        </p>
+
+        <h2>Where Swiss law sits</h2>
+        <p>
+          Switzerland is not the Netherlands and it is not the EU. Cannabis below 1% THC
+          is legal to sell and grow here. Psilocybin is not — we supply grow kits, spores
+          and equipment, not controlled substances. Kratom is unlisted but unauthorised as
+          a foodstuff, so it is sold as a botanical specimen.
+        </p>
+        <p>
+          Rules differ again wherever you are, and they change. Checking what may lawfully
+          be imported where you live is your responsibility, and we would much rather you
+          asked us first than found out from customs.
+        </p>
+
+        <h2>Age and responsible use</h2>
+        <p>
+          Strictly 18+, with no exceptions. Start low, do not combine substances, do not
+          drive, and if you take prescription medication — particularly antidepressants,
+          MAO inhibitors or blood pressure medication — talk to a professional before
+          using anything psychoactive. Our <a href="/en/disclaimer">disclaimer</a> sets
+          out the limits of what we can tell you.
+        </p>
+      </div>
+
+      <aside class="about__aside">
+        <KeyFacts facts={facts} title="Company details" />
+      </aside>
     </div>
 
-    <dl class="about__stats">
-      <div><dt>Products</dt><dd>{products.length.toLocaleString('en-GB')}</dd></div>
-      <div><dt>Shops</dt><dd>{SHOPS.length}</dd></div>
-      <div><dt>Guides</dt><dd>{posts.length}</dd></div>
-      <div><dt>Trading since</dt><dd>{SITE.established}</dd></div>
-    </dl>
-
-    <ul class="about__usp" role="list">
-      <li><Icon name="truck" size={18} /> Free EU shipping over &euro;50</li>
-      <li><Icon name="package" size={18} /> Plain, unmarked packaging</li>
-      <li><Icon name="shield" size={18} /> Secure European payment methods</li>
-    </ul>
+    <section class="about__faq">
+      <FAQ items={GLOBAL_FAQ} title="Ordering from 24High" />
+    </section>
   </div>
 </BaseLayout>
 
 <style>
-  .about {
-    max-width: 48rem;
-    margin-inline: auto;
-    padding-block: 1.5rem;
+  .about { padding-block: 1.5rem; }
+
+  .about__head {
+    padding-block-end: 2.5rem;
+    border-block-end: 1px solid var(--line);
   }
 
-  .about h1 {
-    margin-block: 0.5rem 1.5rem;
-    font-size: var(--step-4);
+  .about__head h1 {
+    margin-block: 0.6rem 0;
+    font-size: var(--step-5);
+    max-width: 18ch;
+    letter-spacing: -0.04em;
   }
 
-  .about__stats {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 1px;
-    margin-block: 2.5rem;
-    background: var(--line);
-    border: 1px solid var(--line);
-    border-radius: var(--radius-lg);
-    overflow: hidden;
-  }
-
-  .about__stats > div {
-    padding: 1rem;
-    background: var(--surface);
-  }
-
-  .about__stats dt {
-    font-family: var(--font-mono);
-    font-size: 0.64rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--ink-3);
-  }
-
-  .about__stats dd {
-    margin: 0.3rem 0 0;
-    font-family: var(--font-display);
-    font-size: var(--step-2);
-    font-weight: 700;
-    font-variant-numeric: tabular-nums;
-    color: var(--spruce);
-  }
-
-  .about__usp {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.2rem;
-    padding: 1.2rem 0 0;
-    margin: 0;
-    list-style: none;
-    border-block-start: 1px solid var(--line);
-    font-size: var(--step--1);
+  .about__answer {
+    max-width: 64ch;
+    margin-block-start: 1.2rem;
     color: var(--ink-2);
+    font-size: var(--step-1);
+    line-height: 1.6;
   }
 
-  .about__usp li {
-    display: flex;
-    align-items: center;
-    gap: 0.45rem;
+  .about__body {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 20rem;
+    gap: clamp(2rem, 6vw, 4.5rem);
+    align-items: start;
+    padding-block: 3rem;
   }
 
-  .about__usp :global(.icon) { color: var(--spruce); }
+  .about__body :global(.prose > h2:first-child) { margin-block-start: 0; }
+
+  .about__faq {
+    padding-block-start: 2.5rem;
+    border-block-start: 1px solid var(--line);
+  }
+
+  @media (max-width: 900px) {
+    .about__body { grid-template-columns: 1fr; }
+  }
 </style>

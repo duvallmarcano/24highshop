@@ -1,0 +1,142 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
+import PostCard from '../../../components/blog/PostCard.astro';
+import { AUTHORS, authorImage, type Author } from '../../../lib/authors';
+import { breadcrumbSchema, personSchema } from '../../../lib/seo';
+
+export async function getStaticPaths() {
+  const posts = (await getCollection('blog')).sort(
+    (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
+  );
+
+  return AUTHORS.map((author) => ({
+    params: { slug: author.slug },
+    props: {
+      author,
+      posts: posts.filter(
+        (p) => p.data.author.toLowerCase() === author.name.toLowerCase()
+      ),
+    },
+  }));
+}
+
+interface Props {
+  author: Author;
+  posts: CollectionEntry<'blog'>[];
+}
+
+const { author, posts } = Astro.props;
+
+const crumbs = [
+  { label: 'Home', href: '/en/' },
+  { label: 'Our writers', href: '/en/authors' },
+  { label: author.name },
+];
+---
+
+<BaseLayout
+  title={author.name}
+  description={author.bio[0] ?? `Guides written by ${author.name} for 24High.`}
+  image={authorImage(author, 400)}
+  schemas={[
+    breadcrumbSchema(crumbs),
+    personSchema({
+      name: author.name,
+      slug: author.slug,
+      bio: author.bio[0],
+      image: authorImage(author, 400),
+    }),
+  ]}
+>
+  <Breadcrumbs items={crumbs} />
+
+  <header class="bio">
+    {
+      author.image && (
+        <img src={authorImage(author, 400)} alt={author.name} width="128" height="128" />
+      )
+    }
+    <div>
+      <p class="eyebrow">Writer at 24High</p>
+      <h1>{author.name}</h1>
+      <div class="bio__text">
+        {author.bio.map((p) => <p>{p}</p>)}
+      </div>
+      <p class="bio__n">{posts.length} published guides</p>
+    </div>
+  </header>
+
+  {
+    posts.length > 0 && (
+      <section class="work">
+        <h2>Guides by {author.name}</h2>
+        <div class="work__grid">
+          {posts.map((p, i) => (
+            <PostCard post={p} eager={i < 3} />
+          ))}
+        </div>
+      </section>
+    )
+  }
+</BaseLayout>
+
+<style>
+  .bio {
+    display: flex;
+    gap: clamp(1.2rem, 4vw, 2.5rem);
+    margin-block: 2rem 0;
+    padding-block-end: 2.5rem;
+    border-block-end: 1px solid var(--line);
+  }
+
+  .bio img {
+    flex: none;
+    width: 128px;
+    height: 128px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  .bio h1 {
+    margin-block: 0.5rem 0;
+    font-size: var(--step-4);
+    letter-spacing: -0.035em;
+  }
+
+  .bio__text {
+    max-width: 64ch;
+    margin-block-start: 1.1rem;
+    color: var(--ink-2);
+    line-height: 1.65;
+  }
+
+  .bio__text p + p { margin-block-start: 0.9rem; }
+
+  .bio__n {
+    margin-block-start: 1.2rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .work { padding-block: clamp(2.5rem, 6vw, 4rem); }
+
+  .work h2 {
+    margin-block-end: 1.4rem;
+    font-size: var(--step-2);
+  }
+
+  .work__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 270px), 1fr));
+    gap: 1.2rem;
+  }
+
+  @media (max-width: 640px) {
+    .bio { flex-direction: column; }
+  }
+</style>

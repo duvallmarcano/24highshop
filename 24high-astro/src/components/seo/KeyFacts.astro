@@ -1,0 +1,65 @@
+---
+interface Props {
+  /** Short, factual rows. Kept scannable so an assistant can lift them. */
+  facts: { label: string; value: string }[];
+  title?: string;
+  class?: string;
+}
+
+const { facts, title, class: className } = Astro.props;
+---
+
+{
+  facts.length > 0 && (
+    <div class:list={['facts', className]}>
+      {title && <h2 class="facts__title">{title}</h2>}
+      <dl class="facts__list">
+        {facts.map((f) => (
+          <div class="facts__row">
+            <dt>{f.label}</dt>
+            <dd>{f.value}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  )
+}
+
+<style>
+  .facts__title {
+    font-size: var(--step-1);
+    margin-block-end: 0.8rem;
+  }
+
+  .facts__list {
+    margin: 0;
+    border-block-start: 1px solid var(--line);
+  }
+
+  .facts__row {
+    display: grid;
+    grid-template-columns: minmax(7rem, 30%) 1fr;
+    gap: 1rem;
+    padding-block: 0.6rem;
+    border-block-end: 1px solid var(--line);
+    font-size: var(--step--1);
+  }
+
+  .facts__row dt {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    padding-block-start: 0.15rem;
+  }
+
+  .facts__row dd {
+    margin: 0;
+    color: var(--ink);
+  }
+
+  @media (max-width: 480px) {
+    .facts__row { grid-template-columns: 1fr; gap: 0.15rem; }
+  }
+</style>

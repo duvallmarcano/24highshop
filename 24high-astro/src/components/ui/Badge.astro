@@ -13,19 +13,18 @@ const { tone = 'neutral', class: className } = Astro.props;
     display: inline-flex;
     align-items: center;
     gap: 0.35em;
-    padding: 0.25em 0.6em;
-    border-radius: var(--radius-pill);
+    padding: 0.22em 0.55em;
+    border-radius: var(--radius-sm);
     font-family: var(--font-mono);
-    font-size: 0.68rem;
-    font-weight: 500;
-    letter-spacing: 0.06em;
+    font-size: var(--step--2);
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     white-space: nowrap;
   }
 
   .badge--neutral { background: var(--surface-2); color: var(--ink-2); }
-  .badge--ok      { background: var(--ok-soft);   color: var(--ok); }
-  .badge--warn    { background: var(--warn-soft); color: var(--warn); }
+  .badge--ok      { background: var(--ok-soft);     color: var(--ok); }
+  .badge--warn    { background: var(--warn-soft);   color: var(--warn); }
   .badge--danger  { background: var(--danger-soft); color: var(--danger); }
   .badge--brand   { background: var(--spruce-soft); color: var(--spruce); }
 </style>

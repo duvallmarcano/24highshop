@@ -3,7 +3,8 @@ import Meta from '../components/Meta.astro';
 import Header from '../components/layout/Header.astro';
 import Footer from '../components/layout/Footer.astro';
 import IconSprite from '../components/ui/IconSprite.astro';
-import { SITE } from '../data/site';
+import { organizationSchema, websiteSchema } from '../lib/seo';
+import { useTranslations } from '../i18n/ui';
 import '../styles/global.css';
 
 interface Props {
@@ -15,39 +16,35 @@ interface Props {
   noindex?: boolean;
   /** Full-bleed pages opt out of the default container. */
   bare?: boolean;
+  /** Extra JSON-LD blocks for this page. */
+  schemas?: unknown[];
 }
 
 const {
-  title,
-  description,
-  image,
-  type = 'website',
-  activeShop,
-  noindex = false,
-  bare = false,
+  title, description, image, type = 'website',
+  activeShop, noindex = false, bare = false, schemas = [],
 } = Astro.props;
 
-const orgSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'OnlineStore',
-  name: SITE.name,
-  url: SITE.url,
-  description: SITE.description,
-  email: SITE.email,
-  foundingDate: String(SITE.established),
-  logo: new URL('/images/layout/logo-200.png', SITE.url).href,
-};
+const t = useTranslations('en');
+
+// The organisation and website entities are emitted on every page so the
+// brand resolves consistently; page-specific schema is appended.
+const graph = [organizationSchema(), websiteSchema(), ...schemas];
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
     <Meta title={title} description={description} image={image} type={type} noindex={noindex} />
-    <script type="application/ld+json" is:inline set:html={JSON.stringify(orgSchema)} />
+    {
+      graph.map((s) => (
+        <script type="application/ld+json" is:inline set:html={JSON.stringify(s)} />
+      ))
+    }
   </head>
   <body>
     <IconSprite />
-    <a class="skip-link" href="#main">Skip to content</a>
+    <a class="skip-link" href="#main">{t('nav.skip')}</a>
 
     <Header activeShop={activeShop} />
 
@@ -58,8 +55,8 @@ const orgSchema = {
     <Footer />
 
     <script>
-      // Theme toggle. The pre-paint script in Meta.astro has already applied
-      // any stored choice; this only handles switching it afterwards.
+      // Theme toggle. Meta.astro has already applied any stored choice before
+      // first paint; this only handles switching it afterwards.
       const KEY = '24high-theme';
 
       function resolved(): 'dark' | 'light' {
@@ -111,10 +108,17 @@ const orgSchema = {
             /* ignore */
           }
           paintCount();
-          form.querySelector('button')?.animate(
-            [{ scale: '1' }, { scale: '0.96' }, { scale: '1' }],
-            { duration: 180 }
-          );
+          const btn = form.querySelector('button');
+          if (btn) {
+            const label = btn.querySelector('span');
+            const was = label?.textContent;
+            if (label) {
+              label.textContent = 'Added';
+              setTimeout(() => {
+                label.textContent = was ?? 'Add to basket';
+              }, 1400);
+            }
+          }
         });
       });
 

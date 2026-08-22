@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
 import Button from '../../components/ui/Button.astro';
+import { toCHF } from '../../data/site';
 
 // The basket lives in the visitor's own browser, so the page ships a lookup
 // table keyed by SKU and renders the contents client-side.
@@ -13,7 +14,7 @@ const lookup = Object.fromEntries(
     {
       t: p.data.title,
       s: p.slug,
-      p: p.data.price,
+      p: p.data.price === null ? null : toCHF(p.data.price),
       i: p.data.images[0] ?? '',
     },
   ])
@@ -39,7 +40,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
       <div class="cart__foot">
         <div class="cart__total">
           <span>Total</span>
-          <strong data-cart-total>&euro;0.00</strong>
+          <strong data-cart-total>CHF 0.00</strong>
         </div>
         <p class="cart__note">
           Checkout runs on the 24High order system, which this static build does not
@@ -57,7 +58,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
     const el = document.getElementById('cart-lookup');
     const LOOKUP: Record<string, Row> = el ? JSON.parse(el.textContent || '{}') : {};
     const KEY = '24high-cart';
-    const money = new Intl.NumberFormat('en-IE', { style: 'currency', currency: 'EUR' });
+    const money = new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF' });
 
     const list = document.querySelector<HTMLElement>('[data-cart-list]');
     const empty = document.querySelector<HTMLElement>('[data-cart-empty]');
@@ -155,8 +156,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
     gap: 1rem;
     padding: 3rem 1.5rem;
     background: var(--surface);
-    border: 1px dashed var(--line);
-    border-radius: var(--radius-lg);
+    border: 1px dashed var(--line-strong);
     color: var(--ink-2);
   }
 
@@ -176,8 +176,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
     gap: 0.9rem;
     padding: 0.6rem 0.8rem;
     background: var(--surface);
-    border: 1px solid var(--line-soft);
-    border-radius: var(--radius);
+    border: 1px solid var(--line);
   }
 
   .cart__list :global(.line img) {
@@ -235,8 +234,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
     margin-block-start: 1.2rem;
     padding: 1.2rem;
     background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: var(--radius-lg);
+    border: 1px solid var(--line-strong);
   }
 
   .cart__total {
@@ -254,7 +252,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
   .cart__note {
     margin-block-start: 0.8rem;
     padding-block-start: 0.8rem;
-    border-block-start: 1px solid var(--line-soft);
+    border-block-start: 1px solid var(--line);
     color: var(--ink-3);
     font-size: var(--step--1);
   }

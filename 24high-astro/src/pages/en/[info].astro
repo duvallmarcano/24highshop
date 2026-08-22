@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
 import { INFO_PAGES, type InfoPage } from '../../data/info-pages';
+import { breadcrumbSchema } from '../../lib/seo';
 
 export async function getStaticPaths() {
   return INFO_PAGES.map((page) => ({
@@ -15,10 +16,15 @@ interface Props {
 }
 
 const { page } = Astro.props;
+const crumbs = [{ label: 'Home', href: '/en/' }, { label: page.title }];
 ---
 
-<BaseLayout title={page.title} description={page.description}>
-  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: page.title }]} />
+<BaseLayout
+  title={page.title}
+  description={page.description}
+  schemas={[breadcrumbSchema(crumbs)]}
+>
+  <Breadcrumbs items={crumbs} />
 
   <article class="info">
     <h1>{page.title}</h1>
@@ -48,6 +54,7 @@ const { page } = Astro.props;
 
   .info h1 {
     font-size: var(--step-4);
+    letter-spacing: -0.035em;
   }
 
   .info__intro {

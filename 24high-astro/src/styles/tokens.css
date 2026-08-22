@@ -1,70 +1,66 @@
 /* ---------------------------------------------------------------------------
-   24High design tokens
+   24High design tokens — flat, minimal, Swiss
 
-   Palette: spruce and saffron on a cool paper ground. The neutrals carry a
-   deliberate green bias (they are mixed toward the spruce, not toward pure
-   grey) so surfaces sit with the brand rather than under it.
+   Structure carries the design, not decoration: no shadows, no gradients, no
+   fills where a hairline will do. Surfaces separate by 1px rule and by space.
+   One accent — spruce — used only where something is actionable or in stock.
 
-   Every colour is defined on bare :root first. The dark block only
-   *redefines* tokens, so components never reference a colour that exists in
-   one theme and not the other.
+   The complete light palette is defined on bare :root. The dark blocks only
+   *redefine* tokens, so no colour exists in one theme and not the other.
 --------------------------------------------------------------------------- */
 
 :root {
-  /* --- surfaces, warmest to deepest --- */
-  --paper: #f2f5f2;
+  /* --- surfaces: separated by rules and space, not by fill --- */
+  --paper: #ffffff;
   --surface: #ffffff;
-  --surface-2: #e8eee9;
-  --surface-3: #dde5df;
-  --line: #d3ddd6;
-  --line-soft: #e2e9e4;
+  --surface-2: #f4f6f4;
+  --surface-3: #ebefec;
+  --line: #e2e7e3;
+  --line-strong: #c6cfc9;
 
   /* --- text --- */
-  --ink: #0c1512;
-  --ink-2: #45534d;
-  --ink-3: #6d7c75;
-  --ink-on-brand: #f2f5f2;
+  --ink: #0a0e0c;
+  --ink-2: #4b5551;
+  --ink-3: #7a847e;
+  --ink-on-brand: #ffffff;
 
-  /* --- brand --- */
-  --spruce: #0e5138;
-  --spruce-hover: #0a3d2a;
-  --spruce-soft: #dcebe3;
-  --saffron: #a1690a;
-  --saffron-soft: #f6ecd7;
+  /* --- the single accent --- */
+  --spruce: #0b5136;
+  --spruce-hover: #063a27;
+  --spruce-soft: #eaf2ee;
 
-  /* --- semantic --- */
-  --ok: #17643f;
-  --ok-soft: #dcece3;
-  --warn: #8a5a06;
-  --warn-soft: #f7edda;
-  --danger: #a02c22;
-  --danger-soft: #f7e3e0;
-
-  /* --- elevation --- */
-  --shadow-sm: 0 1px 2px rgb(12 21 18 / 6%);
-  --shadow-md: 0 2px 4px rgb(12 21 18 / 5%), 0 12px 28px -14px rgb(12 21 18 / 22%);
-  --shadow-lg: 0 4px 8px rgb(12 21 18 / 6%), 0 24px 48px -20px rgb(12 21 18 / 28%);
+  /* --- semantic, kept distinct from the accent --- */
+  --ok: #0b5136;
+  --ok-soft: #eaf2ee;
+  --warn: #7a5200;
+  --warn-soft: #f8f1de;
+  --danger: #96271c;
+  --danger-soft: #f9e6e3;
 
   /* --- type --- */
-  --font-display: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif;
-  --font-body: 'Public Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-body: Archivo, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
 
-  --step--1: clamp(0.79rem, 0.77rem + 0.1vw, 0.84rem);
-  --step-0: clamp(0.95rem, 0.92rem + 0.14vw, 1.02rem);
-  --step-1: clamp(1.14rem, 1.08rem + 0.28vw, 1.3rem);
-  --step-2: clamp(1.37rem, 1.27rem + 0.48vw, 1.66rem);
-  --step-3: clamp(1.64rem, 1.48rem + 0.78vw, 2.11rem);
-  --step-4: clamp(1.97rem, 1.72rem + 1.22vw, 2.69rem);
-  --step-5: clamp(2.36rem, 1.98rem + 1.86vw, 3.43rem);
+  --step--2: 0.72rem;
+  --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.85rem);
+  --step-0: clamp(0.96rem, 0.93rem + 0.14vw, 1.03rem);
+  --step-1: clamp(1.15rem, 1.09rem + 0.29vw, 1.32rem);
+  --step-2: clamp(1.38rem, 1.27rem + 0.52vw, 1.69rem);
+  --step-3: clamp(1.66rem, 1.47rem + 0.9vw, 2.19rem);
+  --step-4: clamp(1.99rem, 1.69rem + 1.45vw, 2.81rem);
+  --step-5: clamp(2.39rem, 1.9rem + 2.34vw, 3.6rem);
+  --step-6: clamp(2.86rem, 2.1rem + 3.6vw, 4.6rem);
 
   /* --- spacing / geometry --- */
-  --gutter: clamp(1rem, 0.6rem + 2vw, 2rem);
-  --container: 78rem;
-  --container-prose: 42rem;
-  --radius-sm: 4px;
-  --radius: 8px;
-  --radius-lg: 14px;
+  --gutter: clamp(1.1rem, 0.6rem + 2.4vw, 2.5rem);
+  --container: 80rem;
+  --container-prose: 40rem;
+
+  /* flat: geometry stays close to square */
+  --radius-sm: 2px;
+  --radius: 3px;
+  --radius-lg: 4px;
   --radius-pill: 999px;
 
   --ring: 0 0 0 2px var(--paper), 0 0 0 4px var(--spruce);
@@ -73,34 +69,28 @@
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
-    --paper: #0a100e;
-    --surface: #121a17;
-    --surface-2: #18231f;
-    --surface-3: #1f2c27;
-    --line: #263430;
-    --line-soft: #1d2925;
+    --paper: #0a0c0b;
+    --surface: #0f1211;
+    --surface-2: #161a18;
+    --surface-3: #1d2320;
+    --line: #232a26;
+    --line-strong: #333d37;
 
-    --ink: #e7efea;
-    --ink-2: #a7b8b0;
-    --ink-3: #7b8a83;
-    --ink-on-brand: #06120d;
+    --ink: #edf1ee;
+    --ink-2: #a9b3ad;
+    --ink-3: #79837d;
+    --ink-on-brand: #05100a;
 
-    --spruce: #4fcfa0;
-    --spruce-hover: #6fdcb4;
-    --spruce-soft: #12312440;
-    --saffron: #e9b44c;
-    --saffron-soft: #2e240f;
+    --spruce: #57d3a2;
+    --spruce-hover: #7ae0b7;
+    --spruce-soft: #10241b;
 
-    --ok: #63d3a4;
-    --ok-soft: #113026;
-    --warn: #e0b354;
-    --warn-soft: #2c2310;
-    --danger: #ff9082;
-    --danger-soft: #331b18;
-
-    --shadow-sm: 0 1px 2px rgb(0 0 0 / 40%);
-    --shadow-md: 0 2px 4px rgb(0 0 0 / 30%), 0 12px 28px -14px rgb(0 0 0 / 70%);
-    --shadow-lg: 0 4px 8px rgb(0 0 0 / 30%), 0 24px 48px -20px rgb(0 0 0 / 80%);
+    --ok: #57d3a2;
+    --ok-soft: #10241b;
+    --warn: #ddb45f;
+    --warn-soft: #251d0d;
+    --danger: #ff8f80;
+    --danger-soft: #2c1714;
 
     --ring: 0 0 0 2px var(--paper), 0 0 0 4px var(--spruce);
     color-scheme: dark;
@@ -108,34 +98,28 @@
 }
 
 :root[data-theme='dark'] {
-  --paper: #0a100e;
-  --surface: #121a17;
-  --surface-2: #18231f;
-  --surface-3: #1f2c27;
-  --line: #263430;
-  --line-soft: #1d2925;
+  --paper: #0a0c0b;
+  --surface: #0f1211;
+  --surface-2: #161a18;
+  --surface-3: #1d2320;
+  --line: #232a26;
+  --line-strong: #333d37;
 
-  --ink: #e7efea;
-  --ink-2: #a7b8b0;
-  --ink-3: #7b8a83;
-  --ink-on-brand: #06120d;
+  --ink: #edf1ee;
+  --ink-2: #a9b3ad;
+  --ink-3: #79837d;
+  --ink-on-brand: #05100a;
 
-  --spruce: #4fcfa0;
-  --spruce-hover: #6fdcb4;
-  --spruce-soft: #12312440;
-  --saffron: #e9b44c;
-  --saffron-soft: #2e240f;
+  --spruce: #57d3a2;
+  --spruce-hover: #7ae0b7;
+  --spruce-soft: #10241b;
 
-  --ok: #63d3a4;
-  --ok-soft: #113026;
-  --warn: #e0b354;
-  --warn-soft: #2c2310;
-  --danger: #ff9082;
-  --danger-soft: #331b18;
-
-  --shadow-sm: 0 1px 2px rgb(0 0 0 / 40%);
-  --shadow-md: 0 2px 4px rgb(0 0 0 / 30%), 0 12px 28px -14px rgb(0 0 0 / 70%);
-  --shadow-lg: 0 4px 8px rgb(0 0 0 / 30%), 0 24px 48px -20px rgb(0 0 0 / 80%);
+  --ok: #57d3a2;
+  --ok-soft: #10241b;
+  --warn: #ddb45f;
+  --warn-soft: #251d0d;
+  --danger: #ff8f80;
+  --danger-soft: #2c1714;
 
   --ring: 0 0 0 2px var(--paper), 0 0 0 4px var(--spruce);
   color-scheme: dark;

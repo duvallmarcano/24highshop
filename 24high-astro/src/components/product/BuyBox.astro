@@ -1,109 +1,142 @@
 ---
-import Badge from '../ui/Badge.astro';
 import Button from '../ui/Button.astro';
 import Price from '../ui/Price.astro';
 import Icon from '../ui/Icon.astro';
+import { SITE, toCHF } from '../../data/site';
+import { exVat } from '../../lib/seo';
+import { useTranslations } from '../../i18n/ui';
 
 interface Props {
   title: string;
   sku: string;
   price: number | null;
-  currency?: string;
   inStock?: boolean;
 }
 
-const { title, sku, price, currency = 'EUR', inStock = true } = Astro.props;
+const { title, sku, price, inStock = true } = Astro.props;
+const t = useTranslations('en');
+
+const chf = price === null ? null : toCHF(price);
+const net = chf === null ? null : exVat(chf);
+const freeShipping = chf !== null && chf >= 60;
 ---
 
-<div class="buybox">
-  <div class="buybox__row">
-    <Price value={price} currency={currency} size="lg" />
-    <Badge tone={inStock ? 'ok' : 'warn'}>{inStock ? 'In stock' : 'Sold out'}</Badge>
+<div class="buy">
+  <div class="buy__price">
+    <Price value={price} size="lg" showEUR />
   </div>
-  <p class="buybox__vat">Incl. VAT · shipped from the Netherlands</p>
 
-  <form class="buybox__form" data-cart-form data-sku={sku} data-title={title}>
-    <label class="visually-hidden" for="qty">Quantity</label>
+  <p class="buy__vat">
+    {
+      net !== null
+        ? `CHF ${net.toFixed(2)} excl. VAT · incl. 8.1% Swiss VAT`
+        : 'Price on request'
+    }
+  </p>
+
+  <div class="buy__stock">
+    <span class:list={['dot', inStock ? 'dot--ok' : 'dot--out']} aria-hidden="true"></span>
+    {
+      inStock
+        ? `In stock in ${SITE.address.locality} — ships today if ordered before ${SITE.cutoff}`
+        : 'Sold out — back in stock soon'
+    }
+  </div>
+
+  <form class="buy__form" data-cart-form data-sku={sku} data-title={title}>
+    <label class="visually-hidden" for="qty">{t('product.quantity')}</label>
     <input id="qty" name="qty" type="number" min="1" max="99" value="1" class="qty" />
     <Button type="submit" icon="cart" size="lg" block disabled={!inStock}>
-      {inStock ? 'Add to basket' : 'Notify me'}
+      {inStock ? t('product.addToBasket') : t('product.notify')}
     </Button>
   </form>
 
-  <ul class="buybox__usp" role="list">
-    <li><Icon name="truck" size={16} /> Free shipping over &euro;50</li>
-    <li><Icon name="package" size={16} /> Discreet, unmarked packaging</li>
-    <li><Icon name="clock" size={16} /> Ordered before 17:00, shipped today</li>
+  <ul class="buy__usp" role="list">
+    <li>
+      <Icon name="truck" size={15} />
+      {freeShipping ? 'Free Swiss shipping on this item' : 'Swiss shipping CHF 7.90 · free over CHF 60'}
+    </li>
+    <li><Icon name="package" size={15} /> Neutral, unmarked packaging</li>
+    <li><Icon name="shield" size={15} /> 14-day returns on unopened items</li>
   </ul>
 
-  <p class="buybox__sku">SKU {sku}</p>
+  <p class="buy__sku">{t('product.sku')} {sku}</p>
 </div>
 
 <style>
-  .buybox {
+  .buy {
     display: flex;
     flex-direction: column;
-    gap: 0.9rem;
-    padding: 1.3rem;
-    background: var(--surface);
-    border: 1px solid var(--line-soft);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-sm);
+    gap: 0.85rem;
+    padding: 1.4rem;
+    border: 1px solid var(--line-strong);
   }
 
-  .buybox__row {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 0.8rem;
-  }
-
-  .buybox__vat {
+  .buy__vat {
     margin-block-start: -0.6rem;
-    font-size: var(--step--1);
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
     color: var(--ink-3);
   }
 
-  .buybox__form {
+  .buy__stock {
     display: flex;
-    gap: 0.6rem;
+    align-items: flex-start;
+    gap: 0.5rem;
+    font-size: var(--step--1);
+    color: var(--ink-2);
+    line-height: 1.45;
+  }
+
+  .dot {
+    flex: none;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    margin-block-start: 0.4rem;
+  }
+
+  .dot--ok { background: var(--ok); }
+  .dot--out { background: var(--ink-3); }
+
+  .buy__form {
+    display: flex;
+    gap: 0.5rem;
   }
 
   .qty {
-    width: 4.2rem;
-    padding: 0.7rem 0.6rem;
+    width: 4rem;
+    padding: 0.7rem 0.5rem;
     text-align: center;
     font-variant-numeric: tabular-nums;
-    background: var(--paper);
+    background: var(--surface-2);
     border: 1px solid var(--line);
     border-radius: var(--radius);
   }
 
-  .buybox__usp {
+  .buy__usp {
     display: flex;
     flex-direction: column;
     gap: 0.45rem;
-    padding: 0.9rem 0 0;
+    padding: 0.95rem 0 0;
     margin: 0;
     list-style: none;
-    border-block-start: 1px solid var(--line-soft);
+    border-block-start: 1px solid var(--line);
     font-size: var(--step--1);
     color: var(--ink-2);
   }
 
-  .buybox__usp li {
+  .buy__usp li {
     display: flex;
     align-items: center;
     gap: 0.5rem;
   }
 
-  .buybox__usp :global(.icon) {
-    color: var(--spruce);
-  }
+  .buy__usp :global(.icon) { color: var(--spruce); }
 
-  .buybox__sku {
+  .buy__sku {
     font-family: var(--font-mono);
-    font-size: 0.68rem;
+    font-size: var(--step--2);
     letter-spacing: 0.06em;
     color: var(--ink-3);
   }

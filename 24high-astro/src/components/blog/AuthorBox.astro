@@ -1,0 +1,90 @@
+---
+import { authorImage, type Author } from '../../lib/authors';
+
+interface Props {
+  author?: Author;
+  /** Falls back to the organisation when a post has no named writer. */
+  fallbackName?: string;
+  updated?: string;
+}
+
+const { author, fallbackName = '24High', updated } = Astro.props;
+---
+
+<aside class="abox">
+  {
+    author ? (
+      <>
+        {author.image && (
+          <img
+            class="abox__img"
+            src={authorImage(author, 120)}
+            alt={author.name}
+            width="56"
+            height="56"
+            loading="lazy"
+          />
+        )}
+        <div class="abox__body">
+          <p class="eyebrow">Written by</p>
+          <p class="abox__name">
+            <a href={`/en/authors/${author.slug}`} rel="author">{author.name}</a>
+          </p>
+          {author.bio[0] && <p class="abox__bio">{author.bio[0]}</p>}
+        </div>
+      </>
+    ) : (
+      <div class="abox__body">
+        <p class="eyebrow">Written by</p>
+        <p class="abox__name">The {fallbackName} editorial team</p>
+        <p class="abox__bio">
+          Written and fact-checked in-house by the people who source and pack what we
+          sell. See our <a href="/en/editorial-policy">editorial standards</a>.
+        </p>
+      </div>
+    )
+  }
+</aside>
+
+{updated && <p class="abox__rev">Last reviewed {updated}</p>}
+
+<style>
+  .abox {
+    display: flex;
+    gap: 1rem;
+    padding-block: 1.2rem;
+    border-block: 1px solid var(--line);
+  }
+
+  .abox__img {
+    flex: none;
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  .abox__name {
+    margin-block: 0.25rem 0.35rem;
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .abox__name a { color: inherit; text-decoration: none; }
+  .abox__name a:hover { color: var(--spruce); }
+
+  .abox__bio {
+    max-width: 62ch;
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    line-height: 1.55;
+  }
+
+  .abox__rev {
+    margin-block-start: 0.6rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--ink-3);
+  }
+</style>

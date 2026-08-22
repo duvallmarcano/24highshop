@@ -1,13 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import Section from '../../components/layout/Section.astro';
 import ProductGrid from '../../components/product/ProductGrid.astro';
-import ProductRail from '../../components/product/ProductRail.astro';
 import PostCard from '../../components/blog/PostCard.astro';
 import Button from '../../components/ui/Button.astro';
 import Icon from '../../components/ui/Icon.astro';
-import { SHOPS, SITE } from '../../data/site';
+import FAQ from '../../components/seo/FAQ.astro';
+import { SHOPS, SITE, TOTAL_PRODUCTS } from '../../data/site';
+import { GLOBAL_FAQ } from '../../data/faq';
 import { firstImage } from '../../lib/images';
 
 const products = await getCollection('products');
@@ -15,15 +15,29 @@ const posts = (await getCollection('blog')).sort(
   (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
 );
 
-const inStock = products.filter((p) => p.data.inStock && p.data.images.length);
+const sellable = products.filter((p) => p.data.inStock && p.data.images.length);
+const featured = sellable.filter((p) => p.data.shop === 'mushrooms').slice(0, 8);
+const hero = featured[0];
+const latest = posts.slice(0, 3);
 
-const pick = (shop: string, n: number) =>
-  inStock.filter((p) => p.data.shop === shop).slice(0, n);
-
-const featured = pick('mushrooms', 8);
-const smartshop = pick('smartshop', 8);
-const hero = featured[0] ?? inStock[0];
-const latestPosts = posts.slice(0, 3);
+// The order story, told as three real steps rather than marketing beats.
+const steps = [
+  {
+    n: '01',
+    title: 'You order by 16:00',
+    body: 'Pay with TWINT, PostFinance, card or invoice. Nothing about the checkout names what you bought.',
+  },
+  {
+    n: '02',
+    title: 'We pack it in Zürich',
+    body: 'Picked from Swiss stock the same working day, into a plain box with no branding on the outside.',
+  },
+  {
+    n: '03',
+    title: 'It arrives in 1–2 days',
+    body: 'Tracked to your door anywhere in Switzerland. No customs, no waiting on a border.',
+  },
+];
 ---
 
 <BaseLayout
@@ -31,25 +45,21 @@ const latestPosts = posts.slice(0, 3);
   description={SITE.description}
   bare
 >
+  <!-- ── hero ─────────────────────────────────────────────────────────── -->
   <section class="hero">
     <div class="container hero__in">
       <div class="hero__copy">
-        <p class="eyebrow">Smartshop &middot; Netherlands &middot; since {SITE.established}</p>
-        <h1>Botanicals, mycology and the kit to grow them.</h1>
+        <p class="eyebrow">Zürich · Switzerland · since {SITE.established}</p>
+        <h1>Grow it, know it, then order it.</h1>
         <p class="hero__lead">
-          {products.length.toLocaleString('en-GB')} products across six shops — magic truffles and
-          grow kits, kratom and kanna, cannabis genetics, CBD and the headshop essentials.
-          Shipped discreetly across Europe.
+          A Swiss smartshop for people who want to understand what they are taking.
+          {TOTAL_PRODUCTS.toLocaleString('en-CH')} products across six shops — and
+          {posts.length} guides explaining them, written by people who actually use them.
         </p>
         <div class="hero__cta">
           <Button href="/en/shop/mushrooms" size="lg" iconEnd="arrow-right">Shop mushrooms</Button>
-          <Button href="/en/blog" size="lg" variant="secondary">Read the guides</Button>
+          <Button href="/en/blog" size="lg" variant="secondary">Start with a guide</Button>
         </div>
-        <ul class="hero__facts" role="list">
-          <li><strong>{products.length.toLocaleString('en-GB')}</strong><span>products</span></li>
-          <li><strong>{SHOPS.length}</strong><span>shops</span></li>
-          <li><strong>{posts.length}</strong><span>guides</span></li>
-        </ul>
       </div>
 
       {
@@ -58,129 +68,179 @@ const latestPosts = posts.slice(0, 3);
             <img
               src={firstImage(hero.data.images, 1000)}
               alt={hero.data.title}
-              width="440"
-              height="440"
+              width="520"
+              height="520"
               loading="eager"
               fetchpriority="high"
             />
-            <div class="hero__spec-tag">
-              <span class="eyebrow">Featured</span>
+            <span class="hero__tag">
+              <span class="eyebrow">In stock now</span>
               <strong>{hero.data.title}</strong>
-            </div>
+            </span>
           </a>
         )
       }
     </div>
+
+    <div class="container">
+      <ul class="facts" role="list">
+        <li><strong>{TOTAL_PRODUCTS.toLocaleString('en-CH')}</strong><span>products in stock</span></li>
+        <li><strong>1–2</strong><span>days across Switzerland</span></li>
+        <li><strong>{posts.length}</strong><span>guides, not blog filler</span></li>
+        <li><strong>{new Date().getFullYear() - SITE.established}</strong><span>years shipping</span></li>
+      </ul>
+    </div>
   </section>
 
-  <div class="container">
-    <Section title="Six shops, one basket" lead="Every category, counted straight from the catalogue.">
-      <ul class="shops" role="list">
-        {
-          SHOPS.map((shop) => (
-            <li>
-              <a class="shop" href={shop.href}>
-                <Icon name="leaf" size={20} />
+  <!-- ── shops ────────────────────────────────────────────────────────── -->
+  <section class="container band">
+    <header class="band__head">
+      <h2>Six shops, one basket</h2>
+      <p>Grouped by what you are trying to do, not by supplier.</p>
+    </header>
+
+    <ul class="shops" role="list">
+      {
+        SHOPS.map((shop) => (
+          <li>
+            <a class="shop" href={shop.href}>
+              <span class="shop__top">
                 <h3>{shop.label}</h3>
-                <p>{shop.blurb}</p>
-                <span class="shop__n">
-                  {shop.total} products <Icon name="arrow-right" size={14} />
-                </span>
-              </a>
+                <span class="shop__n">{shop.total}</span>
+              </span>
+              <p>{shop.blurb}</p>
+              <span class="shop__go">
+                Browse <Icon name="arrow-right" size={13} />
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <!-- ── how it works ─────────────────────────────────────────────────── -->
+  <section class="band band--rule">
+    <div class="container">
+      <header class="band__head">
+        <h2>Ordered today, on your table Thursday</h2>
+        <p>No customs form, no foreign warehouse, no parcel that announces itself.</p>
+      </header>
+
+      <ol class="steps" role="list">
+        {
+          steps.map((s) => (
+            <li>
+              <span class="steps__n">{s.n}</span>
+              <h3>{s.title}</h3>
+              <p>{s.body}</p>
             </li>
           ))
         }
-      </ul>
-    </Section>
+      </ol>
+    </div>
+  </section>
 
-    <Section title="Mushrooms & mycology" href="/en/shop/mushrooms">
-      <ProductGrid products={featured} eagerCount={0} />
-    </Section>
-
-    <ProductRail title="From the smartshop" products={smartshop} href="/en/shop/smartshop" />
-
-    <Section
-      title="Guides & background"
-      lead="Cultivation notes, dosing guidance and the botany behind what we stock."
-      href="/en/blog"
-    >
-      <div class="posts">
-        {latestPosts.map((p) => <PostCard post={p} />)}
+  <!-- ── the promise ──────────────────────────────────────────────────── -->
+  <section class="band band--rule">
+    <div class="container why">
+      <div class="why__lead">
+        <p class="eyebrow">Why people come back</p>
+        <h2>Most of what we sell rewards knowing something first.</h2>
       </div>
-    </Section>
-  </div>
+      <div class="why__body">
+        <p>
+          A grow kit that fruits depends on temperature and patience. A kratom vein
+          does something different at 2 g than at 6 g. CBD strength in Switzerland
+          is not the strength you know from the EU.
+        </p>
+        <p>
+          So the catalogue sits next to {posts.length} guides rather than behind a
+          contact form. If a product needs a dosing note, a substrate recipe or a
+          plain word of caution, it is written down — and linked from the product
+          page, before you buy rather than after.
+        </p>
+        <p>
+          <a href="/en/about">How we source and check what we stock</a>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── products ─────────────────────────────────────────────────────── -->
+  <section class="container band">
+    <header class="band__head band__head--row">
+      <div>
+        <h2>Mushrooms &amp; mycology</h2>
+        <p>Grow kits, liquid cultures, spores and the medicinal species.</p>
+      </div>
+      <a class="band__link" href="/en/shop/mushrooms">All mushrooms</a>
+    </header>
+    <ProductGrid products={featured} eagerCount={0} />
+  </section>
+
+  <!-- ── guides ───────────────────────────────────────────────────────── -->
+  <section class="container band">
+    <header class="band__head band__head--row">
+      <div>
+        <h2>Read before you buy</h2>
+        <p>Cultivation notes, dosing guidance and the botany behind the shelf.</p>
+      </div>
+      <a class="band__link" href="/en/blog">All guides</a>
+    </header>
+    <div class="posts">
+      {latest.map((p, i) => <PostCard post={p} eager={i === 0} />)}
+    </div>
+  </section>
+
+  <!-- ── faq (answer engines) ─────────────────────────────────────────── -->
+  <section class="container band">
+    <FAQ items={GLOBAL_FAQ} title="Ordering from 24High" />
+  </section>
 </BaseLayout>
 
 <style>
+  /* ── hero ── */
   .hero {
-    background: linear-gradient(180deg, var(--surface-2), var(--paper));
-    border-block-end: 1px solid var(--line-soft);
+    border-block-end: 1px solid var(--line);
   }
 
   .hero__in {
     display: grid;
-    grid-template-columns: 1.15fr 0.85fr;
+    grid-template-columns: 1.1fr 0.9fr;
     align-items: center;
-    gap: clamp(1.5rem, 5vw, 4rem);
-    padding-block: clamp(2.5rem, 7vw, 5rem);
+    gap: clamp(2rem, 6vw, 5rem);
+    padding-block: clamp(3rem, 8vw, 6rem);
   }
 
   .hero h1 {
-    margin-block: 0.8rem 0;
-    font-size: var(--step-5);
-    max-width: 15ch;
+    max-width: 12ch;
+    margin-block: 1rem 0;
+    font-size: var(--step-6);
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    line-height: 0.98;
   }
 
   .hero__lead {
-    max-width: 48ch;
-    margin-block-start: 1rem;
+    max-width: 46ch;
+    margin-block-start: 1.4rem;
     color: var(--ink-2);
     font-size: var(--step-1);
-    line-height: 1.55;
+    line-height: 1.5;
   }
 
   .hero__cta {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.7rem;
-    margin-block-start: 1.6rem;
-  }
-
-  .hero__facts {
-    display: flex;
-    gap: 2rem;
-    padding: 1.4rem 0 0;
-    margin: 1.6rem 0 0;
-    list-style: none;
-    border-block-start: 1px solid var(--line);
-  }
-
-  .hero__facts strong {
-    display: block;
-    font-family: var(--font-display);
-    font-size: var(--step-3);
-    font-weight: 700;
-    letter-spacing: -0.03em;
-    font-variant-numeric: tabular-nums;
-    color: var(--spruce);
-  }
-
-  .hero__facts span {
-    font-family: var(--font-mono);
-    font-size: 0.68rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--ink-3);
+    gap: 0.6rem;
+    margin-block-start: 2rem;
   }
 
   .hero__spec {
     position: relative;
     display: block;
-    border-radius: var(--radius-lg);
-    overflow: hidden;
-    background: var(--surface);
     border: 1px solid var(--line);
-    box-shadow: var(--shadow-lg);
     text-decoration: none;
   }
 
@@ -190,59 +250,129 @@ const latestPosts = posts.slice(0, 3);
     object-fit: cover;
   }
 
-  .hero__spec-tag {
-    position: absolute;
-    inset-inline: 0.7rem;
-    inset-block-end: 0.7rem;
-    padding: 0.7rem 0.85rem;
-    background: color-mix(in srgb, var(--surface) 88%, transparent);
-    backdrop-filter: blur(8px);
-    border: 1px solid var(--line-soft);
-    border-radius: var(--radius);
+  .hero__tag {
+    display: block;
+    padding: 0.85rem 1rem;
+    border-block-start: 1px solid var(--line);
+    background: var(--paper);
   }
 
-  .hero__spec-tag strong {
+  .hero__tag strong {
     display: block;
     margin-block-start: 0.2rem;
     font-family: var(--font-display);
     font-size: var(--step-0);
+    font-weight: 500;
     color: var(--ink);
   }
 
-  /* --- shop cards --- */
-  .shops {
+  /* ── facts rail ── */
+  .facts {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
-    gap: 0.9rem;
+    grid-template-columns: repeat(auto-fit, minmax(min(50%, 150px), 1fr));
     padding: 0;
     margin: 0;
     list-style: none;
+    border-block-start: 1px solid var(--line);
+  }
+
+  .facts li {
+    padding: 1.4rem 1.5rem 1.6rem 0;
+  }
+
+  .facts strong {
+    display: block;
+    font-family: var(--font-display);
+    font-size: var(--step-4);
+    font-weight: 700;
+    letter-spacing: -0.04em;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+  }
+
+  .facts span {
+    display: block;
+    margin-block-start: 0.4rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.06em;
+    color: var(--ink-3);
+  }
+
+  /* ── bands ── */
+  .band { padding-block: clamp(3rem, 7vw, 5.5rem); }
+  .band--rule { border-block-start: 1px solid var(--line); }
+
+  .band__head { margin-block-end: 2rem; }
+
+  .band__head h2 {
+    font-size: var(--step-4);
+    max-width: 20ch;
+  }
+
+  .band__head p {
+    max-width: 54ch;
+    margin-block-start: 0.7rem;
+    color: var(--ink-2);
+    font-size: var(--step-1);
+  }
+
+  .band__head--row {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+
+  .band__link {
+    flex: none;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  /* ── shops ── */
+  .shops {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+    gap: 0;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border-block-start: 1px solid var(--line);
+    border-inline-start: 1px solid var(--line);
   }
 
   .shop {
     display: flex;
     flex-direction: column;
-    gap: 0.4rem;
+    gap: 0.5rem;
     height: 100%;
-    padding: 1.2rem;
-    background: var(--surface);
-    border: 1px solid var(--line-soft);
-    border-radius: var(--radius-lg);
+    padding: 1.5rem;
+    border-inline-end: 1px solid var(--line);
+    border-block-end: 1px solid var(--line);
     text-decoration: none;
-    transition: border-color 0.16s ease, box-shadow 0.16s ease;
+    transition: background-color 0.14s ease;
   }
 
-  .shop:hover {
-    border-color: var(--spruce);
-    box-shadow: var(--shadow-md);
+  .shop:hover { background: var(--surface-2); }
+
+  .shop__top {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.8rem;
   }
 
-  .shop :global(.icon) {
-    color: var(--spruce);
-  }
+  .shop h3 { font-size: var(--step-2); }
 
-  .shop h3 {
-    font-size: var(--step-1);
+  .shop__n {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--ink-3);
+    font-variant-numeric: tabular-nums;
   }
 
   .shop p {
@@ -252,31 +382,83 @@ const latestPosts = posts.slice(0, 3);
     line-height: 1.5;
   }
 
-  .shop__n {
+  .shop__go {
     display: inline-flex;
     align-items: center;
-    gap: 0.35rem;
-    margin-block-start: 0.5rem;
+    gap: 0.3rem;
     font-family: var(--font-mono);
-    font-size: 0.68rem;
-    letter-spacing: 0.06em;
+    font-size: var(--step--2);
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--spruce);
   }
 
+  /* ── steps ── */
+  .steps {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
+    gap: 0;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border-block-start: 1px solid var(--line);
+  }
+
+  .steps li {
+    padding: 1.8rem 2rem 2rem 0;
+  }
+
+  .steps__n {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.1em;
+    color: var(--spruce);
+  }
+
+  .steps h3 {
+    margin-block: 0.7rem 0.5rem;
+    font-size: var(--step-1);
+  }
+
+  .steps p {
+    max-width: 34ch;
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    line-height: 1.55;
+  }
+
+  /* ── why ── */
+  .why {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(2rem, 6vw, 5rem);
+  }
+
+  .why__lead h2 {
+    margin-block-start: 0.8rem;
+    font-size: var(--step-3);
+    max-width: 18ch;
+  }
+
+  .why__body p {
+    color: var(--ink-2);
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+
+  .why__body p + p { margin-block-start: 1.1rem; }
+
+  /* ── posts ── */
   .posts {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
-    gap: 1.1rem;
+    gap: 1.2rem;
   }
 
-  @media (max-width: 860px) {
-    .hero__in {
-      grid-template-columns: 1fr;
-    }
-
-    .hero__spec {
-      max-width: 22rem;
-    }
+  @media (max-width: 900px) {
+    .hero__in,
+    .why { grid-template-columns: 1fr; }
+    .hero__spec { max-width: 24rem; }
+    .band__head--row { flex-direction: column; align-items: flex-start; gap: 1rem; }
   }
 </style>

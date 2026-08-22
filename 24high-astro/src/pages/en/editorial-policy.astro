@@ -1,0 +1,122 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
+import { AUTHORS } from '../../lib/authors';
+import { SITE } from '../../data/site';
+import { breadcrumbSchema } from '../../lib/seo';
+
+const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Editorial standards' }];
+---
+
+<BaseLayout
+  title="Editorial standards"
+  description="How 24High researches, writes, reviews and corrects its guides — who writes them, what we will not claim, and how to tell us we got something wrong."
+  schemas={[breadcrumbSchema(crumbs)]}
+>
+  <Breadcrumbs items={crumbs} />
+
+  <article class="doc">
+    <header>
+      <p class="eyebrow">Editorial</p>
+      <h1>Editorial standards</h1>
+      <p class="doc__lead">
+        We sell things people put in their bodies. That sets a floor for what we are
+        willing to publish about them. This page says what that floor is.
+      </p>
+    </header>
+
+    <div class="prose">
+      <h2>Who writes the guides</h2>
+      <p>
+        Guides carry a byline. {AUTHORS.length} named writers cover most of the
+        catalogue — you can see who they are, what they specialise in and everything
+        they have written on <a href="/en/authors">our writers page</a>. Where a piece
+        is compiled in-house rather than by a single author, it says so and is
+        attributed to the editorial team.
+      </p>
+
+      <h2>What we will not do</h2>
+      <ul>
+        <li>
+          <strong>Make medical claims.</strong> Nothing we sell is a medicine. We
+          describe traditional use, botany and published research, and we say when
+          the evidence is thin.
+        </li>
+        <li>
+          <strong>Invent reviews or ratings.</strong> You will not find star ratings
+          on our product pages, because we do not have verified review data to put
+          there. When we do, it will come from real buyers.
+        </li>
+        <li>
+          <strong>Bury the risks.</strong> If something interacts badly with SSRIs,
+          should not be combined with alcohol, or is illegal where you probably live,
+          that goes in the guide — not in a footnote.
+        </li>
+        <li>
+          <strong>Write for a search engine over a reader.</strong> If a question has
+          a two-sentence answer, it gets two sentences.
+        </li>
+      </ul>
+
+      <h2>How a guide gets published</h2>
+      <ol>
+        <li>The writer researches from primary sources where they exist — published
+          studies, pharmacopoeias, established ethnobotanical records — rather than
+          from other shops' copy.</li>
+        <li>A second person checks the factual claims, the dosing figures and the
+          legal statements before publication.</li>
+        <li>Anything touching legality is checked against current Swiss law, and
+          flagged where it differs elsewhere in Europe.</li>
+        <li>The published date and last-reviewed date both appear on the page.</li>
+      </ol>
+
+      <h2>Corrections</h2>
+      <p>
+        If something here is wrong, tell us at
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a> and we will correct it.
+        Substantive corrections change the last-reviewed date on the guide. We would
+        rather be corrected than be confidently wrong in public.
+      </p>
+
+      <h2>Commercial relationships</h2>
+      <p>
+        We sell what we write about — that is the obvious conflict, and we are not
+        going to pretend otherwise. What we can say is that no supplier pays for
+        placement in a guide, no guide is written to order, and where we think a
+        cheaper or simpler option serves you better, the guide says so.
+      </p>
+
+      <h2>Sources</h2>
+      <p>
+        Where a specific figure matters — a dosage range, a colonisation time, a legal
+        threshold — the guide states where it comes from. Where a claim is traditional
+        rather than clinical, it is described as traditional.
+      </p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .doc {
+    max-width: var(--container-prose);
+    margin-inline: auto;
+    padding-block: 2rem;
+  }
+
+  .doc h1 {
+    margin-block: 0.6rem 0;
+    font-size: var(--step-4);
+    letter-spacing: -0.035em;
+  }
+
+  .doc__lead {
+    margin-block: 1.2rem 2.5rem;
+    padding-block-end: 2rem;
+    border-block-end: 1px solid var(--line);
+    color: var(--ink-2);
+    font-size: var(--step-1);
+    line-height: 1.55;
+  }
+
+  .doc :global(.prose > h2:first-child) { margin-block-start: 0; }
+</style>

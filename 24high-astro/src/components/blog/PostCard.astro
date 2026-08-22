@@ -40,19 +40,13 @@ const href = `/en/blog/${post.slug}`;
     display: flex;
     flex-direction: column;
     background: var(--surface);
-    border: 1px solid var(--line-soft);
-    border-radius: var(--radius-lg);
+    border: 1px solid var(--line);
     overflow: hidden;
-    transition: border-color 0.16s ease, box-shadow 0.16s ease, transform 0.16s ease;
+    transition: border-color 0.14s ease;
   }
 
-  .post:hover {
-    border-color: var(--line);
-    box-shadow: var(--shadow-md);
-    transform: translateY(-2px);
-  }
-
-  .post:focus-within { border-color: var(--spruce); }
+  .post:hover,
+  .post:focus-within { border-color: var(--ink); }
 
   .post__media {
     display: block;
@@ -76,7 +70,7 @@ const href = `/en/blog/${post.slug}`;
 
   .post__date {
     font-family: var(--font-mono);
-    font-size: 0.66rem;
+    font-size: var(--step--2);
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--ink-3);
@@ -84,7 +78,8 @@ const href = `/en/blog/${post.slug}`;
 
   .post__title {
     font-size: var(--step-1);
-    line-height: 1.25;
+    line-height: 1.22;
+    letter-spacing: -0.02em;
   }
 
   .post__title a {

@@ -4,26 +4,35 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
 import PostCard from '../../../components/blog/PostCard.astro';
 import { formatDate } from '../../../lib/format';
+import { AUTHORS } from '../../../lib/authors';
+import { breadcrumbSchema, collectionPageSchema } from '../../../lib/seo';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
 );
 
 const [lead, ...rest] = posts;
+const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Guides' }];
+const description = `${posts.length} guides on growing, dosing, harm reduction and the botany behind what 24High stocks — written by named authors and checked in-house.`;
 ---
 
 <BaseLayout
-  title="Guides & background"
-  description="Cultivation notes, dosing guidance, harm reduction and the botany behind everything 24High stocks."
+  title="Guides"
+  description={description}
+  schemas={[
+    breadcrumbSchema(crumbs),
+    collectionPageSchema('24High Guides', description, '/en/blog'),
+  ]}
 >
-  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'Blog' }]} />
+  <Breadcrumbs items={crumbs} />
 
-  <header class="bloghead">
-    <p class="eyebrow">{posts.length} articles</p>
-    <h1>Guides &amp; background</h1>
-    <p class="bloghead__lead">
-      Growing notes, dosing guidance, harm reduction and the botany behind what we stock —
-      written by the people who pack the orders.
+  <header class="head">
+    <p class="eyebrow">{posts.length} guides · {AUTHORS.length} named writers</p>
+    <h1>Read before you buy</h1>
+    <p class="head__lead">
+      Growing notes, dosing guidance, harm reduction and the botany behind the
+      shelf. Written by <a href="/en/authors">people we name</a> and checked
+      in-house before it goes up.
     </p>
   </header>
 
@@ -31,12 +40,13 @@ const [lead, ...rest] = posts;
     lead && (
       <a class="lead" href={`/en/blog/${lead.slug}`}>
         {lead.data.heroImage && (
-          <img src={lead.data.heroImage} alt="" width="600" height="400" loading="eager" />
+          <img src={lead.data.heroImage} alt="" width="640" height="480" loading="eager" />
         )}
         <div class="lead__body">
-          <p class="eyebrow">Latest &middot; {formatDate(lead.data.publishedAt)}</p>
+          <p class="eyebrow">Latest · {formatDate(lead.data.publishedAt)}</p>
           <h2>{lead.data.title}</h2>
           <p>{lead.data.description}</p>
+          <span class="lead__go">Read the guide →</span>
         </div>
       </a>
     )
@@ -48,44 +58,39 @@ const [lead, ...rest] = posts;
 </BaseLayout>
 
 <style>
-  .bloghead {
-    margin-block: 1.2rem 1.8rem;
+  .head {
+    margin-block: 1.5rem 2.5rem;
   }
 
-  .bloghead h1 {
-    margin-block: 0.5rem 0;
+  .head h1 {
+    margin-block: 0.6rem 0;
     font-size: var(--step-5);
+    letter-spacing: -0.04em;
   }
 
-  .bloghead__lead {
+  .head__lead {
     max-width: 58ch;
-    margin-block-start: 0.7rem;
+    margin-block-start: 1.1rem;
     color: var(--ink-2);
     font-size: var(--step-1);
+    line-height: 1.55;
   }
 
   .lead {
     display: grid;
-    grid-template-columns: 1.1fr 1fr;
-    gap: 0;
-    margin-block-end: 1.6rem;
-    background: var(--surface);
-    border: 1px solid var(--line-soft);
-    border-radius: var(--radius-lg);
-    overflow: hidden;
+    grid-template-columns: 1.15fr 1fr;
+    margin-block-end: 1.2rem;
+    border: 1px solid var(--line);
     text-decoration: none;
-    transition: border-color 0.16s ease, box-shadow 0.16s ease;
+    transition: border-color 0.14s ease;
   }
 
-  .lead:hover {
-    border-color: var(--spruce);
-    box-shadow: var(--shadow-md);
-  }
+  .lead:hover { border-color: var(--ink); }
 
   .lead img {
     width: 100%;
     height: 100%;
-    aspect-ratio: 3 / 2;
+    aspect-ratio: 4 / 3;
     object-fit: cover;
   }
 
@@ -93,29 +98,36 @@ const [lead, ...rest] = posts;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 0.6rem;
-    padding: clamp(1.2rem, 3vw, 2.2rem);
+    gap: 0.7rem;
+    padding: clamp(1.4rem, 3vw, 2.6rem);
   }
 
   .lead__body h2 {
     font-size: var(--step-3);
     color: var(--ink);
+    letter-spacing: -0.03em;
   }
 
-  .lead__body p:last-child {
+  .lead__body p {
     color: var(--ink-2);
     line-height: 1.6;
+  }
+
+  .lead__go {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--spruce);
   }
 
   .posts {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 270px), 1fr));
-    gap: 1.1rem;
+    gap: 1.2rem;
   }
 
   @media (max-width: 760px) {
-    .lead {
-      grid-template-columns: 1fr;
-    }
+    .lead { grid-template-columns: 1fr; }
   }
 </style>
