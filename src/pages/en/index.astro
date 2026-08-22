@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ProductGrid from '../../components/product/ProductGrid.astro';
 import PostCard from '../../components/blog/PostCard.astro';
@@ -7,7 +7,7 @@ import Button from '../../components/ui/Button.astro';
 import Icon from '../../components/ui/Icon.astro';
 import Stars from '../../components/product/Stars.astro';
 import FAQ from '../../components/seo/FAQ.astro';
-import { SHOPS, SITE, TOTAL_PRODUCTS, TOP_SELLER_KEYS, SHOP_BY_ID, type ShopId } from '../../data/site';
+import { SHOPS, SITE, TOTAL_PRODUCTS, TOP_SELLER_KEYS } from '../../data/site';
 import { GLOBAL_FAQ } from '../../data/faq';
 import { firstImage } from '../../lib/images';
 
@@ -16,15 +16,41 @@ const posts = (await getCollection('blog')).sort(
   (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
 );
 
-// Homepage shows only products customers have actually rated, and no product
-// appears twice — each section draws from what the previous ones left.
-const rated = products.filter(
-  (p) => p.data.rating && p.data.inStock && p.data.images.length
+// Homepage leads with products customers have rated. Where a section cannot
+// fill ten from those, it tops up with the best-standing unrated products —
+// never repeating one that has already appeared further up the page.
+const SECTION_SIZE = 10;
+
+// naming the entry type keeps TypeScript from re-deriving a 1,187-member
+// union every time a list is spread
+type Product = CollectionEntry<'products'>;
+
+const sellable = products.filter(
+  (p) => p.data.inStock && p.data.images.length > 0 && p.data.shop
 );
+const rated = sellable.filter((p) => p.data.rating);
 
 const used = new Set<string>();
-function take<T extends { slug: string }>(list: T[], n: number): T[] {
-  const out: T[] = [];
+const r = (p: Product) => p.data.rating!;
+
+/**
+ * Standing for a product nobody has rated yet. The strongest signal is the
+ * shop's own curated top-ten lists — a human already picked those — then
+ * depth of photography and of the written description.
+ */
+function standing(p: Product): number {
+  const curated = TOP_SELLER_KEYS.has(`${p.data.shop}/${p.data.category}`) ? 100 : 0;
+  const photos = Math.min(p.data.images.length, 4) * 8;
+  const copy = Math.min(p.body.replace(/<[^>]+>/g, '').trim().length / 60, 20);
+  return curated + photos + copy;
+}
+
+const unratedByStanding = sellable
+  .filter((p) => !p.data.rating)
+  .sort((a, b) => standing(b) - standing(a));
+
+function take(list: Product[], n: number): Product[] {
+  const out: Product[] = [];
   for (const p of list) {
     if (out.length >= n) break;
     if (used.has(p.slug)) continue;
@@ -34,31 +60,44 @@ function take<T extends { slug: string }>(list: T[], n: number): T[] {
   return out;
 }
 
-const r = (p: (typeof rated)[number]) => p.data.rating!;
+/** Fill a section to SECTION_SIZE, topping up with well-presented stock. */
+function section(preferred: Product[], size = SECTION_SIZE): Product[] {
+  const picked = take(preferred, size);
+  if (picked.length < size) {
+    for (const p of take(unratedByStanding, size - picked.length)) picked.push(p);
+  }
+  return picked;
+}
 
 // strongest score, but only where more than one person rated it
 const byScore = [...rated]
   .filter((p) => r(p).count >= 2)
   .sort((a, b) => r(b).value - r(a).value || r(b).count - r(a).count);
 
-// most-rated, regardless of score — this is the social-proof slice
+// most-rated, regardless of score — the social-proof slice
 const byCount = [...rated].sort((a, b) => r(b).count - r(a).count || r(b).value - r(a).value);
 
 const hero = take(byScore, 1)[0] ?? take(byCount, 1)[0];
-const mostReviewed = take(byCount, 8);
-const topRated = take(byScore, 8);
+const mostReviewed = section(byCount);
+const topRated = section(byScore);
 
-// breadth: the best-rated survivor from each shop, so the smaller shops
-// are not buried under mushrooms and smartshop
-const acrossShops = SHOPS.map((shop) => ({
-  shop,
-  items: take(
-    [...rated]
-      .filter((p) => p.data.shop === shop.id)
-      .sort((a, b) => r(b).value - r(a).value || r(b).count - r(a).count),
-    2
-  ),
-})).filter((g) => g.items.length > 0);
+// Breadth: rotate through the shops so all six appear, rated first within
+// each. Without this, cbdshop (1 rated) and seedshop (2) never surface.
+const perShop: Product[][] = SHOPS.map((shop) => {
+  const mine = sellable.filter((p) => p.data.shop === shop.id);
+  const queue: Product[] = mine
+    .filter((p) => p.data.rating)
+    .sort((a, b) => r(b).value - r(a).value);
+  for (const p of mine.filter((x) => !x.data.rating).sort((a, b) => standing(b) - standing(a))) {
+    queue.push(p);
+  }
+  return queue;
+});
+const roundRobin: Product[] = [];
+for (let i = 0; roundRobin.length < SECTION_SIZE * 2 && i < 40; i++) {
+  for (const list of perShop) if (list[i]) roundRobin.push(list[i]);
+}
+const acrossShops = section(roundRobin);
 
 const latest = posts.slice(0, 3);
 
@@ -249,25 +288,17 @@ const steps = [
 
   <!-- ── across the shops ─────────────────────────────────────────────── -->
   <section class="container band">
-    <header class="band__head">
-      <h2>Rated across every shop</h2>
-      <p>The best-scoring product in each of the six shops, so nothing gets buried.</p>
+    <header class="band__head band__head--row">
+      <div>
+        <h2>Across every shop</h2>
+        <p>
+          One pass through all six shops, rated products first — so the smaller
+          shelves are not buried under mushrooms and smartshop.
+        </p>
+      </div>
+      <a class="band__link" href="/en/shop/mushrooms">Browse all shops</a>
     </header>
-
-    {
-      acrossShops.map(({ shop, items }) => (
-        <div class="tops" data-shop={shop.id}>
-          <div class="tops__head">
-            <span class="tops__icon"><Icon name={shop.icon} size={20} /></span>
-            <h3>{shop.label}</h3>
-            <a href={shop.href}>
-              All {shop.total} <Icon name="arrow-right" size={13} />
-            </a>
-          </div>
-          <ProductGrid products={items} eagerCount={0} />
-        </div>
-      ))
-    }
+    <ProductGrid products={acrossShops} eagerCount={0} />
   </section>
 
   <!-- ── guides ───────────────────────────────────────────────────────── -->
