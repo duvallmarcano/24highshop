@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { EUR_TO_CHF } from '../../data/site';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
 import Button from '../../components/ui/Button.astro';
 import { toCHF } from '../../data/site';
@@ -21,6 +22,7 @@ const lookup = Object.fromEntries(
 );
 
 const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
+const rate = EUR_TO_CHF;
 ---
 
 <BaseLayout title="Your basket" description="Review the items in your 24highshop basket." noindex>
@@ -40,7 +42,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
       <div class="cart__foot">
         <div class="cart__total">
           <span>Total</span>
-          <strong data-cart-total>CHF 0.00</strong>
+          <strong data-cart-total>&mdash;</strong>
         </div>
         <p class="cart__note">
           Checkout runs on the 24highshop order system, which this static build does not
@@ -51,6 +53,7 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
   </div>
 
   <script type="application/json" id="cart-lookup" is:inline set:html={safe(lookup)} />
+  <script type="application/json" id="cart-rate" is:inline set:html={String(rate)} />
 
   <script>
     interface Row { t: string; s: string; p: number | null; i: string }
@@ -58,7 +61,21 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
     const el = document.getElementById('cart-lookup');
     const LOOKUP: Record<string, Row> = el ? JSON.parse(el.textContent || '{}') : {};
     const KEY = '24high-cart';
-    const money = new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF' });
+    // Prices are stored in EUR; the visible currency follows the switcher.
+    const rateEl = document.getElementById('cart-rate');
+    const RATE = Number(rateEl?.textContent || 0.95);
+    const CHF = new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF' });
+    const EUR = new Intl.NumberFormat('de-DE', { style: 'currency', currency: 'EUR' });
+
+    function currency(): 'chf' | 'eur' {
+      return document.documentElement.getAttribute('data-currency') === 'eur' ? 'eur' : 'chf';
+    }
+
+    function money(eur: number): string {
+      return currency() === 'eur'
+        ? EUR.format(eur)
+        : CHF.format(Math.round((eur / RATE) * 20) / 20);
+    }
 
     const list = document.querySelector<HTMLElement>('[data-cart-list]');
     const empty = document.querySelector<HTMLElement>('[data-cart-empty]');
@@ -106,13 +123,13 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
                 <span>${qty}</span>
                 <button type="button" data-inc="${sku}" aria-label="Increase quantity">+</button>
               </span>
-              <span class="line__p">${money.format(line)}</span>
+              <span class="line__p">${money(line)}</span>
               <button class="line__x" type="button" data-rm="${sku}" aria-label="Remove">Remove</button>
             </li>`;
         })
         .join('');
 
-      totalEl.textContent = money.format(total);
+      totalEl.textContent = money(total);
       document.querySelectorAll<HTMLElement>('[data-cart-count]').forEach((c) => {
         const n = skus.reduce((a, s) => a + cart[s], 0);
         c.textContent = String(n);
@@ -134,6 +151,12 @@ const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
     });
 
     paint();
+
+    // the switcher stamps <html data-currency>; re-render totals when it does
+    new MutationObserver(paint).observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['data-currency'],
+    });
   </script>
 </BaseLayout>
 

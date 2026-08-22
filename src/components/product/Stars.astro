@@ -1,0 +1,47 @@
+---
+import Icon from '../ui/Icon.astro';
+
+interface Props {
+  /** 1–5, fractional allowed. */
+  value: number;
+  size?: number;
+  label?: string;
+}
+
+const { value, size = 15, label } = Astro.props;
+const pct = Math.max(0, Math.min(100, (value / 5) * 100));
+---
+
+<span class="stars" role="img" aria-label={label ?? `${value.toFixed(1)} out of 5`}>
+  <span class="stars__track" aria-hidden="true">
+    {[0, 1, 2, 3, 4].map(() => <Icon name="star" size={size} />)}
+  </span>
+  <span class="stars__fill" style={`width:${pct}%`} aria-hidden="true">
+    {[0, 1, 2, 3, 4].map(() => <Icon name="star" size={size} />)}
+  </span>
+</span>
+
+<style>
+  .stars {
+    position: relative;
+    display: inline-block;
+    line-height: 0;
+  }
+
+  .stars__track,
+  .stars__fill {
+    display: flex;
+    gap: 1px;
+  }
+
+  .stars__track { color: var(--line-strong); }
+
+  /* the filled layer is clipped to the score, so half stars work */
+  .stars__fill {
+    position: absolute;
+    inset-block-start: 0;
+    inset-inline-start: 0;
+    overflow: hidden;
+    color: var(--star);
+  }
+</style>

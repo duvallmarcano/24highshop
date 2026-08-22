@@ -5,6 +5,7 @@ import Breadcrumbs from '../../../../components/layout/Breadcrumbs.astro';
 import ProductGrid from '../../../../components/product/ProductGrid.astro';
 import FAQ from '../../../../components/seo/FAQ.astro';
 import KeyFacts from '../../../../components/seo/KeyFacts.astro';
+import Money from '../../../../components/ui/Money.astro';
 import { SHOPS, toCHF, SITE, type Shop, type Category, type ShopId } from '../../../../data/site';
 import { SHOP_FAQ } from '../../../../data/faq';
 import {
@@ -60,17 +61,21 @@ const crumbs = [
 
 // A direct-answer opening paragraph: what this category is, how many, from
 // what price, how fast it ships. Written to be quotable in one lift.
-const answer = `24highshop stocks ${products.length} ${category.label.toLowerCase()} ${
-  fromCHF !== null ? `from CHF ${fromCHF.toFixed(2)}` : ''
-}, shipped from ${SITE.address.locality} in plain packaging. ${available} ${
+// Split in two so the visible price can follow the switcher while the meta
+// description keeps the canonical franc figure.
+const answerLead = `24highshop stocks ${products.length} ${category.label.toLowerCase()}`;
+const answerTail = `, shipped from ${SITE.address.locality} in plain packaging. ${available} ${
   available === 1 ? 'is' : 'are'
 } in stock today and dispatch the same working day when ordered before ${SITE.cutoff}.`;
+const answer = `${answerLead}${
+  fromCHF !== null ? ` from CHF ${fromCHF.toFixed(2)}` : ''
+}${answerTail}`;
 
 const facts = [
   { label: 'Products', value: String(products.length) },
   { label: 'In stock', value: String(available) },
-  ...(fromCHF !== null && toCHFmax !== null
-    ? [{ label: 'Price range', value: `CHF ${fromCHF.toFixed(2)} – ${toCHFmax.toFixed(2)}` }]
+  ...(fromEUR !== null && toEUR !== null
+    ? [{ label: 'From', eur: fromEUR, chf: fromCHF! }, { label: 'Up to', eur: toEUR, chf: toCHFmax! }]
     : []),
   { label: 'Shop', value: shop.label },
   { label: 'Delivery', value: '1–2 working days in Switzerland' },
@@ -106,7 +111,13 @@ const guides = relatedGuides(url, 3);
     <div class="cat__lead">
       <p class="eyebrow">{shop.label}</p>
       <h1>{category.label}</h1>
-      <p class="cat__answer">{answer}</p>
+      <p class="cat__answer">
+        {answerLead}
+        {fromEUR !== null && (
+          <> from <Money eur={fromEUR} chf={fromCHF!} /></>
+        )}
+        {answerTail}
+      </p>
     </div>
     <div class="cat__facts">
       <KeyFacts facts={facts} />

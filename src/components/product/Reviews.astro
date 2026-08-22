@@ -1,0 +1,162 @@
+---
+import Stars from './Stars.astro';
+import Icon from '../ui/Icon.astro';
+import { formatDate } from '../../lib/format';
+
+interface Review {
+  author: string;
+  rating: number;
+  date: string;
+  title?: string;
+  body: string;
+  verified: boolean;
+}
+
+interface Props {
+  reviews: Review[];
+  rating?: { value: number; count: number };
+  productTitle: string;
+}
+
+const { reviews, rating, productTitle } = Astro.props;
+
+// distribution, so the summary says something even with few reviews
+const buckets = [5, 4, 3, 2, 1].map((n) => ({
+  n,
+  count: reviews.filter((r) => Math.round(r.rating) === n).length,
+}));
+const max = Math.max(1, ...buckets.map((b) => b.count));
+---
+
+<section class="rev" id="reviews">
+  <h2>Reviews</h2>
+
+  {
+    rating && reviews.length > 0 ? (
+      <>
+        <div class="rev__summary">
+          <div class="rev__score">
+            <strong>{rating.value.toFixed(1)}</strong>
+            <Stars value={rating.value} size={17} />
+            <span>{rating.count} review{rating.count === 1 ? '' : 's'}</span>
+          </div>
+          <ul class="rev__dist" role="list">
+            {buckets.map((b) => (
+              <li>
+                <span class="rev__n">{b.n}</span>
+                <span class="rev__bar">
+                  <span style={`width:${(b.count / max) * 100}%`} />
+                </span>
+                <span class="rev__c">{b.count}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <ol class="rev__list" role="list">
+          {reviews.map((r) => (
+            <li class="rev__item">
+              <div class="rev__head">
+                <Stars value={r.rating} />
+                {r.title && <strong>{r.title}</strong>}
+              </div>
+              <p class="rev__body">{r.body}</p>
+              <p class="rev__meta">
+                {r.author}
+                {r.verified && (
+                  <span class="rev__verified">
+                    <Icon name="check-circle" size={13} /> Verified purchase
+                  </span>
+                )}
+                <time datetime={r.date}>{formatDate(r.date)}</time>
+              </p>
+            </li>
+          ))}
+        </ol>
+      </>
+    ) : (
+      <p class="rev__empty">
+        No reviews yet for {productTitle}. Ordered one? Tell us how it went at
+        <a href="/en/contact"> hello@24highshop.com</a> and we will publish it here.
+      </p>
+    )
+  }
+</section>
+
+<style>
+  .rev h2 { font-size: var(--step-2); margin-block-end: 1.2rem; }
+
+  .rev__summary {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: clamp(1.5rem, 5vw, 3.5rem);
+    align-items: center;
+    padding-block-end: 1.5rem;
+    border-block-end: 1px solid var(--line);
+  }
+
+  .rev__score {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .rev__score strong {
+    font-family: var(--font-display);
+    font-size: var(--step-4);
+    font-weight: 700;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .rev__score span {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--ink-3);
+  }
+
+  .rev__dist { display: flex; flex-direction: column; gap: 0.25rem; padding: 0; margin: 0; list-style: none; max-width: 22rem; }
+
+  .rev__dist li {
+    display: grid;
+    grid-template-columns: 1rem 1fr 2rem;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--ink-3);
+  }
+
+  .rev__bar { height: 6px; background: var(--surface-2); }
+  .rev__bar span { display: block; height: 100%; background: var(--star); }
+  .rev__c { text-align: end; }
+
+  .rev__list { padding: 0; margin: 0; list-style: none; }
+
+  .rev__item { padding-block: 1.2rem; border-block-end: 1px solid var(--line); }
+
+  .rev__head { display: flex; align-items: center; gap: 0.7rem; margin-block-end: 0.5rem; }
+  .rev__head strong { font-family: var(--font-display); font-size: var(--step-0); }
+
+  .rev__body { max-width: 68ch; color: var(--ink-2); line-height: 1.6; }
+
+  .rev__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.7rem;
+    margin-block-start: 0.6rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--ink-3);
+  }
+
+  .rev__verified { display: inline-flex; align-items: center; gap: 0.3rem; color: var(--ok); }
+
+  .rev__empty {
+    padding: 1.5rem;
+    border: 1px dashed var(--line-strong);
+    color: var(--ink-2);
+    max-width: 62ch;
+  }
+</style>

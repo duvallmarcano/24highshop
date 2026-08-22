@@ -1,10 +1,24 @@
 ---
+export interface Fact {
+  label: string;
+  /** Plain text value. */
+  value?: string;
+  /** Money value in EUR; rendered through <Money> so it follows the
+      currency switcher. `chf` overrides the derived franc amount. */
+  eur?: number;
+  chf?: number;
+  /** Trailing text after a money value, e.g. "incl. VAT". */
+  suffix?: string;
+}
+
 interface Props {
   /** Short, factual rows. Kept scannable so an assistant can lift them. */
-  facts: { label: string; value: string }[];
+  facts: Fact[];
   title?: string;
   class?: string;
 }
+
+import Money from '../ui/Money.astro';
 
 const { facts, title, class: className } = Astro.props;
 ---
@@ -17,7 +31,16 @@ const { facts, title, class: className } = Astro.props;
         {facts.map((f) => (
           <div class="facts__row">
             <dt>{f.label}</dt>
-            <dd>{f.value}</dd>
+            <dd>
+              {f.eur !== undefined ? (
+                <>
+                  <Money eur={f.eur} chf={f.chf} />
+                  {f.suffix && ` ${f.suffix}`}
+                </>
+              ) : (
+                f.value
+              )}
+            </dd>
           </div>
         ))}
       </dl>

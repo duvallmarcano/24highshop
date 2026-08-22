@@ -51,6 +51,7 @@
   /* --- semantic, kept distinct from the accent --- */
   --ok: #0b5136;
   --ok-soft: #eaf2ee;
+  --star: #b07a08;
   --warn: #7a5200;
   --warn-soft: #f8f1de;
   --danger: #96271c;
@@ -120,6 +121,7 @@
 
     --ok: #57d3a2;
     --ok-soft: #10241b;
+    --star: #e6b955;
     --warn: #ddb45f;
     --warn-soft: #251d0d;
     --danger: #ff8f80;
@@ -163,6 +165,7 @@
 
   --ok: #57d3a2;
   --ok-soft: #10241b;
+  --star: #e6b955;
   --warn: #ddb45f;
   --warn-soft: #251d0d;
   --danger: #ff8f80;

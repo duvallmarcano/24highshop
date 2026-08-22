@@ -154,7 +154,10 @@ export function productFAQ(p: {
   if (chf !== null) {
     out.push({
       q: `How much does ${p.title} cost?`,
-      a: `${p.title} costs CHF ${chf.toFixed(2)} including 8.1% Swiss VAT, with shipping included. 24highshop has a minimum order value of €${MIN_ORDER_EUR}, which you can reach with any mix of products.`,
+      // Both currencies stated rather than switched: this text is also the
+      // FAQPage answer, and an answer engine quoting it out of context should
+      // carry the full fact.
+      a: `${p.title} costs CHF ${chf.toFixed(2)} (€${p.priceEUR!.toFixed(2)}) including 8.1% Swiss VAT, with shipping included. 24highshop has a minimum order value of €${MIN_ORDER_EUR} — about CHF ${MIN_CHF.toFixed(0)} — which you can reach with any mix of products.`,
     });
   }
 

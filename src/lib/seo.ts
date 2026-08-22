@@ -81,6 +81,14 @@ export function websiteSchema() {
   };
 }
 
+export interface ProductReview {
+  author: string;
+  rating: number;
+  date: string;
+  title?: string;
+  body: string;
+}
+
 export interface ProductSchemaInput {
   title: string;
   description: string;
@@ -90,13 +98,18 @@ export interface ProductSchemaInput {
   images: string[];
   url: string;
   category?: string;
+  rating?: { value: number; count: number };
+  reviews?: ProductReview[];
 }
 
 /**
  * Product structured data including the shipping and return details Google
- * asks for in merchant listings. Deliberately omits aggregateRating and
- * review — the source catalogue has no review data, and inventing it would
- * be both a policy violation and a lie.
+ * asks for in merchant listings.
+ *
+ * aggregateRating and review are emitted only when the product actually
+ * carries review data. No product does today — the source site served
+ * reviews over AJAX, so the scrape captured none — and inventing them would
+ * be both a Google policy violation and a lie to customers.
  */
 export function productSchema(p: ProductSchemaInput) {
   const chf = p.priceEUR === null ? null : toCHF(p.priceEUR);
@@ -111,6 +124,30 @@ export function productSchema(p: ProductSchemaInput) {
     ...(p.category && { category: p.category }),
     image: p.images.map((id) => abs(productImage(id, 1000))),
     brand: { '@type': 'Brand', name: SITE.name },
+    ...(p.rating && p.rating.count > 0 && {
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: p.rating.value.toFixed(1),
+        reviewCount: p.rating.count,
+        bestRating: '5',
+        worstRating: '1',
+      },
+    }),
+    ...(p.reviews?.length && {
+      review: p.reviews.slice(0, 10).map((r) => ({
+        '@type': 'Review',
+        author: { '@type': 'Person', name: r.author },
+        datePublished: r.date,
+        ...(r.title && { name: r.title }),
+        reviewBody: r.body,
+        reviewRating: {
+          '@type': 'Rating',
+          ratingValue: String(r.rating),
+          bestRating: '5',
+          worstRating: '1',
+        },
+      })),
+    }),
     ...(chf !== null && {
       offers: {
         '@type': 'Offer',

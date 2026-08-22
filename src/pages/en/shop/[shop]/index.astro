@@ -5,6 +5,7 @@ import Breadcrumbs from '../../../../components/layout/Breadcrumbs.astro';
 import ProductGrid from '../../../../components/product/ProductGrid.astro';
 import FAQ from '../../../../components/seo/FAQ.astro';
 import Icon from '../../../../components/ui/Icon.astro';
+import Money from '../../../../components/ui/Money.astro';
 import { SHOPS, SITE, toCHF, type Shop, type ShopId } from '../../../../data/site';
 import { SHOP_FAQ } from '../../../../data/faq';
 import { breadcrumbSchema, collectionPageSchema, itemListSchema } from '../../../../lib/seo';
@@ -26,7 +27,8 @@ const { shop, products } = Astro.props;
 
 const highlights = products.filter((p) => p.data.inStock && p.data.images.length).slice(0, 12);
 const prices = products.map((p) => p.data.price).filter((p): p is number => p !== null);
-const fromCHF = prices.length ? toCHF(Math.min(...prices)) : null;
+const fromEUR = prices.length ? Math.min(...prices) : null;
+const fromCHF = fromEUR === null ? null : toCHF(fromEUR);
 const available = products.filter((p) => p.data.inStock).length;
 
 const crumbs = [{ label: 'Home', href: '/en/' }, { label: shop.label }];
@@ -34,11 +36,13 @@ const description = `${shop.label} at 24highshop — ${shop.total} products acro
   fromCHF !== null ? `, from CHF ${fromCHF.toFixed(2)}` : ''
 }. Shipped from Zürich in 1–2 working days.`;
 
-const answer = `24highshop’s ${shop.label.toLowerCase()} carries ${shop.total} products in ${
+const answerLead = `24highshop’s ${shop.label.toLowerCase()} carries ${shop.total} products in ${
   shop.categories.length
-} categories${fromCHF !== null ? `, starting at CHF ${fromCHF.toFixed(2)}` : ''}. ${available} are in stock in ${
-  SITE.address.locality
-} today and ship the same working day when ordered before ${SITE.cutoff}.`;
+} categories`;
+const answerTail = `. ${available} are in stock in ${SITE.address.locality} today and ship the same working day when ordered before ${SITE.cutoff}.`;
+const answer = `${answerLead}${
+  fromCHF !== null ? `, starting at CHF ${fromCHF.toFixed(2)}` : ''
+}${answerTail}`;
 ---
 
 <BaseLayout
@@ -60,7 +64,13 @@ const answer = `24highshop’s ${shop.label.toLowerCase()} carries ${shop.total}
     <span class="shophead__icon"><Icon name={shop.icon} size={40} /></span>
     <p class="eyebrow">{shop.categories.length} categories · {shop.total} products</p>
     <h1>{shop.label}</h1>
-    <p class="shophead__answer">{answer}</p>
+    <p class="shophead__answer">
+      {answerLead}
+      {fromEUR !== null && (
+        <>, starting at <Money eur={fromEUR} chf={fromCHF!} /></>
+      )}
+      {answerTail}
+    </p>
     <p class="shophead__intro">{shop.intro}</p>
   </header>
 

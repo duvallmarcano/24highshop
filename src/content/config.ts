@@ -20,6 +20,32 @@ const products = defineCollection({
     categoryLabel: z.string().default(''),
     /** Image ids; the CDN path is built by <ProductImage /> */
     images: z.array(z.string()).default([]),
+
+    /**
+     * Reviews. The source site loaded these over AJAX into an empty
+     * container, so the scrape captured none — every product currently has
+     * zero. The shape is declared so real review data renders (and enters
+     * Product schema as aggregateRating/review) the moment it exists, and
+     * so nothing has to be invented in the meantime.
+     */
+    rating: z
+      .object({
+        value: z.number().min(1).max(5),
+        count: z.number().int().positive(),
+      })
+      .optional(),
+    reviews: z
+      .array(
+        z.object({
+          author: z.string(),
+          rating: z.number().min(1).max(5),
+          date: z.string(),
+          title: z.string().optional(),
+          body: z.string(),
+          verified: z.boolean().default(false),
+        })
+      )
+      .default([]),
   }),
 });
 

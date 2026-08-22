@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
+import { EUR_TO_CHF } from '../../data/site';
 import { toCHF } from '../../data/site';
 
 // The whole catalogue is static, so search runs in the browser against a
@@ -42,6 +43,7 @@ const index = products.map((p) => ({
   <div class="results" data-search-results></div>
 
   <script type="application/json" id="search-index" is:inline set:html={safe(index)} />
+  <script type="application/json" id="search-rate" is:inline set:html={String(EUR_TO_CHF)} />
 
   <script>
     interface Row {
@@ -60,7 +62,16 @@ const index = products.map((p) => ({
     const out = document.querySelector<HTMLElement>('[data-search-results]');
     const count = document.querySelector<HTMLElement>('[data-search-count]');
 
-    const money = new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF' });
+    // index holds EUR; display follows the currency switcher
+    const RATE = Number(document.getElementById('search-rate')?.textContent || 0.95);
+    const CHF = new Intl.NumberFormat('de-CH', { style: 'currency', currency: 'CHF' });
+    const EUR = new Intl.NumberFormat('de-DE', { style: 'currency', currency: 'EUR' });
+
+    function money(eur: number): string {
+      return document.documentElement.getAttribute('data-currency') === 'eur'
+        ? EUR.format(eur)
+        : CHF.format(Math.round((eur / RATE) * 20) / 20);
+    }
 
     function score(row: Row, terms: string[]) {
       const title = row.t.toLowerCase();
@@ -102,7 +113,7 @@ const index = products.map((p) => ({
                  alt="" width="56" height="56" loading="lazy" />
             <span class="hit__t">${r.t}</span>
             <span class="hit__c">${r.c}</span>
-            <span class="hit__p">${r.p === null ? '—' : money.format(r.p)}</span>
+            <span class="hit__p">${r.p === null ? '—' : money(r.p)}</span>
           </a>`
         )
         .join('');
@@ -119,6 +130,11 @@ const index = products.map((p) => ({
     });
 
     // support arriving from the header search with ?q=
+    new MutationObserver(() => render(input?.value ?? '')).observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['data-currency'],
+    });
+
     const initial = new URLSearchParams(location.search).get('q');
     if (initial && input) {
       input.value = initial;

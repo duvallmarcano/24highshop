@@ -1,0 +1,34 @@
+---
+import { toCHF } from '../../data/site';
+
+interface Props {
+  /** Catalogue amount in EUR. CHF is derived. */
+  eur: number;
+  /** Render as CHF-native (a threshold set in francs) rather than converted. */
+  chf?: number;
+  /** Omit the currency symbol, e.g. inside a range. */
+  bare?: boolean;
+}
+
+const { eur, chf, bare = false } = Astro.props;
+
+// Inline sibling of <Price>: both currencies in the DOM, CSS shows one, so
+// prose and label text follow the switcher instead of being frozen in CHF.
+const chfValue = chf ?? toCHF(eur);
+const fmt = (n: number, cur: string, loc: string) =>
+  bare
+    ? new Intl.NumberFormat(loc, { minimumFractionDigits: 2 }).format(n)
+    : new Intl.NumberFormat(loc, { style: 'currency', currency: cur }).format(n);
+---
+
+<span class="money"
+  ><span class="money__chf">{fmt(chfValue, 'CHF', 'de-CH')}</span
+  ><span class="money__eur">{fmt(eur, 'EUR', 'de-DE')}</span></span
+>
+
+<style>
+  .money { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .money__eur { display: none; }
+  :global(html[data-currency='eur']) .money__chf { display: none; }
+  :global(html[data-currency='eur']) .money__eur { display: inline; }
+</style>
