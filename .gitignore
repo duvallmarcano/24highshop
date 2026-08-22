@@ -29,3 +29,7 @@ wget.exe
 .idea/
 *.log
 npm-debug.log*
+
+# Semrush exports (source data for scripts/build_keywords.py)
+*.csv
+*:Zone.Identifier

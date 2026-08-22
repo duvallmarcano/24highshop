@@ -26,6 +26,21 @@ const {
 const raw = canonicalPath ?? Astro.url.pathname;
 const path = raw.endsWith('/') ? raw : `${raw}/`;
 const canonical = new URL(path, SITE.url).href;
+
+/**
+ * Search results truncate around 155–160 characters. Several catalogue
+ * descriptions run to 400+, so trim at a word boundary rather than letting
+ * the SERP cut mid-word.
+ */
+function clamp(text: string, max = 155): string {
+  const clean = text.replace(/\s+/g, ' ').trim();
+  if (clean.length <= max) return clean;
+  const cut = clean.slice(0, max);
+  const stop = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf(' '));
+  return cut.slice(0, stop > max * 0.6 ? stop : max).replace(/[,;:.\s]+$/, '') + '…';
+}
+
+const metaDescription = clamp(description);
 const ogImage = new URL(image, SITE.url).href;
 const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 ---
@@ -33,7 +48,7 @@ const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>{fullTitle}</title>
-<meta name="description" content={description} />
+<meta name="description" content={metaDescription} />
 <link rel="canonical" href={canonical} />
 {noindex && <meta name="robots" content="noindex, nofollow" />}
 {
@@ -53,7 +68,7 @@ const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 
 <meta property="og:site_name" content={SITE.name} />
 <meta property="og:title" content={fullTitle} />
-<meta property="og:description" content={description} />
+<meta property="og:description" content={metaDescription} />
 <meta property="og:image" content={ogImage} />
 <meta property="og:image:alt" content={title} />
 <meta property="og:type" content={type === 'product' ? 'website' : type} />
@@ -62,7 +77,7 @@ const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={fullTitle} />
-<meta name="twitter:description" content={description} />
+<meta name="twitter:description" content={metaDescription} />
 <meta name="twitter:image" content={ogImage} />
 
 {

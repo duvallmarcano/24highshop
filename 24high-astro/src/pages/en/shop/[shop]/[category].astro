@@ -12,6 +12,7 @@ import {
   collectionPageSchema,
   itemListSchema,
 } from '../../../../lib/seo';
+import { alignDescription, keywordsFor, relatedGuides } from '../../../../lib/keywords';
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -75,9 +76,15 @@ const facts = [
   { label: 'Delivery', value: '1–2 working days in Switzerland' },
 ];
 
-const description = `${category.label} at 24highshop — ${products.length} products${
+const rawDescription = `${category.label} at 24highshop — ${products.length} products${
   fromCHF !== null ? ` from CHF ${fromCHF.toFixed(2)}` : ''
 }. Shipped discreetly from Zürich in 1–2 working days.`;
+
+// Phrase the description in the words this page already ranks for, and pull
+// in guides that serve the same searches.
+const description = alignDescription(rawDescription, url);
+const terms = keywordsFor(url).filter((k) => k.volume >= 50).slice(0, 8);
+const guides = relatedGuides(url, 3);
 ---
 
 <BaseLayout
@@ -120,6 +127,26 @@ const description = `${category.label} at 24highshop — ${products.length} prod
   <section class="cat__faq">
     <FAQ items={SHOP_FAQ[shop.id as ShopId] ?? []} title={`${shop.label} — common questions`} />
   </section>
+
+  {
+    guides.length > 0 && (
+      <section class="guides">
+        <h2>Guides for {category.label.toLowerCase()}</h2>
+        <ul role="list">
+          {guides.map((g) => (
+            <li>
+              <a href={g.route}>
+                {g.route
+                  .replace('/en/blog/', '')
+                  .replace(/-/g, ' ')
+                  .replace(/^./, (c) => c.toUpperCase())}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
 
   <nav class="siblings" aria-label={`Other ${shop.label} categories`} data-shop={shop.id}>
     <h2 class="eyebrow">More in {shop.label}</h2>
@@ -180,6 +207,34 @@ const description = `${category.label} at 24highshop — ${products.length} prod
     padding-block-start: clamp(2rem, 5vw, 3rem);
     border-block-start: 1px solid var(--line);
   }
+
+  .guides {
+    margin-block-start: clamp(2.5rem, 6vw, 4rem);
+    padding-block-start: 1.5rem;
+    border-block-start: 1px solid var(--line);
+  }
+
+  .guides h2 { font-size: var(--step-2); }
+
+  .guides ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+    gap: 0.5rem;
+    padding: 0;
+    margin-block-start: 1rem;
+    list-style: none;
+  }
+
+  .guides a {
+    display: block;
+    padding: 0.8rem 0.9rem;
+    border: 1px solid var(--line);
+    color: var(--ink);
+    font-size: var(--step--1);
+    text-decoration: none;
+  }
+
+  .guides a:hover { border-color: var(--accent); color: var(--accent); }
 
   .siblings {
     margin-block-start: clamp(2.5rem, 6vw, 4rem);

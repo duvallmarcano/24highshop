@@ -11,6 +11,7 @@ import KeyFacts from '../../../components/seo/KeyFacts.astro';
 import { SHOP_BY_ID, SITE, toCHF, type ShopId } from '../../../data/site';
 import { productFAQ, SHOP_FAQ } from '../../../data/faq';
 import { breadcrumbSchema } from '../../../lib/seo';
+import { alignDescription } from '../../../lib/keywords';
 import { firstImage } from '../../../lib/images';
 
 export async function getStaticPaths() {
@@ -77,9 +78,11 @@ const faqs = [
   ...(SHOP_FAQ[shop as ShopId] ?? []).slice(0, 2),
 ];
 
-const metaDescription =
+const metaDescription = alignDescription(
   description ||
-  `${title}${chf !== null ? ` — CHF ${chf.toFixed(2)}` : ''}. In stock in Zürich, shipped discreetly across Switzerland in 1–2 working days.`;
+    `${title}${chf !== null ? ` — CHF ${chf.toFixed(2)}` : ''}. In stock in Zürich, shipped discreetly across Switzerland in 1–2 working days.`,
+  url
+);
 ---
 
 <BaseLayout

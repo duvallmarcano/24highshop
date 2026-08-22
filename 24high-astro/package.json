@@ -13,7 +13,8 @@
     "normalize:images": "python3 scripts/normalize_images.py",
     "llms": "python3 scripts/generate_llms_txt.py",
     "authors": "python3 scripts/extract_authors.py",
-    "content": "npm run normalize:images && npm run extract && npm run authors && npm run llms"
+    "content": "npm run normalize:images && npm run extract && npm run authors && npm run llms",
+    "keywords": "python3 scripts/build_keywords.py && python3 scripts/build_redirects.py"
   },
   "dependencies": {
     "@astrojs/sitemap": "3.2.1",

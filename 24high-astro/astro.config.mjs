@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import legacyRedirects from './src/data/redirects.json' with { type: 'json' };
 
 const SITE = 'https://www.24high.com';
 
@@ -13,6 +14,9 @@ export default defineConfig({
   // so this project ships one locale rather than six empty ones.
   redirects: {
     '/': '/en/',
+    // 241 old URLs that still hold organic positions. Redirecting rather
+    // than 404ing keeps the link equity attached to whatever replaced them.
+    ...legacyRedirects,
   },
 
   integrations: [
