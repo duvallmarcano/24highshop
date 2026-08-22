@@ -31,5 +31,6 @@ wget.exe
 npm-debug.log*
 
 # Semrush exports (source data for scripts/build_keywords.py)
+data/semrush/
 *.csv
 *:Zone.Identifier

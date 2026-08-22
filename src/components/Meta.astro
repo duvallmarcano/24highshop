@@ -1,0 +1,127 @@
+---
+import { SITE, LOCALES } from '../data/site';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article' | 'product';
+  noindex?: boolean;
+  /** Overrides the generated canonical, for paginated or filtered views. */
+  canonicalPath?: string;
+}
+
+const {
+  title,
+  description = SITE.description,
+  image = '/images/layout/logo-200.webp',
+  type = 'website',
+  noindex = false,
+  canonicalPath,
+} = Astro.props;
+
+// Astro builds directory-style URLs and the sitemap emits them with a
+// trailing slash; canonical has to agree or the two disagree about which
+// URL is the real one.
+const raw = canonicalPath ?? Astro.url.pathname;
+const path = raw.endsWith('/') ? raw : `${raw}/`;
+const canonical = new URL(path, SITE.url).href;
+
+/**
+ * Search results truncate around 155–160 characters. Several catalogue
+ * descriptions run to 400+, so trim at a word boundary rather than letting
+ * the SERP cut mid-word.
+ */
+function clamp(text: string, max = 155): string {
+  const clean = text.replace(/\s+/g, ' ').trim();
+  if (clean.length <= max) return clean;
+  const cut = clean.slice(0, max);
+  const stop = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf(' '));
+  return cut.slice(0, stop > max * 0.6 ? stop : max).replace(/[,;:.\s]+$/, '') + '…';
+}
+
+const metaDescription = clamp(description);
+const ogImage = new URL(image, SITE.url).href;
+const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
+---
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{fullTitle}</title>
+<meta name="description" content={metaDescription} />
+<link rel="canonical" href={canonical} />
+{noindex && <meta name="robots" content="noindex, nofollow" />}
+{
+  !noindex && (
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+  )
+}
+
+{/* Where the business actually is. Read by local and map surfaces. */}
+<meta name="geo.region" content="CH-ZH" />
+<meta name="geo.placename" content={SITE.address.locality} />
+<meta name="geo.position" content={`${SITE.geo.lat};${SITE.geo.lng}`} />
+<meta name="ICBM" content={`${SITE.geo.lat}, ${SITE.geo.lng}`} />
+
+<meta property="og:site_name" content={SITE.name} />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={metaDescription} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:image:alt" content={title} />
+<meta property="og:type" content={type === 'product' ? 'website' : type} />
+<meta property="og:url" content={canonical} />
+<meta property="og:locale" content="en_CH" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={metaDescription} />
+<meta name="twitter:image" content={ogImage} />
+
+{
+  LOCALES.filter((l) => l.enabled).map((l) => (
+    <link rel="alternate" hreflang={l.hreflang} href={canonical} />
+  ))
+}
+<link rel="alternate" hreflang="x-default" href={`${SITE.url}/en/`} />
+
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<meta name="theme-color" content="#0b5136" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+/>
+
+{/* Resolve theme and age check before first paint, so neither flashes. */}
+<script is:inline>
+  (function () {
+    var d = document.documentElement;
+    try {
+      var t = localStorage.getItem('24high-theme');
+      if (t === 'dark' || t === 'light') d.setAttribute('data-theme', t);
+    } catch (e) {
+      /* private mode — fall back to the OS preference */
+    }
+    try {
+      var c = localStorage.getItem('24high-currency');
+      d.setAttribute('data-currency', c === 'eur' ? 'eur' : 'chf');
+    } catch (e) {
+      d.setAttribute('data-currency', 'chf');
+    }
+    try {
+      var ok = Number(localStorage.getItem('24high-age-ok')) > Date.now();
+      if (!ok && sessionStorage.getItem('24high-age-ok') !== '1') {
+        d.classList.add('age-pending');
+      }
+    } catch (e) {
+      d.classList.add('age-pending');
+    }
+  })();
+</script>
