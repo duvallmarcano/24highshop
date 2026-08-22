@@ -6,7 +6,9 @@ import type { IconName } from '../lib/icons';
  * REPLACE BEFORE LAUNCH — marked PLACEHOLDER below
  *   · streetAddress, phone and the CHE/UID number are invented stand-ins.
  *     They appear in Organization/LocalBusiness structured data, so Google
- *     will read them as factual claims about a real business.
+ *     will read them as factual claims about a real business. The street is
+ *     deliberately a non-existent one — never point these at an address that
+ *     belongs to somebody else.
  *   · EUR_TO_CHF is a fixed rate, not a live feed.
  * ─────────────────────────────────────────────────────────────────────────
  */
@@ -26,7 +28,7 @@ export const SITE = {
   established: 2018,
   uid: 'CHE-000.000.000', // PLACEHOLDER — Swiss business identification number
   address: {
-    street: 'Pfingstweidstrasse 10', // PLACEHOLDER
+    street: 'Musterstrasse 1', // PLACEHOLDER — deliberately not a real address
     postalCode: '8005',
     locality: 'Zürich',
     region: 'ZH',

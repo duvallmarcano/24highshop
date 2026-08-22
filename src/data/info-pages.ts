@@ -1,3 +1,5 @@
+import { SITE } from './site';
+
 /**
  * Short-form information pages. They live as data rather than as six
  * near-identical .astro files, because the only thing that varies is copy.
@@ -86,7 +88,8 @@ export const INFO_PAGES: InfoPage[] = [
       {
         heading: 'Post',
         body: [
-          '24highshop AG, Pfingstweidstrasse 10, 8005 Zürich, Switzerland. Please do not send returns to this address without contacting us first.',
+          // one source of truth: the postal address lives in site.ts
+          `${SITE.legalName}, ${SITE.address.street}, ${SITE.address.postalCode} ${SITE.address.locality}, ${SITE.address.countryName}. Please do not send returns to this address without contacting us first.`,
         ],
       },
     ],
