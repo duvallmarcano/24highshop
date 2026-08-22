@@ -8,6 +8,9 @@ inStock: true
 shop: "headshop"
 category: "smoking-accessories-rolling-papers"
 categoryLabel: "Smoking Accessories - Rolling Papers"
+rating:
+  value: 5.0
+  count: 1
 images: ["4142", "4143"]
 ---
 

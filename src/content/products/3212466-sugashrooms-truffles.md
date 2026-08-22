@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "magic-truffles"
 categoryLabel: "Magic Truffles"
+rating:
+  value: 4.0
+  count: 2
 images: ["5468"]
 ---
 

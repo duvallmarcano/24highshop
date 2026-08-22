@@ -8,6 +8,9 @@ inStock: true
 shop: "healthshop"
 category: "creativity"
 categoryLabel: "Creativity"
+rating:
+  value: 4.17
+  count: 6
 images: ["3709"]
 ---
 

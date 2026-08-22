@@ -8,6 +8,9 @@ inStock: true
 shop: "headshop"
 category: "grinders-iron"
 categoryLabel: "Grinders - Iron"
+rating:
+  value: 5.0
+  count: 1
 images: ["3833", "2612"]
 ---
 

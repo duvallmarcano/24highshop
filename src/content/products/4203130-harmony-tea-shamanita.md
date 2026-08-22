@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "ceremonies"
 categoryLabel: "Ceremonies"
+rating:
+  value: 4.0
+  count: 1
 images: ["5555", "5556", "4195"]
 ---
 

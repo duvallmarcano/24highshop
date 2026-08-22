@@ -1,5 +1,6 @@
 ---
 import Price from '../ui/Price.astro';
+import Stars from './Stars.astro';
 import { firstImage, productSrcSet } from '../../lib/images';
 
 interface Props {
@@ -9,13 +10,14 @@ interface Props {
   inStock?: boolean;
   images?: string[];
   categoryLabel?: string;
+  rating?: { value: number; count: number };
   compact?: boolean;
   eager?: boolean;
 }
 
 const {
   slug, title, price, inStock = true, images = [],
-  categoryLabel = '', compact = false, eager = false,
+  categoryLabel = '', rating, compact = false, eager = false,
 } = Astro.props;
 
 const href = `/en/product/${slug}`;
@@ -41,6 +43,14 @@ const srcset = images.length ? productSrcSet(images[0]) : undefined;
   <div class="card__body">
     {categoryLabel && <p class="card__cat">{categoryLabel}</p>}
     <h3 class="card__title"><a href={href}>{title}</a></h3>
+    {
+      rating && (
+        <span class="card__rating">
+          <Stars value={rating.value} size={12} />
+          <span>({rating.count})</span>
+        </span>
+      )
+    }
     <div class="card__foot">
       <Price value={price} size="sm" />
       {inStock && <span class="card__ready">In stock</span>}
@@ -124,6 +134,15 @@ const srcset = images.length ? productSrcSet(images[0]) : undefined;
     content: '';
     position: absolute;
     inset: 0;
+  }
+
+  .card__rating {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--ink-3);
   }
 
   .card__foot {

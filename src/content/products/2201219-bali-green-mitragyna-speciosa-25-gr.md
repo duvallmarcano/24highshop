@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "kratom"
 categoryLabel: "Kratom"
+rating:
+  value: 5.0
+  count: 2
 images: ["3599"]
 ---
 

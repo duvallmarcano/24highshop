@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "exotic-seeds"
 categoryLabel: "Exotic Seeds"
+rating:
+  value: 4.0
+  count: 2
 images: ["2819"]
 ---
 

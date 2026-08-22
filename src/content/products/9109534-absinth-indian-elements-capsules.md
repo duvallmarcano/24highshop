@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "medicinal-herbs"
 categoryLabel: "Medicinal herbs"
+rating:
+  value: 5.0
+  count: 1
 images: ["4838"]
 ---
 

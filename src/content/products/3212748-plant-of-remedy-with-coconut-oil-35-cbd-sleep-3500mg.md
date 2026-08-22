@@ -8,6 +8,9 @@ inStock: true
 shop: "cbdshop"
 category: "cbd-oil"
 categoryLabel: "CBD Oil"
+rating:
+  value: 3.0
+  count: 2
 images: ["4059"]
 ---
 

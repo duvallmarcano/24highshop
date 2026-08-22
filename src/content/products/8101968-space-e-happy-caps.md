@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "happy-caps-e"
 categoryLabel: "Happy Caps E"
+rating:
+  value: 5.0
+  count: 1
 images: ["4859"]
 ---
 

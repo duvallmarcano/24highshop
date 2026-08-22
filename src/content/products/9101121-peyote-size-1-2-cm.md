@@ -8,6 +8,9 @@ inStock: false
 shop: "smartshop"
 category: "mescaline-cacti"
 categoryLabel: "Mescaline Cacti"
+rating:
+  value: 5.0
+  count: 3
 images: ["978"]
 ---
 

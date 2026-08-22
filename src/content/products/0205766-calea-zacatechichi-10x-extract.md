@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "dream-herbs"
 categoryLabel: "Dream Herbs"
+rating:
+  value: 5.0
+  count: 1
 images: ["5237"]
 ---
 

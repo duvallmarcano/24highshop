@@ -8,6 +8,9 @@ inStock: true
 shop: "headshop"
 category: "smoking-accessories-ashtrays"
 categoryLabel: "Smoking Accessories - Ashtrays"
+rating:
+  value: 5.0
+  count: 1
 images: ["4300", "4301"]
 ---
 

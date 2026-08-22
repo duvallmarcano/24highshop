@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "hallucinating-herbs"
 categoryLabel: "Hallucinating herbs"
+rating:
+  value: 4.0
+  count: 4
 images: ["2225"]
 ---
 

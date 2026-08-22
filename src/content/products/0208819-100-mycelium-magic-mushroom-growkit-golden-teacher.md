@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "fresh-mushrooms-growkits"
 categoryLabel: "Fresh Mushrooms Growkits"
+rating:
+  value: 4.0
+  count: 2
 images: ["2740", "2774"]
 ---
 

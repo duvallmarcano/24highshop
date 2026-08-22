@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "mystic-fungi-growkits"
 categoryLabel: "Mystic Fungi Growkits"
+rating:
+  value: 4.13
+  count: 8
 images: ["5522", "5521", "4239"]
 ---
 

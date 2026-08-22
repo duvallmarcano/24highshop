@@ -8,6 +8,9 @@ inStock: true
 shop: "healthshop"
 category: "energy"
 categoryLabel: "Energy"
+rating:
+  value: 5.0
+  count: 1
 images: ["2311"]
 ---
 

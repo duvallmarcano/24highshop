@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "liquid-culture-syringes"
 categoryLabel: "Liquid Culture Syringes"
+rating:
+  value: 5.0
+  count: 1
 images: ["4941", "4940", "4958"]
 ---
 

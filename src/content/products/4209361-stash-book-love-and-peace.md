@@ -8,6 +8,9 @@ inStock: true
 shop: "headshop"
 category: "stash-storage-boxes"
 categoryLabel: "Stash & Storage boxes"
+rating:
+  value: 5.0
+  count: 1
 images: ["4476"]
 ---
 

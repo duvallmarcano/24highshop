@@ -8,6 +8,9 @@ inStock: true
 shop: "seedshop"
 category: "top10-seeds"
 categoryLabel: "Top10 Seeds"
+rating:
+  value: 5.0
+  count: 1
 images: ["466", "467"]
 ---
 

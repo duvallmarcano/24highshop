@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "all-in-one-growkits"
 categoryLabel: "All In One Growkits"
+rating:
+  value: 5.0
+  count: 8
 images: ["4078", "4103", "4102", "3816"]
 ---
 

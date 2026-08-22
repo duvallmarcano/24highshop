@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "growkits-mushroom"
 categoryLabel: "Growkits Mushroom"
+rating:
+  value: 5.0
+  count: 2
 images: ["5531", "5482"]
 ---
 

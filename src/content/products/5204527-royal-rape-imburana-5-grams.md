@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "ceremonial-herbs"
 categoryLabel: "Ceremonial Herbs"
+rating:
+  value: 5.0
+  count: 1
 images: ["5057"]
 ---
 

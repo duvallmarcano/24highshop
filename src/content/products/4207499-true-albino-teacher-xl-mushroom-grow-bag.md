@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "growkit-specials"
 categoryLabel: "Growkit Specials"
+rating:
+  value: 5.0
+  count: 2
 images: ["5523", "5524", "4377"]
 ---
 

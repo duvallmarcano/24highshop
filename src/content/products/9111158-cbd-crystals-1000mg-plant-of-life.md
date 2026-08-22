@@ -8,6 +8,9 @@ inStock: false
 shop: ""
 category: ""
 categoryLabel: ""
+rating:
+  value: 5.0
+  count: 2
 images: ["2920", "4914"]
 ---
 

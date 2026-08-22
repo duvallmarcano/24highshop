@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "medicinal-mushrooms"
 categoryLabel: "Medicinal Mushrooms"
+rating:
+  value: 5.0
+  count: 1
 images: ["3963"]
 ---
 

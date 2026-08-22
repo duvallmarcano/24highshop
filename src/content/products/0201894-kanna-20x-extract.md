@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "kanna"
 categoryLabel: "Kanna"
+rating:
+  value: 4.5
+  count: 2
 images: ["2294"]
 ---
 

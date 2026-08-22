@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "top-10-smartshop"
 categoryLabel: "Top 10 Smartshop"
+rating:
+  value: 3.5
+  count: 4
 images: ["4857"]
 ---
 

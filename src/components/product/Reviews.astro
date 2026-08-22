@@ -32,25 +32,38 @@ const max = Math.max(1, ...buckets.map((b) => b.count));
   <h2>Reviews</h2>
 
   {
-    rating && reviews.length > 0 ? (
+    rating ? (
       <>
-        <div class="rev__summary">
+        <div class:list={['rev__summary', reviews.length === 0 && 'rev__summary--bare']}>
           <div class="rev__score">
             <strong>{rating.value.toFixed(1)}</strong>
             <Stars value={rating.value} size={17} />
             <span>{rating.count} review{rating.count === 1 ? '' : 's'}</span>
           </div>
-          <ul class="rev__dist" role="list">
-            {buckets.map((b) => (
-              <li>
-                <span class="rev__n">{b.n}</span>
-                <span class="rev__bar">
-                  <span style={`width:${(b.count / max) * 100}%`} />
-                </span>
-                <span class="rev__c">{b.count}</span>
-              </li>
-            ))}
-          </ul>
+          {
+            reviews.length > 0 ? (
+              <ul class="rev__dist" role="list">
+                {buckets.map((b) => (
+                  <li>
+                    <span class="rev__n">{b.n}</span>
+                    <span class="rev__bar">
+                      <span style={`width:${(b.count / max) * 100}%`} />
+                    </span>
+                    <span class="rev__c">{b.count}</span>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              /* Rating carried over from the previous shop; the written
+                 reviews behind it were never exported with it. */
+              <p class="rev__note">
+                Averaged from {rating.count} customer rating
+                {rating.count === 1 ? '' : 's'} on the previous 24highshop
+                storefront. The written reviews did not carry across —
+                <a href="/en/contact"> send us yours</a> and it goes up here.
+              </p>
+            )
+          }
         </div>
 
         <ol class="rev__list" role="list">
@@ -113,6 +126,15 @@ const max = Math.max(1, ...buckets.map((b) => b.count));
     font-family: var(--font-mono);
     font-size: var(--step--2);
     color: var(--ink-3);
+  }
+
+  .rev__summary--bare { grid-template-columns: auto 1fr; }
+
+  .rev__note {
+    max-width: 54ch;
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    line-height: 1.6;
   }
 
   .rev__dist { display: flex; flex-direction: column; gap: 0.25rem; padding: 0; margin: 0; list-style: none; max-width: 22rem; }

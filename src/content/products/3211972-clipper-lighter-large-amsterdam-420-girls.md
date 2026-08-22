@@ -8,6 +8,9 @@ inStock: true
 shop: "headshop"
 category: "smoking-accessories-lighter"
 categoryLabel: "Smoking Accessories - Lighter"
+rating:
+  value: 5.0
+  count: 1
 images: ["4029"]
 ---
 

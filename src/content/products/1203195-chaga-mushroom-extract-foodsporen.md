@@ -8,6 +8,9 @@ inStock: true
 shop: "healthshop"
 category: "heart-and-blood-vessels"
 categoryLabel: "Heart and blood vessels"
+rating:
+  value: 5.0
+  count: 1
 images: ["3419", "3231"]
 ---
 

@@ -8,6 +8,9 @@ inStock: true
 shop: "mushrooms"
 category: "mondo-growkits"
 categoryLabel: "Mondo Growkits"
+rating:
+  value: 5.0
+  count: 1
 images: ["5534", "5492"]
 ---
 

@@ -8,6 +8,9 @@ inStock: false
 shop: "headshop"
 category: "sniff-articles"
 categoryLabel: "Sniff articles"
+rating:
+  value: 5.0
+  count: 1
 images: ["3887"]
 ---
 

@@ -8,6 +8,9 @@ inStock: true
 shop: "smartshop"
 category: "ceremonial-cacao"
 categoryLabel: "Ceremonial Cacao"
+rating:
+  value: 5.0
+  count: 2
 images: ["5308"]
 ---
 
