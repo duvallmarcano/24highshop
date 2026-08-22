@@ -1,0 +1,14 @@
+---
+title: "Thai Kratom Green - Mitragyna Speciosa"
+description: "Thai Kratom Green - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+sku: "0206680"
+price: 7.95
+currency: "EUR"
+inStock: true
+shop: "smartshop"
+category: "kratom"
+categoryLabel: "Kratom"
+images: ["3608"]
+---
+
+This Thai green kratom (Mitragyna speciosa) is of excellent quality! The use of kratom leaves for medicinal purposes and psychedelic properties goes back thousands of years. The Thai Green Kratom contains 66% mitragynine with more than 25 alkaloids and got its name from the green stems and veins on the leaves. The Thai Green Kratom is exactly in between the white and red kratom in terms of effects. The white kratom Thai has a strong stimulating and mood-enhancing effect and the red kratom contributes to a relaxing, soothing and slightly euphoric effect. This Thai green kratom is of very good quality and will show the desired effect at the right dose. A plant with unique mildly stimulating, euphoric and relaxing effects.<br/><br/>Ingredients<p> Thai Green Kratom Mitragyna Speciosa </p>Effects   <p> MIld mood enhancer <br/> MIld strong relaxing <br/> MIld soothing <br/> Mildly euphoric </p> <p>  Use  <br/> </p> <p> Thai Kratom can be dissolved in water, you can make tea with it, and you can chewing or smoking. For best results, it is wise to take Kratom on an empty stomach. <br/> <br/>  Dissolve in water: <br/>  Kratom tastes slightly bitter and does not really dissolve easily in water. If you plan on taking Kratom with water, it is best to take a sip of water first and hold it in your mouth. Put half the dose on a spoon, take it and rinse immediately with another drink of water. <br/> </p><ul> <li> 2 grams: light effect </li> <li> 4 grams : mild effect </li> <li> 6 grams: strong effect </li> <li> 8 grams: very strong effect </li> </ul> Making tea: <br/>  Add the desired amount of Kratom to boiling water and let it simmer for 10-15 minutes at boiling point. Place a sieve on a cup and pour the Kratom tea directly from the pan. The residue in the sieve can be thrown away. <br/> <ul> <li> 1 gram: light effect </li> <li> 3 grams: moderate effect </li> <li> 5 grams: normal to strong effect</li><li> 10 grams: strong effect </li> <li> 15+ grams: very strong effect </li> </ul>  <p>  Storage advice  </p> <p> Keep this product in a cool and dark place such as a kitchen cupboard and out of the reach of children. </p> <p>  Content  </p> <p> Thai Kratom Green (Mitragyna Speciosa) - 25 or 100 grams. </p> <p>  Warning  <br/> </p> <p> Kratom can be dangerous to health when combined with certain medications, alcohol or MAO inhibitors. Are you on medication? Always consult your doctor first and read the package leaflet of your medication to avoid health risks. Also, do not use Kratom if you are pregnant or breastfeeding. Do not participate in traffic when using. </p>

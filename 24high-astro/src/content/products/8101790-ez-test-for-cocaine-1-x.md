@@ -1,0 +1,14 @@
+---
+title: "EZ Test for Cocaine"
+description: "EZ Test for Cocaine - 1 x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+sku: "8101790"
+price: 3.5
+currency: "EUR"
+inStock: true
+shop: "smartshop"
+category: "test-for-drugs"
+categoryLabel: "Test for drugs"
+images: ["4016", "141"]
+---
+
+With the EZ Testing you can easily test drugs yourself.  With the EZ test Cocaine you can demonstrate the presence of cocaine in a sample. Strangely enough, this test also responds to MDPV and 5-MeO-MiPT, which belong to a completely different group of substances.  We do not encourage anyone to use drugs. We do, however, advise anyone who wants to try drugs to test the drugs before they cause undesirable damage or even a potential health hazard. The tests of EZ Amsterdam give a clear and very pure result. Within seconds you are informed exactly whether the drugs contain no harmful substances, cutting agents or other additives.  <ul> <li> Single use </li> <li> Very user-friendly </li> <li> Results in seconds </li> <li> Very reliable and consistent </li> <li> Accurate and sensitive </li> <li> Safe and easy to use </li> <li> No hazardous liquid reagent</li></ul>  <h3> Use </h3>  <ul> <li> Open the ampule with test reagent </li> <li> Place the sample <!-- li --> </li><li> Let the ingredients mix </li> <li> Watch the color reaction </li> </ul>  <h3> Storage advice </h3> <p> Keep this product in a dark cool place like a kitchen cupboard and out of the reach of children. </p> <h3> Contents </h3> <p> EZ Test Cocaine / Crack - 10 x or 1 x Test. </p>  <!-- div-->

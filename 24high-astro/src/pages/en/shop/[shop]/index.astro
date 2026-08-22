@@ -1,0 +1,126 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../../components/layout/Breadcrumbs.astro';
+import Section from '../../../../components/layout/Section.astro';
+import ProductGrid from '../../../../components/product/ProductGrid.astro';
+import Icon from '../../../../components/ui/Icon.astro';
+import { SHOPS, type Shop } from '../../../../data/site';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  return SHOPS.map((shop) => ({
+    params: { shop: shop.id },
+    props: {
+      shop,
+      products: products.filter((p) => p.data.shop === shop.id),
+    },
+  }));
+}
+
+interface Props {
+  shop: Shop;
+  products: CollectionEntry<'products'>[];
+}
+
+const { shop, products } = Astro.props;
+
+// lead with what is actually buyable and photographed
+const highlights = products
+  .filter((p) => p.data.inStock && p.data.images.length)
+  .slice(0, 12);
+---
+
+<BaseLayout
+  title={`${shop.label} — ${shop.total} products`}
+  description={shop.blurb}
+  activeShop={shop.id}
+>
+  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: shop.label }]} />
+
+  <header class="shophead">
+    <div>
+      <p class="eyebrow">{shop.categories.length} categories &middot; {shop.total} products</p>
+      <h1>{shop.label}</h1>
+      <p class="shophead__lead">{shop.blurb}</p>
+    </div>
+  </header>
+
+  <Section title="Browse by category">
+    <ul class="cats" role="list">
+      {
+        shop.categories.map((c) => (
+          <li>
+            <a href={c.href}>
+              <span>{c.label}</span>
+              <span class="cats__n">{c.count}<Icon name="chevron-right" size={13} /></span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </Section>
+
+  <Section title={`Popular in ${shop.label.toLowerCase()}`}>
+    <ProductGrid products={highlights} eagerCount={6} />
+  </Section>
+</BaseLayout>
+
+<style>
+  .shophead {
+    margin-block: 1.2rem 0.5rem;
+    padding-block-end: 1.5rem;
+    border-block-end: 1px solid var(--line);
+  }
+
+  .shophead h1 {
+    margin-block: 0.5rem 0;
+    font-size: var(--step-5);
+  }
+
+  .shophead__lead {
+    max-width: 60ch;
+    margin-block-start: 0.6rem;
+    color: var(--ink-2);
+    font-size: var(--step-1);
+  }
+
+  .cats {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 250px), 1fr));
+    gap: 0.5rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .cats a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.7rem;
+    padding: 0.75rem 0.9rem;
+    background: var(--surface);
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius);
+    color: var(--ink);
+    font-size: var(--step--1);
+    text-decoration: none;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+
+  .cats a:hover {
+    border-color: var(--spruce);
+    color: var(--spruce);
+  }
+
+  .cats__n {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    color: var(--ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+</style>

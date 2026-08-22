@@ -1,0 +1,76 @@
+---
+import ProductCard from './ProductCard.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  title: string;
+  products: CollectionEntry<'products'>[];
+  href?: string;
+}
+
+const { title, products, href } = Astro.props;
+---
+
+{
+  products.length > 0 && (
+    <section class="rail">
+      <div class="rail__head">
+        <h2>{title}</h2>
+        {href && <a class="rail__more" href={href}>See all</a>}
+      </div>
+      <div class="rail__track">
+        {products.map((p) => (
+          <div class="rail__item">
+            <ProductCard
+              slug={p.slug}
+              title={p.data.title}
+              price={p.data.price}
+              currency={p.data.currency}
+              inStock={p.data.inStock}
+              images={p.data.images}
+              categoryLabel={p.data.categoryLabel}
+              compact
+            />
+          </div>
+        ))}
+      </div>
+    </section>
+  )
+}
+
+<style>
+  .rail__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-block-end: 1rem;
+  }
+
+  .rail__head h2 {
+    font-size: var(--step-2);
+  }
+
+  .rail__more {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  /* horizontal scroll is contained here so the page body never moves */
+  .rail__track {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(170px, 200px);
+    gap: 0.9rem;
+    overflow-x: auto;
+    padding-block-end: 0.5rem;
+    scroll-snap-type: x proximity;
+    scrollbar-width: thin;
+  }
+
+  .rail__item {
+    scroll-snap-align: start;
+  }
+</style>

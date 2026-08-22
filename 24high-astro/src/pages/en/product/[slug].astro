@@ -1,0 +1,143 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
+import Gallery from '../../../components/product/Gallery.astro';
+import BuyBox from '../../../components/product/BuyBox.astro';
+import ProductSchema from '../../../components/product/ProductSchema.astro';
+import ProductRail from '../../../components/product/ProductRail.astro';
+import { SHOP_BY_ID, type ShopId } from '../../../data/site';
+import { firstImage } from '../../../lib/images';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  // push rather than spread: spreading the entry union across 1,187 items
+  // produces a type TypeScript cannot represent
+  const byCategory = new Map<string, CollectionEntry<'products'>[]>();
+  for (const p of products) {
+    const key = `${p.data.shop}/${p.data.category}`;
+    const bucket = byCategory.get(key);
+    if (bucket) bucket.push(p);
+    else byCategory.set(key, [p]);
+  }
+
+  return products.map((entry) => ({
+    params: { slug: entry.slug },
+    props: {
+      entry,
+      // siblings from the same category, so "related" is real rather than
+      // a carousel of whatever the scrape happened to capture
+      related: (byCategory.get(`${entry.data.shop}/${entry.data.category}`) ?? [])
+        .filter((p) => p.slug !== entry.slug && p.data.images.length)
+        .slice(0, 8),
+    },
+  }));
+}
+
+interface Props {
+  entry: CollectionEntry<'products'>;
+  related: CollectionEntry<'products'>[];
+}
+
+const { entry, related } = Astro.props;
+const { title, description, sku, price, currency, inStock, shop, category, categoryLabel, images } =
+  entry.data;
+const { Content } = await entry.render();
+
+const shopMeta = SHOP_BY_ID.get(shop as ShopId);
+const crumbs = [
+  { label: 'Home', href: '/en/' },
+  ...(shopMeta ? [{ label: shopMeta.label, href: shopMeta.href }] : []),
+  ...(categoryLabel ? [{ label: categoryLabel, href: `/en/shop/${shop}/${category}` }] : []),
+  { label: title },
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  image={firstImage(images, 1000)}
+  type="product"
+  activeShop={shop}
+>
+  <ProductSchema
+    title={title}
+    description={description}
+    sku={sku}
+    price={price}
+    currency={currency}
+    inStock={inStock}
+    images={images}
+    url={`/en/product/${entry.slug}`}
+  />
+
+  <Breadcrumbs items={crumbs} />
+
+  <div class="pdp">
+    <div class="pdp__media">
+      <Gallery images={images} alt={title} />
+    </div>
+
+    <div class="pdp__info">
+      {categoryLabel && <p class="eyebrow">{categoryLabel}</p>}
+      <h1>{title}</h1>
+      {description && <p class="pdp__lead">{description}</p>}
+      <BuyBox title={title} sku={sku} price={price} currency={currency} inStock={inStock} />
+    </div>
+  </div>
+
+  <section class="pdp__desc">
+    <h2>Description</h2>
+    <div class="prose">
+      <Content />
+    </div>
+  </section>
+
+  <ProductRail
+    title={`More from ${categoryLabel || shopMeta?.label || 'the shop'}`}
+    products={related}
+    href={`/en/shop/${shop}/${category}`}
+  />
+</BaseLayout>
+
+<style>
+  .pdp {
+    display: grid;
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+    gap: clamp(1.2rem, 4vw, 3rem);
+    margin-block-start: 1.2rem;
+  }
+
+  .pdp__info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .pdp__info h1 {
+    font-size: var(--step-4);
+  }
+
+  .pdp__lead {
+    max-width: 52ch;
+    color: var(--ink-2);
+    line-height: 1.6;
+  }
+
+  .pdp__desc {
+    margin-block-start: clamp(2rem, 5vw, 3.5rem);
+    padding-block-start: clamp(1.5rem, 4vw, 2.5rem);
+    border-block-start: 1px solid var(--line);
+  }
+
+  .pdp__desc h2 {
+    margin-block-end: 1rem;
+    font-size: var(--step-2);
+  }
+
+  @media (max-width: 820px) {
+    .pdp {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

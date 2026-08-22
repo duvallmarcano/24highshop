@@ -1,0 +1,39 @@
+---
+import ProductCard from './ProductCard.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  products: CollectionEntry<'products'>[];
+  /** First N cards load eagerly; the rest defer. */
+  eagerCount?: number;
+  compact?: boolean;
+}
+
+const { products, eagerCount = 4, compact = false } = Astro.props;
+---
+
+<div class="grid">
+  {
+    products.map((p, i) => (
+      <ProductCard
+        slug={p.slug}
+        title={p.data.title}
+        price={p.data.price}
+        currency={p.data.currency}
+        inStock={p.data.inStock}
+        images={p.data.images}
+        categoryLabel={p.data.categoryLabel}
+        compact={compact}
+        eager={i < eagerCount}
+      />
+    ))
+  }
+</div>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr));
+    gap: clamp(0.7rem, 1.5vw, 1.15rem);
+  }
+</style>

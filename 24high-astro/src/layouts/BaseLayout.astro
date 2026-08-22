@@ -1,0 +1,130 @@
+---
+import Meta from '../components/Meta.astro';
+import Header from '../components/layout/Header.astro';
+import Footer from '../components/layout/Footer.astro';
+import IconSprite from '../components/ui/IconSprite.astro';
+import { SITE } from '../data/site';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article' | 'product';
+  activeShop?: string;
+  noindex?: boolean;
+  /** Full-bleed pages opt out of the default container. */
+  bare?: boolean;
+}
+
+const {
+  title,
+  description,
+  image,
+  type = 'website',
+  activeShop,
+  noindex = false,
+  bare = false,
+} = Astro.props;
+
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'OnlineStore',
+  name: SITE.name,
+  url: SITE.url,
+  description: SITE.description,
+  email: SITE.email,
+  foundingDate: String(SITE.established),
+  logo: new URL('/images/layout/logo-200.png', SITE.url).href,
+};
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <Meta title={title} description={description} image={image} type={type} noindex={noindex} />
+    <script type="application/ld+json" is:inline set:html={JSON.stringify(orgSchema)} />
+  </head>
+  <body>
+    <IconSprite />
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <Header activeShop={activeShop} />
+
+    <main id="main">
+      {bare ? <slot /> : <div class="container page"><slot /></div>}
+    </main>
+
+    <Footer />
+
+    <script>
+      // Theme toggle. The pre-paint script in Meta.astro has already applied
+      // any stored choice; this only handles switching it afterwards.
+      const KEY = '24high-theme';
+
+      function resolved(): 'dark' | 'light' {
+        const set = document.documentElement.getAttribute('data-theme');
+        if (set === 'dark' || set === 'light') return set;
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+
+      document.querySelector('[data-theme-toggle]')?.addEventListener('click', () => {
+        const next = resolved() === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        try {
+          localStorage.setItem(KEY, next);
+        } catch {
+          /* storage unavailable; the choice just won't persist */
+        }
+      });
+
+      // Basket count, kept in localStorage so it survives navigation.
+      const CART = '24high-cart';
+
+      function readCart(): Record<string, number> {
+        try {
+          return JSON.parse(localStorage.getItem(CART) || '{}');
+        } catch {
+          return {};
+        }
+      }
+
+      function paintCount() {
+        const total = Object.values(readCart()).reduce((n, q) => n + q, 0);
+        document.querySelectorAll<HTMLElement>('[data-cart-count]').forEach((el) => {
+          el.textContent = String(total);
+          el.hidden = total === 0;
+        });
+      }
+
+      document.querySelectorAll<HTMLFormElement>('[data-cart-form]').forEach((form) => {
+        form.addEventListener('submit', (e) => {
+          e.preventDefault();
+          const sku = form.dataset.sku;
+          if (!sku) return;
+          const qty = Number(new FormData(form).get('qty') || 1);
+          const cart = readCart();
+          cart[sku] = (cart[sku] || 0) + Math.max(1, qty);
+          try {
+            localStorage.setItem(CART, JSON.stringify(cart));
+          } catch {
+            /* ignore */
+          }
+          paintCount();
+          form.querySelector('button')?.animate(
+            [{ scale: '1' }, { scale: '0.96' }, { scale: '1' }],
+            { duration: 180 }
+          );
+        });
+      });
+
+      paintCount();
+    </script>
+  </body>
+</html>
+
+<style>
+  .page {
+    padding-block: clamp(1.2rem, 3vw, 2rem);
+  }
+</style>

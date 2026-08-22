@@ -1,0 +1,23 @@
+---
+title: "Cola Nut: Natural Pick-Me-Up From Africa"
+description: "Colanut is a super seed that is chock-full of caffeine. Read all about this 100% natural energy source here."
+heroImage: "/images/news/321-1707668887-400x300.webp"
+publishedAt: "2024-02-06"
+updatedAt: "2026-02-10"
+author: "24High"
+---
+
+<p>That there was once real 'coca' in Coca Cola, you've probably already heard. But then where did the second part of that brand name come from? The answer: cola nut! And this ingredient too made a glass of Coca Cola a refreshing pick-me-up. So what is this 'cola nut' magical stuff? In a nutshell, cola nut is a hefty nut or mega-seed that West Africans have long enjoyed. In the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3842857/">19th</a> century, this nut found its way to the West. And so, thanks to an inventive pharmacist, it found its way into Coca Cola in 1880, along with those then-normal cocaine extracts. That coke soon disappeared from the recipe, but the invigorating cola nut could still be found in your can of cola until recently. Read more about this interesting energy source here: <a href="/en/">More energy get more out of your day with these tips and supplements.</a><br/><br/></p>
+<h2>The origin of the cola nut</h2>
+<p>Cola nut, cola nut or kola nut (Cola Acuminata) is a small tree native to West Africa. Nigeria is by far the largest producer: more than half of the global crop comes from there. The tree also grows in countries with similar tropical climates in South Asia and South America. The fruits of that tree are star-shaped and contain several thick, quite bitter nuts each. Think chestnut-sized, but peanut-shaped. These kola nuts have been used there for centuries for their stimulating properties. They are packed with <a href="/en/">caffeine</a>! Cola nuts are still widely consumed in their region of origin. Locals chew it for a cheap but effective caffeine shot. One such nut will do just fine; it contains as much caffeine as a couple of cups of coffee.<br/><br/></p>
+<h2>Effects of cola nut</h2>
+<p>The reason why locals love cola nuts so much is, of course, the energy boost. You have more stamina and it also suppresses appetite. Something that are pretty handy in the hot regions where cola nut comes from, where many people do physically demanding work and long days in that heat.</p>
+<p>Like coffee, which is also high in caffeine, kola nut has diuretic properties. In other words, it makes you pee extra often because it causes fluids to leave your body faster.</p>
+<p>In addition, cola nut also has that aforementioned appetite suppressing effect, which can help with weight loss. It boosts metabolism (slightly) and thus increases fat burning, making it an ingredient found in several slimming pills. However, don't expect miracles from it; it's better to take a walk than put your money on eating cola nut.<br /></p>
+<h2>Constituents in cola nut</h2>
+<p>Besides caffeine, cola nut contains other substances such as theobromine and polyphenols. The latter are good for your blood circulation and resistance. Theobromine is an alkaloid similar to caffeine, but with a less stimulating effect. It has a positive effect on your mood and can help reduce stress and anxiety. Theobromine also has a stimulating effect on your blood circulation and, like caffeine, increases your heart rate.</p>
+<p>So if you are prone to heart palpitations, cola nut might not be something you should take in large quantities. The side effects are therefore similar to those of coffee; restlessness or insomnia.</p>
+<h3>Unproven claims</h3>
+<p>Besides, local folklore has many more health claims, but you can take these with a grain of salt. Until there are actual studies that prove them, of course. These claims include that it works against all kinds of ailments, from depression to libido loss, infections and headaches. There is some truth in the latter, by the way: a coffee junkie who acutely quits caffeine may experience headaches as withdrawal symptoms. So of course, then, knocking back a kola nut is a great remedy.<br/><br/></p>
+<h2>Kola nut in products</h2>
+<p>So you won't find kola nut in Coca-Cola anymore. But there are quite a few products that do contain it, such as energy drinks, <a href="/en/product/0201317-herbal-speed-energizer">Herbal Speed</a> and slimming powders and pills. You can also buy it in pure form, like <a href="/en/product/8101817-cola-nut-indian-elements-capsules">Indian Elements' Cola Nut capsules</a>. Indian Elements also has <a href="/en/product/8108832-cola-nut-indian-elements">cola nut in powder form</a>, should you find that more convenient.</p>

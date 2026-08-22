@@ -1,0 +1,14 @@
+---
+title: "Relax Mix Indian Elements"
+description: "Relaxmix - 1x 50 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+sku: "9109428"
+price: 8.95
+currency: "EUR"
+inStock: true
+shop: "smartshop"
+category: "medicinal-herbs"
+categoryLabel: "Medicinal herbs"
+images: ["4839"]
+---
+
+The Relax Mix is ​​a unique blend of various soothing and aromatic herbs. Each individual herb contains specific medicinal properties. You can make tea from the Relax Mix, vape it or add it to a joint as a seasoning. The Relax Mix contains the following herbs: Sweet Woodruff (Asperula Odorata)<p> Asperula Odorate or also called woodruff, is used for the treatment of restlessness, agitation, hysteria and sleep problems (insomnia). Sweet Woodruff is also used to relieve nerve pain and migraines, cause sweating, increase the flow of urine. treat lung, stomach, liver, gallbladder and urinary tract diseases, heart problems and other circulatory problems. </p>Catnip (Nepeta Cataria)<p> one of the common names of this plant) has many aphrodisiac effects on cats. In humans, the essential oils in the leaves and flowers have less fun, but more calming properties. In traditional medicine, catnip can also be used to treat insomnia and induce sleep. Catnip oil is rich in carvacrol and thymol, excellent for treating bronchitis. </p>Passion Flower (Passiflora Incarnata)<p> Some people take this wild passion flower for sleeping problems (ADHD, pain, fibromyalgia, relieving opioid withdrawal symptoms, reducing anxiety, nervousness and heart failure. </p>Ingredients <p><ul><li> Asperula Odorata</li><li>Nepeta Cataria</li><li>Passiflora Incarnata</li></ul></p>Effects<p> This Relax Mix gives a soothing and relaxing effect. When large quantities it can stimulate the imagination. This product is perfect for an evening of relaxation. </p>Usage<p> You can make tea from the Relax Mix, vape or add it to a joint as a seasoning. Do not exceed 1 gram per day. The Relax Mix has a naturally bitter taste. But if you make it into a tea and add a little honey, you can enjoy its many health benefits. To make Relax mix tea, pour a cup of boiling water on 1 teaspoon, about 1 gram of the Relax mix herbs. Let it soak for 10-15 minutes, strain out the herbs and then drink, preferably on an empty stomach. <br/> </p> Storage advice<p> Store this product in a cool and dark place, such as a kitchen cupboard and out of reach of children. </p>Content<p> 50 grams of Relax Mix Indian Elements </p>Hazard warning<p> Relax Mix can be dangerous for health when combined with certain drugs, alcohol and psychedelics. Are you taking any medication? Always consult your doctor first and read the package leaflet of your medication to avoid health risks. Also do not use the Relax Mix if you are pregnant or breastfeeding. </p>

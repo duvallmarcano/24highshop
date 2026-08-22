@@ -1,0 +1,23 @@
+---
+title: "Magic Mushroom Harvesting Grow Kit"
+description: "Growing mushrooms at home is a fun activity. But how exactly do you do it? You'll find out in this article."
+heroImage: "/images/news/232-1679146045-400x300.webp"
+publishedAt: "2023-03-16"
+updatedAt: "2026-02-10"
+author: "24High"
+---
+
+<p>Growing mushrooms can be a good way to replenish your stock or get quality mushrooms at home. After all, they can be hard to come by. With one of our magic <a href="/en/shop/mushrooms/growkits-mushroom">mushroom grow kits</a>, growing these different mushrooms is not a difficult process. However, it does require observation to get a nice harvest, as they often grow quickly. It's also important to work sterile and perform the harvest as accurately as possible to get the perfect magic mushrooms. In this article, we explain all about harvesting your mushrooms from your grow kits.<br/><br/></p>
+<h2>How long do mushrooms take to grow?</h2>
+<p>The growth of your magic mushrooms depends on the conditions in which they grow. Think of temperature, humidity, but also daylight and fresh air. When all elements are as ideal as possible, it takes about' 3 to 4 weeks until your first mushroom 'flush' (cycle of growth) is complete. You can do several flushes with each grow kit and thus build up a nice stock.<br/><br/></p>
+<h2>When do I harvest mushrooms?</h2>
+<p>The moment of harvesting is very important for the strength of your mushrooms, but also for the durability of your grow kit. There is no one-size-fits-all answer to when it's best to harvest mushrooms, but on average, 3 weeks is normal for a complete flush. What is much more important as this guideline is observing the <a href="/en/">veil of your magic mushrooms</a>. The veil is the membrane under the cap of the mushroom close to the stem. This fragile veil is the indicator of which stage of the cycle your mushroom is in. The ideal moment for harvesting is when the membrane is about to burst, but has not yet let go. At this moment, the mushrooms have the ideal strength.</p>
+<p>Besides growing the perfect mushrooms, by growing them on time, you can also avoid using the kit only once. If the spores end up on the mycelium cake (a kind of block in which the mushroom grows nicely), chances are that far fewer mushrooms will grow next time and the harvest will not be optimal.<br /></p>
+<h2>How do I harvest magic mushrooms?</h2>
+<p>Harvesting mushrooms is a painstaking task. The most important thing is definitely hygiene. So always make sure you wear a <a href="/en/shop/mushrooms/grow-supplies">mouth mask</a> and <a href="/en/product/9107949-gloves-sterile">gloves</a> while growing. Once you have made the proper preparations, open the bag (grow bag) in which your magic mushrooms have come to life over the past few months. Take out the kit and look at your harvest.</p>
+<p>The next step is to pick your mushrooms. You do this by gently grasping the mushrooms and gently twisting them left and right. As you carefully twist, make a pulling motion that will slowly loosen the roots. Remove the mushroom as completely as possible, then you can reuse the growing kit and optimise the soil for new growth. Having trouble getting the mushrooms out completely? Then very carefully cut the mushrooms loose with a sterile knife. Do you see some substrate at the bottom of the magic mushrooms? Then you might want to cut this off. This substance may cause your magic mushrooms to turn a little blue, although this is harmless.</p>
+<h3>How long does it take to dry magic mushrooms?</h3>
+<p>Fortunately, you can harvest several times from a single grow kit. Still, it's also nice not to consume all your mushrooms at once and build a small stockpile. You can do that by carefully placing them on double-layered kitchen paper so they can air dry. It is useful to use a fan for this purpose to keep the air fresh. The fan also blows away any moisture, so they dry well. To fully dry your mushrooms, you will need about 7-10 days. You can then store them in a dark room in a tightly sealed glass jar or Tupperware container.</p>
+<p>Read more about <a href="/en/">drying mushrooms.</a></p>
+<h3>Best Magic Mushroom grow kit</h3>
+<p>There are many different types of grow kits, each with its own strength, effect and type of mushroom. For example, our <a href="/en/shop/mushrooms/all-in-one-growkits">McKennaii All in one Growkit</a> is a popular choice but the <a href="/en/product/7112182-mazatapec-all-in-one-growkit-1200-cc">Mazatapec, All in one Growkit</a> is also a popular option. To help you make the right choice, we therefore wrote an overview of the top 10 best-selling mushrooms.</p>

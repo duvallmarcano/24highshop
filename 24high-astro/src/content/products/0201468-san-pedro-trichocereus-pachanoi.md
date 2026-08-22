@@ -1,0 +1,14 @@
+---
+title: "Cacti Growkits"
+description: "San Pedro - Trichocereus Pachanoi Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+sku: "0201468"
+price: 19.95
+currency: "EUR"
+inStock: true
+shop: "smartshop"
+category: "mescaline-cacti"
+categoryLabel: "Mescaline Cacti"
+images: ["2202", "2377"]
+---
+
+With this super simple San Pedro (Trichocereus pachanoi) grow kit you can grow a psychedelic cactus yourself! The active ingredient in these mind-altering cacti is Mescaline. The use of this cactus for spiritual and medicinal purposes dates back decades. This Mesacline San Pedro is a strong and fast growing cactus variety. The San Pedro's original name, given by the indigenous people of Ecuador and Peru, is Achuma. San Pedro is a powerful hallucinogen. You can set up the San Pedro grow set quickly and easily, thanks to the included ingredients. Bring Mexican San Pedro into your home for spiritual enlightenment. <br/> <h3> Contents</h3> <p> 25 San Pedro seeds (Trichocereus pachanoi) <br/> Potting soil <br/> Coarse sand<br/>Drying gravel <br/> Grow box with lid<br/>Perliet <br/> </p><h3>Instructions</h3>See video at the bottom of the description or:<br/><ol> <li> Make 10 small holes the bottom of the bin. </li> <li> Fill the tray with the gravel, then with the soil and sand mixture. </li> <li> Place the seeds on the ground and gently push them down with a pen, but not all the way in the earth! They should still be visible.</li> <li> Water the tray until the soil feels well moist, and put the lid on the grow tray. </li> <li> Place the container in a warm place, e.g. wrapped in an electric blanket or next to the heater. </li> </ol> Humidity:<br/> <br/> After one to three weeks the seeds will germinate. Until then, make sure the soil is moist. After about 8 weeks it is time to make holes in the lid. After another two weeks, you should make more holes so that the little cacti can get used to dry air. After another two weeks it is time to take the lid off. Keep the soil moist for another 2 months. After this you have to water the cacti less and less. Make sure the soil is completely dried out before you water again. <br/> <br/> Lighting: <br/> <br/> During the germination and initial growth of the mini-cacti, it is best to use fluorescent lighting. Only then can you use (indirect) sunlight. <br/> <h3> Storage advice</h3> <p> Keep this product in a cool and dark place such as a kitchen cupboard and out of the reach of children. <br/> </p> <h3> Caution! </h3> <p> Mescaline cactus can be dangerous to health when combined with certain medications, alcohol or MAO inhibitors. Always consult your doctor first and read the package insert of your medication to avoid health risks. Also do not use the San Pedro if you are pregnant or breastfeeding. Do not participate in traffic when in use. So don't drive or drive other vehicles. <br /></p>

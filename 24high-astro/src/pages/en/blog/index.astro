@@ -1,0 +1,121 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
+import PostCard from '../../../components/blog/PostCard.astro';
+import { formatDate } from '../../../lib/format';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
+);
+
+const [lead, ...rest] = posts;
+---
+
+<BaseLayout
+  title="Guides & background"
+  description="Cultivation notes, dosing guidance, harm reduction and the botany behind everything 24High stocks."
+>
+  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'Blog' }]} />
+
+  <header class="bloghead">
+    <p class="eyebrow">{posts.length} articles</p>
+    <h1>Guides &amp; background</h1>
+    <p class="bloghead__lead">
+      Growing notes, dosing guidance, harm reduction and the botany behind what we stock —
+      written by the people who pack the orders.
+    </p>
+  </header>
+
+  {
+    lead && (
+      <a class="lead" href={`/en/blog/${lead.slug}`}>
+        {lead.data.heroImage && (
+          <img src={lead.data.heroImage} alt="" width="600" height="400" loading="eager" />
+        )}
+        <div class="lead__body">
+          <p class="eyebrow">Latest &middot; {formatDate(lead.data.publishedAt)}</p>
+          <h2>{lead.data.title}</h2>
+          <p>{lead.data.description}</p>
+        </div>
+      </a>
+    )
+  }
+
+  <div class="posts">
+    {rest.map((post, i) => <PostCard post={post} eager={i < 3} />)}
+  </div>
+</BaseLayout>
+
+<style>
+  .bloghead {
+    margin-block: 1.2rem 1.8rem;
+  }
+
+  .bloghead h1 {
+    margin-block: 0.5rem 0;
+    font-size: var(--step-5);
+  }
+
+  .bloghead__lead {
+    max-width: 58ch;
+    margin-block-start: 0.7rem;
+    color: var(--ink-2);
+    font-size: var(--step-1);
+  }
+
+  .lead {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 0;
+    margin-block-end: 1.6rem;
+    background: var(--surface);
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    text-decoration: none;
+    transition: border-color 0.16s ease, box-shadow 0.16s ease;
+  }
+
+  .lead:hover {
+    border-color: var(--spruce);
+    box-shadow: var(--shadow-md);
+  }
+
+  .lead img {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+  }
+
+  .lead__body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.6rem;
+    padding: clamp(1.2rem, 3vw, 2.2rem);
+  }
+
+  .lead__body h2 {
+    font-size: var(--step-3);
+    color: var(--ink);
+  }
+
+  .lead__body p:last-child {
+    color: var(--ink-2);
+    line-height: 1.6;
+  }
+
+  .posts {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 270px), 1fr));
+    gap: 1.1rem;
+  }
+
+  @media (max-width: 760px) {
+    .lead {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

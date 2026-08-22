@@ -1,0 +1,156 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
+import PostCard from '../../../components/blog/PostCard.astro';
+import { formatDate } from '../../../lib/format';
+import { SITE } from '../../../data/site';
+
+export async function getStaticPaths() {
+  const posts = (await getCollection('blog')).sort(
+    (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
+  );
+
+  return posts.map((entry, i) => ({
+    params: { slug: entry.slug },
+    props: {
+      entry,
+      // simple adjacency: the posts either side of this one by date
+      more: [posts[i + 1], posts[i + 2], posts[i - 1]].filter(Boolean).slice(0, 3),
+    },
+  }));
+}
+
+interface Props {
+  entry: CollectionEntry<'blog'>;
+  more: CollectionEntry<'blog'>[];
+}
+
+const { entry, more } = Astro.props;
+const { title, description, heroImage, publishedAt, updatedAt, author } = entry.data;
+const { Content } = await entry.render();
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description,
+  image: heroImage ? new URL(heroImage, SITE.url).href : undefined,
+  datePublished: publishedAt,
+  dateModified: updatedAt || publishedAt,
+  author: { '@type': 'Organization', name: author, url: SITE.url },
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.name,
+    logo: {
+      '@type': 'ImageObject',
+      url: new URL('/images/layout/logo-200.png', SITE.url).href,
+    },
+  },
+  mainEntityOfPage: new URL(`/en/blog/${entry.slug}`, SITE.url).href,
+};
+---
+
+<BaseLayout title={title} description={description} image={heroImage} type="article">
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(schema)} />
+
+  <Breadcrumbs
+    items={[
+      { label: 'Home', href: '/en/' },
+      { label: 'Blog', href: '/en/blog' },
+      { label: title },
+    ]}
+  />
+
+  <article class="article">
+    <header class="article__head">
+      <h1>{title}</h1>
+      <p class="article__meta">
+        <span>{author}</span>
+        <span aria-hidden="true">&middot;</span>
+        <time datetime={publishedAt}>{formatDate(publishedAt)}</time>
+        {updatedAt && updatedAt !== publishedAt && (
+          <>
+            <span aria-hidden="true">&middot;</span>
+            <span>Updated {formatDate(updatedAt)}</span>
+          </>
+        )}
+      </p>
+    </header>
+
+    {heroImage && (
+      <img
+        class="article__hero"
+        src={heroImage}
+        alt=""
+        width="800"
+        height="600"
+        loading="eager"
+        fetchpriority="high"
+      />
+    )}
+
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+
+  {
+    more.length > 0 && (
+      <section class="more">
+        <h2>Keep reading</h2>
+        <div class="more__grid">
+          {more.map((p) => <PostCard post={p} />)}
+        </div>
+      </section>
+    )
+  }
+</BaseLayout>
+
+<style>
+  .article {
+    max-width: var(--container-prose);
+    margin-inline: auto;
+    margin-block-start: 1.5rem;
+  }
+
+  .article__head h1 {
+    font-size: var(--step-4);
+  }
+
+  .article__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin-block-start: 0.8rem;
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.04em;
+    color: var(--ink-3);
+  }
+
+  .article__hero {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    margin-block: 1.5rem;
+    border-radius: var(--radius-lg);
+  }
+
+  .more {
+    margin-block-start: clamp(2.5rem, 6vw, 4rem);
+    padding-block-start: 2rem;
+    border-block-start: 1px solid var(--line);
+  }
+
+  .more h2 {
+    margin-block-end: 1.2rem;
+    font-size: var(--step-2);
+  }
+
+  .more__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+    gap: 1.1rem;
+  }
+</style>

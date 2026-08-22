@@ -1,0 +1,30 @@
+---
+title: "Which Mind-Altering Herbs Can You Put In Your Own Garden?"
+description: "There are plenty of mind-altering herbs you can grow yourself in your garden? Read which ones here..."
+heroImage: "/images/news/301-1700661634-400x300.webp"
+publishedAt: "2023-11-20"
+updatedAt: "2026-02-10"
+author: "24High"
+---
+
+<p>Do you also want a miracle garden full of mind-blowing herbs? If you have a garden (or balcony), you can choose what to plant here. Do you go for plain geraniums and hosta or do you put powerful, colourful flowers in your garden, like Yopo or Morning Glory? Are you curious? Then read more about which plants are suitable to put in your own garden below.<br/><br/></p>
+<h2>Psychedelics in your garden or balcony</h2>
+<p>Have you ever stopped to think that many mind-altering substances can simply be found in nature? There are seeds, fruits and leaves that can send you on a cosmic trip, and these can largely be found in the wild. Many people think of cannabis as a well-known plant you can grow in your garden, but there are many other herbs with psychedelic powers that can grow well in your herb garden.</p>
+<p>And you don't need much at all to do so. With just a little space in your garden or on your balcony, you can put a few plants where they can grow and flourish safely. Perhaps you have been to a herb garden, such as a monastery or a castle. Here you will find all kinds of medicinal herbs. You can create a similar herb garden yourself, but instead of lavender you plant Yopo and in your little garden you will not find mint, but Morning Glory.</p>
+<p>Would you like to have a garden with miraculous mind-altering herbs? Take a good look at what grows well in the Dutch climate and whether it takes a lot of time and energy to grow. Some plants need more care than others. And a <a href="/en/shop/smartshop/mescaline-cacti">mescaline cactus</a>, for instance, will only be able to grow indoors or in a greenhouse in the Netherlands. Below, we give some examples of plants that can do well in a backyard garden.</p>
+
+<h3>Canary grass</h3>
+<p>A beautiful grass that can grow up to 2 metres tall is <a href="/en/product/3203113-canary-grass-phalaris-arundinacea-5-grams">Canary grass</a>. It likes to grow in moist areas, but can also withstand drought well. So in the Netherlands, you can put it in the garden just fine. This plant is easy to grow. You can harvest seeds just a few months after sowing. Why plant Canary grass in your garden? This grass contains very high concentrations of <a href="https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine">DMT</a>, and DMT is a very psychoactive substance.</p>
+<p>This is also the reason why Canary grass is used together with Banisteriopsis Caapie to make a version of Ayahuasca. But even on its own, Canary grass can make for an extraordinary trip. It causes powerful hallucinations and euphoric feelings.</p>
+<h3>Yopo</h3>
+<p>If you want to put <a href="/en/product/8101166-yopo">Yopo</a> in your garden, keep in mind that this tree is a striking sight. It can grow up to about 20 metres tall. Yopo has been used in South America for centuries. Traditionally, the seeds are ground, after which the grit is sniffed with a special snuff tube (the <a href="/en/product/0205230-kuripe-bamboo">Kuripe</a>). Yopo seeds also contain DMT and 5-MeO-DMT.</p>
+<p>These substances have very powerful effects. You can use Yopo for an intense spiritual journey. Users report getting clear visions of life, and it is possible to enter a fantastic dream world. The effects do not last long, up to an hour. If you don't like the idea of a huge tree in your garden, you can of course just use the seeds themselves instead of planting them in your garden.</p>
+
+<h3>Morning Glory and Hawaiian Baby Woodrose</h3>
+<p>If you are looking for other mind-blowing herbs for your garden, you can also plant <a href="/en/product/8101663-morning-glory">Morning Glory</a> and Hawaiian Baby Woodrose seeds. Not only do these plants grow cute pink, white and blue flowers, the seeds contain <a href="https://en.wikipedia.org/wiki/Ergine">LSA</a>, a precursor of LSD. So very suitable for a nice trip. Unfortunately, both plants are not resistant to frost. If you put them in the garden, and it starts to freeze, they will only live for one year.</p>
+<p>The effects of <a href="/en/product/8101699-baby-hawaiian-woodrose">Hawaiian Baby Woodrose</a> and Morning Glory can be compared to LSD, but they are less intense. You will definitely experience visual hallucinations, and your sense of time and space may also be distorted. Feelings of euphoria often occur and, at the same time, you also feel a peaceful calm. A trip lasts about 6 to 8 hours. For a powerful trip, you do need a lot of seeds from Morning Glory, about 300. Fortunately, you need less from Hawaiian Baby Woodrose seeds, 8 seeds are enough.</p>
+<h3>Kanna</h3>
+<p>A nice succulent you can put in your garden is Kanna. Kanna is not actually a mind-altering plant, but we wanted to mention it anyway because of its positive effects. Low-growing succulents with pretty yellow flowers grow from <a href="/en/shop/smartshop/kanna">Kanna</a> seeds (also called kougoed). Kanna can help with stress and anxiety; it has relaxing and pain-relieving effects. Although it has no psychoactive effects, it can have a positive impact on your mood and induce euphoric feelings. So this is definitely a valuable addition to your wonder herb garden. By the way, this little plant cannot withstand frost either and remains an annual if it freezes in winter.<br/><br/></p>
+<h2>Getting started with your own herb garden</h2>
+<p>Putting mind-blowing herbs in your garden or on your balcony is fun to do, and you get some benefit from it too. But it is not always easy and also takes some time and energy. First check carefully whether the plant can stand the Dutch climate and whether it needs special care.</p>
+<p>But if you decide to go for it, you do get a real dream garden with special powers. And don't worry about nosy neighbours. The chances are very slim that a worried neighbour will recognise yopo or kanna!</p>

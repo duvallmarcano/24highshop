@@ -1,0 +1,126 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
+import Icon from '../../components/ui/Icon.astro';
+import { SHOPS, SITE } from '../../data/site';
+
+const products = await getCollection('products');
+const posts = await getCollection('blog');
+---
+
+<BaseLayout title="About us" description={SITE.description}>
+  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'About us' }]} />
+
+  <div class="about">
+    <header>
+      <p class="eyebrow">Since {SITE.established}</p>
+      <h1>A smartshop that answers its own questions.</h1>
+    </header>
+
+    <div class="prose about__prose">
+      <p>
+        24High is a Dutch smartshop. We stock botanicals with a long ethnographic record —
+        magic truffles, kratom, kanna, mescaline cacti — alongside the practical kit that
+        goes with them: grow kits, spores, substrates, grinders and storage.
+      </p>
+      <p>
+        Most of what we sell rewards knowing something about it first. That is why the
+        catalogue sits next to {posts.length} guides rather than behind a contact form. If a
+        product needs a dosing note, a substrate recipe or a word of caution, it is written
+        down and linked from the product page.
+      </p>
+      <h2>How we ship</h2>
+      <p>
+        Orders placed before 17:00 on a working day leave the same day, in plain, unmarked
+        packaging with nothing on the outside that says what is inside. Shipping is free
+        across the EU above &euro;50, and tracked either way.
+      </p>
+      <h2>Age and responsible use</h2>
+      <p>
+        Everything here is strictly 18+. Some products are legal in the Netherlands but not
+        in every destination we can ship to — checking the rules where you live is your
+        responsibility, and we would rather you asked us first than found out later.
+      </p>
+    </div>
+
+    <dl class="about__stats">
+      <div><dt>Products</dt><dd>{products.length.toLocaleString('en-GB')}</dd></div>
+      <div><dt>Shops</dt><dd>{SHOPS.length}</dd></div>
+      <div><dt>Guides</dt><dd>{posts.length}</dd></div>
+      <div><dt>Trading since</dt><dd>{SITE.established}</dd></div>
+    </dl>
+
+    <ul class="about__usp" role="list">
+      <li><Icon name="truck" size={18} /> Free EU shipping over &euro;50</li>
+      <li><Icon name="package" size={18} /> Plain, unmarked packaging</li>
+      <li><Icon name="shield" size={18} /> Secure European payment methods</li>
+    </ul>
+  </div>
+</BaseLayout>
+
+<style>
+  .about {
+    max-width: 48rem;
+    margin-inline: auto;
+    padding-block: 1.5rem;
+  }
+
+  .about h1 {
+    margin-block: 0.5rem 1.5rem;
+    font-size: var(--step-4);
+  }
+
+  .about__stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1px;
+    margin-block: 2.5rem;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+  }
+
+  .about__stats > div {
+    padding: 1rem;
+    background: var(--surface);
+  }
+
+  .about__stats dt {
+    font-family: var(--font-mono);
+    font-size: 0.64rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .about__stats dd {
+    margin: 0.3rem 0 0;
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--spruce);
+  }
+
+  .about__usp {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    padding: 1.2rem 0 0;
+    margin: 0;
+    list-style: none;
+    border-block-start: 1px solid var(--line);
+    font-size: var(--step--1);
+    color: var(--ink-2);
+  }
+
+  .about__usp li {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+  }
+
+  .about__usp :global(.icon) { color: var(--spruce); }
+</style>

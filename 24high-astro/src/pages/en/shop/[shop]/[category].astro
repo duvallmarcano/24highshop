@@ -1,0 +1,126 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../../components/layout/Breadcrumbs.astro';
+import ProductGrid from '../../../../components/product/ProductGrid.astro';
+import { SHOPS, type Shop, type Category } from '../../../../data/site';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+
+  return SHOPS.flatMap((shop) =>
+    shop.categories.map((category) => ({
+      params: { shop: shop.id, category: category.slug },
+      props: {
+        shop,
+        category,
+        products: products.filter(
+          (p) => p.data.shop === shop.id && p.data.category === category.slug
+        ),
+      },
+    }))
+  );
+}
+
+interface Props {
+  shop: Shop;
+  category: Category;
+  products: CollectionEntry<'products'>[];
+}
+
+const { shop, category, products } = Astro.props;
+
+// in stock first, then cheapest — the order a shopper actually wants
+const sorted = [...products].sort((a, b) => {
+  if (a.data.inStock !== b.data.inStock) return a.data.inStock ? -1 : 1;
+  return (a.data.price ?? Infinity) - (b.data.price ?? Infinity);
+});
+
+const prices = products.map((p) => p.data.price).filter((p): p is number => p !== null);
+const from = prices.length ? Math.min(...prices) : null;
+const available = products.filter((p) => p.data.inStock).length;
+---
+
+<BaseLayout
+  title={`${category.label} — ${shop.label}`}
+  description={`${category.count} ${category.label.toLowerCase()} at 24High${
+    from !== null ? `, from €${from.toFixed(2)}` : ''
+  }. Discreet shipping across Europe.`}
+  activeShop={shop.id}
+>
+  <Breadcrumbs
+    items={[
+      { label: 'Home', href: '/en/' },
+      { label: shop.label, href: shop.href },
+      { label: category.label },
+    ]}
+  />
+
+  <header class="cathead">
+    <h1>{category.label}</h1>
+    <dl class="cathead__stats">
+      <div><dt>Products</dt><dd>{products.length}</dd></div>
+      <div><dt>In stock</dt><dd>{available}</dd></div>
+      {from !== null && (
+        <div><dt>From</dt><dd>&euro;{from.toFixed(2)}</dd></div>
+      )}
+    </dl>
+  </header>
+
+  {
+    sorted.length > 0 ? (
+      <ProductGrid products={sorted} eagerCount={8} />
+    ) : (
+      <p class="empty">Nothing in this category right now. <a href={shop.href}>Browse all {shop.label.toLowerCase()}</a>.</p>
+    )
+  }
+</BaseLayout>
+
+<style>
+  .cathead {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1.2rem;
+    margin-block: 1.2rem 1.6rem;
+    padding-block-end: 1.2rem;
+    border-block-end: 1px solid var(--line);
+  }
+
+  .cathead h1 {
+    font-size: var(--step-4);
+  }
+
+  .cathead__stats {
+    display: flex;
+    gap: 1.6rem;
+    margin: 0;
+  }
+
+  .cathead__stats dt {
+    font-family: var(--font-mono);
+    font-size: 0.64rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .cathead__stats dd {
+    margin: 0.15rem 0 0;
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+  }
+
+  .empty {
+    padding: 2.5rem;
+    text-align: center;
+    color: var(--ink-2);
+    background: var(--surface);
+    border: 1px dashed var(--line);
+    border-radius: var(--radius-lg);
+  }
+</style>

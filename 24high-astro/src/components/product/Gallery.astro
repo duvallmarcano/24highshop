@@ -1,0 +1,128 @@
+---
+import { productImage, PLACEHOLDER } from '../../lib/images';
+
+interface Props {
+  images: string[];
+  alt: string;
+}
+
+const { images, alt } = Astro.props;
+const hasImages = images.length > 0;
+const main = hasImages ? productImage(images[0], 1000) : PLACEHOLDER;
+---
+
+<div class="gallery" data-gallery>
+  <div class="gallery__main">
+    <img
+      id="gallery-main"
+      src={main}
+      alt={alt}
+      width="640"
+      height="640"
+      loading="eager"
+      fetchpriority="high"
+      decoding="async"
+    />
+  </div>
+
+  {
+    images.length > 1 && (
+      <ul class="gallery__thumbs" role="list">
+        {images.map((id, i) => (
+          <li>
+            <button
+              type="button"
+              class:list={['thumb', i === 0 && 'thumb--active']}
+              data-full={productImage(id, 1000)}
+              aria-label={`Show image ${i + 1} of ${images.length}`}
+              aria-pressed={i === 0 ? 'true' : 'false'}
+            >
+              <img src={productImage(id, 200)} alt="" width="72" height="72" loading="lazy" />
+            </button>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+</div>
+
+<script>
+  // Swapping the main shot is the only behaviour this needs. The original
+  // page loaded jQuery plus a 360 viewer for it; this is ~15 lines and runs
+  // without any runtime dependency.
+  document.querySelectorAll<HTMLElement>('[data-gallery]').forEach((root) => {
+    const main = root.querySelector<HTMLImageElement>('#gallery-main');
+    const thumbs = root.querySelectorAll<HTMLButtonElement>('.thumb');
+    if (!main) return;
+
+    thumbs.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const full = btn.dataset.full;
+        if (!full) return;
+        main.src = full;
+        thumbs.forEach((t) => {
+          t.classList.toggle('thumb--active', t === btn);
+          t.setAttribute('aria-pressed', String(t === btn));
+        });
+      });
+    });
+  });
+</script>
+
+<style>
+  .gallery {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+  }
+
+  .gallery__main {
+    aspect-ratio: 1;
+    background: var(--surface);
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+  }
+
+  .gallery__main img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .gallery__thumbs {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    overflow-x: auto;
+    scrollbar-width: thin;
+  }
+
+  .thumb {
+    padding: 0;
+    width: 72px;
+    height: 72px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+    overflow: hidden;
+    transition: border-color 0.15s ease;
+  }
+
+  .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .thumb:hover {
+    border-color: var(--ink-3);
+  }
+
+  .thumb--active {
+    border-color: var(--spruce);
+    box-shadow: inset 0 0 0 1px var(--spruce);
+  }
+</style>

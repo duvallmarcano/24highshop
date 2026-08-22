@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
+import { INFO_PAGES, type InfoPage } from '../../data/info-pages';
+
+export async function getStaticPaths() {
+  return INFO_PAGES.map((page) => ({
+    params: { info: page.slug },
+    props: { page },
+  }));
+}
+
+interface Props {
+  page: InfoPage;
+}
+
+const { page } = Astro.props;
+---
+
+<BaseLayout title={page.title} description={page.description}>
+  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: page.title }]} />
+
+  <article class="info">
+    <h1>{page.title}</h1>
+    <p class="info__intro">{page.intro}</p>
+
+    <div class="prose">
+      {
+        page.sections.map((s) => (
+          <>
+            <h2>{s.heading}</h2>
+            {s.body.map((para) => (
+              <p>{para}</p>
+            ))}
+          </>
+        ))
+      }
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .info {
+    max-width: var(--container-prose);
+    margin-inline: auto;
+    padding-block: 1.5rem;
+  }
+
+  .info h1 {
+    font-size: var(--step-4);
+  }
+
+  .info__intro {
+    margin-block: 1rem 2rem;
+    padding-block-end: 1.5rem;
+    border-block-end: 1px solid var(--line);
+    color: var(--ink-2);
+    font-size: var(--step-1);
+    line-height: 1.55;
+  }
+
+  /* the first heading already has the intro rule above it */
+  .info .prose > h2:first-child {
+    margin-block-start: 0;
+  }
+</style>

@@ -1,0 +1,45 @@
+---
+import { productImage } from '../../lib/images';
+import { SITE } from '../../data/site';
+
+interface Props {
+  title: string;
+  description: string;
+  sku: string;
+  price: number | null;
+  currency?: string;
+  inStock?: boolean;
+  images?: string[];
+  url: string;
+}
+
+const {
+  title, description, sku, price, currency = 'EUR',
+  inStock = true, images = [], url,
+} = Astro.props;
+
+// One place builds Product structured data, rather than 6,694 copies of it
+// pasted through the catalogue.
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: title,
+  description,
+  sku,
+  image: images.map((id) => new URL(productImage(id, 1000), SITE.url).href),
+  brand: { '@type': 'Brand', name: SITE.name },
+  ...(price !== null && {
+    offers: {
+      '@type': 'Offer',
+      price: price.toFixed(2),
+      priceCurrency: currency,
+      availability: `https://schema.org/${inStock ? 'InStock' : 'OutOfStock'}`,
+      itemCondition: 'https://schema.org/NewCondition',
+      url: new URL(url, SITE.url).href,
+      seller: { '@type': 'Organization', name: SITE.name },
+    },
+  }),
+};
+---
+
+<script type="application/ld+json" is:inline set:html={JSON.stringify(schema)} />

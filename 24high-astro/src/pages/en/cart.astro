@@ -1,0 +1,274 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
+import Button from '../../components/ui/Button.astro';
+
+// The basket lives in the visitor's own browser, so the page ships a lookup
+// table keyed by SKU and renders the contents client-side.
+const products = await getCollection('products');
+const lookup = Object.fromEntries(
+  products.map((p) => [
+    p.data.sku,
+    {
+      t: p.data.title,
+      s: p.slug,
+      p: p.data.price,
+      i: p.data.images[0] ?? '',
+    },
+  ])
+);
+
+const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
+---
+
+<BaseLayout title="Your basket" description="Review the items in your 24High basket." noindex>
+  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'Basket' }]} />
+
+  <div class="cart">
+    <h1>Your basket</h1>
+
+    <div data-cart-empty hidden class="cart__empty">
+      <p>Your basket is empty.</p>
+      <Button href="/en/shop/mushrooms" iconEnd="arrow-right">Start shopping</Button>
+    </div>
+
+    <div data-cart-filled hidden>
+      <ul class="cart__list" role="list" data-cart-list></ul>
+
+      <div class="cart__foot">
+        <div class="cart__total">
+          <span>Total</span>
+          <strong data-cart-total>&euro;0.00</strong>
+        </div>
+        <p class="cart__note">
+          Checkout runs on the 24High order system, which this static build does not
+          include. Your basket is stored in this browser only.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <script type="application/json" id="cart-lookup" is:inline set:html={safe(lookup)} />
+
+  <script>
+    interface Row { t: string; s: string; p: number | null; i: string }
+
+    const el = document.getElementById('cart-lookup');
+    const LOOKUP: Record<string, Row> = el ? JSON.parse(el.textContent || '{}') : {};
+    const KEY = '24high-cart';
+    const money = new Intl.NumberFormat('en-IE', { style: 'currency', currency: 'EUR' });
+
+    const list = document.querySelector<HTMLElement>('[data-cart-list]');
+    const empty = document.querySelector<HTMLElement>('[data-cart-empty]');
+    const filled = document.querySelector<HTMLElement>('[data-cart-filled]');
+    const totalEl = document.querySelector<HTMLElement>('[data-cart-total]');
+
+    function read(): Record<string, number> {
+      try {
+        return JSON.parse(localStorage.getItem(KEY) || '{}');
+      } catch {
+        return {};
+      }
+    }
+
+    function write(cart: Record<string, number>) {
+      try {
+        localStorage.setItem(KEY, JSON.stringify(cart));
+      } catch {
+        /* storage unavailable */
+      }
+    }
+
+    function paint() {
+      const cart = read();
+      const skus = Object.keys(cart).filter((s) => LOOKUP[s] && cart[s] > 0);
+      if (!list || !empty || !filled || !totalEl) return;
+
+      empty.hidden = skus.length > 0;
+      filled.hidden = skus.length === 0;
+
+      let total = 0;
+      list.innerHTML = skus
+        .map((sku) => {
+          const row = LOOKUP[sku];
+          const qty = cart[sku];
+          const line = (row.p ?? 0) * qty;
+          total += line;
+          return `
+            <li class="line">
+              <img src="${row.i ? `/images/products/${row.i}-200.webp` : '/favicon.svg'}"
+                   alt="" width="64" height="64" loading="lazy" />
+              <a class="line__t" href="/en/product/${row.s}">${row.t}</a>
+              <span class="line__q">
+                <button type="button" data-dec="${sku}" aria-label="Decrease quantity">−</button>
+                <span>${qty}</span>
+                <button type="button" data-inc="${sku}" aria-label="Increase quantity">+</button>
+              </span>
+              <span class="line__p">${money.format(line)}</span>
+              <button class="line__x" type="button" data-rm="${sku}" aria-label="Remove">Remove</button>
+            </li>`;
+        })
+        .join('');
+
+      totalEl.textContent = money.format(total);
+      document.querySelectorAll<HTMLElement>('[data-cart-count]').forEach((c) => {
+        const n = skus.reduce((a, s) => a + cart[s], 0);
+        c.textContent = String(n);
+        c.hidden = n === 0;
+      });
+    }
+
+    document.addEventListener('click', (e) => {
+      const t = e.target as HTMLElement;
+      const cart = read();
+      const inc = t.dataset.inc, dec = t.dataset.dec, rm = t.dataset.rm;
+      if (inc) cart[inc] = (cart[inc] || 0) + 1;
+      else if (dec) cart[dec] = Math.max(0, (cart[dec] || 0) - 1);
+      else if (rm) delete cart[rm];
+      else return;
+      if (dec && cart[dec] === 0) delete cart[dec];
+      write(cart);
+      paint();
+    });
+
+    paint();
+  </script>
+</BaseLayout>
+
+<style>
+  .cart {
+    max-width: 52rem;
+    margin-inline: auto;
+    padding-block: 1.5rem;
+  }
+
+  .cart h1 {
+    margin-block-end: 1.5rem;
+    font-size: var(--step-4);
+  }
+
+  .cart__empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 3rem 1.5rem;
+    background: var(--surface);
+    border: 1px dashed var(--line);
+    border-radius: var(--radius-lg);
+    color: var(--ink-2);
+  }
+
+  .cart__list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .cart__list :global(.line) {
+    display: grid;
+    grid-template-columns: 64px 1fr auto auto auto;
+    align-items: center;
+    gap: 0.9rem;
+    padding: 0.6rem 0.8rem;
+    background: var(--surface);
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius);
+  }
+
+  .cart__list :global(.line img) {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+    background: var(--surface-2);
+  }
+
+  .cart__list :global(.line__t) {
+    color: var(--ink);
+    font-weight: 500;
+    text-decoration: none;
+  }
+
+  .cart__list :global(.line__q) {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cart__list :global(.line__q button) {
+    width: 1.6rem;
+    height: 1.6rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    color: var(--ink-2);
+    line-height: 1;
+  }
+
+  .cart__list :global(.line__q button:hover) {
+    border-color: var(--spruce);
+    color: var(--spruce);
+  }
+
+  .cart__list :global(.line__p) {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cart__list :global(.line__x) {
+    font-size: 0.7rem;
+    color: var(--ink-3);
+    text-decoration: underline;
+  }
+
+  .cart__list :global(.line__x:hover) {
+    color: var(--danger);
+  }
+
+  .cart__foot {
+    margin-block-start: 1.2rem;
+    padding: 1.2rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+  }
+
+  .cart__total {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+  }
+
+  .cart__total strong {
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cart__note {
+    margin-block-start: 0.8rem;
+    padding-block-start: 0.8rem;
+    border-block-start: 1px solid var(--line-soft);
+    color: var(--ink-3);
+    font-size: var(--step--1);
+  }
+
+  @media (max-width: 640px) {
+    .cart__list :global(.line) {
+      grid-template-columns: 56px 1fr auto;
+      grid-template-areas: 'img title price' 'img qty remove';
+      row-gap: 0.5rem;
+    }
+    .cart__list :global(.line img)      { grid-area: img; width: 56px; height: 56px; }
+    .cart__list :global(.line__t)       { grid-area: title; }
+    .cart__list :global(.line__q)       { grid-area: qty; }
+    .cart__list :global(.line__p)       { grid-area: price; }
+    .cart__list :global(.line__x)       { grid-area: remove; justify-self: end; }
+  }
+</style>

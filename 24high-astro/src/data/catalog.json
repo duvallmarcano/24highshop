@@ -1,0 +1,382 @@
+{
+  "cbdshop": {
+    "cbd-crystals": {
+      "count": 4,
+      "label": "CBD Crystals"
+    },
+    "cbd-edibles": {
+      "count": 20,
+      "label": "CBD Edibles"
+    },
+    "cbd-oil": {
+      "count": 7,
+      "label": "CBD Oil"
+    },
+    "cbd-paste": {
+      "count": 2,
+      "label": "CBD Paste"
+    },
+    "cbd-vitamins": {
+      "count": 1,
+      "label": "CBDSHOP"
+    },
+    "top-10-cbd-products": {
+      "count": 4,
+      "label": "Top 10 CBD Products"
+    }
+  },
+  "headshop": {
+    "420-lifestyle": {
+      "count": 34,
+      "label": "4:20 Lifestyle"
+    },
+    "bongs": {
+      "count": 2,
+      "label": "Bongs"
+    },
+    "bongs-acryl": {
+      "count": 6,
+      "label": "Bongs - Acryl"
+    },
+    "bongs-ceramic": {
+      "count": 2,
+      "label": "Bongs - Ceramic"
+    },
+    "bongs-glass": {
+      "count": 11,
+      "label": "Bongs - Glass"
+    },
+    "books": {
+      "count": 15,
+      "label": "Books"
+    },
+    "cannabis-edibles": {
+      "count": 17,
+      "label": "Cannabis Edibles"
+    },
+    "capsule-machines": {
+      "count": 6,
+      "label": "Capsule machines"
+    },
+    "extraction-systems": {
+      "count": 2,
+      "label": "Extraction systems"
+    },
+    "grinders": {
+      "count": 1,
+      "label": "Grinders"
+    },
+    "grinders-acryl": {
+      "count": 9,
+      "label": "Grinders -  Acryl"
+    },
+    "grinders-creditcard-grinder": {
+      "count": 12,
+      "label": "Grinders - Creditcard Grinder"
+    },
+    "grinders-iron": {
+      "count": 29,
+      "label": "Grinders - Iron"
+    },
+    "grinders-wood": {
+      "count": 1,
+      "label": "Grinders - Wood"
+    },
+    "party-goods": {
+      "count": 13,
+      "label": "Party Goods"
+    },
+    "pipes-glass-pipes": {
+      "count": 10,
+      "label": "Pipes - Glass Pipes"
+    },
+    "pipes-metal-pipes": {
+      "count": 10,
+      "label": "Pipes - Metal Pipes"
+    },
+    "pipes-pipe-screens-accessories": {
+      "count": 2,
+      "label": "Pipes - Pipe screens & accessories"
+    },
+    "pipes-wooden-pipes": {
+      "count": 2,
+      "label": "Pipes - Wooden Pipes"
+    },
+    "scales-mini-scales": {
+      "count": 1,
+      "label": "Scales - Mini Scales"
+    },
+    "scales-parts": {
+      "count": 2,
+      "label": "Scales - Parts"
+    },
+    "scales-pocket-scales": {
+      "count": 11,
+      "label": "Scales - Pocket Scales"
+    },
+    "scales-table-scales": {
+      "count": 8,
+      "label": "Scales - Table Scales"
+    },
+    "smoking-accessories": {
+      "count": 12,
+      "label": "Smoking Accessories"
+    },
+    "smoking-accessories-ashtrays": {
+      "count": 26,
+      "label": "Smoking Accessories - Ashtrays"
+    },
+    "smoking-accessories-cones": {
+      "count": 6,
+      "label": "Smoking Accessories - Cones"
+    },
+    "smoking-accessories-lighter": {
+      "count": 15,
+      "label": "Smoking Accessories - Lighter"
+    },
+    "smoking-accessories-rolling-papers": {
+      "count": 33,
+      "label": "Smoking Accessories - Rolling Papers"
+    },
+    "smoking-accessories-rolling-trays": {
+      "count": 29,
+      "label": "Smoking Accessories - Rolling Trays"
+    },
+    "smoking-accessories-tips": {
+      "count": 6,
+      "label": "Smoking Accessories - Tips"
+    },
+    "sniff-articles": {
+      "count": 33,
+      "label": "Sniff articles"
+    },
+    "souvenir-en-gadgets": {
+      "count": 4,
+      "label": "Souvenir en Gadgets"
+    },
+    "stash-storage-boxes": {
+      "count": 27,
+      "label": "Stash & Storage boxes"
+    },
+    "top-10-headshop": {
+      "count": 8,
+      "label": "Top 10 Headshop"
+    },
+    "weed-bags": {
+      "count": 11,
+      "label": "Weed Bags"
+    }
+  },
+  "healthshop": {
+    "creativity": {
+      "count": 10,
+      "label": "Creativity"
+    },
+    "energy": {
+      "count": 30,
+      "label": "Energy"
+    },
+    "focus-amp-concentration": {
+      "count": 1,
+      "label": "Focus & Concentration"
+    },
+    "heart-and-blood-vessels": {
+      "count": 21,
+      "label": "Heart and blood vessels"
+    },
+    "immune-system": {
+      "count": 10,
+      "label": "Immune system"
+    },
+    "sleep": {
+      "count": 1,
+      "label": "Sleep"
+    },
+    "superfood": {
+      "count": 1,
+      "label": "Superfood"
+    }
+  },
+  "mushrooms": {
+    "all-in-one-growkits": {
+      "count": 15,
+      "label": "All In One Growkits"
+    },
+    "fresh-mushrooms-growkits": {
+      "count": 10,
+      "label": "Fresh Mushrooms Growkits"
+    },
+    "grow-supplies": {
+      "count": 36,
+      "label": "Grow supplies"
+    },
+    "growkit-specials": {
+      "count": 10,
+      "label": "Growkit Specials"
+    },
+    "growkits-mushroom": {
+      "count": 4,
+      "label": "Growkits Mushroom"
+    },
+    "liquid-culture-syringes": {
+      "count": 34,
+      "label": "Liquid Culture Syringes"
+    },
+    "magic-truffles": {
+      "count": 34,
+      "label": "Magic Truffles"
+    },
+    "medicinal-mushrooms": {
+      "count": 9,
+      "label": "Medicinal Mushrooms"
+    },
+    "microdosing": {
+      "count": 1,
+      "label": "Microdosing"
+    },
+    "mondo-growkits": {
+      "count": 2,
+      "label": "Mondo Growkits"
+    },
+    "mystic-fungi-growkits": {
+      "count": 5,
+      "label": "Mystic Fungi Growkits"
+    },
+    "spore-vial": {
+      "count": 4,
+      "label": "Spore Vial"
+    },
+    "spores-shrooms": {
+      "count": 5,
+      "label": "Spores Shrooms"
+    }
+  },
+  "seedshop": {
+    "autoflower-seeds": {
+      "count": 40,
+      "label": "Autoflower Seeds"
+    },
+    "brands-vision-seeds": {
+      "count": 2,
+      "label": "Brands - Vision Seeds"
+    },
+    "cbd-seeds": {
+      "count": 10,
+      "label": "Cbd Seeds"
+    },
+    "feminized-seeds": {
+      "count": 60,
+      "label": "Feminized Seeds"
+    },
+    "grow-supplies": {
+      "count": 28,
+      "label": "Grow supplies"
+    },
+    "high-thc-strain": {
+      "count": 1,
+      "label": "High THC Strain"
+    },
+    "top-10-outdoor-seeds": {
+      "count": 8,
+      "label": "Top 10 Outdoor Seeds"
+    },
+    "top10-seeds": {
+      "count": 10,
+      "label": "Top10 Seeds"
+    }
+  },
+  "smartshop": {
+    "ceremonial-accessories": {
+      "count": 4,
+      "label": "Ceremonial Accessories"
+    },
+    "ceremonial-cacao": {
+      "count": 2,
+      "label": "Ceremonial Cacao"
+    },
+    "ceremonial-herbs": {
+      "count": 5,
+      "label": "Ceremonial Herbs"
+    },
+    "ceremonial-incense-smudge": {
+      "count": 12,
+      "label": "Ceremonial Incense, Smudge"
+    },
+    "ceremonies": {
+      "count": 23,
+      "label": "Ceremonies"
+    },
+    "dream-herbs": {
+      "count": 7,
+      "label": "Dream Herbs"
+    },
+    "energizers": {
+      "count": 12,
+      "label": "Energizers"
+    },
+    "erotic": {
+      "count": 40,
+      "label": "Erotic"
+    },
+    "exotic-seeds": {
+      "count": 15,
+      "label": "Exotic Seeds"
+    },
+    "hallucinating-herbs": {
+      "count": 14,
+      "label": "Hallucinating herbs"
+    },
+    "happy-caps-e": {
+      "count": 11,
+      "label": "Happy Caps E"
+    },
+    "kanna": {
+      "count": 15,
+      "label": "Kanna"
+    },
+    "kratom": {
+      "count": 38,
+      "label": "Kratom"
+    },
+    "lsa-yopo-5-meo-dmt-seeds": {
+      "count": 1,
+      "label": "LSA & Yopo ( 5-meo-DMT) seeds"
+    },
+    "medicinal-herbs": {
+      "count": 25,
+      "label": "Medicinal herbs"
+    },
+    "mescaline-cacti": {
+      "count": 20,
+      "label": "Mescaline Cacti"
+    },
+    "rape": {
+      "count": 8,
+      "label": "Rap\u00e9"
+    },
+    "recovery-detox-tripstopper": {
+      "count": 2,
+      "label": "Recovery & Detox & Tripstopper"
+    },
+    "relaxation": {
+      "count": 5,
+      "label": "Relaxation"
+    },
+    "suplements-vitamins": {
+      "count": 1,
+      "label": "Suplements & Vitamins"
+    },
+    "test-for-drugs": {
+      "count": 25,
+      "label": "Test for drugs"
+    },
+    "tinctures": {
+      "count": 2,
+      "label": "Tinctures"
+    },
+    "top-10-smartshop": {
+      "count": 9,
+      "label": "Top 10 Smartshop"
+    }
+  }
+}

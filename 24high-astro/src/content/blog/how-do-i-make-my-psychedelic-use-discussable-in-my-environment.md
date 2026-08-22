@@ -1,0 +1,26 @@
+---
+title: "How Do I Make My Psychedelic Use Discussable In My Environment?"
+description: "Want to discuss your psychedelic use with those around you, such as friends, family or your therapist? Here are our tips!"
+heroImage: "/images/news/322-1707900953-400x300.webp"
+publishedAt: "2024-02-07"
+updatedAt: "2026-02-10"
+author: "24High"
+---
+
+<p>If you use psychedelics and benefit or enjoy them, you would prefer to tell the whole world. And of course show your friends and loved ones how valuable tripping or <a href="/en/shop/mushrooms/microdosing">microdosing</a> can be. Even in therapy, it would help clients if use of psychedelics is discussable. Unfortunately, this is not the case with every mental health provider. Despite our country being quite progressive, there is still quite a stigma attached to psychedelic use. Especially among healthcare providers. A missed opportunity, because more and more studies are showing that mind-altering drugs have a lot of potential in therapeutic settings. If you would still like to be open about your experiences with people around you, here are some tips for you.<br/><br/></p>
+<h2>Get rid of the stigma</h2>
+<p>There is still a stigma attached to the use of psychedelics, just like to drug use in general. Many people have all sorts of preconceptions about drugs. Also, because they are unfamiliar with them and misinformed. Or they only read about drugs when things go wrong, like on Facebook and news reports. And the criminalisation of psychedelics also doesn't help the perception of these substances. After the Flower Power period when LSD was everywhere and a lot of research was done on psychedelics, governments suddenly intervened. Suddenly, psychedelics were seen as dangerous, making their use illegal and research into them with it. And so all chances of giving psychedelics a positive reputation disappeared.<br/><br/></p>
+<h2>Discussing psychedelics: our tips</h2>
+<p>Discussing your psychedelic use can be challenging, but it can also lead to more understanding and openness in your environment. Depending on the target group, of course. By being honest about your experiences and knowledgeable, you can show others that psychedelics are not dangerous, but can actually have benefits. At least for yourself. So how best to go about this? Follow the tips below and you will be fine.</p>
+<h3>1. Prepare yourself and have knowledge ready</h3>
+<p>Before starting the conversation, it is important to inform yourself well about psychedelics. Read up on scientific literature and other reliable sources. Think universities and Google Scholar - not YouTube or Facebook. Know how to back up your arguments with scientific knowledge and make sure you can formulate a clear answer when counter-argued. Most people will not disregard hard evidence. That trip drugs like <a href="/en/">magic mushrooms</a> and magic truffles can have <a href="/en/">benefits</a> is increasingly well known. For example, there is increasing research showing that <a href="/en/">psychedelics can have benefits for certain mental disorders</a>, such as depression, anxiety disorders and <a href="/en/">addictions</a>. Share this information to show that there is serious scientific interest in psychedelics.</p>
+<h3>2. Timing and audience</h3>
+<p>You probably already know some people are unconvincing. With others, you probably see opportunities to have a nice conversation about psychedelic use. Things can also get messy in the healthcare sector. Some therapists or social workers are more open to it than others. If you would like to discuss your psychedelic use within your therapy, assess your chances well. If necessary, you can change therapists when it is really an important topic for you. Also choose the right moment for such a conversation. Someone should have the space for it in all respects.</p>
+<h3>3. Keep it to yourself</h3>
+
+<h3>4. Respect other opinions</h3>
+<p>It is important to respect the opinions of others. Even if they disagree with you or come up with frustrating, incorrect arguments. Some people may have had negative experiences with psychedelics or drugs. Or have other reasons for being negative about it, such as religious objections. Listen to their concerns and try to have an open dialogue without being judgmental or defensive. And trust that in time they will recognise that you have been doing well since or while using psychedelics.</p>
+<h3>5. Be honest about the risks</h3>
+<p>There are risks associated with all substance use. So don't be nonchalant about it and make this aspect negotiable as well. Explain that psychedelics can be potentially dangerous when abused and for certain target groups. Emphasise the importance of being responsible and taking proper precautions. In this way, show that you are aware of the possible risks, how to minimise them and handle them responsibly.</p>
+<h3>Be patient</h3>
+<p>Not everyone will immediately understand your psychedelic use. No matter how convincing your story is. Give these people some space to process your shared experience and stay open for a (follow-up) conversation. Some people might just need some time to reconsider their opinions or gather more information. And who knows, you might soon be sitting with your mother or psychologist on the <a href="/en/shop/mushrooms/magic-truffles">magic truffles</a>....</p>

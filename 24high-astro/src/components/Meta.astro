@@ -1,40 +1,76 @@
 ---
+import { SITE, LOCALES } from '../data/site';
+
 interface Props {
   title: string;
   description?: string;
-  lang?: string;
-  ogImage?: string;
-  canonical?: string;
+  image?: string;
+  type?: 'website' | 'article' | 'product';
+  noindex?: boolean;
 }
 
 const {
   title,
-  description = '24High is the smartshop for all your psychedelic needs.',
-  lang = 'en',
-  ogImage = 'https://www.24high.com/images/layout/logo.png',
-  canonical = '',
+  description = SITE.description,
+  image = '/images/layout/logo-200.png',
+  type = 'website',
+  noindex = false,
 } = Astro.props;
+
+// Astro builds directory-style URLs, and the sitemap emits them with a
+// trailing slash — canonical has to agree with it or the two disagree about
+// which URL is the real one.
+const path = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
+const canonical = new URL(path, SITE.url).href;
+const ogImage = new URL(image, SITE.url).href;
+const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 ---
+
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>{title}</title>
+<title>{fullTitle}</title>
 <meta name="description" content={description} />
-<meta name="author" content="24High" />
-<meta property="og:title" content={title} />
+<link rel="canonical" href={canonical} />
+{noindex && <meta name="robots" content="noindex, nofollow" />}
+
+<meta property="og:site_name" content={SITE.name} />
+<meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={ogImage} />
-<meta property="og:type" content="website" />
-{canonical && <link rel="canonical" href={canonical} />}
-<link rel="alternate" hreflang="en" href="https://www.24high.com/en/" />
-<link rel="alternate" hreflang="nl" href="https://www.24high.nl/" />
-<link rel="alternate" hreflang="fr" href="https://www.24high.fr/" />
-<link rel="alternate" hreflang="de" href="https://www.24high.de/" />
-<link rel="alternate" hreflang="es" href="https://www.24high.es/" />
-<link rel="alternate" hreflang="it" href="https://www.24high.it/" />
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-<link rel="stylesheet" href="/css/site.css" />
+<meta property="og:type" content={type === 'product' ? 'website' : type} />
+<meta property="og:url" content={canonical} />
+<meta property="og:locale" content="en_GB" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImage} />
+
+{LOCALES.map((l) => <link rel="alternate" hreflang={l.code} href={l.href} />)}
+<link rel="alternate" hreflang="x-default" href={`${SITE.url}/en/`} />
+
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="icon" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<meta name="theme-color" content="#0e5138" />
+
 <link rel="preconnect" href="https://fonts.googleapis.com" />
-<link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
-<script defer src="https://kit.fontawesome.com/7f43e329c7.js" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap"
+/>
+
+{/* Resolve the stored theme before first paint so the page never flashes. */}
+<script is:inline>
+  (function () {
+    try {
+      var t = localStorage.getItem('24high-theme');
+      if (t === 'dark' || t === 'light') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {
+      /* private mode — fall back to the OS preference */
+    }
+  })();
+</script>

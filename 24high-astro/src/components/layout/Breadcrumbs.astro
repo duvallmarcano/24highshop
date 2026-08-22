@@ -1,0 +1,81 @@
+---
+import Icon from '../ui/Icon.astro';
+import { SITE } from '../../data/site';
+
+export interface Crumb {
+  label: string;
+  href?: string;
+}
+
+interface Props {
+  items: Crumb[];
+}
+
+const { items } = Astro.props;
+
+// Breadcrumb structured data, emitted once from the component that already
+// knows the trail rather than hand-written per page.
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: items.map((c, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: c.label,
+    ...(c.href && { item: new URL(c.href, SITE.url).href }),
+  })),
+};
+---
+
+<nav class="crumbs" aria-label="Breadcrumb">
+  <ol role="list">
+    {
+      items.map((c, i) => (
+        <li>
+          {c.href && i < items.length - 1 ? (
+            <a href={c.href}>{c.label}</a>
+          ) : (
+            <span aria-current="page">{c.label}</span>
+          )}
+          {i < items.length - 1 && <Icon name="chevron-right" size={13} />}
+        </li>
+      ))
+    }
+  </ol>
+</nav>
+
+<script type="application/ld+json" is:inline set:html={JSON.stringify(schema)} />
+
+<style>
+  .crumbs ol {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .crumbs li {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: var(--step--1);
+    color: var(--ink-3);
+  }
+
+  .crumbs a {
+    color: var(--ink-3);
+    text-decoration: none;
+  }
+
+  .crumbs a:hover {
+    color: var(--spruce);
+    text-decoration: underline;
+  }
+
+  .crumbs [aria-current='page'] {
+    color: var(--ink-2);
+  }
+</style>

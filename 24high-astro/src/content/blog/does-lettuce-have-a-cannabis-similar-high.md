@@ -1,0 +1,25 @@
+---
+title: "Does Lettuce Have A Cannabis Similar High?"
+description: "Does poison lettuce have a cannabis comparable high? We looked it up for you and wrote a blog about it. Are you reading along?"
+heroImage: "/images/news/146-1649236159-400x300.webp"
+publishedAt: "2022-03-28"
+updatedAt: "2026-02-10"
+author: "24High"
+---
+
+<p>Poison lettuce is something we hear more and more often. You sometimes hear that it could have the same effect as cannabis. But is this true? What is poison lettuce, and how does it work? We looked it up for you and wrote a blog about it.<br/><br/></p>
+<h2>What is poison lettuce?</h2>
+<p>Poison lettuce is also called <a href="/en/product/8101570-wild-lettuce-indian-elements">wild lettuce,</a> (relative of our common lettuce), called opium lettuce, poisonous lettuce, or lactuca virosa. It is native to England, India and Pakistan (Punjab region). Wild Lettuce is a plant of one and a half meters high and has large stems with large leaves and yellow flowers. The plant can grow up to 1.8 meters high with the right amount of sun and regulation. Under the influence of a certain touch and certain weather, a milky, white substance can arise from the plant. Also known as: lactucarium.</p>
+<p>Lactucarium is nowadays used in powders, oils and pills for many different reasons. For a long time ago, poison lettuce was introduced to Europe by the Romans and used for its pain-relieving and sleep-inducing effects. Poison lettuce also became very popular with the hippies in the 60s and 70s. This is due to the slightly euphoric and relaxed effect of poison lettuce. The hippies were of course a big fan of this. And in this day and age, poison lettuce is still very widely used and very popular. We'll tell you why below.<br/><br/></p>
+
+<h2>More rest and better sleep with poison lettuce</h2>
+<p>Wild Lettuce is a plant that is used for its analgesic and soothing properties. It is mainly used by people interested in alternatives to contemporary medicines. The poison lettuce can have a very relaxing effect so that you can get rid of your restlessness and can finally relax a little more.</p>
+<p>The herb gives weak nerves a nice rest, which helps you relax during stressful moments. Also, poison lettuce is sometimes used in children to improve their skills <a href="/en/">sleep</a>. In this way, the child becomes relaxed, and the child can often sleep more peacefully, but it is important to pay attention to the right amount. Poison lettuce can also be used as part of a holistic herbal treatment for cough and irritated airways. It could work very well in case of a prolonged cough. Traditionally, doctors used Wild Lettuce as a pain reliever and a treatment for conditions such as whooping cough. Natural medicinal plants have been used since ancient times. A very nice way to treat a lot of symptoms and complaints in a natural way.</p>
+<p><a href="/en/product/8101742-wild-lettuce-50x-extract">Poison lettuce</a> contains psychoactive ingredients. These components are called lactucopicrin &amp; lactucin. They have sedative and sedative properties and are therefore sometimes compared to an opiate. However, this substance is not addictive, so it is just can be used.<br/><br/></p>
+<h2>Can I get high on poison lettuce?</h2>
+<p>A large dose gives a slight effect of a high, while a small dose promotes rest/sleep. Of course, the Wild Lettuce is not addictive, as is the case with Opium! The drug is sometimes compared with <a href="/en/">cannabis</a> because of its relaxed effect. If you don't get a real high from it, you should really switch to smoking cannabis. This substance is many times stronger, and you really get a high from this. You could use poison lettuce if you want to feel a little more relaxed and a little calmer. Of course, it's – just like any other product – the more you ingest, the faster you get high. So with a large dose of poison lettuce, you could feel a slight high. Some people also use it during the <a href="/en/">sex</a>, the feeling would be experienced more intensely, and you would get more pleasure from it. This of course also results in a light high. Might be fun to try with your partner.<br/><br/></p>
+
+<h2>How do I use poison lettuce?</h2>
+<p>Poison lettuce is often drunk as a herbal tea. A very nice tea that makes you very calm. Nice to drink on the couch in the evening before going to sleep, for example. Or maybe before you make love with your partner. Good to know is that poison lettuce is not addictive, and you can use it in the longer term.</p>
+<h3>Conclusion</h3>
+<p>Poison lettuce can't get you very high, but some people associate it with a slightly comparable cannabis high. If you really want to get high, you should take the herb in large amounts. For a real high, you better use the <a href="/en/"> substance THC</a> ingest. This is in weed and hash. Poison lettuce has a calming effect and can help you relax and sleep better. Because of the relaxed feeling it gives you, it is sometimes associated with cannabis.</p>

@@ -1,0 +1,24 @@
+---
+title: "These Herbs And Spices Are Super Healthy"
+description: "Want tastier and healthier food? Then go for these herbs and spices. An explosion of flavour and health!"
+heroImage: "/images/news/355-1718795422-400x300.webp"
+publishedAt: "2024-05-29"
+updatedAt: "2024-06-19"
+author: "24High"
+---
+
+<p>Nature is full of healthy plants and herbs that can perk up your body and brain. Some of them are super tasty too. So with those spices you can not only give your meals an extra taste experience, but also strengthen your <a href="/en/">immune system</a>, inhibit inflammation, calm your mind and improve your general health.</p>
+<p>Read here which ones are essential in your spice rack and meals. With these super-healthy herbs and spices, get the best of both worlds in your kitchen!<br/><br/></p>
+<h2>Turmeric: the yellow gold among healthy spices</h2>
+<p>Turmeric, also known as turmeric, is a bright orange-coloured spice with a worm-like shape. The active ingredient in turmeric, curcumin, has very powerful, anti-inflammatory and antioxidant properties. If you are <a href="/en/">always sick</a>, turmeric is something that can give your immune system a boost. It is truly a wonder tuber, just like its little brother ginger for that matter. Scientific <a href="https://www.mdpi.com/2304-8158/6/10/92">studies</a> show that turmeric can help with an awful lot of complaints and conditions. For instance, in reducing pain, improving digestion and protecting against various diseases. But it can also help with muscle recovery after a hard workout. What has also become clear from scientific studies is that turmeric is absorbed much better when taken together with black pepper. That is why you will find this combo in our <a href="/en/product/1202911-curcumin-turmeric-complex-together">Curcumin &amp; Turmeric Complex</a>.</p>
+<p>Cooking with turmeric is of course also possible! Make a tasty curry or throw it in your chai tea, together with a dash of oat milk. You can also make shots of turmeric. Watch your clothes and countertop though, as this little root can leave intense orange stains.<br/><br/></p>
+<h2>Go for ginger</h2>
+<p>Ginger is also super healthy and really shouldn't be missing from your rack of herbs and spices. Or in your fruit basket, of course. You can buy it in powder form or use it fresh. Like turmeric, ginger root has been used in <a href="/en/">traditional medicine</a> for many centuries to combat inflammation and pain. It also appears to help very well with nausea. If you are ever nauseous while tripping, get ginger in the house. Make a strong tea of it or eat a slice raw, if you can stand spicy.<br/><br/></p>
+
+<h2>Garlic: the super-healthy seasoning for cooking</h2>
+<p>Garlic is a standard ingredient in the kitchen for many people, either fresh or among the jars of spices. But it is also a powerful medicine! <a href="https://www.aafp.org/pubs/afp/issues/2005/0701/p103">Garlic</a> has antibacterial, antifungal and viral properties. It can help with all kinds of complaints: from lowering blood pressure and cholesterol levels to the risk of heart disease. This divine plant has been used for thousands of years in India and the East, among others; the first signs of garlic as a medicine date back 5,000 years.</p>
+<p>The recommended dose of garlic per day should be attainable if you love it: 1-2 cloves of fresh garlic per day is enough. Add it to dressings, sauces, soups, vegetable wok, casseroles, curries and sandwiches. Also, delicious: cook a whole bulb of garlic in the oven until the cloves are nice and soft. The flavour then becomes less intense and spicy, allowing you to eat a lot more of it.<br/><br/></p>
+<h2>Cinnamon: most popular healthy spice</h2>
+<p>Did you know that cinnamon is the most widely used spice in the world? And then it's hyper healthy too! Add cinnamon to your coffee, tea, oatmeal, curry, bowl of fruit, desserts and baking. Cinnamon is good for any. Especially if you want to get or stay healthy. For instance, it can help stabilise blood sugar levels and inhibit inflammation and bacteria. Want an original healthy sniff with herbs and spices? Then Herbal Speed Energizer comes highly recommended!<br/><br/></p>
+<h2>More healthy herbs that taste less delicious</h2>
+<p>Besides all those tasty healthy herbs and spices, there are many more plants that are good for your health. Unfortunately, these are not always very tasty, so we would advise against cooking with them. But they are super healthy, each for their own reasons. Looking for <a href="/en/">herbs for more energy</a>? Then go for Ginkgo Biloba or Guarana, for example. If you need to unwind and sleep better, there are also herbs that promote sleep and calm your brain. <a href="/en/">Valerian</a>, for example. If your little gentleman needs to last longer in bed, then ginseng, among others, can help with your <a href="/en/">erection problems</a>.</p>

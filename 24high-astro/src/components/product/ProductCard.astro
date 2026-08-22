@@ -1,0 +1,168 @@
+---
+import Badge from '../ui/Badge.astro';
+import Price from '../ui/Price.astro';
+import { firstImage, productSrcSet } from '../../lib/images';
+
+interface Props {
+  slug: string;
+  title: string;
+  price: number | null;
+  currency?: string;
+  inStock?: boolean;
+  images?: string[];
+  categoryLabel?: string;
+  /** Cards in a horizontal rail size themselves differently. */
+  compact?: boolean;
+  /** Above-the-fold cards should not lazy-load. */
+  eager?: boolean;
+}
+
+const {
+  slug,
+  title,
+  price,
+  currency = 'EUR',
+  inStock = true,
+  images = [],
+  categoryLabel = '',
+  compact = false,
+  eager = false,
+} = Astro.props;
+
+const href = `/en/product/${slug}`;
+const src = firstImage(images, 1000);
+const srcset = images.length ? productSrcSet(images[0]) : undefined;
+---
+
+<article class:list={['card', compact && 'card--compact']}>
+  <a class="card__media" href={href} tabindex="-1" aria-hidden="true">
+    <img
+      src={src}
+      srcset={srcset}
+      sizes="(max-width: 600px) 45vw, 260px"
+      alt=""
+      width="260"
+      height="260"
+      loading={eager ? 'eager' : 'lazy'}
+      decoding="async"
+    />
+    {!inStock && <Badge tone="warn" class="card__stock">Sold out</Badge>}
+  </a>
+
+  <div class="card__body">
+    {categoryLabel && <p class="card__cat">{categoryLabel}</p>}
+    <h3 class="card__title">
+      <a href={href}>{title}</a>
+    </h3>
+    <div class="card__foot">
+      <Price value={price} currency={currency} size="sm" />
+      {inStock && <span class="card__ready">In stock</span>}
+    </div>
+  </div>
+</article>
+
+<style>
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: var(--surface);
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    transition: border-color 0.16s ease, box-shadow 0.16s ease, transform 0.16s ease;
+  }
+
+  .card:hover {
+    border-color: var(--line);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+
+  .card:focus-within {
+    border-color: var(--spruce);
+  }
+
+  .card__media {
+    position: relative;
+    display: block;
+    aspect-ratio: 1;
+    background: var(--surface-2);
+  }
+
+  .card__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .card__stock {
+    position: absolute;
+    inset-block-start: 0.6rem;
+    inset-inline-start: 0.6rem;
+  }
+
+  .card__body {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 0.85rem 0.9rem 0.95rem;
+  }
+
+  .card__cat {
+    font-family: var(--font-mono);
+    font-size: 0.64rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .card__title {
+    font-size: var(--step-0);
+    font-weight: 550;
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+  }
+
+  .card__title a {
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  /* let the whole card be the hit target without nesting interactive elements */
+  .card__title a::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+
+  .card__title a:hover {
+    color: var(--spruce);
+  }
+
+  .card__foot {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-block-start: auto;
+    padding-block-start: 0.5rem;
+  }
+
+  .card__ready {
+    font-family: var(--font-mono);
+    font-size: 0.64rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ok);
+  }
+
+  .card--compact .card__body {
+    padding: 0.7rem 0.75rem 0.8rem;
+  }
+
+  .card--compact .card__title {
+    font-size: var(--step--1);
+  }
+</style>

@@ -1,19 +1,23 @@
 {
-  "name": "24high-astro",
+  "name": "24high",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "check": "astro check",
+    "astro": "astro",
+    "extract": "python3 scripts/extract_content.py",
+    "normalize:images": "python3 scripts/normalize_images.py"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.10",
-    "astro": "^4.14.0"
+    "@astrojs/sitemap": "3.2.1",
+    "astro": "^4.16.19"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.10",
     "typescript": "^5.9.3"
   }
 }

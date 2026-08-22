@@ -1,0 +1,26 @@
+---
+title: "The Spirituality Of Fasting: Good For Body And Mind?"
+description: "How spiritual is fasting? Read here how to apply fasting for more spirituality in your life"
+heroImage: "/images/news/334-1711875570-400x300.webp"
+publishedAt: "2024-03-29"
+updatedAt: "2024-03-31"
+author: "24High"
+---
+
+<p>Like <a href="/en/">meditation</a>, fasting is a good way to get to <a href="/en/">know yourself</a> and clear your mind. Fasting and spirituality are not entirely surprisingly linked. You see this in various religions, for example, from Muslim Ramadan to Jewish traditions, Buddhists and Hindus. But you don't have to believe in a god to reap the spiritual benefits of fasting. Read here why fasting fits into a spiritual life and how to go about it.<br/><br/></p>
+<h2>Why is fasting spiritual?</h2>
+<p>There are several reasons why fasting is associated with the spiritual. For instance, it is not entirely coincidental that psychedelics are much better taken on an empty stomach. Most have to do with developing and improving yourself and how you relate to the world and others:</p>
+<h3>In tune with your body and needs</h3>
+<p>Firstly, fasting allows you to be more in touch with your body. You let go of food for a while and focus on what your body is telling you. As a result, you are likely to notice all sorts of things. For instance, you will start paying attention to your energy level and notice when and why you are feeling low. Or you might notice that you are hungry - and then simply let this be there without acting on it.</p>
+<h3>Full focus on spirituality through fasting</h3>
+<p>Fasting can help you focus on your inner experience, without distractions. While fasting, however, you need to be conscious of this. Eating can be seen as something hedonistic and material. Especially when, like so many people, you often eat when you are not really hungry. Everything should be tasty, every meal an experience. By renouncing such material and hedonistic needs, you can give your spiritual needs more attention. Moreover, you also keep more time in the day, now that you are not cooking, eating and slumped. In many religions, fasting is seen as the way to get closer to their god. What you are basically doing is submitting yourself to a higher power and purpose. You are showing strength, but also humility.</p>
+<h3>Self-discipline</h3>
+<p>Letting the hunger be there and consciously choosing not to eat: that is an excellent workout for your self-discipline. Do you know the marshmallow test? In this Stanford University experiment, children were left alone with a marshmallow for 15 minutes. If they could restrain themselves for those 15 minutes and not eat the marshmallow, they were given another snack as a reward. Not every child proved to have enough self-control, despite the obvious reward. The children who had little self-control would later do better in school and be slimmer. Although these results are now in doubt, you can understand that being able to ignore your immediate needs can have certain benefits for you. Especially in our current society full of sweets, Tinder and the internet. We are used to getting what we want right away. And that, of course, is not very spiritual. With fasting, you can get a better grip on your spiritual practice and train your self-control.<br/><br/></p>
+<h3>More empathy and solidarity</h3>
+<p>Another reason cited for fasting: by being really hungry for a while, you become more empathetic. You feel more connected to groups for whom hunger, poverty or suffering is everyday. This is one of the thoughts behind <a href="https://en.wikipedia.org/wiki/Ramadan">Ramadan</a>, the fasting month of Muslims.</p>
+<h3>Fasting works spiritually purifying</h3>
+<p>In many religions, fasting is seen as purifying. Your body and mind are cleansed of sins, negativity and other things that threaten your purity. Many people also believe that fasting is detoxifying. But no really strong evidence has been found for this. However, it can be good for your intestines to take a day's rest.</p>
+<h3>Gratitude</h3>
+<p>Gratitude plays an important role in meditation and other spiritual practices. By denying yourself food for a while and experiencing genuine hunger, you will be extra grateful when you finally have food. You see this gratitude in modest form in Christians who pray just before eating.<br/><br/></p>
+<h2>Is fasting healthy?</h2>
+<p>Fasting can be healthy. It is not the holy grail for those who want to detox quickly or be 10 kilos lighter next week. Periodically not eating can be great for some, and harmful or unsustainable for others. It can help you lose weight, but it can also give you an upset eating pattern. So whether intermittent fasting has benefits for you depends on you and how you approach it. Preferably don't fast for too long. One day is fine, but a week on water alone will not detoxify you. Above all, try fasting for a day and couple it with the conscious practice of spirituality. Engage in journaling, for example. Put your spiritual intentions on paper and work on yourself for such a day. You can also combine fasting with <a href="/en/shop/mushrooms/microdosing">microdosing</a> and thus experience the benefits of both practices.</p>

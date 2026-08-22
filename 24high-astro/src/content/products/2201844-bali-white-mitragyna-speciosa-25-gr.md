@@ -1,0 +1,24 @@
+---
+title: "Bali White - Mitragyna Speciosa"
+description: "Bali White - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+sku: "2201844"
+price: 7.95
+currency: "EUR"
+inStock: true
+shop: "smartshop"
+category: "kratom"
+categoryLabel: "Kratom"
+images: ["3598"]
+---
+
+<p>Kratom is a unique powder and was mainly used in South Asia by farmers to withstand the extreme heat and humid climate conditions in these regions during the heavy work. Bali kratom is a high quality kratom strain among kratom connoisseurs. Just like other kratom varieties, Balinese kratom is also available in different colours. The colours refer to veins under the leaf. The yellow and red Bali kratom are praised for their energizing effect. The white Bali kratom is a strong mood enhancer, and the green Balinese kratom is in between these types. The <strong>White Bali kratom</strong> is unique and because of its power to lift your mood. Kratom is also used for this reason in hard drug addicts to help them get rid of the drugs.</p>
+<h3>Effects</h3>
+<p>Strong mood enhancer<br/>Mildly relaxing<br/>Mild/highly active and energizing<br/>Mildly euphoric</p>
+<h3>Use</h3>
+<p>There are several ways to consume kratom. Traditionally, the kratom leaves were often chewed or ground and eaten, usually with a cup of warm water, tea or coffee. The kratom powder can also be used in a milkshake, honey can also be added to enhance the taste. Recommended dosage, 1 to 4 grams. Effects can be felt within 30 to 60 minutes and last for several hours. The effects at a low dose are stimulating and euphoric, at a higher dose more sedative.</p>
+<h3>Storage advice</h3>
+<p>Keep this product in a cool and dark place such as a kitchen cupboard and out of the reach of children.</p>
+<h3>Content</h3>
+<p>White Bali Kratom - 25, 100 or 1000 grams.</p>
+<h3>Warning</h3>
+<p>Kratom can be hazardous to health when combined with certain medications, alcohol or MAO inhibitors. Do you use medicines? Always consult your doctor first and read the package leaflet of your medication to prevent health risks. Also, do not use Kratom if you are pregnant or breastfeeding. Do not participate in traffic when in use. So do not drive or drive other vehicles.</p>

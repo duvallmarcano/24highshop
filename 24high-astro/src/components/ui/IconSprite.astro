@@ -1,0 +1,36 @@
+---
+import { ICON_PATHS, SOLID_ICONS } from '../../lib/icons';
+
+/**
+ * Defines every icon once per document. <Icon /> then references a symbol by
+ * id, so a page using twenty icons ships twenty short <use> tags rather than
+ * twenty copies of the path data.
+ */
+---
+
+<svg class="icon-sprite" aria-hidden="true" focusable="false" width="0" height="0">
+  {
+    Object.entries(ICON_PATHS).map(([name, d]) => (
+      <symbol
+        id={`i-${name}`}
+        viewBox="0 0 24 24"
+        fill={SOLID_ICONS.has(name) ? 'currentColor' : 'none'}
+        stroke={SOLID_ICONS.has(name) ? 'none' : 'currentColor'}
+        stroke-width="1.6"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <path d={d} />
+      </symbol>
+    ))
+  }
+</svg>
+
+<style>
+  .icon-sprite {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+</style>

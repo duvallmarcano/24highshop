@@ -1,0 +1,24 @@
+---
+title: "What Is A Liquid Culture And How Do You Use It?"
+description: "Using a Liquid Culture is incredibly useful for growing your own mushrooms. You can read all about it in this article."
+heroImage: "/images/news/270-1690816175-400x300.webp"
+publishedAt: "2023-07-23"
+updatedAt: "2026-02-10"
+author: "24High"
+---
+
+<p>Would you like to grow your own magic mushrooms from <a href="/en/product/0210732-mexican-sporeprint-psilocybe-cubensis">spores</a>, but have no idea where to start? No worries, we're going to introduce you to a handy technique called Liquid Culture. With Liquid Culture, you can grow magic mushroom mycelium quickly and easily. In this article, we'll explain what Liquid Culture is, how to use it and where to buy a Liquid Culture kit.<br/><br/></p>
+<h2>What is a Liquid Culture?</h2>
+<p>A Liquid Culture, also known as LC, is a concentrated solution used to grow and propagate mushroom mycelium. It consists of a nutrient-rich liquid, such as a mixture of water and nutrients, in which the mushroom mycelium is active and can multiply. In general, a Liquid Culture is a convenient and efficient way to grow and propagate mycelium for mushroom cultivation, making it possible to start multiple culture kits and achieve higher yields.<br/><br/></p>
+<h2>Recipe for making a liquid culture</h2>
+<p>Making your own Liquid Culture is fun, cheap and sustainable. You can follow this simple recipe with ingredients you probably already have in your kitchen. To get started, you need a few things. Make sure you have sterile water. You can make this by boiling water and then letting it cool. You will also need sugar, such as ordinary table sugar, or you can use honey as an alternative. You will also need a glass jar or bottle with a tight-fitting lid. Make sure everything is thoroughly clean. Use a sterile spoon to stir and a sterile syringe, <a href="/en/shop/mushrooms/spore-vial">spore bottle</a> or <a href="/en/product/7112345-mazatapec-culture-ampoule">ampoule</a> to add a small amount of mushroom mycelium to your sugar water solution later. Mix a cup of sterile water with a tablespoon of sugar or honey in your glass jar. Stir well with the sterile spoon until the sugar is completely dissolved. Make sure no lumps are left behind. Then close the jar tightly with the lid.<br /></p>
+<h2>Buy Liquid Culture Vial</h2>
+<p>Do you not feel like or simply do not have time to make your own Liquid Culture? Would you rather get started with Liquid Culture right away? We understand. Fortunately, the <a href="/en/product/5201815-liquid-culture-10-ml">Mondo Liquid Culture Vial</a> is now for sale, which makes growing a little easier.<br/><br/></p>
+<h2>How do you use Liquid Culture?</h2>
+<p>Using Liquid Culture is simple. First, make sure everything is clean, like your workstation, your hands and your syringes. You don't want any nasty bugs or <a href="/en/">fungi</a> in your culture. Open the bottle or glass jar of Liquid Culture with a little caution, without touching the inside of the cap or opening. Use your sterile syringe, spore bottle or ampoule to add a small amount of mushroom mycelium to the sugar water solution in the jar.<br/><br/>Be careful to keep everything sterile to avoid contamination. Shake the jar gently to mix the ingredients well. Mix it well or spray it on different spots. Now close your tray or container tightly. You want to create a nice, cosy place for your mushrooms to grow.</p>
+<h3>Storing Liquid Culture</h3>
+<p>Put it somewhere nice and dark and warm. Store the jar in a place where the temperature is preferably around 24-26 degrees Celsius. This is the ideal temperature for growing mycelium. If in doubt, use a <a href="/en/product/1201217-pro-hygrometer-thermometer">thermometer</a> for the ideal temperature. You can always use a <a href="/en/product/9107183-thermomat">thermomat</a> if the substrate is too cold. <br/><br/>Now is the time to be patient. Let the mycelium grow quietly. After a few days, you might be able to see the first signs of growth, such as small white threads spreading in the liquid. This is the mycelium developing. Check regularly to make sure everything looks good.</p>
+<h3>Careful process</h3>
+<p>Remember that making your own Liquid Culture requires some care and attention. Make sure you clean all materials and ingredients thoroughly to avoid contamination. Stay patient and observe the growth of the mycelium. Now that you know how to make your own Liquid Culture, you can use it to inoculate other substrates and grow a healthy mushroom colony.</p>
+<h3>Another way to use Liquid Culture</h3>
+<p>You can also use your Liquid Culture in another way. For instance, you can also drip a little Liquid Culture onto an agar plate. An agar plate is a kind of gelatine-like culture medium. The mycelium will spread and grow on the plate, creating a healthy colony that you can later use to inoculate other substrates.</p>

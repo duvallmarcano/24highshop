@@ -1,0 +1,31 @@
+---
+interface Props {
+  tone?: 'neutral' | 'ok' | 'warn' | 'danger' | 'brand';
+  class?: string;
+}
+const { tone = 'neutral', class: className } = Astro.props;
+---
+
+<span class:list={['badge', `badge--${tone}`, className]}><slot /></span>
+
+<style>
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    padding: 0.25em 0.6em;
+    border-radius: var(--radius-pill);
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .badge--neutral { background: var(--surface-2); color: var(--ink-2); }
+  .badge--ok      { background: var(--ok-soft);   color: var(--ok); }
+  .badge--warn    { background: var(--warn-soft); color: var(--warn); }
+  .badge--danger  { background: var(--danger-soft); color: var(--danger); }
+  .badge--brand   { background: var(--spruce-soft); color: var(--spruce); }
+</style>

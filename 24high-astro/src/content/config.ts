@@ -1,27 +1,38 @@
-import { z, defineCollection } from 'astro:content';
+import { defineCollection, z } from 'astro:content';
 
-const blogSchema = z.object({
-  title: z.string(),
-  description: z.string().optional().default(''),
+/**
+ * Product facts come out of the source catalogue as data, not markup — the
+ * body of each entry is description prose only. Anything a template needs to
+ * lay out (price, stock, gallery, taxonomy) is declared here so a typo fails
+ * the build rather than rendering an empty element.
+ */
+const products = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string().default(''),
+    sku: z.string(),
+    price: z.number().nullable(),
+    currency: z.string().default('EUR'),
+    inStock: z.boolean().default(true),
+    shop: z.string(),
+    category: z.string(),
+    categoryLabel: z.string().default(''),
+    /** Image ids; the CDN path is built by <ProductImage /> */
+    images: z.array(z.string()).default([]),
+  }),
 });
 
-const articleSchema = z.object({
-  title: z.string(),
-  description: z.string().optional().default(''),
+const blog = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string().default(''),
+    heroImage: z.string().default(''),
+    publishedAt: z.string(),
+    updatedAt: z.string().default(''),
+    author: z.string().default('24High'),
+  }),
 });
 
-// One collection per language — Astro content collections support subdirectory-based routing
-export const collections = {
-  'blog-en':      defineCollection({ type: 'content', schema: blogSchema }),
-  'blog-nl':      defineCollection({ type: 'content', schema: blogSchema }),
-  'blog-fr':      defineCollection({ type: 'content', schema: blogSchema }),
-  'blog-de':      defineCollection({ type: 'content', schema: blogSchema }),
-  'blog-es':      defineCollection({ type: 'content', schema: blogSchema }),
-  'blog-it':      defineCollection({ type: 'content', schema: blogSchema }),
-  'article-en':   defineCollection({ type: 'content', schema: articleSchema }),
-  'article-nl':   defineCollection({ type: 'content', schema: articleSchema }),
-  'article-fr':   defineCollection({ type: 'content', schema: articleSchema }),
-  'article-de':   defineCollection({ type: 'content', schema: articleSchema }),
-  'article-es':   defineCollection({ type: 'content', schema: articleSchema }),
-  'article-it':   defineCollection({ type: 'content', schema: articleSchema }),
-};
+export const collections = { products, blog };

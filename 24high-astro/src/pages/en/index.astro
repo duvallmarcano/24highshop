@@ -1,26 +1,282 @@
 ---
-import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import ProductGrid from '../../components/product/ProductGrid.astro';
+import ProductRail from '../../components/product/ProductRail.astro';
+import PostCard from '../../components/blog/PostCard.astro';
+import Button from '../../components/ui/Button.astro';
+import Icon from '../../components/ui/Icon.astro';
+import { SHOPS, SITE } from '../../data/site';
+import { firstImage } from '../../lib/images';
 
-const lang = 'en';
-const blogs = await getCollection('blog-en');
-const articles = await getCollection('article-en');
+const products = await getCollection('products');
+const posts = (await getCollection('blog')).sort(
+  (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
+);
+
+const inStock = products.filter((p) => p.data.inStock && p.data.images.length);
+
+const pick = (shop: string, n: number) =>
+  inStock.filter((p) => p.data.shop === shop).slice(0, n);
+
+const featured = pick('mushrooms', 8);
+const smartshop = pick('smartshop', 8);
+const hero = featured[0] ?? inStock[0];
+const latestPosts = posts.slice(0, 3);
 ---
-<Layout title="24High - Your Smartshop" lang={lang}>
-  <div style="padding: 20px; text-align: left;">
-    <h1>Welcome to 24High (EN)</h1>
-    <p>Your one-stop shop for magic mushrooms, cannabis edibles and more.</p>
-    <h2>Latest Blog Posts ({blogs.length})</h2>
-    <ul>
-      {blogs.slice(0, 10).map(post => (
-        <li><a href={`/en/blog/${post.slug}`}>{post.data.title}</a></li>
-      ))}
-    </ul>
-    <h2>Products ({articles.length})</h2>
-    <ul>
-      {articles.slice(0, 10).map(article => (
-        <li><a href={`/en/article/${article.slug}`}>{article.data.title}</a></li>
-      ))}
-    </ul>
+
+<BaseLayout
+  title={`${SITE.name} — ${SITE.tagline}`}
+  description={SITE.description}
+  bare
+>
+  <section class="hero">
+    <div class="container hero__in">
+      <div class="hero__copy">
+        <p class="eyebrow">Smartshop &middot; Netherlands &middot; since {SITE.established}</p>
+        <h1>Botanicals, mycology and the kit to grow them.</h1>
+        <p class="hero__lead">
+          {products.length.toLocaleString('en-GB')} products across six shops — magic truffles and
+          grow kits, kratom and kanna, cannabis genetics, CBD and the headshop essentials.
+          Shipped discreetly across Europe.
+        </p>
+        <div class="hero__cta">
+          <Button href="/en/shop/mushrooms" size="lg" iconEnd="arrow-right">Shop mushrooms</Button>
+          <Button href="/en/blog" size="lg" variant="secondary">Read the guides</Button>
+        </div>
+        <ul class="hero__facts" role="list">
+          <li><strong>{products.length.toLocaleString('en-GB')}</strong><span>products</span></li>
+          <li><strong>{SHOPS.length}</strong><span>shops</span></li>
+          <li><strong>{posts.length}</strong><span>guides</span></li>
+        </ul>
+      </div>
+
+      {
+        hero && (
+          <a class="hero__spec" href={`/en/product/${hero.slug}`}>
+            <img
+              src={firstImage(hero.data.images, 1000)}
+              alt={hero.data.title}
+              width="440"
+              height="440"
+              loading="eager"
+              fetchpriority="high"
+            />
+            <div class="hero__spec-tag">
+              <span class="eyebrow">Featured</span>
+              <strong>{hero.data.title}</strong>
+            </div>
+          </a>
+        )
+      }
+    </div>
+  </section>
+
+  <div class="container">
+    <Section title="Six shops, one basket" lead="Every category, counted straight from the catalogue.">
+      <ul class="shops" role="list">
+        {
+          SHOPS.map((shop) => (
+            <li>
+              <a class="shop" href={shop.href}>
+                <Icon name="leaf" size={20} />
+                <h3>{shop.label}</h3>
+                <p>{shop.blurb}</p>
+                <span class="shop__n">
+                  {shop.total} products <Icon name="arrow-right" size={14} />
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </Section>
+
+    <Section title="Mushrooms & mycology" href="/en/shop/mushrooms">
+      <ProductGrid products={featured} eagerCount={0} />
+    </Section>
+
+    <ProductRail title="From the smartshop" products={smartshop} href="/en/shop/smartshop" />
+
+    <Section
+      title="Guides & background"
+      lead="Cultivation notes, dosing guidance and the botany behind what we stock."
+      href="/en/blog"
+    >
+      <div class="posts">
+        {latestPosts.map((p) => <PostCard post={p} />)}
+      </div>
+    </Section>
   </div>
-</Layout>
+</BaseLayout>
+
+<style>
+  .hero {
+    background: linear-gradient(180deg, var(--surface-2), var(--paper));
+    border-block-end: 1px solid var(--line-soft);
+  }
+
+  .hero__in {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    align-items: center;
+    gap: clamp(1.5rem, 5vw, 4rem);
+    padding-block: clamp(2.5rem, 7vw, 5rem);
+  }
+
+  .hero h1 {
+    margin-block: 0.8rem 0;
+    font-size: var(--step-5);
+    max-width: 15ch;
+  }
+
+  .hero__lead {
+    max-width: 48ch;
+    margin-block-start: 1rem;
+    color: var(--ink-2);
+    font-size: var(--step-1);
+    line-height: 1.55;
+  }
+
+  .hero__cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+    margin-block-start: 1.6rem;
+  }
+
+  .hero__facts {
+    display: flex;
+    gap: 2rem;
+    padding: 1.4rem 0 0;
+    margin: 1.6rem 0 0;
+    list-style: none;
+    border-block-start: 1px solid var(--line);
+  }
+
+  .hero__facts strong {
+    display: block;
+    font-family: var(--font-display);
+    font-size: var(--step-3);
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    font-variant-numeric: tabular-nums;
+    color: var(--spruce);
+  }
+
+  .hero__facts span {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .hero__spec {
+    position: relative;
+    display: block;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    box-shadow: var(--shadow-lg);
+    text-decoration: none;
+  }
+
+  .hero__spec img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
+
+  .hero__spec-tag {
+    position: absolute;
+    inset-inline: 0.7rem;
+    inset-block-end: 0.7rem;
+    padding: 0.7rem 0.85rem;
+    background: color-mix(in srgb, var(--surface) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius);
+  }
+
+  .hero__spec-tag strong {
+    display: block;
+    margin-block-start: 0.2rem;
+    font-family: var(--font-display);
+    font-size: var(--step-0);
+    color: var(--ink);
+  }
+
+  /* --- shop cards --- */
+  .shops {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));
+    gap: 0.9rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .shop {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    height: 100%;
+    padding: 1.2rem;
+    background: var(--surface);
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    transition: border-color 0.16s ease, box-shadow 0.16s ease;
+  }
+
+  .shop:hover {
+    border-color: var(--spruce);
+    box-shadow: var(--shadow-md);
+  }
+
+  .shop :global(.icon) {
+    color: var(--spruce);
+  }
+
+  .shop h3 {
+    font-size: var(--step-1);
+  }
+
+  .shop p {
+    flex: 1;
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    line-height: 1.5;
+  }
+
+  .shop__n {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-block-start: 0.5rem;
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--spruce);
+  }
+
+  .posts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    gap: 1.1rem;
+  }
+
+  @media (max-width: 860px) {
+    .hero__in {
+      grid-template-columns: 1fr;
+    }
+
+    .hero__spec {
+      max-width: 22rem;
+    }
+  }
+</style>

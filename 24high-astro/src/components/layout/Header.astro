@@ -1,0 +1,600 @@
+---
+import Icon from '../ui/Icon.astro';
+import { SHOPS, UTILITY_NAV, LOCALES, SITE } from '../../data/site';
+
+interface Props {
+  /** Highlights the shop the current page belongs to. */
+  activeShop?: string;
+}
+
+const { activeShop } = Astro.props;
+
+// Headshop alone has 35 categories. Showing every one in a dropdown is both
+// unusable and — repeated across 1,800 pages — the single largest thing on
+// the page, so the menu shows the biggest and links to the rest.
+const MEGA_LIMIT = 12;
+---
+
+<header class="hdr">
+  <div class="hdr__promo">
+    <div class="container hdr__promo-in">
+      <span><Icon name="truck" size={14} /> Free EU shipping over &euro;50</span>
+      <span class="hdr__promo-sep" aria-hidden="true">·</span>
+      <span><Icon name="package" size={14} /> Discreet packaging</span>
+      <span class="hdr__promo-sep" aria-hidden="true">·</span>
+      <span><Icon name="shield" size={14} /> Trusted since {SITE.established}</span>
+    </div>
+  </div>
+
+  <div class="hdr__bar">
+    <div class="container hdr__bar-in">
+      <button
+        class="hdr__burger"
+        type="button"
+        aria-label="Open menu"
+        aria-expanded="false"
+        aria-controls="mobile-nav"
+        data-menu-toggle
+      >
+        <Icon name="menu" size={22} />
+      </button>
+
+      <a class="hdr__logo" href="/en/">
+        <span class="hdr__mark" aria-hidden="true">24</span>
+        <span class="hdr__word">High</span>
+      </a>
+
+      <form class="hdr__search" action="/en/search" method="get" role="search">
+        <Icon name="search" size={18} class="hdr__search-icon" />
+        <label class="visually-hidden" for="q">Search the catalogue</label>
+        <input id="q" name="q" type="search" placeholder="Search truffles, grow kits, kratom…" autocomplete="off" />
+      </form>
+
+      <div class="hdr__actions">
+        <button class="hdr__act" type="button" data-theme-toggle aria-label="Switch colour theme">
+          <Icon name="sun" size={19} class="icon-light" />
+          <Icon name="moon" size={19} class="icon-dark" />
+        </button>
+
+        <details class="langsel">
+          <summary aria-label="Change language">
+            <span class="langsel__code">EN</span>
+            <Icon name="chevron-down" size={14} />
+          </summary>
+          <ul role="list">
+            {
+              LOCALES.map((l) => (
+                <li>
+                  <a href={l.href} hreflang={l.code} lang={l.code}>
+                    {l.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </details>
+
+        <a class="hdr__act hdr__cart" href="/en/cart" aria-label="Basket">
+          <Icon name="cart" size={19} />
+          <span class="hdr__count" data-cart-count hidden>0</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <nav class="nav" aria-label="Shop categories">
+    <div class="container nav__in">
+      <ul class="nav__list" role="list">
+        {
+          SHOPS.map((shop) => (
+            <li class="nav__item">
+              <a
+                class:list={['nav__link', activeShop === shop.id && 'nav__link--active']}
+                href={shop.href}
+              >
+                {shop.label}
+                <Icon name="chevron-down" size={13} />
+              </a>
+
+              <div class="mega">
+                <div class="mega__in">
+                  <div class="mega__lead">
+                    <p class="eyebrow">{shop.label}</p>
+                    <p class="mega__blurb">{shop.blurb}</p>
+                    <a class="mega__all" href={shop.href}>
+                      All {shop.total} products
+                      <Icon name="arrow-right" size={15} />
+                    </a>
+                  </div>
+                  <ul class="mega__cols" role="list">
+                    {shop.categories.slice(0, MEGA_LIMIT).map((c) => (
+                      <li>
+                        <a href={c.href}>
+                          <span>{c.label}</span>
+                          <span class="mega__n">{c.count}</span>
+                        </a>
+                      </li>
+                    ))}
+                    {shop.categories.length > MEGA_LIMIT && (
+                      <li>
+                        <a class="mega__rest" href={shop.href}>
+                          +{shop.categories.length - MEGA_LIMIT} more categories
+                        </a>
+                      </li>
+                    )}
+                  </ul>
+                </div>
+              </div>
+            </li>
+          ))
+        }
+        {
+          UTILITY_NAV.map((l) => (
+            <li class="nav__item">
+              <a class="nav__link" href={l.href}>
+                {l.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </nav>
+
+  <!-- mobile drawer -->
+  <div class="drawer" id="mobile-nav" hidden>
+    <div class="drawer__head">
+      <span class="drawer__title">Menu</span>
+      <button type="button" aria-label="Close menu" data-menu-close>
+        <Icon name="close" size={22} />
+      </button>
+    </div>
+    <nav aria-label="Mobile navigation">
+      <ul class="drawer__list" role="list">
+        {
+          SHOPS.map((shop) => (
+            <li>
+              <a class="drawer__flat" href={shop.href}>
+                {shop.label}
+                <span class="drawer__n">{shop.total}</span>
+              </a>
+            </li>
+          ))
+        }
+        {
+          UTILITY_NAV.map((l) => (
+            <li>
+              <a class="drawer__flat" href={l.href}>
+                {l.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+  <div class="drawer__scrim" hidden data-menu-close></div>
+</header>
+
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>('[data-menu-toggle]');
+  const drawer = document.getElementById('mobile-nav');
+  const scrim = document.querySelector<HTMLElement>('.drawer__scrim');
+
+  function setMenu(open: boolean) {
+    if (!drawer || !scrim || !toggle) return;
+    drawer.hidden = !open;
+    scrim.hidden = !open;
+    toggle.setAttribute('aria-expanded', String(open));
+    document.body.style.overflow = open ? 'hidden' : '';
+  }
+
+  toggle?.addEventListener('click', () => setMenu(drawer?.hidden ?? true));
+  document.querySelectorAll('[data-menu-close]').forEach((el) =>
+    el.addEventListener('click', () => setMenu(false))
+  );
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') setMenu(false);
+  });
+</script>
+
+<style>
+  .hdr {
+    position: sticky;
+    inset-block-start: 0;
+    z-index: 50;
+    background: var(--paper);
+    border-block-end: 1px solid var(--line);
+  }
+
+  /* --- promo strip --- */
+  .hdr__promo {
+    background: var(--spruce);
+    color: var(--ink-on-brand);
+    font-size: 0.72rem;
+  }
+
+  .hdr__promo-in {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.7rem;
+    padding-block: 0.4rem;
+    flex-wrap: wrap;
+  }
+
+  .hdr__promo span {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .hdr__promo-sep {
+    opacity: 0.5;
+  }
+
+  @media (max-width: 700px) {
+    .hdr__promo-in > :nth-child(n + 3) {
+      display: none;
+    }
+  }
+
+  /* --- main bar --- */
+  .hdr__bar-in {
+    display: flex;
+    align-items: center;
+    gap: clamp(0.6rem, 2vw, 1.5rem);
+    padding-block: 0.7rem;
+  }
+
+  .hdr__burger {
+    display: none;
+    color: var(--ink);
+  }
+
+  .hdr__logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .hdr__mark {
+    display: grid;
+    place-items: center;
+    width: 1.85rem;
+    height: 1.85rem;
+    background: var(--spruce);
+    color: var(--ink-on-brand);
+    border-radius: var(--radius);
+    font-size: 0.92rem;
+    letter-spacing: -0.04em;
+  }
+
+  .hdr__search {
+    position: relative;
+    flex: 1;
+    max-width: 30rem;
+  }
+
+  .hdr__search :global(.hdr__search-icon) {
+    position: absolute;
+    inset-block-start: 50%;
+    inset-inline-start: 0.7rem;
+    translate: 0 -50%;
+    color: var(--ink-3);
+    pointer-events: none;
+  }
+
+  .hdr__search input {
+    width: 100%;
+    padding: 0.6rem 0.8rem 0.6rem 2.3rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-pill);
+    font-size: var(--step--1);
+  }
+
+  .hdr__search input:focus-visible {
+    border-color: var(--spruce);
+  }
+
+  .hdr__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    margin-inline-start: auto;
+  }
+
+  .hdr__act {
+    position: relative;
+    display: grid;
+    place-items: center;
+    width: 2.3rem;
+    height: 2.3rem;
+    border-radius: var(--radius);
+    color: var(--ink-2);
+    text-decoration: none;
+  }
+
+  .hdr__act:hover {
+    background: var(--surface-2);
+    color: var(--ink);
+  }
+
+  .hdr__count {
+    position: absolute;
+    inset-block-start: 0.15rem;
+    inset-inline-end: 0.1rem;
+    min-width: 1.05rem;
+    padding: 0 0.2rem;
+    background: var(--saffron);
+    color: var(--paper);
+    border-radius: var(--radius-pill);
+    font-family: var(--font-mono);
+    font-size: 0.6rem;
+    line-height: 1.05rem;
+    text-align: center;
+  }
+
+  /* the two theme glyphs swap depending on the resolved theme */
+  .hdr__act :global(.icon-dark) { display: none; }
+  :global(:root[data-theme='dark']) .hdr__act :global(.icon-dark) { display: block; }
+  :global(:root[data-theme='dark']) .hdr__act :global(.icon-light) { display: none; }
+  @media (prefers-color-scheme: dark) {
+    :global(:root:not([data-theme='light'])) .hdr__act :global(.icon-dark) { display: block; }
+    :global(:root:not([data-theme='light'])) .hdr__act :global(.icon-light) { display: none; }
+  }
+
+  /* --- language select --- */
+  .langsel {
+    position: relative;
+  }
+
+  .langsel summary {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    height: 2.3rem;
+    padding-inline: 0.5rem;
+    border-radius: var(--radius);
+    color: var(--ink-2);
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .langsel summary::-webkit-details-marker { display: none; }
+  .langsel summary:hover { background: var(--surface-2); color: var(--ink); }
+
+  .langsel__code {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    font-weight: 500;
+  }
+
+  .langsel ul {
+    position: absolute;
+    inset-block-start: calc(100% + 0.3rem);
+    inset-inline-end: 0;
+    min-width: 9rem;
+    padding: 0.3rem;
+    margin: 0;
+    list-style: none;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-md);
+  }
+
+  .langsel a {
+    display: block;
+    padding: 0.45rem 0.6rem;
+    border-radius: var(--radius-sm);
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    text-decoration: none;
+  }
+
+  .langsel a:hover { background: var(--surface-2); color: var(--ink); }
+
+  /* --- category nav + mega menu --- */
+  .nav {
+    border-block-start: 1px solid var(--line-soft);
+  }
+
+  .nav__list {
+    display: flex;
+    gap: 0.15rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .nav__item {
+    position: static;
+  }
+
+  .nav__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.65rem 0.75rem;
+    font-family: var(--font-display);
+    font-size: var(--step--1);
+    font-weight: 550;
+    letter-spacing: 0.01em;
+    color: var(--ink-2);
+    text-decoration: none;
+    border-block-end: 2px solid transparent;
+  }
+
+  .nav__link:hover,
+  .nav__link--active {
+    color: var(--spruce);
+    border-block-end-color: var(--spruce);
+  }
+
+  .mega {
+    position: absolute;
+    inset-inline: 0;
+    inset-block-start: 100%;
+    z-index: 40;
+    background: var(--surface);
+    border-block: 1px solid var(--line);
+    box-shadow: var(--shadow-lg);
+    opacity: 0;
+    visibility: hidden;
+    translate: 0 -4px;
+    transition: opacity 0.14s ease, translate 0.14s ease, visibility 0.14s;
+  }
+
+  .nav__item:hover .mega,
+  .nav__item:focus-within .mega {
+    opacity: 1;
+    visibility: visible;
+    translate: 0;
+  }
+
+  .mega__in {
+    display: grid;
+    grid-template-columns: 15rem 1fr;
+    gap: 2rem;
+    max-width: var(--container);
+    margin-inline: auto;
+    padding: 1.5rem var(--gutter) 1.8rem;
+  }
+
+  .mega__blurb {
+    margin-block: 0.5rem 0.9rem;
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    line-height: 1.5;
+  }
+
+  .mega__all {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-family: var(--font-display);
+    font-size: var(--step--1);
+    font-weight: 550;
+  }
+
+  .mega__cols {
+    columns: 3;
+    column-gap: 1.6rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .mega__cols li {
+    break-inside: avoid;
+  }
+
+  .mega__cols a {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.6rem;
+    padding: 0.3rem 0;
+    color: var(--ink-2);
+    font-size: var(--step--1);
+    text-decoration: none;
+  }
+
+  .mega__cols a:hover { color: var(--spruce); }
+
+  .mega__rest {
+    font-weight: 550;
+    color: var(--spruce);
+  }
+
+  .mega__n {
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    color: var(--ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* --- mobile drawer --- */
+  .drawer {
+    position: fixed;
+    inset-block: 0;
+    inset-inline-start: 0;
+    z-index: 60;
+    width: min(88vw, 21rem);
+    background: var(--surface);
+    border-inline-end: 1px solid var(--line);
+    overflow-y: auto;
+  }
+
+  .drawer__scrim {
+    position: fixed;
+    inset: 0;
+    z-index: 55;
+    background: rgb(0 0 0 / 45%);
+  }
+
+  .drawer__head {
+    position: sticky;
+    inset-block-start: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.9rem 1rem;
+    background: var(--surface);
+    border-block-end: 1px solid var(--line);
+  }
+
+  .drawer__title {
+    font-family: var(--font-display);
+    font-weight: 600;
+  }
+
+  .drawer__list {
+    padding: 0.5rem;
+    margin: 0;
+    list-style: none;
+  }
+
+  .drawer__flat {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.7rem 0.6rem;
+    border-radius: var(--radius);
+    font-family: var(--font-display);
+    font-weight: 550;
+    color: var(--ink);
+    text-decoration: none;
+    cursor: pointer;
+    list-style: none;
+  }
+
+  .drawer__n {
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    color: var(--ink-3);
+  }
+
+  @media (max-width: 900px) {
+    .hdr__burger { display: grid; place-items: center; width: 2.3rem; height: 2.3rem; }
+    .nav { display: none; }
+  }
+
+  @media (min-width: 901px) {
+    .drawer,
+    .drawer__scrim { display: none !important; }
+  }
+
+  @media (max-width: 620px) {
+    .hdr__search { display: none; }
+    .langsel { display: none; }
+  }
+</style>

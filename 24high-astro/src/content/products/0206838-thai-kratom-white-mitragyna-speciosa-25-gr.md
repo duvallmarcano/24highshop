@@ -1,0 +1,14 @@
+---
+title: "Thai Kratom White - Mitragyna Speciosa"
+description: "Thai Kratom White - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+sku: "0206838"
+price: 7.95
+currency: "EUR"
+inStock: true
+shop: "smartshop"
+category: "kratom"
+categoryLabel: "Kratom"
+images: ["3606"]
+---
+
+Thai White Kratom (Mitragyna speciosa) is a powerful mood enhancer. The use of kratom leaves for medicinal purposes and psychedelic properties dates back thousands of years. Thai White Kratom variety contains 66% mitragynine and more than 25 alkaloids and gets its name from the white veins on the leaves. The Thai White Kratom contributes to a positive mood and is especially stimulating. The red kratom is known for its relaxing and calming effect and the green one is in between. This Thai white kratom is of very good quality and will show the desired effect at the right dose. A true social plant with unique euphoric and stimulating effects. <p>  Ingredients  </p> <p> Thai White Kratom (Mitragyna Speciosa)</p> <p>  Effects  </p> <p> Mood Enhancer <br/> Highly Stimulating <br/> Euphoric </p> <p>  Usage  <br/> </p> <p> Thai White Kratom can be dissolved in water, you can make a tea, chew or smoke it. For best results, it is wise to take Kratom on an empty stomach. <br/> <br/>  Dissolve in water: <br/>  <!-- p --> Kratom has a slightly bitter taste and does not dissolve easily in water. It is best if you plan to take Kratom with water, take a sip of water first and hold it in your mouth. Put half the dose on a spoon, take it and rinse immediately with another sip of water. <br/> </p><ul></ul><ul> <li> 2 grams: light effect </li> <li> 4 grams: mild effect </li> <li> 6 grams: strong effect </li> <li> 8 grams: very strong effect </li> </ul>  <p>Making tea: <br/>  Add the desired amount of Kratom to boiling water and simmer gently for 10-15 minutes at boiling point. Place a sieve on a cup and pour the Kratom tea directly from the pan. The residue in the sieve can be thrown away. <br/> </p><ul> <li> 1 gram: light effect </li> <li> 3 grams: moderate effect </li> <li> 5 grams: normal effect </li> <li> 10 grams: strong effect </li> <li> 15+ grams: very strong effect </li> </ul>  <p>  Storage advice  </p> <p> Keep this product in a cool and dark place such as a kitchen cupboard and out of the reach of children. </p> <p>  Content  </p> <p> Thai White Kratom Mitragyna Speciosa - 25 or 100 grams. </p> <p>  Warning  <br/> </p> <p> Kratom can be dangerous to health when combined with certain medications, alcohol or MAO inhibitors. Are you on medication? Always consult your doctor first and read the package insert of your medication to prevent health risks. Also, do not use Kratom if you are pregnant or breastfeeding. Do not participate in traffic when using. </p>

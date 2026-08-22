@@ -1,0 +1,217 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
+
+// The whole catalogue is static, so search runs in the browser against a
+// small prebuilt index rather than needing a server.
+const products = await getCollection('products');
+// `</script` inside a data island would close the tag early; escape it.
+const safe = (v: unknown) => JSON.stringify(v).replace(/<\//g, '<\\/');
+
+const index = products.map((p) => ({
+  s: p.slug,
+  t: p.data.title,
+  c: p.data.categoryLabel,
+  p: p.data.price,
+  i: p.data.images[0] ?? '',
+  k: p.data.inStock ? 1 : 0,
+}));
+---
+
+<BaseLayout title="Search" description="Search the 24High catalogue." noindex>
+  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'Search' }]} />
+
+  <header class="srchead">
+    <h1>Search</h1>
+    <form class="srchead__form" role="search" data-search-form>
+      <label class="visually-hidden" for="query">Search products</label>
+      <input
+        id="query"
+        name="q"
+        type="search"
+        placeholder="Truffles, grow kit, kratom, grinder…"
+        autocomplete="off"
+        autofocus
+      />
+    </form>
+    <p class="srchead__count" data-search-count>{index.length} products indexed.</p>
+  </header>
+
+  <div class="results" data-search-results></div>
+
+  <script type="application/json" id="search-index" is:inline set:html={safe(index)} />
+
+  <script>
+    interface Row {
+      s: string;
+      t: string;
+      c: string;
+      p: number | null;
+      i: string;
+      k: number;
+    }
+
+    const el = document.getElementById('search-index');
+    const rows: Row[] = el ? JSON.parse(el.textContent || '[]') : [];
+    const form = document.querySelector<HTMLFormElement>('[data-search-form]');
+    const input = form?.querySelector<HTMLInputElement>('input[name="q"]');
+    const out = document.querySelector<HTMLElement>('[data-search-results]');
+    const count = document.querySelector<HTMLElement>('[data-search-count]');
+
+    const money = new Intl.NumberFormat('en-IE', { style: 'currency', currency: 'EUR' });
+
+    function score(row: Row, terms: string[]) {
+      const title = row.t.toLowerCase();
+      const cat = row.c.toLowerCase();
+      let n = 0;
+      for (const t of terms) {
+        if (title.startsWith(t)) n += 6;
+        else if (title.includes(t)) n += 3;
+        else if (cat.includes(t)) n += 1;
+        else return 0; // every term must land somewhere
+      }
+      return n + row.k;
+    }
+
+    function render(q: string) {
+      if (!out || !count) return;
+      const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+      if (!terms.length) {
+        out.innerHTML = '';
+        count.textContent = `${rows.length} products indexed.`;
+        return;
+      }
+
+      const hits = rows
+        .map((r) => ({ r, n: score(r, terms) }))
+        .filter((x) => x.n > 0)
+        .sort((a, b) => b.n - a.n)
+        .slice(0, 60);
+
+      count.textContent = hits.length
+        ? `${hits.length} result${hits.length === 1 ? '' : 's'} for “${q}”`
+        : `Nothing matched “${q}”.`;
+
+      out.innerHTML = hits
+        .map(
+          ({ r }) => `
+          <a class="hit" href="/en/product/${r.s}">
+            <img src="${r.i ? `/images/products/${r.i}-200.webp` : '/favicon.svg'}"
+                 alt="" width="56" height="56" loading="lazy" />
+            <span class="hit__t">${r.t}</span>
+            <span class="hit__c">${r.c}</span>
+            <span class="hit__p">${r.p === null ? '—' : money.format(r.p)}</span>
+          </a>`
+        )
+        .join('');
+    }
+
+    let timer: number;
+    input?.addEventListener('input', () => {
+      clearTimeout(timer);
+      timer = window.setTimeout(() => render(input.value), 120);
+    });
+    form?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      render(input?.value ?? '');
+    });
+
+    // support arriving from the header search with ?q=
+    const initial = new URLSearchParams(location.search).get('q');
+    if (initial && input) {
+      input.value = initial;
+      render(initial);
+    }
+  </script>
+</BaseLayout>
+
+<style>
+  .srchead {
+    margin-block: 1.2rem 1.5rem;
+  }
+
+  .srchead h1 {
+    font-size: var(--step-4);
+  }
+
+  .srchead__form {
+    margin-block-start: 1rem;
+  }
+
+  .srchead__form input {
+    width: 100%;
+    max-width: 34rem;
+    padding: 0.85rem 1rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    font-size: var(--step-1);
+  }
+
+  .srchead__form input:focus-visible {
+    border-color: var(--spruce);
+  }
+
+  .srchead__count {
+    margin-block-start: 0.7rem;
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    color: var(--ink-3);
+  }
+
+  .results {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .results :global(.hit) {
+    display: grid;
+    grid-template-columns: 56px 1fr auto;
+    grid-template-areas: 'img title price' 'img cat price';
+    align-items: center;
+    column-gap: 0.9rem;
+    padding: 0.55rem 0.7rem;
+    background: var(--surface);
+    border: 1px solid var(--line-soft);
+    border-radius: var(--radius);
+    text-decoration: none;
+  }
+
+  .results :global(.hit:hover) {
+    border-color: var(--spruce);
+  }
+
+  .results :global(.hit img) {
+    grid-area: img;
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+    background: var(--surface-2);
+  }
+
+  .results :global(.hit__t) {
+    grid-area: title;
+    color: var(--ink);
+    font-weight: 500;
+  }
+
+  .results :global(.hit__c) {
+    grid-area: cat;
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .results :global(.hit__p) {
+    grid-area: price;
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    color: var(--ink);
+  }
+</style>

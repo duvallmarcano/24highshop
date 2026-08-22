@@ -1,0 +1,248 @@
+---
+import Icon from '../ui/Icon.astro';
+import { SHOPS, SITE, LOCALES } from '../../data/site';
+
+const year = new Date().getFullYear();
+
+const payments = ['ideal', 'bancontact', 'sofort', 'giropay', 'iban'];
+
+const about = [
+  { label: 'About us', href: '/en/about' },
+  { label: 'Blog', href: '/en/blog' },
+  { label: 'Shipping & returns', href: '/en/shipping' },
+  { label: 'Contact', href: '/en/contact' },
+];
+
+const legal = [
+  { label: 'Terms & conditions', href: '/en/terms' },
+  { label: 'Privacy policy', href: '/en/privacy' },
+  { label: 'Cookie policy', href: '/en/cookies' },
+  { label: 'Disclaimer', href: '/en/disclaimer' },
+];
+---
+
+<footer class="ftr">
+  <div class="container">
+    <div class="ftr__usp">
+      <div><Icon name="truck" size={20} /><div><strong>Free EU shipping over &euro;50</strong><span>Tracked, 2–5 working days</span></div></div>
+      <div><Icon name="package" size={20} /><div><strong>Discreet packaging</strong><span>Plain, unmarked, no branding</span></div></div>
+      <div><Icon name="shield" size={20} /><div><strong>Secure payment</strong><span>iDEAL, Bancontact, SOFORT</span></div></div>
+      <div><Icon name="leaf" size={20} /><div><strong>Since {SITE.established}</strong><span>Shipping across Europe</span></div></div>
+    </div>
+
+    <div class="ftr__grid">
+      <div class="ftr__brand">
+        <a class="ftr__logo" href="/en/">
+          <span class="ftr__mark" aria-hidden="true">24</span>
+          <span>High</span>
+        </a>
+        <p class="ftr__tag">{SITE.description}</p>
+        <p class="ftr__age"><Icon name="shield" size={15} /> Strictly 18+. Please use responsibly.</p>
+      </div>
+
+      <nav class="ftr__col" aria-label="Shop">
+        <h2>Shop</h2>
+        <ul role="list">
+          {SHOPS.map((s) => <li><a href={s.href}>{s.label}</a></li>)}
+        </ul>
+      </nav>
+
+      <nav class="ftr__col" aria-label="About">
+        <h2>24High</h2>
+        <ul role="list">
+          {about.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+        </ul>
+      </nav>
+
+      <nav class="ftr__col" aria-label="Legal">
+        <h2>Legal</h2>
+        <ul role="list">
+          {legal.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+        </ul>
+      </nav>
+
+      <nav class="ftr__col" aria-label="Languages">
+        <h2>Countries</h2>
+        <ul role="list">
+          {
+            LOCALES.map((l) => (
+              <li><a href={l.href} hreflang={l.code} lang={l.code}>{l.label}</a></li>
+            ))
+          }
+        </ul>
+      </nav>
+    </div>
+
+    <div class="ftr__pay" aria-label="Accepted payment methods">
+      {
+        payments.map((p) => (
+          <img
+            src={`/images/paymentoptions/${p}.jpg`}
+            alt={p}
+            height="20"
+            width="32"
+            loading="lazy"
+          />
+        ))
+      }
+    </div>
+
+    <div class="ftr__base">
+      <p>&copy; {SITE.established}–{year} {SITE.name}. All rights reserved.</p>
+      <p class="ftr__kvk">Prices include VAT.</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .ftr {
+    margin-block-start: clamp(3rem, 8vw, 6rem);
+    padding-block: 2.5rem 1.5rem;
+    background: var(--surface);
+    border-block-start: 1px solid var(--line);
+    font-size: var(--step--1);
+  }
+
+  .ftr__usp {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr));
+    gap: 1.1rem;
+    padding-block-end: 2rem;
+    border-block-end: 1px solid var(--line-soft);
+  }
+
+  .ftr__usp > div {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.65rem;
+  }
+
+  .ftr__usp :global(.icon) {
+    color: var(--spruce);
+    margin-block-start: 0.1rem;
+  }
+
+  .ftr__usp strong {
+    display: block;
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--ink);
+  }
+
+  .ftr__usp span {
+    color: var(--ink-3);
+    font-size: 0.78rem;
+  }
+
+  .ftr__grid {
+    display: grid;
+    grid-template-columns: 1.6fr repeat(4, minmax(0, 1fr));
+    gap: 2rem 1.5rem;
+    padding-block: 2rem;
+  }
+
+  .ftr__logo {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .ftr__mark {
+    display: grid;
+    place-items: center;
+    width: 1.7rem;
+    height: 1.7rem;
+    background: var(--spruce);
+    color: var(--ink-on-brand);
+    border-radius: var(--radius);
+    font-size: 0.85rem;
+  }
+
+  .ftr__tag {
+    max-width: 32ch;
+    margin-block: 0.7rem;
+    color: var(--ink-2);
+    line-height: 1.55;
+  }
+
+  .ftr__age {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.35rem 0.6rem;
+    background: var(--warn-soft);
+    color: var(--warn);
+    border-radius: var(--radius);
+    font-size: 0.75rem;
+  }
+
+  .ftr__col h2 {
+    margin-block-end: 0.75rem;
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .ftr__col ul {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .ftr__col a {
+    color: var(--ink-2);
+    text-decoration: none;
+  }
+
+  .ftr__col a:hover {
+    color: var(--spruce);
+    text-decoration: underline;
+  }
+
+  .ftr__pay {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    padding-block: 1.2rem;
+    border-block-start: 1px solid var(--line-soft);
+  }
+
+  .ftr__pay img {
+    height: 20px;
+    width: auto;
+    border-radius: 3px;
+  }
+
+  .ftr__base {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding-block-start: 1rem;
+    border-block-start: 1px solid var(--line-soft);
+    color: var(--ink-3);
+    font-size: 0.75rem;
+  }
+
+  @media (max-width: 900px) {
+    .ftr__grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .ftr__brand {
+      grid-column: 1 / -1;
+    }
+  }
+</style>
