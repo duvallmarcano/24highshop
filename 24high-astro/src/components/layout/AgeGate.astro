@@ -1,0 +1,280 @@
+---
+import Icon from '../ui/Icon.astro';
+import { SITE } from '../../data/site';
+
+/**
+ * 18+ verification.
+ *
+ * Two constraints shape this:
+ *
+ *  1. It must not hide content from crawlers. The page renders in full and
+ *     the gate is layered on top by JS, so Googlebot, answer engines and
+ *     anyone with JS disabled read the same HTML a verified visitor does.
+ *     That keeps it out of cloaking territory.
+ *
+ *  2. It must not flash for someone already verified. A tiny inline script
+ *     in <head> (see Meta.astro) sets a class on <html> before first paint,
+ *     so the gate is only ever painted for people who actually need it.
+ *
+ * The confirmation lives in localStorage for 30 days. This is a
+ * self-declaration gate, which is what Swiss retail practice expects — it is
+ * not identity verification and does not pretend to be.
+ */
+---
+
+<div class="gate" id="age-gate" role="dialog" aria-modal="true" aria-labelledby="gate-title" hidden>
+  <div class="gate__panel">
+    <span class="gate__mark" aria-hidden="true">
+      24High <em>CH</em>
+    </span>
+
+    <p class="gate__eyebrow">Age verification</p>
+    <h2 id="gate-title">Are you 18 or over?</h2>
+
+    <p class="gate__body">
+      24High sells botanicals, cannabis genetics and smoking accessories from
+      {SITE.address.locality}. Swiss law restricts these to adults, so we have to ask
+      before you come in.
+    </p>
+
+    <div class="gate__actions">
+      <button type="button" class="gate__yes" data-age-yes>
+        <Icon name="check" size={18} />
+        Yes, I am 18 or over
+      </button>
+      <button type="button" class="gate__no" data-age-no>I am under 18</button>
+    </div>
+
+    <p class="gate__legal">
+      By entering you confirm you are of legal age where you live. See our
+      <a href="/en/terms">terms</a> and <a href="/en/disclaimer">disclaimer</a>.
+    </p>
+  </div>
+
+  <div class="gate__denied" hidden data-age-denied>
+    <span class="gate__mark" aria-hidden="true">24High <em>CH</em></span>
+    <h2>Come back when you are 18.</h2>
+    <p>
+      We cannot let you shop here yet — and that is not negotiable. If you are looking
+      for straight answers about any of this in the meantime,
+      <a href="https://www.suchtschweiz.ch/en/" rel="noopener noreferrer" target="_blank"
+        >Addiction Switzerland</a
+      > publishes them without selling you anything.
+    </p>
+  </div>
+</div>
+
+<script>
+  const KEY = '24high-age-ok';
+  const DAYS = 30;
+
+  const gate = document.getElementById('age-gate');
+  const denied = document.querySelector<HTMLElement>('[data-age-denied]');
+  const panel = document.querySelector<HTMLElement>('.gate__panel');
+  const root = document.documentElement;
+
+  function verified(): boolean {
+    try {
+      const raw = localStorage.getItem(KEY);
+      if (!raw) return false;
+      return Number(raw) > Date.now();
+    } catch {
+      // private mode: fall back to this tab only, so the gate is not a wall
+      return sessionStorage.getItem(KEY) === '1';
+    }
+  }
+
+  function open() {
+    if (!gate) return;
+    gate.hidden = false;
+    root.classList.add('age-locked');
+    // move focus in, and keep it there while the gate is up
+    (panel?.querySelector('button') as HTMLElement | null)?.focus();
+  }
+
+  function close() {
+    if (!gate) return;
+    gate.hidden = true;
+    root.classList.remove('age-locked', 'age-pending');
+  }
+
+  function accept() {
+    const until = Date.now() + DAYS * 864e5;
+    try {
+      localStorage.setItem(KEY, String(until));
+    } catch {
+      try {
+        sessionStorage.setItem(KEY, '1');
+      } catch {
+        /* storage blocked entirely — the answer just won't persist */
+      }
+    }
+    close();
+  }
+
+  function refuse() {
+    if (!panel || !denied) return;
+    panel.hidden = true;
+    denied.hidden = false;
+    (denied.querySelector('a') as HTMLElement | null)?.focus();
+  }
+
+  if (verified()) {
+    close();
+  } else {
+    open();
+  }
+
+  document.querySelector('[data-age-yes]')?.addEventListener('click', accept);
+  document.querySelector('[data-age-no]')?.addEventListener('click', refuse);
+
+  // The gate is not dismissible: no Escape, no click-outside, and Tab cannot
+  // leave it while it is open.
+  document.addEventListener('keydown', (e) => {
+    if (gate?.hidden || e.key !== 'Tab') return;
+    const focusables = gate!.querySelectorAll<HTMLElement>(
+      'button:not([hidden]), a[href]'
+    );
+    const visible = Array.from(focusables).filter((el) => el.offsetParent !== null);
+    if (!visible.length) return;
+    const first = visible[0];
+    const last = visible[visible.length - 1];
+    if (e.shiftKey && document.activeElement === first) {
+      e.preventDefault();
+      last.focus();
+    } else if (!e.shiftKey && document.activeElement === last) {
+      e.preventDefault();
+      first.focus();
+    }
+  });
+</script>
+
+<style is:global>
+  /* Set by the pre-paint script for anyone not yet verified, so the page
+     underneath never scrolls or flashes behind the gate. */
+  html.age-pending body,
+  html.age-locked body {
+    overflow: hidden;
+  }
+
+  html.age-pending #age-gate {
+    display: flex;
+  }
+</style>
+
+<style>
+  .gate {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--gutter);
+    background: var(--paper);
+  }
+
+  .gate[hidden] { display: none; }
+
+  .gate__panel,
+  .gate__denied {
+    width: 100%;
+    max-width: 34rem;
+    text-align: center;
+  }
+
+  .gate__mark {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.35rem;
+    margin-block-end: 2.5rem;
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: -0.045em;
+    color: var(--ink);
+  }
+
+  .gate__mark em {
+    font-family: var(--font-mono);
+    font-size: 0.56rem;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.14em;
+    color: var(--spruce);
+    border: 1px solid currentcolor;
+    padding: 0.1rem 0.2rem;
+    translate: 0 -0.2rem;
+  }
+
+  .gate__eyebrow {
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .gate h2 {
+    margin-block: 0.8rem 1.1rem;
+    font-size: var(--step-4);
+    letter-spacing: -0.04em;
+  }
+
+  .gate__body,
+  .gate__denied p {
+    max-width: 46ch;
+    margin-inline: auto;
+    color: var(--ink-2);
+    line-height: 1.6;
+  }
+
+  .gate__actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.7rem;
+    margin-block: 2rem 1.5rem;
+  }
+
+  .gate__yes {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.55rem;
+    width: 100%;
+    max-width: 22rem;
+    padding: 0.95rem 1.6rem;
+    background: var(--spruce);
+    color: var(--ink-on-brand);
+    border-radius: var(--radius);
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-weight: 500;
+    transition: background-color 0.14s ease;
+  }
+
+  .gate__yes:hover { background: var(--spruce-hover); }
+
+  .gate__no {
+    padding: 0.5rem 0.8rem;
+    color: var(--ink-3);
+    font-size: var(--step--1);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+
+  .gate__no:hover { color: var(--ink); }
+
+  .gate__legal {
+    max-width: 40ch;
+    margin-inline: auto;
+    padding-block-start: 1.4rem;
+    border-block-start: 1px solid var(--line);
+    color: var(--ink-3);
+    font-size: var(--step--2);
+    line-height: 1.6;
+  }
+
+  .gate__denied h2 { color: var(--ink); }
+</style>

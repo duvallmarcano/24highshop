@@ -103,7 +103,7 @@ const metaDescription =
 
   <Breadcrumbs items={crumbs} />
 
-  <div class="pdp">
+  <div class="pdp" data-shop={shop}>
     <div class="pdp__media">
       <Gallery images={images} alt={title} />
     </div>
@@ -155,8 +155,11 @@ const metaDescription =
   }
 
   .pdp__cat {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    background: var(--accent-soft);
+    color: var(--accent);
     text-decoration: none;
-    color: var(--spruce);
   }
 
   .pdp__info h1 {

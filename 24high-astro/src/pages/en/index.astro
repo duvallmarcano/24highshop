@@ -24,16 +24,19 @@ const latest = posts.slice(0, 3);
 const steps = [
   {
     n: '01',
+    icon: 'clock' as const,
     title: 'You order by 16:00',
     body: 'Pay with TWINT, PostFinance, card or invoice. Nothing about the checkout names what you bought.',
   },
   {
     n: '02',
+    icon: 'package' as const,
     title: 'We pack it in Zürich',
     body: 'Picked from Swiss stock the same working day, into a plain box with no branding on the outside.',
   },
   {
     n: '03',
+    icon: 'truck' as const,
     title: 'It arrives in 1–2 days',
     body: 'Tracked to your door anywhere in Switzerland. No customs, no waiting on a border.',
   },
@@ -102,8 +105,9 @@ const steps = [
     <ul class="shops" role="list">
       {
         SHOPS.map((shop) => (
-          <li>
+          <li data-shop={shop.id}>
             <a class="shop" href={shop.href}>
+              <span class="shop__icon"><Icon name={shop.icon} size={26} /></span>
               <span class="shop__top">
                 <h3>{shop.label}</h3>
                 <span class="shop__n">{shop.total}</span>
@@ -131,7 +135,10 @@ const steps = [
         {
           steps.map((s) => (
             <li>
-              <span class="steps__n">{s.n}</span>
+              <span class="steps__head">
+                <Icon name={s.icon} size={22} />
+                <span class="steps__n">{s.n}</span>
+              </span>
               <h3>{s.title}</h3>
               <p>{s.body}</p>
             </li>
@@ -346,18 +353,37 @@ const steps = [
   }
 
   .shop {
+    position: relative;
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
     height: 100%;
-    padding: 1.5rem;
+    padding: 1.6rem 1.5rem 1.5rem;
     border-inline-end: 1px solid var(--line);
     border-block-end: 1px solid var(--line);
     text-decoration: none;
     transition: background-color 0.14s ease;
   }
 
-  .shop:hover { background: var(--surface-2); }
+  /* the shop's own colour, drawn as a rule that fills in on hover */
+  .shop::before {
+    content: '';
+    position: absolute;
+    inset-block-start: -1px;
+    inset-inline: -1px 100%;
+    height: 3px;
+    background: var(--accent);
+    transition: inset-inline-end 0.22s ease;
+  }
+
+  .shop:hover::before { inset-inline-end: -1px; }
+  .shop:hover { background: var(--accent-soft); }
+
+  .shop__icon {
+    display: block;
+    margin-block-end: 0.4rem;
+    color: var(--accent);
+  }
 
   .shop__top {
     display: flex;
@@ -390,7 +416,7 @@ const steps = [
     font-size: var(--step--2);
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: var(--spruce);
+    color: var(--accent);
   }
 
   /* ── steps ── */
@@ -408,11 +434,17 @@ const steps = [
     padding: 1.8rem 2rem 2rem 0;
   }
 
+  .steps__head {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    color: var(--spruce);
+  }
+
   .steps__n {
     font-family: var(--font-mono);
     font-size: var(--step--2);
     letter-spacing: 0.1em;
-    color: var(--spruce);
   }
 
   .steps h3 {

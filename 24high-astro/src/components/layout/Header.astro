@@ -92,7 +92,7 @@ const MEGA_LIMIT = 10;
       <ul class="nav__list" role="list">
         {
           SHOPS.map((shop) => (
-            <li class="nav__item">
+            <li class="nav__item" data-shop={shop.id}>
               <a
                 class:list={['nav__link', activeShop === shop.id && 'nav__link--active']}
                 href={shop.href}
@@ -103,6 +103,7 @@ const MEGA_LIMIT = 10;
               <div class="mega">
                 <div class="mega__in container">
                   <div class="mega__lead">
+                    <span class="mega__icon"><Icon name={shop.icon} size={30} /></span>
                     <p class="mega__blurb">{shop.blurb}</p>
                     <a class="mega__all" href={shop.href}>
                       {t('nav.allProducts', { n: shop.total })}
@@ -155,9 +156,12 @@ const MEGA_LIMIT = 10;
       <ul class="drawer__list" role="list">
         {
           SHOPS.map((shop) => (
-            <li>
+            <li data-shop={shop.id}>
               <a href={shop.href}>
-                {shop.label}
+                <span class="drawer__label">
+                  <Icon name={shop.icon} size={18} />
+                  {shop.label}
+                </span>
                 <span class="drawer__n">{shop.total}</span>
               </a>
             </li>
@@ -412,11 +416,13 @@ const MEGA_LIMIT = 10;
   .nav__link:hover,
   .nav__link--active {
     color: var(--ink);
-    border-block-end-color: var(--spruce);
+    border-block-end-color: var(--accent);
+    border-block-end-width: 2px;
   }
 
   /* --- mega --- */
   .mega {
+    border-block-start: 2px solid var(--accent);
     position: absolute;
     inset-inline: 0;
     inset-block-start: 100%;
@@ -441,6 +447,12 @@ const MEGA_LIMIT = 10;
     padding-block: 1.6rem 2rem;
   }
 
+  .mega__icon {
+    display: block;
+    margin-block-end: 0.7rem;
+    color: var(--accent);
+  }
+
   .mega__blurb {
     color: var(--ink-2);
     font-size: var(--step--1);
@@ -455,6 +467,7 @@ const MEGA_LIMIT = 10;
     font-family: var(--font-display);
     font-size: var(--step--1);
     font-weight: 500;
+    color: var(--accent);
     text-decoration: none;
   }
 
@@ -479,7 +492,7 @@ const MEGA_LIMIT = 10;
     text-decoration: none;
   }
 
-  .mega__cols a:hover { color: var(--spruce); }
+  .mega__cols a:hover { color: var(--accent); }
 
   .mega__n {
     font-family: var(--font-mono);
@@ -488,7 +501,7 @@ const MEGA_LIMIT = 10;
     font-variant-numeric: tabular-nums;
   }
 
-  .mega__rest { color: var(--spruce) !important; font-weight: 500; }
+  .mega__rest { color: var(--accent) !important; font-weight: 500; }
 
   /* --- drawer --- */
   .drawer {
@@ -535,6 +548,14 @@ const MEGA_LIMIT = 10;
     color: var(--ink);
     text-decoration: none;
   }
+
+  .drawer__label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .drawer__label :global(.icon) { color: var(--accent); }
 
   .drawer__n {
     font-family: var(--font-mono);

@@ -29,6 +29,25 @@
   --spruce-hover: #063a27;
   --spruce-soft: #eaf2ee;
 
+
+  /* --- shop identities: one hue per shop, for wayfinding and personality.
+     Components read var(--accent); [data-shop] rebinds it (see global.css). --- */
+  --shop-mushrooms: #8f5200;
+  --shop-mushrooms-soft: #f9f0dd;
+  --shop-smartshop: #6b2a68;
+  --shop-smartshop-soft: #f6ebf6;
+  --shop-headshop: #2c3f85;
+  --shop-headshop-soft: #eaeef9;
+  --shop-seedshop: #0b5136;
+  --shop-seedshop-soft: #eaf2ee;
+  --shop-cbdshop: #0a5566;
+  --shop-cbdshop-soft: #e6f2f5;
+  --shop-healthshop: #96203f;
+  --shop-healthshop-soft: #fbe9ed;
+
+  --accent: var(--spruce);
+  --accent-soft: var(--spruce-soft);
+
   /* --- semantic, kept distinct from the accent --- */
   --ok: #0b5136;
   --ok-soft: #eaf2ee;
@@ -85,6 +104,20 @@
     --spruce-hover: #7ae0b7;
     --spruce-soft: #10241b;
 
+
+    --shop-mushrooms: #e9ad4a;
+    --shop-mushrooms-soft: #2a1e08;
+    --shop-smartshop: #d98ed6;
+    --shop-smartshop-soft: #261f25;
+    --shop-headshop: #8fa6ea;
+    --shop-headshop-soft: #161e33;
+    --shop-seedshop: #57d3a2;
+    --shop-seedshop-soft: #10241b;
+    --shop-cbdshop: #57c8de;
+    --shop-cbdshop-soft: #0d2429;
+    --shop-healthshop: #f0879e;
+    --shop-healthshop-soft: #2c141b;
+
     --ok: #57d3a2;
     --ok-soft: #10241b;
     --warn: #ddb45f;
@@ -113,6 +146,20 @@
   --spruce: #57d3a2;
   --spruce-hover: #7ae0b7;
   --spruce-soft: #10241b;
+
+
+  --shop-mushrooms: #e9ad4a;
+  --shop-mushrooms-soft: #2a1e08;
+  --shop-smartshop: #d98ed6;
+  --shop-smartshop-soft: #261f25;
+  --shop-headshop: #8fa6ea;
+  --shop-headshop-soft: #161e33;
+  --shop-seedshop: #57d3a2;
+  --shop-seedshop-soft: #10241b;
+  --shop-cbdshop: #57c8de;
+  --shop-cbdshop-soft: #0d2429;
+  --shop-healthshop: #f0879e;
+  --shop-healthshop-soft: #2c141b;
 
   --ok: #57d3a2;
   --ok-soft: #10241b;

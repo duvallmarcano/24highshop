@@ -95,7 +95,7 @@ const description = `${category.label} at 24High — ${products.length} products
 >
   <Breadcrumbs items={crumbs} />
 
-  <header class="cat">
+  <header class="cat" data-shop={shop.id}>
     <div class="cat__lead">
       <p class="eyebrow">{shop.label}</p>
       <h1>{category.label}</h1>
@@ -121,7 +121,7 @@ const description = `${category.label} at 24High — ${products.length} products
     <FAQ items={SHOP_FAQ[shop.id as ShopId] ?? []} title={`${shop.label} — common questions`} />
   </section>
 
-  <nav class="siblings" aria-label={`Other ${shop.label} categories`}>
+  <nav class="siblings" aria-label={`Other ${shop.label} categories`} data-shop={shop.id}>
     <h2 class="eyebrow">More in {shop.label}</h2>
     <ul role="list">
       {
@@ -142,6 +142,8 @@ const description = `${category.label} at 24High — ${products.length} products
 
 <style>
   .cat {
+    border-block-start: 4px solid var(--accent);
+    padding-block-start: 1.5rem;
     display: grid;
     grid-template-columns: minmax(0, 1fr) 20rem;
     gap: clamp(1.5rem, 5vw, 4rem);
@@ -205,7 +207,7 @@ const description = `${category.label} at 24High — ${products.length} products
     text-decoration: none;
   }
 
-  .siblings a:hover { border-color: var(--ink); color: var(--ink); }
+  .siblings a:hover { border-color: var(--accent); color: var(--accent); }
 
   .siblings span {
     font-family: var(--font-mono);

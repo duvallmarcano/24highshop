@@ -56,14 +56,15 @@ const answer = `24High's ${shop.label.toLowerCase()} carries ${shop.total} produ
 >
   <Breadcrumbs items={crumbs} />
 
-  <header class="shophead">
+  <header class="shophead" data-shop={shop.id}>
+    <span class="shophead__icon"><Icon name={shop.icon} size={40} /></span>
     <p class="eyebrow">{shop.categories.length} categories · {shop.total} products</p>
     <h1>{shop.label}</h1>
     <p class="shophead__answer">{answer}</p>
     <p class="shophead__intro">{shop.intro}</p>
   </header>
 
-  <section class="section">
+  <section class="section" data-shop={shop.id}>
     <h2 class="section__title">Browse by category</h2>
     <ul class="cats" role="list">
       {
@@ -95,8 +96,15 @@ const answer = `24High's ${shop.label.toLowerCase()} carries ${shop.total} produ
 <style>
   .shophead {
     margin-block: 1.5rem 0;
-    padding-block-end: 2.5rem;
+    padding-block: 1.5rem 2.5rem;
+    border-block-start: 4px solid var(--accent);
     border-block-end: 1px solid var(--line);
+  }
+
+  .shophead__icon {
+    display: block;
+    margin-block-end: 1rem;
+    color: var(--accent);
   }
 
   .shophead h1 {
@@ -154,7 +162,7 @@ const answer = `24High's ${shop.label.toLowerCase()} carries ${shop.total} produ
     transition: background-color 0.14s ease;
   }
 
-  .cats a:hover { background: var(--surface-2); color: var(--spruce); }
+  .cats a:hover { background: var(--accent-soft); color: var(--accent); }
 
   .cats__n {
     display: inline-flex;

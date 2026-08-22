@@ -1,4 +1,5 @@
 import catalog from './catalog.json';
+import type { IconName } from '../lib/icons';
 
 /**
  * ─────────────────────────────────────────────────────────────────────────
@@ -75,38 +76,47 @@ export type ShopId =
   | 'healthshop';
 
 /** Display order, positioning copy and the question each shop answers. */
-const SHOP_META: Record<ShopId, { label: string; blurb: string; intro: string }> = {
+const SHOP_META: Record<
+  ShopId,
+  { label: string; blurb: string; intro: string; icon: IconName }
+> = {
   mushrooms: {
+    icon: 'mushroom',
     label: 'Mushrooms',
     blurb: 'Grow kits, truffles, spores and everything the mycelium needs.',
     intro:
       'Everything for growing and using fungi: all-in-one grow kits that fruit in two to three weeks, liquid cultures and spore syringes for people who want to start from genetics, fresh magic truffles, and the medicinal species — lion’s mane, reishi, cordyceps.',
   },
   smartshop: {
+    icon: 'cactus',
     label: 'Smartshop',
     blurb: 'Kratom, kanna, cacti and botanicals with a long ethnographic record.',
     intro:
       'Plants people have used deliberately for a very long time. Kratom and kanna, mescaline cacti, dream herbs, rapé and the seeds behind them — with the dosing notes and cautions that should come with them.',
   },
   headshop: {
+    icon: 'grinder',
     label: 'Headshop',
     blurb: 'Grinders, bongs, pipes, storage and the rest of the kit.',
     intro:
       'The hardware. Grinders that hold an edge, borosilicate glass, airtight storage that actually holds humidity, scales, capsule machines and extraction gear.',
   },
   seedshop: {
+    icon: 'sprout',
     label: 'Seedshop',
     blurb: 'Feminised, autoflower and regular cannabis genetics.',
     intro:
       'Cannabis genetics from established European breeders: feminised and autoflowering seeds, high-THC and CBD-dominant lines, and the medicinal strains — sold as souvenirs and collectors’ items.',
   },
   cbdshop: {
+    icon: 'droplet',
     label: 'CBD',
     blurb: 'Oils, pastes, crystals and edibles across the cannabinoid range.',
     intro:
       'Full-spectrum oils, pastes and isolated crystals at a range of strengths, plus edibles. Swiss law permits CBD products below 1% THC — a far higher threshold than most of Europe.',
   },
   healthshop: {
+    icon: 'pulse',
     label: 'Healthshop',
     blurb: 'Adaptogens, nootropics and superfoods for focus, sleep and mood.',
     intro:
@@ -126,6 +136,7 @@ export interface Shop {
   label: string;
   blurb: string;
   intro: string;
+  icon: IconName;
   href: string;
   total: number;
   categories: Category[];

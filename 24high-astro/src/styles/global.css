@@ -169,6 +169,15 @@ hr {
   top: 0.5rem;
 }
 
+/* Any element carrying data-shop rebinds --accent, so a component can style
+   itself with the current shop's colour without knowing which shop it is. */
+[data-shop='mushrooms']  { --accent: var(--shop-mushrooms);  --accent-soft: var(--shop-mushrooms-soft); }
+[data-shop='smartshop']  { --accent: var(--shop-smartshop);  --accent-soft: var(--shop-smartshop-soft); }
+[data-shop='headshop']   { --accent: var(--shop-headshop);   --accent-soft: var(--shop-headshop-soft); }
+[data-shop='seedshop']   { --accent: var(--shop-seedshop);   --accent-soft: var(--shop-seedshop-soft); }
+[data-shop='cbdshop']    { --accent: var(--shop-cbdshop);    --accent-soft: var(--shop-cbdshop-soft); }
+[data-shop='healthshop'] { --accent: var(--shop-healthshop); --accent-soft: var(--shop-healthshop-soft); }
+
 /* A full-bleed hairline that still respects the container gutter. */
 .rule {
   border: 0;
