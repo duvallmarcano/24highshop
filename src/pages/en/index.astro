@@ -5,6 +5,7 @@ import ProductGrid from '../../components/product/ProductGrid.astro';
 import PostCard from '../../components/blog/PostCard.astro';
 import Button from '../../components/ui/Button.astro';
 import Icon from '../../components/ui/Icon.astro';
+import Stars from '../../components/product/Stars.astro';
 import FAQ from '../../components/seo/FAQ.astro';
 import { SHOPS, SITE, TOTAL_PRODUCTS, TOP_SELLER_KEYS, SHOP_BY_ID, type ShopId } from '../../data/site';
 import { GLOBAL_FAQ } from '../../data/faq';
@@ -15,25 +16,50 @@ const posts = (await getCollection('blog')).sort(
   (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
 );
 
-// Only the shop's own best-seller lists appear on the homepage. These are
-// real curated categories in the catalogue, not a ranking we invented — there
-// is no sales or ratings feed to rank by.
-const bestSellers = products
-  .filter(
-    (p) =>
-      p.data.inStock &&
-      p.data.images.length &&
-      TOP_SELLER_KEYS.has(`${p.data.shop}/${p.data.category}`)
-  )
-  .sort((a, b) => (b.data.price ?? 0) - (a.data.price ?? 0));
+// Homepage shows only products customers have actually rated, and no product
+// appears twice — each section draws from what the previous ones left.
+const rated = products.filter(
+  (p) => p.data.rating && p.data.inStock && p.data.images.length
+);
 
-// group them so each shop's list reads as its own top ten
-const byShop = [...new Set(bestSellers.map((p) => p.data.shop))].map((id) => ({
-  shop: SHOP_BY_ID.get(id as ShopId)!,
-  items: bestSellers.filter((p) => p.data.shop === id),
-}));
+const used = new Set<string>();
+function take<T extends { slug: string }>(list: T[], n: number): T[] {
+  const out: T[] = [];
+  for (const p of list) {
+    if (out.length >= n) break;
+    if (used.has(p.slug)) continue;
+    used.add(p.slug);
+    out.push(p);
+  }
+  return out;
+}
 
-const hero = bestSellers[0];
+const r = (p: (typeof rated)[number]) => p.data.rating!;
+
+// strongest score, but only where more than one person rated it
+const byScore = [...rated]
+  .filter((p) => r(p).count >= 2)
+  .sort((a, b) => r(b).value - r(a).value || r(b).count - r(a).count);
+
+// most-rated, regardless of score — this is the social-proof slice
+const byCount = [...rated].sort((a, b) => r(b).count - r(a).count || r(b).value - r(a).value);
+
+const hero = take(byScore, 1)[0] ?? take(byCount, 1)[0];
+const mostReviewed = take(byCount, 8);
+const topRated = take(byScore, 8);
+
+// breadth: the best-rated survivor from each shop, so the smaller shops
+// are not buried under mushrooms and smartshop
+const acrossShops = SHOPS.map((shop) => ({
+  shop,
+  items: take(
+    [...rated]
+      .filter((p) => p.data.shop === shop.id)
+      .sort((a, b) => r(b).value - r(a).value || r(b).count - r(a).count),
+    2
+  ),
+})).filter((g) => g.items.length > 0);
+
 const latest = posts.slice(0, 3);
 
 // The order story, told as three real steps rather than marketing beats.
@@ -93,7 +119,12 @@ const steps = [
               fetchpriority="high"
             />
             <span class="hero__tag">
-              <span class="eyebrow">Best seller &middot; in stock</span>
+              <span class="hero__stars">
+                <Stars value={hero.data.rating!.value} size={14} />
+                <span>
+                  {hero.data.rating!.value.toFixed(1)} from {hero.data.rating!.count} ratings
+                </span>
+              </span>
               <strong>{hero.data.title}</strong>
             </span>
           </a>
@@ -190,22 +221,45 @@ const steps = [
     </div>
   </section>
 
-  <!-- ── best sellers ─────────────────────────────────────────────────── -->
+  <!-- ── most reviewed ─────────────────────────────────────────────── -->
+  <section class="container band">
+    <header class="band__head band__head--row">
+      <div>
+        <h2>What people actually bought twice</h2>
+        <p>Our most-rated products, ordered by how many customers left a score.</p>
+      </div>
+      <a class="band__link" href="/en/shop/mushrooms">Browse the shop</a>
+    </header>
+    <ProductGrid products={mostReviewed} eagerCount={4} />
+  </section>
+
+  <!-- ── highest rated ────────────────────────────────────────────────── -->
+  <section class="band band--rule">
+    <div class="container">
+      <header class="band__head">
+        <h2>Rated highest by the people who use them</h2>
+        <p>
+          Top scores, counting only products more than one customer has rated —
+          a single five-star review does not put anything here.
+        </p>
+      </header>
+      <ProductGrid products={topRated} eagerCount={0} />
+    </div>
+  </section>
+
+  <!-- ── across the shops ─────────────────────────────────────────────── -->
   <section class="container band">
     <header class="band__head">
-      <h2>What actually sells</h2>
-      <p>
-        {bestSellers.length} products, taken straight from our own top-ten lists rather
-        than an algorithm's guess. Everything here is in stock today.
-      </p>
+      <h2>Rated across every shop</h2>
+      <p>The best-scoring product in each of the six shops, so nothing gets buried.</p>
     </header>
 
     {
-      byShop.map(({ shop, items }) => (
+      acrossShops.map(({ shop, items }) => (
         <div class="tops" data-shop={shop.id}>
           <div class="tops__head">
             <span class="tops__icon"><Icon name={shop.icon} size={20} /></span>
-            <h3>Top {shop.label}</h3>
+            <h3>{shop.label}</h3>
             <a href={shop.href}>
               All {shop.total} <Icon name="arrow-right" size={13} />
             </a>
@@ -292,6 +346,15 @@ const steps = [
     padding: 0.85rem 1rem;
     border-block-start: 1px solid var(--line);
     background: var(--paper);
+  }
+
+  .hero__stars {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-mono);
+    font-size: var(--step--2);
+    color: var(--ink-3);
   }
 
   .hero__tag strong {
