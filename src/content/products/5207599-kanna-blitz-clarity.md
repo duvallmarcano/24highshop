@@ -1,6 +1,6 @@
 ---
 title: "Kanna Blitz Clarity"
-description: "Kanna Blitz Clarity? ✓Mental clarity ✓Natural calm ✓Discreet shipping ✓Free goodies with every order at 24High"
+description: "Kanna Blitz Clarity. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "5207599"
 price: 22.5
 currency: "EUR"

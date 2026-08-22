@@ -1,6 +1,6 @@
 ---
 title: "Raw cocoa beans - Guatemala"
-description: "Raw cocoa beans - Guatemala Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Raw cocoa beans - Guatemala. In stock at CHF 15.75. Dispatched from Zürich in plain packaging Article 4202140."
 sku: "4202140"
 price: 14.95
 currency: "EUR"

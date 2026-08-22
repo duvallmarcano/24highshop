@@ -1,6 +1,6 @@
 ---
 title: "Kanna Krystal Ultimate Extract - 1g"
-description: "Kanna Krystal Ultimate Extract - 1g Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna Krystal Ultimate Extract - 1g. CHF 26.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0203307"
 price: 24.95
 currency: "EUR"

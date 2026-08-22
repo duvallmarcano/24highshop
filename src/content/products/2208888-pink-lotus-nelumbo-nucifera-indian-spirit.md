@@ -1,6 +1,6 @@
 ---
 title: "Pink Lotus (Nelumbo Nucifera) Indian Spirit"
-description: "Pink Lotus (Nelumbo Nucifera) Indian Spirit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pink Lotus (Nelumbo Nucifera) Indian Spirit — medicinal herbs. CHF 6.80, in stock in Zürich and shipped the same working day."
 sku: "2208888"
 price: 6.48
 currency: "EUR"

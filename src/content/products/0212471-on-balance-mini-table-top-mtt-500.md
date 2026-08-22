@@ -1,6 +1,6 @@
 ---
 title: "On Balance Mini Table-Top MTT-500"
-description: "On Balance Mini Table-Top MTT-500 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "On Balance Mini Table-Top MTT-500. In stock at CHF 29.40. Dispatched from Zürich in plain packaging."
 sku: "0212471"
 price: 27.95
 currency: "EUR"

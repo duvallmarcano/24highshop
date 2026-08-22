@@ -1,6 +1,6 @@
 ---
 title: "Shiitake (Lentinula Edodes) - Heart Support - 100 Grams"
-description: "Shiitake (Lentinula Edodes) - Heart Support - 100 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Shiitake (Lentinula Edodes) - Heart Support - 100 Grams — powder. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4204538"
 price: 16.95
 currency: "EUR"

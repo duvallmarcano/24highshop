@@ -1,6 +1,6 @@
 ---
 title: "Golden Teacher XL Mushroom Grow Bag"
-description: "Grow your own Golden Teacher mushrooms with this XL grow bag. Easy to use, high yield and free goodies with every order."
+description: "Golden Teacher XL Mushroom Grow Bag — mystic fungi growkits. CHF 52.60, in stock in Zürich and shipped the same working day."
 sku: "6205601"
 price: 49.95
 currency: "EUR"

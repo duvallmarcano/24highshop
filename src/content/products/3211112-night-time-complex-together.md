@@ -1,6 +1,6 @@
 ---
 title: "Night Time Complex - Together"
-description: "Night Time Complex - Together Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Night Time Complex - Together. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3211112"
 price: 18.95
 currency: "EUR"

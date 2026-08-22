@@ -1,6 +1,6 @@
 ---
 title: "AK-49 (Vision Seeds)"
-description: "AK-49 (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "AK-49 (Vision Seeds) — feminised, 49 seeds. In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "0203381"
 price: 17.5
 currency: "EUR"

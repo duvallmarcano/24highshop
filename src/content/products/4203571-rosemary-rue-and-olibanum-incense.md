@@ -1,6 +1,6 @@
 ---
 title: "Rosemary, rue and olibanum incense"
-description: "Experience the purifying fragrance of Rosemary, Wineruit & Olibanum. Perfect for meditation and relaxation. Order quickly and discreetly at 24High!"
+description: "Rosemary, rue and olibanum incense. CHF 6.60. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4203571"
 price: 6.25
 currency: "EUR"

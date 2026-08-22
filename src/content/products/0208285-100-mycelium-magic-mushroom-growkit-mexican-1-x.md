@@ -1,6 +1,6 @@
 ---
 title: "100% Mycelium Magic Mushroom Growkit Mexican"
-description: "100% Mycelium Magic Mushroom Growkit Mexican - 1 X Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "100% Mycelium Magic Mushroom Growkit Mexican — fresh mushrooms growkits. In stock at CHF 42.05. Dispatched from Zürich in plain packaging."
 sku: "0208285"
 price: 39.95
 currency: "EUR"

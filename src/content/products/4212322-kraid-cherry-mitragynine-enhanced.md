@@ -1,6 +1,6 @@
 ---
 title: "KRAID Cherry - Mitragynine Enhanced"
-description: "KRAID Cherry - Mitragynine Enhanced Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "KRAID Cherry - Mitragynine Enhanced. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "4212322"
 price: 5.95
 currency: "EUR"

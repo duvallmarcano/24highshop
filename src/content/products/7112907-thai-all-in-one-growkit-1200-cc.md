@@ -1,6 +1,6 @@
 ---
 title: "Thai All in one Growkit"
-description: "Thai All in one Growkit - 1200 cc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Thai All in one Growkit — all-in-one. CHF 36.80, on the shelf in Zürich. Discreet tracked delivery."
 sku: "7112907"
 price: 34.95
 currency: "EUR"

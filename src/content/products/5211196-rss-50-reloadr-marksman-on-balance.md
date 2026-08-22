@@ -1,6 +1,6 @@
 ---
 title: "RSS 50 Reloadr Marksman On Balance"
-description: "Buy the On Balance RSS 50 Reloadr Marksman at 24High. Accurate, compact and fast delivery. Free goodie with every order."
+description: "RSS 50 Reloadr Marksman On Balance. In stock at CHF 72.60. Dispatched from Zürich in plain packaging."
 sku: "5211196"
 price: 68.95
 currency: "EUR"

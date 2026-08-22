@@ -1,6 +1,6 @@
 ---
 title: "Maitake (Grifola Frondosa) - Resistance"
-description: "Maitake (Grifola Frondosa) - Resistance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Maitake (Grifola Frondosa) - Resistance — immune system. In stock at CHF 36.80. Dispatched from Zürich in plain packaging."
 sku: "2203473"
 price: 34.95
 currency: "EUR"

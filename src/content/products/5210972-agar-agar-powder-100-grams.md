@@ -1,6 +1,6 @@
 ---
 title: "Agar Agar powder - 100 grams"
-description: "For paddock culture. High quality Agar Agar 100g. Free shipping from €35 at 24High"
+description: "Agar Agar powder - 100 grams — powder, 100 grams. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5210972"
 price: 9.95
 currency: "EUR"

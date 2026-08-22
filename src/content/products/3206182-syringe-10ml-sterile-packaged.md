@@ -1,6 +1,6 @@
 ---
 title: "Syringe 10ml - Sterile Packaged"
-description: "Syringe 10ml - Sterile Packaged Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Syringe 10ml - Sterile Packaged — sterile, 18G. CHF 0.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3206182"
 price: 0.7
 currency: "EUR"

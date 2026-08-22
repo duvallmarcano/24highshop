@@ -1,6 +1,6 @@
 ---
 title: "Kleaner Mouth & Bodyhygiene - 100 ML"
-description: "Kleaner Mouth & Bodyhygiene - 100 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kleaner Mouth & Bodyhygiene - 100 ML — test for drugs. CHF 36.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4209667"
 price: 34.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Kratom Liquid"
-description: "Want to order Kratom Liquid? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Kratom Liquid. CHF 12.60, in stock in Zürich and shipped the same working day."
 sku: "8101549"
 price: 11.95
 currency: "EUR"

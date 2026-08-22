@@ -1,6 +1,6 @@
 ---
 title: "Medium Spoon On Vial"
-description: "Medium Spoon On Vial Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Medium Spoon On Vial — sniff articles. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "9109832"
 price: 4.95
 currency: "EUR"

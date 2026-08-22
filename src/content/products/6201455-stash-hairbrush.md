@@ -1,6 +1,6 @@
 ---
 title: "Stash Hairbrush"
-description: "Store your items discreetly with this stash hairbrush. Includes free goodies with every order at 24high."
+description: "Stash Hairbrush. CHF 10.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201455"
 price: 9.95
 currency: "EUR"

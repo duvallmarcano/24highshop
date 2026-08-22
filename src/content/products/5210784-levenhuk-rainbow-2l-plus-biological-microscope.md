@@ -1,6 +1,6 @@
 ---
 title: "Levenhuk Rainbow 2L PLUS Biological Microscope"
-description: "Explore the microscopic world in vivid detail with this powerful and easy-to-use microscope. Perfect for students and hobbyists. ✓Adjustable LED lighting ✓Durable design ✓Great for all ages ✓Free goodies with every order at 24High."
+description: "Levenhuk Rainbow 2L PLUS Biological Microscope, 2L. CHF 121.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5210784"
 price: 114.95
 currency: "EUR"

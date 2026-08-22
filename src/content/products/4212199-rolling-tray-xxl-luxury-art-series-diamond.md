@@ -1,6 +1,6 @@
 ---
 title: "Rolling Tray XXL - Luxury Art Series - Diamond"
-description: "Rolling Tray XXL - Luxury Art Series - Diamond Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rolling Tray XXL - Luxury Art Series - Diamond. CHF 8.35, in stock in Zürich and shipped the same working day."
 sku: "4212199"
 price: 7.95
 currency: "EUR"

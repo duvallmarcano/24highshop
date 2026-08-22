@@ -1,6 +1,6 @@
 ---
 title: "Heavenly E Happy Caps"
-description: "Heavenly E Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Heavenly E Happy Caps. CHF 9.45, in stock in Zürich and shipped the same working day."
 sku: "8101477"
 price: 8.99
 currency: "EUR"

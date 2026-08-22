@@ -1,6 +1,6 @@
 ---
 title: "Bobinsana (Calliandra angustifolia) Leaves – 50 grams"
-description: "Discover premium Bobinsana leaves at 24High. Carefully packed in 50g bags and free goodies with every order."
+description: "Bobinsana (Calliandra angustifolia) Leaves – 50 grams — medicinal herbs. CHF 12.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6207763"
 price: 11.95
 currency: "EUR"

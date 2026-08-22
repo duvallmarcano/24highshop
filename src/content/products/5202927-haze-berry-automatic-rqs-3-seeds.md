@@ -1,6 +1,6 @@
 ---
 title: "Haze Berry Automatic (RQS)"
-description: "Haze Berry Automatic (RQS)- 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Haze Berry Automatic (RQS) — autoflower seeds. CHF 22.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5202927"
 price: 21.5
 currency: "EUR"

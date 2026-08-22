@@ -1,6 +1,6 @@
 ---
 title: "Forest Dreams Mix - Indian Spirit"
-description: "Forest Dreams Mix - Indian Spirit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Forest Dreams Mix - Indian Spirit. In stock at CHF 8.95. Dispatched from Zürich in plain packaging."
 sku: "2208513"
 price: 8.5
 currency: "EUR"

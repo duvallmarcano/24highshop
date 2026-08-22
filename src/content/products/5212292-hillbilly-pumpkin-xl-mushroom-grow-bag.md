@@ -1,6 +1,6 @@
 ---
 title: "Hillbilly Pumpkin XL Mushroom Grow Bag"
-description: "Grow your own Hillbilly Pumpkin mushrooms at home with this complete grow kit. Easy to use, perfect for beginners and pros."
+description: "Hillbilly Pumpkin XL grow bag — a complete substrate kit, no sterile technique needed. Ships from Zürich in plain packaging."
 sku: "5212292"
 price: 49.95
 currency: "EUR"

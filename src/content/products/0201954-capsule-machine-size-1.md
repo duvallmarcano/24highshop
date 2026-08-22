@@ -1,6 +1,6 @@
 ---
 title: "Capsule Machine Size 1"
-description: "Capsule Machine Size 1 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Capsule Machine Size 1 — powder. In stock at CHF 28.35. Dispatched from Zürich in plain packaging."
 sku: "0201954"
 price: 26.95
 currency: "EUR"

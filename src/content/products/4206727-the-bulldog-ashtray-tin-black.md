@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog Ashtray Tin Black"
-description: "The Bulldog Ashtray Tin Black Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog Ashtray Tin Black. CHF 3.10, in stock in Zürich and shipped the same working day."
 sku: "4206727"
 price: 2.95
 currency: "EUR"

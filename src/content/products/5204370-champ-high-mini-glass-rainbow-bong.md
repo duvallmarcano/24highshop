@@ -1,6 +1,6 @@
 ---
 title: "Champ High Mini Glass Rainbow Bong"
-description: "Champ High Mini Glass Rainbow Bong 12.5 cm. Free goodies with every order. Compact and colorful, perfect for any session."
+description: "Champ High Mini Glass Rainbow Bong — glass, 12.5 cm. In stock at CHF 9.40. Dispatched from Zürich in plain packaging."
 sku: "5204370"
 price: 8.95
 currency: "EUR"

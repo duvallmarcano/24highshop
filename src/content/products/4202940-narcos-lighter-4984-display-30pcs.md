@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Lighter 4984 - Display 30pcs"
-description: "Narcos - Lighter 4984 - Display 30pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Lighter 4984 - Display 30pcs. In stock at CHF 29.40. Dispatched from Zürich in plain packaging."
 sku: "4202940"
 price: 27.95
 currency: "EUR"

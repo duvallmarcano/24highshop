@@ -1,6 +1,6 @@
 ---
 title: "Orange Sherbert Auto (Vision Seeds)"
-description: "Orange Sherbert Auto seeds by Vision Seeds. Citrus flavor and autoflower. Free goodie with every order."
+description: "Orange Sherbert Auto (Vision Seeds) — feminised. CHF 18.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6203241"
 price: 17.5
 currency: "EUR"

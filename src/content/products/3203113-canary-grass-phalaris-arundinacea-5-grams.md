@@ -1,6 +1,6 @@
 ---
 title: "Canary grass ( Phalaris Arundinacea) - 5 grams"
-description: "Canary grass ( Phalaris Arundinacea) - 5 grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Canary grass ( Phalaris Arundinacea) - 5 grams — exotic seeds. In stock at CHF 6.25. Dispatched from Zürich in plain packaging."
 sku: "3203113"
 price: 5.95
 currency: "EUR"

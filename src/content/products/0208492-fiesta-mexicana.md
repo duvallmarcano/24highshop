@@ -1,6 +1,6 @@
 ---
 title: "Fiesta Kits 5x1200cc"
-description: "Fiesta Mexicana Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Fiesta Kits 5x1200cc, 1200 cc. In stock at CHF 157.85. Dispatched from Zürich in plain packaging."
 sku: "0208492"
 price: 149.95
 currency: "EUR"

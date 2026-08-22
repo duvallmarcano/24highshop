@@ -1,6 +1,6 @@
 ---
 title: "Wild Lettuce Indian Elements"
-description: "Wild Lettuce Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wild Lettuce Indian Elements — medicinal herbs. CHF 9.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101570"
 price: 8.95
 currency: "EUR"

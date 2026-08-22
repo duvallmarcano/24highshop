@@ -1,6 +1,6 @@
 ---
 title: "100% Mycelium Magic Mushroom Growkit McKennaii"
-description: "100% Mycelium Magic Mushroom Growkit McKennaii Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "100% Mycelium Magic Mushroom Growkit McKennaii — fresh mushrooms growkits. CHF 42.05, in stock in Zürich and shipped the same working day."
 sku: "0208370"
 price: 39.95
 currency: "EUR"

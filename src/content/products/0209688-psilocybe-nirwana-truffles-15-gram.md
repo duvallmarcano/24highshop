@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Nirwana Truffles"
-description: "Psilocybe Nirwana Truffles - 15 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Psilocybe Nirwana Truffles. In stock at CHF 17.85. Dispatched from Zürich in plain packaging."
 sku: "0209688"
 price: 16.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Dreamliner Black Shisha Large 3 Hose Black 54Cm"
-description: "Dreamliner Black Shisha Large 3 Hose Black 54Cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Dreamliner Black Shisha Large 3 Hose Black 54Cm. CHF 52.60, currently sold out. Restocked regularly in Zürich."
 sku: "0206771"
 price: 49.95
 currency: "EUR"

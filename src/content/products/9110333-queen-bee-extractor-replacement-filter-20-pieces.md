@@ -1,6 +1,6 @@
 ---
 title: "Queen Bee Extractor Replacement Filter - 20 pieces"
-description: "Queen Bee Extractor Replacement Filter - 20 pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Queen Bee Extractor Replacement Filter - 20 pieces — extraction systems. CHF 7.90. Back in stock shortly — shipped from Zürich when it lands."
 sku: "9110333"
 price: 7.5
 currency: "EUR"

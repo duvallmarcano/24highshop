@@ -1,6 +1,6 @@
 ---
 title: "On Balance DR-500"
-description: "On Balance DR-500 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "On Balance DR-500, 500 grams. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0212414"
 price: 18.95
 currency: "EUR"

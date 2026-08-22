@@ -1,6 +1,6 @@
 ---
 title: "Palo Santo Kuripe"
-description: "Buy Palo Santo Kuripe at 24High. ✓Free goodies with every order ✓Sacred wood rapé applicator ✓Authentic ✓Fast & discreet delivery."
+description: "Palo Santo Kuripe — handmade. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5204573"
 price: 19.95
 currency: "EUR"

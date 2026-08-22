@@ -1,6 +1,6 @@
 ---
 title: "Clipper Lighter Large Cactus"
-description: "Clipper Lighter Large Cactus Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Clipper Lighter Large Cactus. In stock at CHF 1.60. Dispatched from Zürich in plain packaging."
 sku: "0211454"
 price: 1.5
 currency: "EUR"

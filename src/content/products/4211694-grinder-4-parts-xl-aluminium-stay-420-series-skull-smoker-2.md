@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Skull Smoker 2"
-description: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Skull Smoker 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Skull Smoker 2 — aluminium. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4211694"
 price: 22.5
 currency: "EUR"

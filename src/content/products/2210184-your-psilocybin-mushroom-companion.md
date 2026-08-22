@@ -1,6 +1,6 @@
 ---
 title: "Your Psilocybin Mushroom Companion"
-description: "Your Psilocybin Mushroom Companion Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Your Psilocybin Mushroom Companion. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2210184"
 price: 18.95
 currency: "EUR"

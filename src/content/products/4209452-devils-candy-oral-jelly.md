@@ -1,6 +1,6 @@
 ---
 title: "Devils Candy Oral Jelly"
-description: "Devils Candy Oral Jelly Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Devils Candy Oral Jelly. CHF 25.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4209452"
 price: 23.95
 currency: "EUR"

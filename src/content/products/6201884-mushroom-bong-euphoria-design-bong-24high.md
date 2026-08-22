@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Bong Euphoria | Design bong | 24high"
-description: "Mushroom Bong Euphoria with unique design. Durable and easy to use. Free goodies with every order."
+description: "Mushroom Bong Euphoria | Design bong | 24high — glass. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "6201884"
 price: 24.95
 currency: "EUR"

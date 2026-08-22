@@ -1,6 +1,6 @@
 ---
 title: "Vitavac 0,06 liter Pocket Red Clear Tint Red Tint Cap"
-description: "Buy the Vitavac 0.06 liter Pocket Red Clear Tint Red Tint Cap at 24High.nl ✔️ Fast delivery ✔️ Discreet shipping | Order online now"
+description: "Vitavac 0,06 liter Pocket Red Clear Tint Red Tint Cap — stash & storage boxes. In stock at CHF 6.25. Dispatched from Zürich in plain packaging."
 sku: "9110532"
 price: 5.95
 currency: "EUR"

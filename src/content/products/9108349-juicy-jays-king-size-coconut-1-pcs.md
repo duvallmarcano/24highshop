@@ -1,6 +1,6 @@
 ---
 title: "Juicy Jays King Size Slim Coconut"
-description: "Juicy Jays King Size Coconut - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Juicy Jays King Size Slim Coconut. CHF 1.60. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9108349"
 price: 1.5
 currency: "EUR"

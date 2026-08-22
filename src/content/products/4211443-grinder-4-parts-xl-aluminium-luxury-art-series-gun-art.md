@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts XL | Aluminium | Luxury Art Series | Gun Art"
-description: "Grinder 4-Parts XL | Aluminium | Luxury Art Series | Gun Art Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts XL | Aluminium | Luxury Art Series | Gun Art — aluminium. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4211443"
 price: 22.5
 currency: "EUR"

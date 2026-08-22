@@ -1,6 +1,6 @@
 ---
 title: "Cascadian Teacher Liquid Culture Syringe"
-description: "Cascadian Teacher Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cascadian Teacher Liquid Culture Syringe. CHF 19.95, in stock in Zürich and shipped the same working day."
 sku: "5201781"
 price: 18.95
 currency: "EUR"

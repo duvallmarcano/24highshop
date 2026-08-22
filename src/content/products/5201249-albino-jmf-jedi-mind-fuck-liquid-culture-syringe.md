@@ -1,6 +1,6 @@
 ---
 title: "Albino JMF (Jedi Mind Fuck) Liquid Culture Syringe"
-description: "Albino JMF (Jedi Mind Fuck) Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Albino JMF (Jedi Mind Fuck) Liquid Culture Syringe. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5201249"
 price: 18.95
 currency: "EUR"

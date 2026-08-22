@@ -1,6 +1,6 @@
 ---
 title: "420 Rolling Tray Small"
-description: "420 Rolling Tray Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "420 Rolling Tray Small — smoking accessories. In stock at CHF 4.15. Dispatched from Zürich in plain packaging."
 sku: "9110411"
 price: 3.95
 currency: "EUR"

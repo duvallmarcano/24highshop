@@ -1,6 +1,6 @@
 ---
 title: "Kanna Blitz Speed"
-description: "Kanna Blitz Speed? ✓Fast-acting energy ✓Natural focus ✓Discreet shipping ✓Free goodies with every order at 24High"
+description: "Kanna Blitz Speed. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5207476"
 price: 22.5
 currency: "EUR"

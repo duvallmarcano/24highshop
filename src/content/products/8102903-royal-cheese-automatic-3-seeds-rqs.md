@@ -1,6 +1,6 @@
 ---
 title: "Royal Cheese Automatic (RQS)"
-description: "Royal Cheese Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Cheese Automatic (RQS) — autoflower seeds. CHF 21.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8102903"
 price: 20.0
 currency: "EUR"

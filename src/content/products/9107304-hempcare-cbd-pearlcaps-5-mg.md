@@ -1,6 +1,6 @@
 ---
 title: "Hempcare CBD Pearlcaps 5 MG"
-description: "Hempcare CBD Pearlcaps 5 MG Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Hempcare CBD Pearlcaps 5 MG — capsules, 5 MG. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "9107304"
 price: 29.95
 currency: "EUR"

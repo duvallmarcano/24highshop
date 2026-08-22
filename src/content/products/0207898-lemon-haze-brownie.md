@@ -1,6 +1,6 @@
 ---
 title: "Lemon Haze Brownie"
-description: "Lemon Haze Brownie Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lemon Haze Brownie — cannabis edibles. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0207898"
 price: 4.95
 currency: "EUR"

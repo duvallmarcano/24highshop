@@ -1,6 +1,6 @@
 ---
 title: "Mexican All in one Growkit"
-description: "Mexican All in one Growkit - 250 cc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mexican All in one Growkit — all-in-one. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112977"
 price: 19.95
 currency: "EUR"

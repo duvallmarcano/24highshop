@@ -1,6 +1,6 @@
 ---
 title: "San Pedro Cutting Monstrosus 25 - 35 cm"
-description: "San Pedro Cutting Monstrosus 25 - 35 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro Cutting Monstrosus 25 - 35 cm — mescaline cacti. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205605"
 price: 29.95
 currency: "EUR"

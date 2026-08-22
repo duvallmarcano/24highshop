@@ -1,6 +1,6 @@
 ---
 title: "Ceremonial 100% Raw Cacao Paste Chunks - Ecuador"
-description: "Ceremonial 100% Raw Cacao Paste Chunks - Ecuador - 150 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ceremonial 100% Raw Cacao Paste Chunks - Ecuador. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4202666"
 price: 14.95
 currency: "EUR"

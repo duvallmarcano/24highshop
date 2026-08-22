@@ -1,6 +1,6 @@
 ---
 title: "Kratom X Kanna Liquid - 10 Ml"
-description: "Kratom X Kanna Liquid - 10 Ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kratom X Kanna Liquid - 10 Ml. CHF 12.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0201956"
 price: 11.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Flamez Filter Tip Booklet Black 50 Pcs"
-description: "Flamez Filter Tip Booklet Black 50 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Flamez Filter Tip Booklet Black 50 Pcs — smoking accessories. CHF 14.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9109565"
 price: 13.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Pipe Screens Steel 15MM - 5 Pieces"
-description: "Pipe Screens Steel 15MM - 5 Pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pipe Screens Steel 15MM - 5 Pieces. CHF 0.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9110308"
 price: 0.5
 currency: "EUR"

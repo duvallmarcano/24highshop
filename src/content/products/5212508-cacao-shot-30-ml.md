@@ -1,6 +1,6 @@
 ---
 title: "Cacao shot - 30 ML"
-description: "Cacao Shot 30 ML with pure cacao extract. Compact and easy to use. Free goodies with every order."
+description: "Cacao shot - 30 ML, 30 ML. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5212508"
 price: 4.95
 currency: "EUR"

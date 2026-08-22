@@ -1,6 +1,6 @@
 ---
 title: "Cacti Growkits"
-description: "San Pedro - Trichocereus Pachanoi Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cacti Growkits. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "0201468"
 price: 19.95
 currency: "EUR"

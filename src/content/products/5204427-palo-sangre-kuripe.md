@@ -1,6 +1,6 @@
 ---
 title: "Palo Sangre Kuripe"
-description: "Palo Sangre Kuripe for rapé, handmade sustainable wood. Ideal for self-application. ✓Free goodies with every order!"
+description: "Palo Sangre Kuripe — ceremonial accessories. CHF 21.00, in stock in Zürich and shipped the same working day."
 sku: "5204427"
 price: 19.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Golden Teacher All in one Growkit"
-description: "Golden Teacher All in one Growkit - 250 cc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Golden Teacher All in one Growkit — all-in-one. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "7112754"
 price: 19.95
 currency: "EUR"

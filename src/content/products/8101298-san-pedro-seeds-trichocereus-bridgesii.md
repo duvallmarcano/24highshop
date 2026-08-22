@@ -1,6 +1,6 @@
 ---
 title: "San Pedro seeds (Trichocereus bridgesii)"
-description: "San Pedro seeds (Trichocereus bridgesii) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro seeds (Trichocereus bridgesii) — mescaline cacti. In stock at CHF 13.65. Dispatched from Zürich in plain packaging."
 sku: "8101298"
 price: 12.95
 currency: "EUR"

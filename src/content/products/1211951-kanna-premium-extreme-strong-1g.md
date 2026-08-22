@@ -1,6 +1,6 @@
 ---
 title: "Kanna Premium Extreme Strong - 1g"
-description: "Kanna Premium Extreme Strong - 1g Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna Premium Extreme Strong - 1g — an extract. CHF 27.30, in stock in Zürich and shipped the same working day."
 sku: "1211951"
 price: 25.95
 currency: "EUR"

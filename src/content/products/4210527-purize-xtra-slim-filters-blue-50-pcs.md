@@ -1,6 +1,6 @@
 ---
 title: "Purize XTRA Slim Filters Blue - 50 Pcs"
-description: "Purize XTRA Slim Filters Blue - 50 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Purize XTRA Slim Filters Blue - 50 Pcs. In stock at CHF 8.95. Dispatched from Zürich in plain packaging."
 sku: "4210527"
 price: 8.5
 currency: "EUR"

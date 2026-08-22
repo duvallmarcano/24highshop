@@ -1,6 +1,6 @@
 ---
 title: "Morning Glory"
-description: "Want to order Morning Glory? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Morning Glory. In stock at CHF 6.25. Dispatched from Zürich in plain packaging."
 sku: "8101663"
 price: 5.95
 currency: "EUR"

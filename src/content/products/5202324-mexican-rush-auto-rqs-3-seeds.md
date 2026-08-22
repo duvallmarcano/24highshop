@@ -1,6 +1,6 @@
 ---
 title: "Mexican Rush Auto (RQS)"
-description: "Mexican Rush Auto (RQS) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mexican Rush Auto (RQS) — autoflowering. CHF 28.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5202324"
 price: 27.0
 currency: "EUR"

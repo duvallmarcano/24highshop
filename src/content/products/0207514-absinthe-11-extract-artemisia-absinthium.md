@@ -1,6 +1,6 @@
 ---
 title: "Absinthe 1:1 extract - Artemisia absinthium"
-description: "Absinthe 1:1 extract - Artemisia absinthium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Absinthe 1:1 extract - Artemisia absinthium — an extract. CHF 15.75, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0207514"
 price: 14.95
 currency: "EUR"

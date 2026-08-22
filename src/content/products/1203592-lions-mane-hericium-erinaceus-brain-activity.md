@@ -1,6 +1,6 @@
 ---
 title: "Lion's Mane (Hericium Erinaceus) - Brain Activity"
-description: "Lion's Mane (Hericium Erinaceus) - Brain Activity Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lion's Mane (Hericium Erinaceus) - Brain Activity — heart and blood vessels. CHF 36.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1203592"
 price: 34.95
 currency: "EUR"

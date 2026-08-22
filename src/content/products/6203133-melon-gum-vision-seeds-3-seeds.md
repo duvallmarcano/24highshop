@@ -1,6 +1,6 @@
 ---
 title: "Melon Gum (Vision Seeds)"
-description: "Melon Gum seeds by Vision Seeds. Sweet melon flavor and strong strain. Free goodie with every order."
+description: "Melon Gum (Vision Seeds) — feminised. CHF 18.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6203133"
 price: 17.5
 currency: "EUR"

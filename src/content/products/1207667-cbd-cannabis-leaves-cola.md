@@ -1,6 +1,6 @@
 ---
 title: "CBD Cannabis Leaves - Cola"
-description: "CBD Cannabis Leaves - Cola Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Cannabis Leaves - Cola — hemp. In stock at CHF 8.90. Dispatched from Zürich in plain packaging."
 sku: "1207667"
 price: 8.45
 currency: "EUR"

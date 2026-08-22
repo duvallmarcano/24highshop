@@ -1,6 +1,6 @@
 ---
 title: "Snuff Hooter"
-description: "Hooter silver Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Snuff Hooter — sniff articles. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "9109436"
 price: 5.95
 currency: "EUR"

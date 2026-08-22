@@ -1,6 +1,6 @@
 ---
 title: "Chaga Mushroom Powder"
-description: "Chaga Mushroom Powder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Chaga Mushroom Powder — powder. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3209566"
 price: 16.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "All In One Growbag - 2000cc"
-description: "All In One Growbag 2000cc ✓Easy grow ✓High yield ✓Compact ✓Free goodies with every order at 24High"
+description: "All In One Growbag - 2000cc — all-in-one, 2000cc. CHF 30.45. Back in stock shortly — shipped from Zürich when it lands."
 sku: "5208296"
 price: 28.95
 currency: "EUR"

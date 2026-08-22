@@ -1,6 +1,6 @@
 ---
 title: "Measuring cup - 1 Ltr"
-description: "✓ Capacity 1L | ✓ Sturdy & clear | ✓ For precise measuring | ✓ Free goodies with every order"
+description: "Measuring cup - 1 Ltr — grow supplies. CHF 3.10, in stock in Zürich and shipped the same working day."
 sku: "5209305"
 price: 2.95
 currency: "EUR"

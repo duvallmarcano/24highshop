@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog String Backpack With All Over Logos"
-description: "The Bulldog String Backpack With All Over Logos Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog String Backpack With All Over Logos — 4:20 lifestyle. In stock at CHF 7.85. Dispatched from Zürich in plain packaging."
 sku: "4206742"
 price: 7.45
 currency: "EUR"

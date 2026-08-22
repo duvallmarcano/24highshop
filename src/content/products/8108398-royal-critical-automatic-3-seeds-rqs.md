@@ -1,6 +1,6 @@
 ---
 title: "Royal Critical Automatic (RQS)"
-description: "Royal Critical Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Critical Automatic (RQS) — autoflower seeds. In stock at CHF 22.65. Dispatched from Zürich in plain packaging."
 sku: "8108398"
 price: 21.5
 currency: "EUR"

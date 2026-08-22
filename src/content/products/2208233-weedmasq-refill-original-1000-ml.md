@@ -1,6 +1,6 @@
 ---
 title: "Weedmasq Refill Original 1000 ML"
-description: "Weedmasq Refill Original 1000 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Weedmasq Refill Original 1000 ML — grow supplies. CHF 34.20, in stock in Zürich and shipped the same working day."
 sku: "2208233"
 price: 32.5
 currency: "EUR"

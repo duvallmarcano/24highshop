@@ -1,6 +1,6 @@
 ---
 title: "Inoculation Loop"
-description: "Inoculation Loop: ✓ Accurate & sterile | ✓ Ideal for spore transfer | ✓ Free shipping from €35"
+description: "Inoculation Loop — grow supplies. In stock at CHF 3.10. Dispatched from Zürich in plain packaging."
 sku: "5209881"
 price: 2.95
 currency: "EUR"

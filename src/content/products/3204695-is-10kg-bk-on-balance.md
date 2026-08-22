@@ -1,6 +1,6 @@
 ---
 title: "IS -10KG - BK On Balance"
-description: "IS -10KG - BK On Balance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "IS -10KG - BK On Balance. In stock at CHF 63.10. Dispatched from Zürich in plain packaging."
 sku: "3204695"
 price: 59.95
 currency: "EUR"

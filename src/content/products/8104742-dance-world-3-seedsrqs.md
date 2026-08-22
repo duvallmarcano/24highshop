@@ -1,6 +1,6 @@
 ---
 title: "Dance World (RQS)"
-description: "Dance World - 3 Seeds(RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Dance World (RQS), 90cm. CHF 18.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8104742"
 price: 17.5
 currency: "EUR"

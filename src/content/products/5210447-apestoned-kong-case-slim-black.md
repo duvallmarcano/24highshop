@@ -1,6 +1,6 @@
 ---
 title: "ApeStoned Kong Case Slim"
-description: "Keep your smoking gear safe with the ApeStoned Kong Case Slim. Durable, waterproof, and smell-proof. ✓Slim compact design ✓Perfect for travel ✓Fits grinders, papers & more ✓Free goodies with every order at 24High."
+description: "ApeStoned Kong Case Slim — stash & storage boxes. CHF 10.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5210447"
 price: 9.95
 currency: "EUR"

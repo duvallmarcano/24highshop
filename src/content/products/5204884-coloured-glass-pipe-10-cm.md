@@ -1,6 +1,6 @@
 ---
 title: "Coloured glass pipe 10 cm"
-description: "Coloured glass pipe 10cm with unique design. ✓Free goodies with every order!"
+description: "Coloured glass pipe 10 cm — glass, 10cm. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5204884"
 price: 4.95
 currency: "EUR"

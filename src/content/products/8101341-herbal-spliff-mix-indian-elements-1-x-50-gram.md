@@ -1,6 +1,6 @@
 ---
 title: "Herbal Spliff Mix Indian Elements"
-description: "Herbal Spliff Mix Indian Elements - 1 x 50 gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Herbal Spliff Mix Indian Elements — medicinal herbs. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101341"
 price: 7.95
 currency: "EUR"

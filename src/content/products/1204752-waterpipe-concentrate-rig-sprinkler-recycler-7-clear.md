@@ -1,6 +1,6 @@
 ---
 title: "Waterpipe Concentrate Rig Sprinkler Recycler 7'' Clear"
-description: "Waterpipe Concentrate Rig Sprinkler Recycler 7'' Clear Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Waterpipe Concentrate Rig Sprinkler Recycler 7'' Clear — glass. CHF 52.60, currently sold out. Restocked regularly in Zürich."
 sku: "1204752"
 price: 49.95
 currency: "EUR"

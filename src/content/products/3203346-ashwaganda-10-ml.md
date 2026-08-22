@@ -1,6 +1,6 @@
 ---
 title: "Ashwaganda - 10 ML"
-description: "Ashwaganda - 10 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ashwaganda - 10 ML. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "3203346"
 price: 19.95
 currency: "EUR"

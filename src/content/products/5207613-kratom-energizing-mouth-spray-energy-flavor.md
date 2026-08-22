@@ -1,6 +1,6 @@
 ---
 title: "Kratom Energizing Mouth Spray - Energy Flavor"
-description: "Kratom Spray? ✓Fast energy effect ✓Plant-based ✓Pocket-sized ✓Free goodies with every order at 24High"
+description: "Kratom Energizing Mouth Spray - Energy Flavor — happy caps e. CHF 20.55, in stock in Zürich and shipped the same working day."
 sku: "5207613"
 price: 19.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Medium Quick Hit"
-description: "Medium Quick Hit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Medium Quick Hit — party goods. CHF 3.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8105291"
 price: 2.95
 currency: "EUR"

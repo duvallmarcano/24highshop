@@ -1,6 +1,6 @@
 ---
 title: "Special- K Happy Caps"
-description: "Special- K Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Special- K Happy Caps. CHF 9.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4210250"
 price: 8.99
 currency: "EUR"

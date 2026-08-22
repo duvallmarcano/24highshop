@@ -1,6 +1,6 @@
 ---
 title: "SH-100 Rainbow - On Balance"
-description: "SH-100 Rainbow - On Balance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "SH-100 Rainbow - On Balance. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3206215"
 price: 29.95
 currency: "EUR"

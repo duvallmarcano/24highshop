@@ -1,6 +1,6 @@
 ---
 title: "Thai Kratom Green - Mitragyna Speciosa"
-description: "Thai Kratom Green - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Thai Kratom Green - Mitragyna Speciosa. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0206680"
 price: 7.95
 currency: "EUR"

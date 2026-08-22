@@ -1,6 +1,6 @@
 ---
 title: "Kanna ET2 Extract Indian Spirit"
-description: "Kanna ET2 Extract Indian Spirit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna ET2 Extract Indian Spirit. CHF 24.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2209166"
 price: 22.95
 currency: "EUR"

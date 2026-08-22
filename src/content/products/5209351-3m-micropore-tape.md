@@ -1,6 +1,6 @@
 ---
 title: "3M Micropore Tape"
-description: "✓ Soft & breathable | ✓ Ideal for growing & care | ✓ Trusted 3M quality | ✓ Free goodies with every order"
+description: "3M Micropore Tape — grow supplies. In stock at CHF 4.15. Dispatched from Zürich in plain packaging."
 sku: "5209351"
 price: 3.95
 currency: "EUR"

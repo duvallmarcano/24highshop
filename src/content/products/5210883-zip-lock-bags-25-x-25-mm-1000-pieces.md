@@ -1,6 +1,6 @@
 ---
 title: "zip-lock bags 25 x 25 mm - 1000 pieces"
-description: "Transparent grip bags 25x25 mm (1000 pcs). Ideal for tiny items or samples. Free goodies with every order!"
+description: "zip-lock bags 25 x 25 mm - 1000 pieces, 25 mm. CHF 13.15, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5210883"
 price: 12.5
 currency: "EUR"

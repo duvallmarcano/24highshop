@@ -1,6 +1,6 @@
 ---
 title: "Juicy Jay's Blueberry On Roll"
-description: "Juicy Jay's Blueberry On Roll - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Juicy Jay's Blueberry On Roll. CHF 1.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9109835"
 price: 1.75
 currency: "EUR"

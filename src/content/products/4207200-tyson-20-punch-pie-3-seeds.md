@@ -1,6 +1,6 @@
 ---
 title: "Tyson 2.0 Punch Pie"
-description: "Tyson 2.0 - Punch Pie - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tyson 2.0 Punch Pie — feminized seeds. CHF 26.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207200"
 price: 25.2
 currency: "EUR"

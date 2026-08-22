@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Lollypops - 4 Pack"
-description: "Order the Mushroom Lollypops 4-pack with Lion's Mane extract at 24High. Enjoy the delicious flavours without sugar or animal products."
+description: "Mushroom Lollypops - 4 Pack — medicinal mushrooms. In stock at CHF 8.35. Dispatched from Zürich in plain packaging."
 sku: "3210896"
 price: 7.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Munay Botanicals Guayusa Extract - Ilex guayusa"
-description: "Guayusa extract 50ml by Munay Botanicals. Pure and powerful. Free goodie with every order."
+description: "Munay Botanicals Guayusa Extract - Ilex guayusa — full-spectrum. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "6203361"
 price: 19.95
 currency: "EUR"

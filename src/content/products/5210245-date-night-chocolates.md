@@ -1,6 +1,6 @@
 ---
 title: "Date Night Chocolates"
-description: "Date Night Chocolates at 24High. Seductive chocolate for two. Free goodies with every order!"
+description: "Date Night Chocolates. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5210245"
 price: 19.95
 currency: "EUR"

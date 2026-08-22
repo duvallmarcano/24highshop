@@ -1,6 +1,6 @@
 ---
 title: "Real Mad Honey Turkey - 50 & 250 Grams"
-description: "Real Mad Honey Turkey - 50 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Real Mad Honey Turkey - 50 & 250 Grams — hallucinating herbs. CHF 24.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4206778"
 price: 22.95
 currency: "EUR"

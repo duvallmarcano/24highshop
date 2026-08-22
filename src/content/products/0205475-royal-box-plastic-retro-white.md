@@ -1,6 +1,6 @@
 ---
 title: "Royal Box – Plastic Retro White"
-description: "Royal Box – Plastic Retro White Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Box – Plastic Retro White. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205475"
 price: 18.95
 currency: "EUR"

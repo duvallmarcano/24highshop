@@ -1,6 +1,6 @@
 ---
 title: "Large Quick Hit"
-description: "Large Quick Hit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Large Quick Hit — sniff articles. CHF 4.15, in stock in Zürich and shipped the same working day."
 sku: "8105994"
 price: 3.95
 currency: "EUR"

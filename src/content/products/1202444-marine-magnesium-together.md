@@ -1,6 +1,6 @@
 ---
 title: "Marine Magnesium - Together"
-description: "Marine Magnesium - Together Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Marine Magnesium - Together. In stock at CHF 11.05. Dispatched from Zürich in plain packaging."
 sku: "1202444"
 price: 10.5
 currency: "EUR"

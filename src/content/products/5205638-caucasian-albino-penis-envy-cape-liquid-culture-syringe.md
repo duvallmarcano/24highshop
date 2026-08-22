@@ -1,6 +1,6 @@
 ---
 title: "Caucasian Albino Penis Envy (CAPE) Liquid Culture Syringe"
-description: "CAPE Albino Penis Envy LC Syringe. Grow magic yourself. ✓Free goodies with every order!"
+description: "Caucasian Albino Penis Envy (CAPE) Liquid Culture Syringe — live liquid culture. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "5205638"
 price: 18.95
 currency: "EUR"

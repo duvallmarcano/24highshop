@@ -1,6 +1,6 @@
 ---
 title: "Liefdesbonbon - Love bar"
-description: "Love Bar ✓Tropical taste ✓Fast effect ✓Pocket-sized power ✓Free goodies with every order at 24High"
+description: "Liefdesbonbon - Love bar. CHF 4.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5208133"
 price: 4.25
 currency: "EUR"

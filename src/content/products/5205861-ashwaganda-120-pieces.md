@@ -1,6 +1,6 @@
 ---
 title: "Ashwaganda - 120 Pieces"
-description: "Feel balanced with 120 vegan Ashwagandha capsules. Pure power from nature + free goodies with every order!"
+description: "Ashwaganda - 120 Pieces — capsules. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5205861"
 price: 19.95
 currency: "EUR"

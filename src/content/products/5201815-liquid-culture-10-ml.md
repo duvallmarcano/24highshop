@@ -1,6 +1,6 @@
 ---
 title: "Liquid Culture"
-description: "Liquid Culture - 10 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Liquid Culture — live liquid culture. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5201815"
 price: 9.95
 currency: "EUR"

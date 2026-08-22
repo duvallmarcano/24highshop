@@ -1,6 +1,6 @@
 ---
 title: "Amnesia Haze Brownie"
-description: "Amnesia Haze Brownie Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Amnesia Haze Brownie — cannabis edibles. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2202152"
 price: 4.95
 currency: "EUR"

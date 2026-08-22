@@ -1,6 +1,6 @@
 ---
 title: "McMicrodose - 2 x 5 grams"
-description: "McMicrodose - 2 x 5 grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "McMicrodose - 2 x 5 grams, 5 grams. CHF 10.45, in stock in Zürich and shipped the same working day."
 sku: "2209618"
 price: 9.95
 currency: "EUR"

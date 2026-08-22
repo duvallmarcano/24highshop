@@ -1,6 +1,6 @@
 ---
 title: "Ceramic Waterpipe 21 cm Grip."
-description: "Ceramic Waterpipe 21 cm Grip. Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ceramic Waterpipe 21 cm Grip. — ceramic. CHF 13.65, in stock in Zürich and shipped the same working day."
 sku: "2212270"
 price: 12.95
 currency: "EUR"

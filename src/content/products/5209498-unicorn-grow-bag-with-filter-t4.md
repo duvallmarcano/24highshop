@@ -1,6 +1,6 @@
 ---
 title: "Unicorn Grow Bag with Filter"
-description: "Unicorn bag ✓Sterile ✓With filter ✓Pro-level growing ✓Free goodies with every order at 24High"
+description: "Unicorn Grow Bag with Filter. CHF 1.60, currently sold out. Restocked regularly in Zürich."
 sku: "5209498"
 price: 1.5
 currency: "EUR"

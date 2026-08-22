@@ -1,6 +1,6 @@
 ---
 title: "Royal Coke"
-description: "Want to order Royal Coke? Take a look at our assortment! ✓ Free shipping from €35 ✓ Fast and discreet shipping"
+description: "Royal Coke — an extract. CHF 9.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101827"
 price: 8.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Voacanga Africana seeds"
-description: "Voacanga Africana seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Voacanga Africana seeds. In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "0210990"
 price: 4.95
 currency: "EUR"

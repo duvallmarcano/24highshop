@@ -1,6 +1,6 @@
 ---
 title: "Body and Mind Indian Spirit - 50 GR"
-description: "Body and Mind Indian Spirit - 50 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Body and Mind Indian Spirit - 50 GR — medicinal herbs. In stock at CHF 8.95. Dispatched from Zürich in plain packaging."
 sku: "3207445"
 price: 8.5
 currency: "EUR"

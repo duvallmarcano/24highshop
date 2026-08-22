@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog Original Silver King Size Slim Rolling Papers + Tips (24pcs/display)"
-description: "Want to order The Bulldog Rolling Paper King Size Slim Brown? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "The Bulldog Original Silver King Size Slim Rolling Papers + Tips (24pcs/display). CHF 26.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4206726"
 price: 24.95
 currency: "EUR"

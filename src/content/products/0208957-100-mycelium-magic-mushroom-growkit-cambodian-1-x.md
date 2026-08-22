@@ -1,6 +1,6 @@
 ---
 title: "100% Mycelium Magic Mushroom Growkit Cambodian"
-description: "100% Mycelium Magic Mushroom Growkit Cambodian - 1 X Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "100% Mycelium Magic Mushroom Growkit Cambodian — fresh mushrooms growkits. CHF 42.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0208957"
 price: 39.95
 currency: "EUR"

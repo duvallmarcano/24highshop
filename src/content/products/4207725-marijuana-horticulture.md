@@ -1,6 +1,6 @@
 ---
 title: "Marijuana Horticulture"
-description: "Marijuana Horticulture Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Marijuana Horticulture. CHF 27.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207725"
 price: 25.95
 currency: "EUR"

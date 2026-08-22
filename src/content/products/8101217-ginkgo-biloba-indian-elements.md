@@ -1,6 +1,6 @@
 ---
 title: "Ginkgo Biloba Indian Elements"
-description: "Ginkgo Biloba Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ginkgo Biloba Indian Elements. CHF 7.30, in stock in Zürich and shipped the same working day."
 sku: "8101217"
 price: 6.95
 currency: "EUR"

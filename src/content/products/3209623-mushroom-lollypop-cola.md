@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Lollypop - Cola"
-description: "Mushroom Lollypop - Cola Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mushroom Lollypop - Cola — an extract, 250 mg. In stock at CHF 2.60. Dispatched from Zürich in plain packaging."
 sku: "3209623"
 price: 2.45
 currency: "EUR"

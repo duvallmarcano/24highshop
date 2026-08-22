@@ -1,6 +1,6 @@
 ---
 title: "Inflatable Monotub Mushroom Grow Chamber – Boomer Shroomer"
-description: "✓ Lightweight & reusable | ✓ For mushroom growing | ✓ Easy setup | ✓ Free goodies with every order"
+description: "Inflatable Monotub Mushroom Grow Chamber – Boomer Shroomer. CHF 36.30, in stock in Zürich and shipped the same working day."
 sku: "5209129"
 price: 34.5
 currency: "EUR"

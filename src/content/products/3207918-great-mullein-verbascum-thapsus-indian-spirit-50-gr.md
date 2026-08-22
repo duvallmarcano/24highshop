@@ -1,6 +1,6 @@
 ---
 title: "Great Mullein (Verbascum Thapsus) Indian Spirit - 50 GR"
-description: "Great Mullein (Verbascum Thapsus) Indian Spirit - 50 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Great Mullein (Verbascum Thapsus) Indian Spirit - 50 GR — medicinal herbs. CHF 9.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3207918"
 price: 8.95
 currency: "EUR"

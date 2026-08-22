@@ -1,6 +1,6 @@
 ---
 title: "Cordyceps - Energetic"
-description: "Cordyceps - Energetic Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cordyceps - Energetic. CHF 36.80, in stock in Zürich and shipped the same working day."
 sku: "1203442"
 price: 34.95
 currency: "EUR"

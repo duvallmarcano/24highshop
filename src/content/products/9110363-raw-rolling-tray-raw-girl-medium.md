@@ -1,6 +1,6 @@
 ---
 title: "Raw Rolling Tray - RAW Girl medium"
-description: "Raw Rolling Tray - RAW Girl medium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Raw Rolling Tray - RAW Girl medium — smoking accessories. CHF 8.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9110363"
 price: 7.95
 currency: "EUR"

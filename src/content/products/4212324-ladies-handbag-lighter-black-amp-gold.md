@@ -1,6 +1,6 @@
 ---
 title: "Ladies Handbag Lighter | Black & Gold"
-description: "Ladies Handbag Lighter | Black & Gold Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ladies Handbag Lighter | Black & Gold. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212324"
 price: 7.95
 currency: "EUR"

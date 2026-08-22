@@ -1,6 +1,6 @@
 ---
 title: "San Pedro Cutting Pachanoi (Trichocereus) 35 - 45 cm"
-description: "San Pedro Cutting Pachanoi (Trichocereus) 35 - 45 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro Cutting Pachanoi (Trichocereus) 35 - 45 cm — mescaline cacti. CHF 36.80. Back in stock shortly — shipped from Zürich when it lands."
 sku: "0204907"
 price: 34.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Devils Candy Sperm Flood"
-description: "Devils Candy Sperm Flood Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Devils Candy Sperm Flood. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205487"
 price: 29.95
 currency: "EUR"

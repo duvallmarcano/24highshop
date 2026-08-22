@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Black Mamba 420 Trucker Hat"
-description: "Lauren Rose - Black Mamba 420 Trucker Hat Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Black Mamba 420 Trucker Hat — 4:20 lifestyle. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "3202918"
 price: 29.95
 currency: "EUR"

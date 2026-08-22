@@ -1,6 +1,6 @@
 ---
 title: "Royal Box - Party Green"
-description: "Royal Box - Party Green Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Box - Party Green — sniff articles. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0210903"
 price: 18.95
 currency: "EUR"

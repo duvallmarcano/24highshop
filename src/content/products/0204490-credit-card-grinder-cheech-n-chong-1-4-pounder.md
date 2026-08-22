@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Grinder Cheech N Chong 1/4 Pounder"
-description: "Credit Card Grinder Cheech N Chong 1/4 Pounder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Credit Card Grinder Cheech N Chong 1/4 Pounder. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0204490"
 price: 4.95
 currency: "EUR"

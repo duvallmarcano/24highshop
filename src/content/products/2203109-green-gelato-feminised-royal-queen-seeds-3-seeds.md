@@ -1,6 +1,6 @@
 ---
 title: "Green Gelato (RQS)"
-description: "Green Gelato Feminised - Royal Queen Seeds - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Green Gelato (RQS) — feminized seeds. In stock at CHF 34.20. Dispatched from Zürich in plain packaging."
 sku: "2203109"
 price: 32.5
 currency: "EUR"

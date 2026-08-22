@@ -1,6 +1,6 @@
 ---
 title: "Juicy Jay's Blackberry On Roll"
-description: "Juicy Jay's Blackberry On Roll - 1 Piece Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Juicy Jay's Blackberry On Roll. CHF 1.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9109568"
 price: 1.75
 currency: "EUR"

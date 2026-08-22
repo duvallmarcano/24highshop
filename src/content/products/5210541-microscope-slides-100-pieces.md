@@ -1,6 +1,6 @@
 ---
 title: "Microscope Slides – 100 Pieces"
-description: "High-quality microscope slides for science or hobby use. Free goodies with every order. Fast shipping and great value."
+description: "Microscope Slides – 100 Pieces, 100 Pieces. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5210541"
 price: 7.95
 currency: "EUR"

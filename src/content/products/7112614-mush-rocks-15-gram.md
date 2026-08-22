@@ -1,6 +1,6 @@
 ---
 title: "Mush Rocks Truffles"
-description: "Order the MushRocks Truffles at 24High. Enjoy a mild trip with visual hallucinations and increased energy. Discreet shipping and fast delivery."
+description: "Mush Rocks Truffles. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112614"
 price: 14.95
 currency: "EUR"

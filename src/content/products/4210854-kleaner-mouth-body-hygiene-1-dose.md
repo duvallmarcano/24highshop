@@ -1,6 +1,6 @@
 ---
 title: "Kleaner Mouth & Body hygiene - 1 dose"
-description: "Kleaner Mouth & Body hygiene - 1 dose Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kleaner Mouth & Body hygiene - 1 dose — test for drugs. CHF 4.15, in stock in Zürich and shipped the same working day."
 sku: "4210854"
 price: 3.95
 currency: "EUR"

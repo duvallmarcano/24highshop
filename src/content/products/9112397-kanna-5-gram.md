@@ -1,6 +1,6 @@
 ---
 title: "Kanna 5 Gram"
-description: "Want to order Kanna 5 Gram? Then take a look around our product range! ✓Free shipping from €35 ✓Fast and discreet shipping"
+description: "Kanna 5 Gram. CHF 11.55, in stock in Zürich and shipped the same working day."
 sku: "9112397"
 price: 10.95
 currency: "EUR"

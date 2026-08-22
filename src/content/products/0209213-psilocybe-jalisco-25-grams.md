@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Jalisco Truffles"
-description: "Psilocybe Jalisco - 25 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Psilocybe Jalisco Truffles. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "0209213"
 price: 19.95
 currency: "EUR"

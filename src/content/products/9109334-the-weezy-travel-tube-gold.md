@@ -1,6 +1,6 @@
 ---
 title: "The Weezy Travel Tube, Gold"
-description: "The Weezy Travel Tube, Gold Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Weezy Travel Tube, Gold. In stock at CHF 15.75. Dispatched from Zürich in plain packaging."
 sku: "9109334"
 price: 14.95
 currency: "EUR"

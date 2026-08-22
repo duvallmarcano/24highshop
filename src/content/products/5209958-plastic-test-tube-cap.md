@@ -1,6 +1,6 @@
 ---
 title: "Plastic Test Tube + Cap"
-description: "✓ Durable & reusable | ✓ Leak-proof design | ✓ Great for storage & microdosing | ✓ Free goodies with every order"
+description: "Plastic Test Tube + Cap — stash & storage boxes. CHF 0.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5209958"
 price: 0.25
 currency: "EUR"

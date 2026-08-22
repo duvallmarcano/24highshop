@@ -1,6 +1,6 @@
 ---
 title: "Cannabuds 3D Photo Frame"
-description: "Cannabuds 3D Photo Frame Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabuds 3D Photo Frame — souvenir en gadgets. In stock at CHF 13.65. Dispatched from Zürich in plain packaging."
 sku: "0212615"
 price: 12.95
 currency: "EUR"

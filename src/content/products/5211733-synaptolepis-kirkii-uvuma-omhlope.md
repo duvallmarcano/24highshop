@@ -1,6 +1,6 @@
 ---
 title: "Synaptolepis Kirkii - Uvuma omhlope"
-description: "Discover Synaptolepis Kirkii – Uvuma Omhlope at 24High. High quality, fast delivery, and free goodies with every order."
+description: "Synaptolepis Kirkii - Uvuma omhlope — dream herbs. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5211733"
 price: 6.95
 currency: "EUR"

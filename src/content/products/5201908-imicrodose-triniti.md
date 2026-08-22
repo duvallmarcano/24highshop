@@ -1,6 +1,6 @@
 ---
 title: "iMicrodose"
-description: "iMicrodose - Triniti Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "iMicrodose — magic truffles. In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "5201908"
 price: 17.5
 currency: "EUR"

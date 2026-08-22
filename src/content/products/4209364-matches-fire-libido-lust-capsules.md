@@ -1,6 +1,6 @@
 ---
 title: "Matches Fire Libido Lust Capsules"
-description: "Matches Fire Libido Lust Capsules Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Matches Fire Libido Lust Capsules — capsules. CHF 26.25, in stock in Zürich and shipped the same working day."
 sku: "4209364"
 price: 24.95
 currency: "EUR"

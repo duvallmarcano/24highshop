@@ -1,6 +1,6 @@
 ---
 title: "Lowryder Auto (Vision Seeds)"
-description: "Lowryder Auto (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lowryder Auto (Vision Seeds). In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "0204388"
 price: 17.5
 currency: "EUR"

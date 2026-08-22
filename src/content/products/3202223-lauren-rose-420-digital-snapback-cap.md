@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - 420 Digital Snapback cap"
-description: "Lauren Rose - 420 Digital Snapback cap Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - 420 Digital Snapback cap — 4:20 lifestyle. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3202223"
 price: 29.95
 currency: "EUR"

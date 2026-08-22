@@ -1,6 +1,6 @@
 ---
 title: "Zkittlez Auto (Vision Seeds)"
-description: "Zkittlez Auto seeds by Vision Seeds. Sweet flavor and autoflower strain. Free goodie with every order."
+description: "Zkittlez Auto (Vision Seeds) — feminised. CHF 18.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6203884"
 price: 17.5
 currency: "EUR"

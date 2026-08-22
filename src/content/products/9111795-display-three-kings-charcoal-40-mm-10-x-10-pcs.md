@@ -1,6 +1,6 @@
 ---
 title: "Display three kings charcoal 40 mm 10 x 10 pcs"
-description: "Display three kings charcoal 40 mm 10 x 10 pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Display three kings charcoal 40 mm 10 x 10 pcs. CHF 10.45, currently sold out. Restocked regularly in Zürich."
 sku: "9111795"
 price: 9.95
 currency: "EUR"

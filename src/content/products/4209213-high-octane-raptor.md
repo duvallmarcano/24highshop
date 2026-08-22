@@ -1,6 +1,6 @@
 ---
 title: "High Octane Raptor"
-description: "High Octane Raptor Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "High Octane Raptor. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "4209213"
 price: 24.95
 currency: "EUR"

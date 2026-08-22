@@ -1,6 +1,6 @@
 ---
 title: "Lion's Mane Mushroom Extract (Foodsporen)"
-description: "Lion's Mane Mushroom Extract (Foodsporen) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lion's Mane Mushroom Extract (Foodsporen) — heart and blood vessels. CHF 31.05. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1203633"
 price: 29.5
 currency: "EUR"

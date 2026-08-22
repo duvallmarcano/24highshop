@@ -1,6 +1,6 @@
 ---
 title: "Special Queen 1 (RQS)"
-description: "Special Queen 1 - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Special Queen 1 (RQS) — feminized seeds. In stock at CHF 11.05. Dispatched from Zürich in plain packaging."
 sku: "8102842"
 price: 10.5
 currency: "EUR"

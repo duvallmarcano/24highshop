@@ -1,6 +1,6 @@
 ---
 title: "Buds Rolling Tray Large"
-description: "Buds Rolling Tray Large Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Buds Rolling Tray Large — smoking accessories. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9110182"
 price: 4.95
 currency: "EUR"

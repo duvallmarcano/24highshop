@@ -1,6 +1,6 @@
 ---
 title: "White sage smudge XL"
-description: "White sage smudge XL Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "White sage smudge XL. CHF 11.55. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4203867"
 price: 10.95
 currency: "EUR"

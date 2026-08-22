@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Tray White Medium"
-description: "Narcos - Rolling Tray White Medium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Rolling Tray White Medium. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4201659"
 price: 4.95
 currency: "EUR"

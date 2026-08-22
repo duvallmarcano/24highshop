@@ -1,6 +1,6 @@
 ---
 title: "Delhi Cheese AUTO (Vision Seeds)"
-description: "Delhi Cheese AUTO (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Delhi Cheese AUTO (Vision Seeds). In stock at CHF 15.80. Dispatched from Zürich in plain packaging."
 sku: "0204258"
 price: 15.0
 currency: "EUR"

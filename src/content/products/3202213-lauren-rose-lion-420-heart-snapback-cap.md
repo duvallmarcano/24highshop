@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Lion 420 Heart Snapback cap"
-description: "Lauren Rose - Lion 420 Heart Snapback cap Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Lion 420 Heart Snapback cap — 4:20 lifestyle. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "3202213"
 price: 29.95
 currency: "EUR"

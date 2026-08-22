@@ -1,6 +1,6 @@
 ---
 title: "White Widow Auto (Vision Seeds)"
-description: "White Widow Auto (Vision Seeds) - 3 seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "White Widow Auto (Vision Seeds). CHF 18.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0204565"
 price: 17.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "On Balance Nv Envy Scale Nv-500 500G X 0.01G"
-description: "On Balance Nv Envy Scale Nv-500 500G X 0.01G Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "On Balance Nv Envy Scale Nv-500 500G X 0.01G. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "9108825"
 price: 29.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "MAK95 Liquid Culture Syringe"
-description: "MAK95 Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "MAK95 Liquid Culture Syringe. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5201300"
 price: 18.95
 currency: "EUR"

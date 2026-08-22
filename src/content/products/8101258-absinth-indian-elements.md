@@ -1,6 +1,6 @@
 ---
 title: "Absinth Indian Elements"
-description: "Absinth Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Absinth Indian Elements — medicinal herbs. In stock at CHF 7.30. Dispatched from Zürich in plain packaging."
 sku: "8101258"
 price: 6.95
 currency: "EUR"

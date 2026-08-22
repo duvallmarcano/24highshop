@@ -1,6 +1,6 @@
 ---
 title: "Kanna 20x Extract"
-description: "Kanna 20x Extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna 20x Extract — an extract. CHF 14.70, in stock in Zürich and shipped the same working day."
 sku: "0201894"
 price: 13.95
 currency: "EUR"

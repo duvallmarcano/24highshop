@@ -1,6 +1,6 @@
 ---
 title: "Spongepots"
-description: "Want to order Spongepots? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Spongepots — exotic seeds. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9111338"
 price: 6.95
 currency: "EUR"

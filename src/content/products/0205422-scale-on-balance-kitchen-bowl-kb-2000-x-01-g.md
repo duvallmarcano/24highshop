@@ -1,6 +1,6 @@
 ---
 title: "Scale On Balance Kitchen Bowl KB-2000 x 0.1 g"
-description: "Scale On Balance Kitchen Bowl KB-2000 x 0.1 g Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Scale On Balance Kitchen Bowl KB-2000 x 0.1 g, 2000 grams. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205422"
 price: 29.95
 currency: "EUR"

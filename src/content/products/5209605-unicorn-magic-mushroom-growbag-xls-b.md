@@ -1,6 +1,6 @@
 ---
 title: "Unicorn Magic Mushroom Growbag - XLS-B"
-description: "Unicorn Growbag XLS-B ✓Easy to grow ✓High yield ✓Compact ✓Free goodies with every order at 24High"
+description: "Unicorn Magic Mushroom Growbag - XLS-B — grow supplies. CHF 1.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5209605"
 price: 1.5
 currency: "EUR"

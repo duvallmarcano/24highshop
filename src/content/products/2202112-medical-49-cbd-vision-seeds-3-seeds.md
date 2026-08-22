@@ -1,6 +1,6 @@
 ---
 title: "Medical 49 CBD+ (Vision Seeds)"
-description: "Medical 49 CBD+ (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Medical 49 CBD+ (Vision Seeds) — feminised. CHF 22.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2202112"
 price: 21.0
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "White Sage Smudge & Chakra Leaves - set of 2"
-description: "White Sage Smudge & Chakra Leaves - set of 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "White Sage Smudge & Chakra Leaves - set of 2. CHF 14.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4203783"
 price: 13.95
 currency: "EUR"

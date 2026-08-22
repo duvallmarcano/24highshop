@@ -1,6 +1,6 @@
 ---
 title: "Mushroom B12 - Together"
-description: "Mushroom B12 - Together Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mushroom B12 - Together — heart and blood vessels. CHF 13.65, in stock in Zürich and shipped the same working day."
 sku: "1202555"
 price: 12.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Dreamliner Glasspipe mixed colours"
-description: "Dreamliner Glasspipe in mixed colors. ✓Free goodies with every order at 24High."
+description: "Dreamliner Glasspipe mixed colours, 14 cm. CHF 4.15, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5203395"
 price: 3.95
 currency: "EUR"

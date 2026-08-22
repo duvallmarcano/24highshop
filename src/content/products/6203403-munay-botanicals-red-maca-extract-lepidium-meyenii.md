@@ -1,6 +1,6 @@
 ---
 title: "Munay Botanicals Red Maca Extract - Lepidium meyenii"
-description: "Red Maca extract 50ml by Munay Botanicals. Lepidium meyenii. Pure and powerful. Free goodie with every order."
+description: "Munay Botanicals Red Maca Extract - Lepidium meyenii — full-spectrum. CHF 26.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6203403"
 price: 24.95
 currency: "EUR"

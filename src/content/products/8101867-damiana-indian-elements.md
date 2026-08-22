@@ -1,6 +1,6 @@
 ---
 title: "Damiana Indian Elements"
-description: "Damiana Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Damiana Indian Elements — medicinal herbs. CHF 7.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101867"
 price: 6.95
 currency: "EUR"

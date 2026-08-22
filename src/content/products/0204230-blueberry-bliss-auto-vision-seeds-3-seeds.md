@@ -1,6 +1,6 @@
 ---
 title: "Blueberry Bliss AUTO (Vision Seeds)"
-description: "Blueberry Bliss AUTO (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Blueberry Bliss AUTO (Vision Seeds) — autoflowering. CHF 18.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0204230"
 price: 17.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "The Cannabis Grow Bible"
-description: "The Cannabis Grow Bible Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Cannabis Grow Bible. CHF 42.05, currently sold out. Restocked regularly in Zürich."
 sku: "1205658"
 price: 39.95
 currency: "EUR"

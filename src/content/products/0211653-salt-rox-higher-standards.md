@@ -1,6 +1,6 @@
 ---
 title: "SALT ROX (HIGHER STANDARDS)"
-description: "SALT ROX (HIGHER STANDARDS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "SALT ROX (HIGHER STANDARDS). CHF 9.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0211653"
 price: 8.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Thai Kratom capsules red"
-description: "Thai Kratom capsules red Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Thai Kratom capsules red. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101337"
 price: 19.95
 currency: "EUR"

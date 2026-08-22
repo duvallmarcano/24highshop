@@ -1,6 +1,6 @@
 ---
 title: "Guarana - Capsules"
-description: "Guarana - Capsules Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Guarana - Capsules. In stock at CHF 12.60. Dispatched from Zürich in plain packaging."
 sku: "8101290"
 price: 11.95
 currency: "EUR"

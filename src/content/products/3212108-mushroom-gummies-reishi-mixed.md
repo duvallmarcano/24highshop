@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Gummies Reishi - Mixed"
-description: "Mushroom Gummies Reishi - Mixed Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mushroom Gummies Reishi - Mixed — heart and blood vessels. In stock at CHF 10.45. Dispatched from Zürich in plain packaging."
 sku: "3212108"
 price: 9.95
 currency: "EUR"

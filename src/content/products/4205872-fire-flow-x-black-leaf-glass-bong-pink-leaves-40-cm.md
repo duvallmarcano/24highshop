@@ -1,6 +1,6 @@
 ---
 title: "Fire-Flow x Black Leaf - Glass Bong Pink Leaves - 40 cm"
-description: "Fire-Flow x Black Leaf - Glass Bong Pink Leaves - 40 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Fire-Flow x Black Leaf - Glass Bong Pink Leaves - 40 cm — glass, 40 cm. CHF 63.10, in stock in Zürich and shipped the same working day."
 sku: "4205872"
 price: 59.95
 currency: "EUR"

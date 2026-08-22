@@ -1,6 +1,6 @@
 ---
 title: "Mentholclick - Original Flavour Infusion"
-description: "Mentholclick - Original Flavour Infusion Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mentholclick - Original Flavour Infusion. CHF 2.60, in stock in Zürich and shipped the same working day."
 sku: "4202435"
 price: 2.45
 currency: "EUR"

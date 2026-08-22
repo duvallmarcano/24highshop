@@ -1,6 +1,6 @@
 ---
 title: "Kuripe Bamboo"
-description: "Want to order Kuripe Bamboo? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Kuripe Bamboo — lsa & yopo ( 5-meo-dmt) seeds. CHF 15.75, in stock in Zürich and shipped the same working day."
 sku: "0205230"
 price: 14.95
 currency: "EUR"

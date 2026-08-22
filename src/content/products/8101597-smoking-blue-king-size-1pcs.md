@@ -1,6 +1,6 @@
 ---
 title: "Smoking Blue King Size"
-description: "Smoking Blue King Size - 1pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Smoking Blue King Size. CHF 0.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101597"
 price: 0.9
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Plagron PH - (500ML)"
-description: "Plagron PH - (500ML) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plagron PH - (500ML) — grow supplies. CHF 11.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "2203372"
 price: 10.95
 currency: "EUR"

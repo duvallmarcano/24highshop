@@ -1,6 +1,6 @@
 ---
 title: "Muira Puama Indian Elements"
-description: "Muira Puama Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Muira Puama Indian Elements — medicinal herbs. CHF 8.35, in stock in Zürich and shipped the same working day."
 sku: "8101693"
 price: 7.95
 currency: "EUR"

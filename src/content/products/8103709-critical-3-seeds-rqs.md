@@ -1,6 +1,6 @@
 ---
 title: "Critical"
-description: "Want to order Critical 3 Seeds RQ? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Critical — feminised. CHF 24.20, in stock in Zürich and shipped the same working day."
 sku: "8103709"
 price: 23.0
 currency: "EUR"

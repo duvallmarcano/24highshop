@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts Majestic XL | Anthracite | Aluminium | 3D Logo"
-description: "Grinder 4-Parts Majestic XL | Anthracite | Aluminium | 3D Logo Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts Majestic XL | Anthracite | Aluminium | 3D Logo — aluminium. In stock at CHF 27.30. Dispatched from Zürich in plain packaging."
 sku: "4212826"
 price: 25.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Chaga Mushroom Extract (Foodsporen)"
-description: "Chaga Mushroom Extract (Foodsporen) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Chaga Mushroom Extract (Foodsporen) — heart and blood vessels. In stock at CHF 31.05. Dispatched from Zürich in plain packaging."
 sku: "1203195"
 price: 29.5
 currency: "EUR"

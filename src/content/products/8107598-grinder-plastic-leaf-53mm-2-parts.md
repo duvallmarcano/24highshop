@@ -1,6 +1,6 @@
 ---
 title: "Grinder Plastic Leaf 53mm 2 Parts"
-description: "Grinder Plastic Leaf 53mm 2 Parts Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder Plastic Leaf 53mm 2 Parts, 53mm. CHF 3.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8107598"
 price: 2.95
 currency: "EUR"

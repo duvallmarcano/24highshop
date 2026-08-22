@@ -1,6 +1,6 @@
 ---
 title: "Apollo F1"
-description: "Want to order Apollo F1 3 Seeds? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Apollo F1 — autoflowering. CHF 39.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4207269"
 price: 37.95
 currency: "EUR"

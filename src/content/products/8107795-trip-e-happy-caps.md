@@ -1,6 +1,6 @@
 ---
 title: "Trip E Happy Caps"
-description: "Trip E Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Trip E Happy Caps — capsules. In stock at CHF 9.45. Dispatched from Zürich in plain packaging."
 sku: "8107795"
 price: 8.99
 currency: "EUR"

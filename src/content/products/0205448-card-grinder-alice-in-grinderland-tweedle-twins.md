@@ -1,6 +1,6 @@
 ---
 title: "Card Grinder Alice in Grinderland - Tweedle Twins"
-description: "Card Grinder Alice in Grinderland - Tweedle Twins Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Card Grinder Alice in Grinderland - Tweedle Twins — stainless steel. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205448"
 price: 4.95
 currency: "EUR"

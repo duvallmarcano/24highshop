@@ -1,6 +1,6 @@
 ---
 title: "Green Dragon Kratom – Mitragyna speciosa"
-description: "Green Dragon Kratom – Mitragyna Speciosa – 100 g Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Green Dragon Kratom – Mitragyna speciosa. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6205225"
 price: 18.95
 currency: "EUR"

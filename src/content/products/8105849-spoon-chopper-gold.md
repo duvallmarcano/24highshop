@@ -1,6 +1,6 @@
 ---
 title: "Spoon/Chopper, Gold"
-description: "Spoon/Chopper, Gold Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Spoon/Chopper, Gold — sniff articles. CHF 2.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8105849"
 price: 1.95
 currency: "EUR"

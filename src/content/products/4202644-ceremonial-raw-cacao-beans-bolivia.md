@@ -1,6 +1,6 @@
 ---
 title: "Ceremonial Raw Cacao Beans - Bolivia"
-description: "Ceremonial Raw Cacao Beans - Bolivia Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ceremonial Raw Cacao Beans - Bolivia. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4202644"
 price: 14.95
 currency: "EUR"

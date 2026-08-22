@@ -1,6 +1,6 @@
 ---
 title: "Beer Bottle Lighter - Gold"
-description: "Beer Bottle Lighter - Gold Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Beer Bottle Lighter - Gold. CHF 8.35, in stock in Zürich and shipped the same working day."
 sku: "4211448"
 price: 7.95
 currency: "EUR"

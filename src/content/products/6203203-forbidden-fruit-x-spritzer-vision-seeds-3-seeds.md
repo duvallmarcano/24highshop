@@ -1,6 +1,6 @@
 ---
 title: "Forbidden Fruit x Spritzer (Vision Seeds)"
-description: "Forbidden Fruit x Spritzer seeds by Vision Seeds. Unique flavor and strong strain. Free goodie with every order."
+description: "Forbidden Fruit x Spritzer (Vision Seeds) — feminised. CHF 26.30, in stock in Zürich and shipped the same working day."
 sku: "6203203"
 price: 25.0
 currency: "EUR"

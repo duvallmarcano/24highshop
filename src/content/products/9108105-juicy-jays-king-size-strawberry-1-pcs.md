@@ -1,6 +1,6 @@
 ---
 title: "Juicy Jay's King Size Slim Strawberry"
-description: "Juicy Jay’s King Size Strawberry - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Juicy Jay's King Size Slim Strawberry. CHF 1.60, in stock in Zürich and shipped the same working day."
 sku: "9108105"
 price: 1.5
 currency: "EUR"

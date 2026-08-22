@@ -1,6 +1,6 @@
 ---
 title: "Plant Of Life Terpsolator 99% Choco Loco 1000 mg"
-description: "Plant Of Life Terpsolator 99% Choco Loco 1000 mg Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plant Of Life Terpsolator 99% Choco Loco 1000 mg, 1000 mg. CHF 7.30, currently sold out. Restocked regularly in Zürich."
 sku: "6201448"
 price: 6.95
 currency: "EUR"

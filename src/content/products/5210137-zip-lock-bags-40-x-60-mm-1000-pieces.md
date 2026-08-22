@@ -1,6 +1,6 @@
 ---
 title: "Zip-lock bags 40 x 60 mm - 1000 pieces"
-description: "Transparent grip bags 40x60 mm (1000 pcs). Perfect for packaging and storage. Free goodies with every order!"
+description: "Zip-lock bags 40 x 60 mm - 1000 pieces, 60 mm. CHF 15.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5210137"
 price: 14.5
 currency: "EUR"

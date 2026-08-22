@@ -1,6 +1,6 @@
 ---
 title: "Swabs for spore application – 2 pieces"
-description: "Spore swabs: ✓ Soft & sterile | ✓ Perfect for cultivation | ✓ Free goodies with every order"
+description: "Swabs for spore application – 2 pieces, 2 pieces. CHF 0.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5209730"
 price: 0.25
 currency: "EUR"

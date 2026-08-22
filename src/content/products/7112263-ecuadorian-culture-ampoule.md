@@ -1,6 +1,6 @@
 ---
 title: "Ecuadorian Culture Ampoule"
-description: "Ecuadorian Culture Ampoule Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ecuadorian Culture Ampoule. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112263"
 price: 16.95
 currency: "EUR"

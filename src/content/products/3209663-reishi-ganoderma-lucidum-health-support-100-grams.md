@@ -1,6 +1,6 @@
 ---
 title: "Reishi (Ganoderma lucidum) - Health Support - 100 Grams"
-description: "Want to order Reishi Health Support 100 Gram? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Reishi (Ganoderma lucidum) - Health Support - 100 Grams — heart and blood vessels. In stock at CHF 17.85. Dispatched from Zürich in plain packaging."
 sku: "3209663"
 price: 16.95
 currency: "EUR"

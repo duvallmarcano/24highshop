@@ -1,6 +1,6 @@
 ---
 title: "DRC Premium Full Spectrum Oil 20% - 10 ML"
-description: "DRC Premium Full Spectrum Oil 20% - 10 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "DRC Premium Full Spectrum Oil 20% - 10 ML — full-spectrum, 10 ML. CHF 36.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3211560"
 price: 34.95
 currency: "EUR"

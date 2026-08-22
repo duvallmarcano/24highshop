@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé 7 Herbs"
-description: "Royal Rapé 7 Herbs is a traditional rapé blend with seven botanical components inspired by Huni Kuin traditions from the Amazon. Available in 5 and 10 grams."
+description: "Royal Rapé 7 Herbs, 5 g — a seven-botanical Amazonian blend. Sold as a botanical specimen. Ships from Zürich, unmarked."
 sku: "5202809"
 price: 13.5
 currency: "EUR"

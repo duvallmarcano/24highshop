@@ -1,6 +1,6 @@
 ---
 title: "Mexican Tarragon - Tagetes lucida"
-description: "Discover Mexican Tarragon (Tagetes lucida) at 24High. Premium quality and fast delivery. Free goodie with every order."
+description: "Mexican Tarragon - Tagetes lucida — dream herbs. CHF 7.30, in stock in Zürich and shipped the same working day."
 sku: "5211869"
 price: 6.95
 currency: "EUR"

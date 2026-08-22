@@ -1,6 +1,6 @@
 ---
 title: "Vision Gorilla Auto (Vision Seeds)"
-description: "Vision Gorilla Auto (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vision Gorilla Auto (Vision Seeds). CHF 23.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0204862"
 price: 22.5
 currency: "EUR"

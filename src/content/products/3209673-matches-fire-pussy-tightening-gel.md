@@ -1,6 +1,6 @@
 ---
 title: "Matches Fire Pussy Tightening Gel"
-description: "Matches Fire Pussy Tightening Gel Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Matches Fire Pussy Tightening Gel. CHF 26.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3209673"
 price: 24.95
 currency: "EUR"

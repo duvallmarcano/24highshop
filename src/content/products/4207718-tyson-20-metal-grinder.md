@@ -1,6 +1,6 @@
 ---
 title: "Tyson 2.0 Metal Grinder"
-description: "Tyson 2.0 Metal Grinder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tyson 2.0 Metal Grinder. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "4207718"
 price: 19.95
 currency: "EUR"

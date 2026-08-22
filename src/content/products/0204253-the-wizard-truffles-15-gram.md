@@ -1,6 +1,6 @@
 ---
 title: "The Wizard Truffles"
-description: "Order The Wizard Truffles at 24High. Experience a powerful psychedelic trip with visual hallucinations and insights. Discreet shipping and fast delivery."
+description: "The Wizard Truffles. CHF 16.80, in stock in Zürich and shipped the same working day."
 sku: "0204253"
 price: 15.95
 currency: "EUR"

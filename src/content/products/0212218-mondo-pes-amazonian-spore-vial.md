@@ -1,6 +1,6 @@
 ---
 title: "Mondo PES Amazonian Spore Vial"
-description: "Mondo PES Amazonian Spore Vial Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo PES Amazonian Spore Vial. CHF 18.90, in stock in Zürich and shipped the same working day."
 sku: "0212218"
 price: 17.95
 currency: "EUR"

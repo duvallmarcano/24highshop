@@ -1,6 +1,6 @@
 ---
 title: "Party Kit Deluxe 3"
-description: "Party Kit Deluxe 3 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Party Kit Deluxe 3 — all-in-one. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3207945"
 price: 14.95
 currency: "EUR"

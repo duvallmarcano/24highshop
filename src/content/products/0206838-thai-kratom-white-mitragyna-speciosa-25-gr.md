@@ -1,6 +1,6 @@
 ---
 title: "Thai Kratom White - Mitragyna Speciosa"
-description: "Thai Kratom White - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Thai Kratom White - Mitragyna Speciosa. CHF 8.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0206838"
 price: 7.95
 currency: "EUR"

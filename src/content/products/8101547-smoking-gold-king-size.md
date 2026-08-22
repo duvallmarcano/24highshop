@@ -1,6 +1,6 @@
 ---
 title: "Smoking Gold King Size"
-description: "Smoking Gold King Size Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Smoking Gold King Size. CHF 0.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101547"
 price: 0.9
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "McKennaii All in one Growkit"
-description: "McKennaii, All in one Growkit - 250 cc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "McKennaii All in one Growkit — all-in-one. CHF 21.00, in stock in Zürich and shipped the same working day."
 sku: "7112782"
 price: 19.95
 currency: "EUR"

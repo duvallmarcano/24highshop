@@ -1,6 +1,6 @@
 ---
 title: "LSD-QTest - Drug test for LSD (Miraculix)"
-description: "LSD-QTest - Drug test for LSD (Miraculix) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "LSD-QTest - Drug test for LSD (Miraculix). CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3209311"
 price: 18.95
 currency: "EUR"

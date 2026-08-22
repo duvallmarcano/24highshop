@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts XL | Aluminium | 55mm | Luxury Art Series | Design 6 | Diamond"
-description: "Grinder 4-Parts XL | Aluminium | 55mm | Luxury Art Series | Design 6 | Diamond Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts XL | Aluminium | 55mm | Luxury Art Series | Design 6 | Diamond. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4211658"
 price: 22.5
 currency: "EUR"

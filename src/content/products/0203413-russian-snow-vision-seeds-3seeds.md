@@ -1,6 +1,6 @@
 ---
 title: "Russian Snow (Vision Seeds)"
-description: "Russian Snow (Vision Seeds) 3Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Russian Snow (Vision Seeds). In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "0203413"
 price: 17.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "The Healthy Trio"
-description: "The Healthy Trio Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Healthy Trio. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "4209139"
 price: 29.95
 currency: "EUR"

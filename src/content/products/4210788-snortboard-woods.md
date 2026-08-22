@@ -1,6 +1,6 @@
 ---
 title: "Snortboard - Woods"
-description: "Snortboard - Woods Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Snortboard - Woods — stainless steel. CHF 47.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4210788"
 price: 44.95
 currency: "EUR"

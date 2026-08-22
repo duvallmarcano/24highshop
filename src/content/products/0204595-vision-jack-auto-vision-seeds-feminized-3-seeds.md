@@ -1,6 +1,6 @@
 ---
 title: "Vision Jack Auto (Vision Seeds) Feminized"
-description: "Vision Jack Auto (Vision Seeds) Feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vision Jack Auto (Vision Seeds) Feminized — feminised. In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "0204595"
 price: 17.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Blue Power (Vision Seeds)"
-description: "Blue Power (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Blue Power (Vision Seeds). CHF 15.80, in stock in Zürich and shipped the same working day."
 sku: "0203155"
 price: 15.0
 currency: "EUR"

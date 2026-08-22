@@ -1,6 +1,6 @@
 ---
 title: "Bulk truffles - 100 Grams"
-description: "Bulk truffles - 100 Gram - Atlantis Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bulk truffles - 100 Grams, 100 grams. CHF 63.10, in stock in Zürich and shipped the same working day."
 sku: "4201643"
 price: 59.95
 currency: "EUR"

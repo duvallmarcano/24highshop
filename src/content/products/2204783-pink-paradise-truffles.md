@@ -1,6 +1,6 @@
 ---
 title: "Pink Paradise Truffles"
-description: "Pink Paradise truffles are potent, visual and surprising. Perfect for a first or more experienced psychedelic trip. Discreetly delivered by 24High!"
+description: "Pink Paradise Truffles. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2204783"
 price: 16.95
 currency: "EUR"

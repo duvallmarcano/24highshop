@@ -1,6 +1,6 @@
 ---
 title: "Leucistic JMF (Jedi Mind Fuck) Liquid Culture Syringe"
-description: "Leucistic JMF (Jedi Mind Fuck) Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Leucistic JMF (Jedi Mind Fuck) Liquid Culture Syringe. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5201477"
 price: 18.95
 currency: "EUR"

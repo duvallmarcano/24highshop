@@ -1,6 +1,6 @@
 ---
 title: "Brainkiller Haze (Vision Seeds) feminized"
-description: "Brainkiller Haze (Vision Seeds) feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Brainkiller Haze (Vision Seeds) feminized. CHF 26.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203225"
 price: 25.0
 currency: "EUR"

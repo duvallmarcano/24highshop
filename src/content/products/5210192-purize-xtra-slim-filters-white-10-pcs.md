@@ -1,6 +1,6 @@
 ---
 title: "Purize XTRA Slim Filters White - 10 Pcs"
-description: "Purize Slim Filters in white with activated charcoal. Clean, smooth smoke. Free goodies with every order!"
+description: "Purize XTRA Slim Filters White - 10 Pcs, 10 Pcs. CHF 2.55, in stock in Zürich and shipped the same working day."
 sku: "5210192"
 price: 2.4
 currency: "EUR"

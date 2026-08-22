@@ -1,6 +1,6 @@
 ---
 title: "Bali red - Mitragyna Speciosa"
-description: "Bali red - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bali red - Mitragyna Speciosa — powder. CHF 8.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "2201972"
 price: 7.95
 currency: "EUR"

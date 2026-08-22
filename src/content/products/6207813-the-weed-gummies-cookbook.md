@@ -1,6 +1,6 @@
 ---
 title: "The Weed Gummies Cookbook"
-description: "Discover The Weed Gummies Cookbook with recipes for cannabis gummies and edibles. Free goodies with every order."
+description: "The Weed Gummies Cookbook. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6207813"
 price: 19.95
 currency: "EUR"

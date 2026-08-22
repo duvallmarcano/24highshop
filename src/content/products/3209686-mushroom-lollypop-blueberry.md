@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Lollypop - Blueberry"
-description: "Mushroom Lollypop - Blueberry Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mushroom Lollypop - Blueberry — an extract, 250 mg. CHF 2.60. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3209686"
 price: 2.45
 currency: "EUR"

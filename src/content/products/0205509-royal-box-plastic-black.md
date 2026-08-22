@@ -1,6 +1,6 @@
 ---
 title: "Royal Box - Plastic Black"
-description: "Royal Box - Plastic Black Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Box - Plastic Black. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "0205509"
 price: 18.95
 currency: "EUR"

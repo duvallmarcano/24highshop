@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Cumaru"
-description: "Traditional Royal Rapé Cumaru with a warm and aromatic botanical profile. Read about the ingredients, origins and uses within Amazonian cultures."
+description: "Royal Rapé Cumaru, 5 g — warm, aromatic tonka-bean profile. Botanical specimen, shipped discreetly from Zürich."
 sku: "5202413"
 price: 13.5
 currency: "EUR"

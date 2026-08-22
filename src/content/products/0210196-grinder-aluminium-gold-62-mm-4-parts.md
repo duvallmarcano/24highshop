@@ -1,6 +1,6 @@
 ---
 title: "Grinder Aluminium Gold(Ø 62 mm, 4 Parts)"
-description: "Grinder Aluminium Gold(Ø 62 mm, 4 Parts) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder Aluminium Gold(Ø 62 mm, 4 Parts) — aluminium. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0210196"
 price: 19.95
 currency: "EUR"

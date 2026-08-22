@@ -1,6 +1,6 @@
 ---
 title: "Citrus Vitamin C - Together"
-description: "Citrus Vitamin C - Together Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Citrus Vitamin C - Together. CHF 14.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1202997"
 price: 13.45
 currency: "EUR"

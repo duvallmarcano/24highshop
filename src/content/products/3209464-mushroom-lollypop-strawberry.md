@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Lollypop - Strawberry"
-description: "Mushroom Lollypop - Strawberry Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mushroom Lollypop - Strawberry — an extract, 250 mg. CHF 2.60, in stock in Zürich and shipped the same working day."
 sku: "3209464"
 price: 2.45
 currency: "EUR"

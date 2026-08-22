@@ -1,6 +1,6 @@
 ---
 title: "Trim scissors Single ring scissors"
-description: "Trim scissors Single ring scissors Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Trim scissors Single ring scissors — grow supplies. In stock at CHF 4.15. Dispatched from Zürich in plain packaging."
 sku: "9108119"
 price: 3.95
 currency: "EUR"

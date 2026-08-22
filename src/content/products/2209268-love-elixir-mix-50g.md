@@ -1,6 +1,6 @@
 ---
 title: "Love Elixir - Mix (50g)"
-description: "Love Elixir - Mix (50g) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Love Elixir - Mix (50g) — medicinal herbs. In stock at CHF 8.95. Dispatched from Zürich in plain packaging."
 sku: "2209268"
 price: 8.5
 currency: "EUR"

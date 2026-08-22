@@ -1,6 +1,6 @@
 ---
 title: "Misting bottle"
-description: "Want to order Plant Spray? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Misting bottle — grow supplies. CHF 4.15, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1212166"
 price: 3.95
 currency: "EUR"

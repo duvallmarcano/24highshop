@@ -1,6 +1,6 @@
 ---
 title: "CBD Cannabis Leaves - Mix"
-description: "CBD Cannabis Leaves Mix - 30 Gr Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Cannabis Leaves - Mix — hemp, 30g. In stock at CHF 8.90. Dispatched from Zürich in plain packaging."
 sku: "1207595"
 price: 8.45
 currency: "EUR"

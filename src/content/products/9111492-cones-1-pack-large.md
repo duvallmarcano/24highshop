@@ -1,6 +1,6 @@
 ---
 title: "Cones 1-pack large"
-description: "Cones 1-pack large Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cones 1-pack large. CHF 0.80, currently sold out. Restocked regularly in Zürich."
 sku: "9111492"
 price: 0.75
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Aluminium Ashtray Round | Gold | JNKO Premium"
-description: "Aluminium Ashtray Round | Gold | JNKO Premium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Aluminium Ashtray Round | Gold | JNKO Premium — aluminium. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212526"
 price: 16.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "RAW Glass Ashtray - Rainbow"
-description: "RAW Glass Ashtray - Rainbow Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "RAW Glass Ashtray - Rainbow — glass. CHF 25.20, in stock in Zürich and shipped the same working day."
 sku: "4209777"
 price: 23.95
 currency: "EUR"

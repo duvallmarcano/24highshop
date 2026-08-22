@@ -1,6 +1,6 @@
 ---
 title: "Damiana 10X Extract"
-description: "Damiana 10X Extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Damiana 10X Extract — medicinal herbs. CHF 9.40, in stock in Zürich and shipped the same working day."
 sku: "8101994"
 price: 8.95
 currency: "EUR"

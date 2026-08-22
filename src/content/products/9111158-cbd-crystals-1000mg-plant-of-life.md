@@ -1,6 +1,6 @@
 ---
 title: "CBD Crystals 1000mg Plant Of Life"
-description: "CBD Crystals 1000mg Plant Of Life Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Crystals 1000mg Plant Of Life. CHF 13.65. Back in stock shortly — shipped from Zürich when it lands."
 sku: "9111158"
 price: 12.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Rotilabo Inoculating Loop Holder"
-description: "✓ Holds inoculation tools | ✓ Stable & hygienic | ✓ Ideal for sterile work | ✓ Free goodies with every order"
+description: "Rotilabo Inoculating Loop Holder — grow supplies. CHF 25.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5209380"
 price: 23.95
 currency: "EUR"

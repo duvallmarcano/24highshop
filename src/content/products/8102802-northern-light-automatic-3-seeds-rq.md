@@ -1,6 +1,6 @@
 ---
 title: "Northern Light Automatic (RQS)"
-description: "Northern Light Automatic - 3 Seeds (RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Northern Light Automatic (RQS). In stock at CHF 24.20. Dispatched from Zürich in plain packaging."
 sku: "8102802"
 price: 23.0
 currency: "EUR"

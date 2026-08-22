@@ -1,6 +1,6 @@
 ---
 title: "Tweezers"
-description: "Stainless Tweezers ✓Accurate & durable ✓Free goodies with every order at 24High"
+description: "Tweezers — sterile, 9 cm. In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "5209100"
 price: 4.95
 currency: "EUR"

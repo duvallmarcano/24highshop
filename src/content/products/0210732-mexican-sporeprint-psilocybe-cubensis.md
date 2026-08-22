@@ -1,6 +1,6 @@
 ---
 title: "Sporeprint – Psilocybe Cubensis"
-description: "Mexican Sporeprint Psilocybe Cubensis Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Sporeprint – Psilocybe Cubensis — spores shrooms. CHF 18.90, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0210732"
 price: 17.95
 currency: "EUR"

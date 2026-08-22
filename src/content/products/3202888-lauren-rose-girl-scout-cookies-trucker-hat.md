@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Girl Scout Cookies Trucker Hat"
-description: "Lauren Rose - Girl Scout Cookies Trucker Hat Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Girl Scout Cookies Trucker Hat — 4:20 lifestyle. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3202888"
 price: 29.95
 currency: "EUR"

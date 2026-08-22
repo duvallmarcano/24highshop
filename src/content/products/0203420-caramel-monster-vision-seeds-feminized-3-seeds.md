@@ -1,6 +1,6 @@
 ---
 title: "Caramel Monster (Vision Seeds)"
-description: "Caramel Monster (Vision Seeds) Feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Caramel Monster (Vision Seeds). CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0203420"
 price: 22.5
 currency: "EUR"

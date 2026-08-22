@@ -1,6 +1,6 @@
 ---
 title: "Inoculation Loop with Lancet Tip – 50 mm"
-description: "✓ For inoculation & lab use | ✓ Stainless steel | ✓ Sharp lancet tip | ✓ Free goodies with every order"
+description: "Inoculation Loop with Lancet Tip – 50 mm, 50 mm. CHF 2.65, in stock in Zürich and shipped the same working day."
 sku: "5209211"
 price: 2.5
 currency: "EUR"

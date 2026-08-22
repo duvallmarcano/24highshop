@@ -1,6 +1,6 @@
 ---
 title: "Raw Cacao Drops – Peru"
-description: "Raw Cacao Drops – Peru Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Raw Cacao Drops – Peru. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6205153"
 price: 14.95
 currency: "EUR"

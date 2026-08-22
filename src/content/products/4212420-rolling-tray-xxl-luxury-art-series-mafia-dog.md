@@ -1,6 +1,6 @@
 ---
 title: "Rolling Tray XXL | Luxury Art Series | Mafia Dog"
-description: "Rolling Tray XXL | Luxury Art Series | Mafia Dog Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rolling Tray XXL | Luxury Art Series | Mafia Dog. CHF 8.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4212420"
 price: 7.95
 currency: "EUR"

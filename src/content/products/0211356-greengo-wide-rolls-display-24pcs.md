@@ -1,6 +1,6 @@
 ---
 title: "Greengo Wide Rolls - Display 24pcs"
-description: "Greengo Wide Rolls - Display 24pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Greengo Wide Rolls - Display 24pcs. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0211356"
 price: 29.95
 currency: "EUR"

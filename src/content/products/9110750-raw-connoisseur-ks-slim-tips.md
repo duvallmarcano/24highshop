@@ -1,6 +1,6 @@
 ---
 title: "RAW Connoisseur KS Slim + Tips - 1 Piece"
-description: "RAW Connoisseur KS Slim + Tips Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "RAW Connoisseur KS Slim + Tips - 1 Piece — hemp. CHF 1.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9110750"
 price: 1.75
 currency: "EUR"

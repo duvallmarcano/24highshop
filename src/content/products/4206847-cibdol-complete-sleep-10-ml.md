@@ -1,6 +1,6 @@
 ---
 title: "Cibdol Complete Sleep - 10 ML"
-description: "Cibdol Complete Sleep - 10 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cibdol Complete Sleep - 10 ML. CHF 39.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4206847"
 price: 37.95
 currency: "EUR"

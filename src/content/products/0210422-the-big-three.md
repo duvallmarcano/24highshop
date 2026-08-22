@@ -1,6 +1,6 @@
 ---
 title: "The Big Three"
-description: "Want to order The Big Three? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "The Big Three — magic truffles. CHF 55.75, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0210422"
 price: 52.95
 currency: "EUR"

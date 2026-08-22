@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts XL | Aluminium | Psychedelic Series | Cannabis Leaf 1"
-description: "Grinder 4-Parts XL | Aluminium | Psychedelic Series | Cannabis Leaf 1 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts XL | Aluminium | Psychedelic Series | Cannabis Leaf 1 — aluminium. CHF 23.70, in stock in Zürich and shipped the same working day."
 sku: "4211660"
 price: 22.5
 currency: "EUR"

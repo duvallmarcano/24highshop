@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Bong Utopia"
-description: "Mushroom Bong Utopia with unique design and solid quality. Eye-catching bong for a special experience. Free goodies with every order."
+description: "Mushroom Bong Utopia — glass. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "6201668"
 price: 24.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Utopia Truffles"
-description: "Psilocybe Utopia Truffels - 15 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Psilocybe Utopia Truffles. CHF 16.80, in stock in Zürich and shipped the same working day."
 sku: "0201630"
 price: 15.95
 currency: "EUR"

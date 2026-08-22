@@ -1,6 +1,6 @@
 ---
 title: "Brass Roller Pipe - Silver"
-description: "Brass Roller Pipe in silver. Compact metal pipe, durable and easy to use. Free goodies with every order."
+description: "Brass Roller Pipe - Silver. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6201184"
 price: 6.95
 currency: "EUR"

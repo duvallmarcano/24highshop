@@ -1,6 +1,6 @@
 ---
 title: "White Rabbit Mushroom Spawn"
-description: "White Rabbit Mushroom Spawn Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "White Rabbit Mushroom Spawn. CHF 26.25. Back in stock shortly — shipped from Zürich when it lands."
 sku: "5201165"
 price: 24.95
 currency: "EUR"

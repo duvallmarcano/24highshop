@@ -1,6 +1,6 @@
 ---
 title: "EZ Test for GHB"
-description: "Want to order EZ Test GHB? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "EZ Test for GHB. CHF 3.70, in stock in Zürich and shipped the same working day."
 sku: "8101532"
 price: 3.5
 currency: "EUR"

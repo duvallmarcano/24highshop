@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Big Buddha Cheese 420 Camo"
-description: "Lauren Rose - Big Buddha Cheese 420 Camo Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Big Buddha Cheese 420 Camo — 4:20 lifestyle. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "3202540"
 price: 29.95
 currency: "EUR"

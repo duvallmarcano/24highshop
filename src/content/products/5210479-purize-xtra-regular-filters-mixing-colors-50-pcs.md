@@ -1,6 +1,6 @@
 ---
 title: "Purize XTRA Regular Filters Mixing Colors - 50 Pcs"
-description: "Purize XTRA Regular Filters in mixed colors. Activated charcoal for a clean, smooth smoke. Free goodies with every order!"
+description: "Purize XTRA Regular Filters Mixing Colors - 50 Pcs, 50 Pcs. CHF 8.95, in stock in Zürich and shipped the same working day."
 sku: "5210479"
 price: 8.5
 currency: "EUR"

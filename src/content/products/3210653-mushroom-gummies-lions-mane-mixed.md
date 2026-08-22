@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Gummies Lion's Mane - Mixed"
-description: "Mushroom Gummies Lion's Mane - Mixed Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mushroom Gummies Lion's Mane - Mixed — an extract. CHF 10.45, in stock in Zürich and shipped the same working day."
 sku: "3210653"
 price: 9.95
 currency: "EUR"

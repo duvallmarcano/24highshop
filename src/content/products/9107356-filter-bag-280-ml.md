@@ -1,6 +1,6 @@
 ---
 title: "Filter bag"
-description: "Filter bag - 280 ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Filter bag — grow supplies. CHF 1.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9107356"
 price: 1.5
 currency: "EUR"

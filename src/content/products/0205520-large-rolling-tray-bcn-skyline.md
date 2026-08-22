@@ -1,6 +1,6 @@
 ---
 title: "Large Rolling Tray - BCN SKYLINE"
-description: "Large Rolling Tray - BCN SKYLINE Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Large Rolling Tray - BCN SKYLINE. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205520"
 price: 4.95
 currency: "EUR"

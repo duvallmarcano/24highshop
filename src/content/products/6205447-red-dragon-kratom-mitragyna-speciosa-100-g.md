@@ -1,6 +1,6 @@
 ---
 title: "Red Dragon Kratom – Mitragyna speciosa"
-description: "Order premium Red Dragon Kratom at 24High. Fast shipping and free goodies with every order."
+description: "Red Dragon Kratom – Mitragyna speciosa. CHF 19.95, in stock in Zürich and shipped the same working day."
 sku: "6205447"
 price: 18.95
 currency: "EUR"

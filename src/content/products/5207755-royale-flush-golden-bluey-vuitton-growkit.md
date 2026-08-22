@@ -1,6 +1,6 @@
 ---
 title: "Royale Flush Golden Bluey Vuitton Growkit"
-description: "Buy Golden Bluey Vuitton Grow Kit? ✓Free goodies ✓Potent strain ✓Easy to use ✓Discreet delivery via 24High"
+description: "Royale Flush Golden Bluey Vuitton Growkit, 1200cc. CHF 39.45, currently sold out. Restocked regularly in Zürich."
 sku: "5207755"
 price: 37.5
 currency: "EUR"

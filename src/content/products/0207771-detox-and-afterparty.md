@@ -1,6 +1,6 @@
 ---
 title: "Detox and Afterparty"
-description: "Detox and Afterparty Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Detox and Afterparty — capsules. CHF 23.70, in stock in Zürich and shipped the same working day."
 sku: "0207771"
 price: 22.5
 currency: "EUR"

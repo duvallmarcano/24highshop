@@ -1,6 +1,6 @@
 ---
 title: "Damiana 1:1 Extract - Turnera Diffusa"
-description: "Damiana 1:1 Extract - Turnera Diffusa Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Damiana 1:1 Extract - Turnera Diffusa. CHF 15.75, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0207321"
 price: 14.95
 currency: "EUR"

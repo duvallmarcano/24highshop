@@ -1,6 +1,6 @@
 ---
 title: "Zkittlez 420 T-shirt - White - Small"
-description: "Zkittlez 420 T-shirt - White - Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Zkittlez 420 T-shirt - White - Small — 4:20 lifestyle. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "4207471"
 price: 24.95
 currency: "EUR"

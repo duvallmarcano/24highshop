@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Lollipops - 10 Pack"
-description: "Cannabis Lollipops - 10 pack - Strawberry Banana Kush Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Lollipops - 10 Pack. CHF 5.20. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4204660"
 price: 4.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mondo Growkit Yeti Hybrid"
-description: "Mondo Growkit Yeti Hybrid with strong genetics and premium quality. Reliable mushroom grow kit. Free goodies with every order."
+description: "Mondo Growkit Yeti Hybrid. CHF 42.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201729"
 price: 39.95
 currency: "EUR"

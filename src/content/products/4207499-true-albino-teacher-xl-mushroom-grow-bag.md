@@ -1,6 +1,6 @@
 ---
 title: "True Albino Teacher XL Mushroom Grow Bag"
-description: "True Albino Teacher XL Mushroom Grow Bag Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "True Albino Teacher XL Mushroom Grow Bag — growkit specials. CHF 52.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207499"
 price: 49.95
 currency: "EUR"

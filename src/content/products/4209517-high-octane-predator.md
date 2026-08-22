@@ -1,6 +1,6 @@
 ---
 title: "High Octane Predator"
-description: "High Octane Predator Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "High Octane Predator. CHF 26.25, in stock in Zürich and shipped the same working day."
 sku: "4209517"
 price: 24.95
 currency: "EUR"

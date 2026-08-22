@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Ink'd & Employed Tattoo Cap"
-description: "Lauren Rose - Ink'd & Employed Tattoo Cap Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Ink'd & Employed Tattoo Cap — 4:20 lifestyle. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "3202463"
 price: 29.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Trichocereus pachanoi - cristata (San Pedro) Big"
-description: "Trichocereus pachanoi - cristata (San Pedro) Big Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Trichocereus pachanoi - cristata (San Pedro) Big — mescaline cacti. CHF 84.15, currently sold out. Restocked regularly in Zürich."
 sku: "0212260"
 price: 79.95
 currency: "EUR"

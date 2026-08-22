@@ -1,6 +1,6 @@
 ---
 title: "Magic Truffles 6-pack"
-description: "Magic Truffles 6-pack Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Magic Truffles 6-pack. CHF 78.90. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9110968"
 price: 74.95
 currency: "EUR"

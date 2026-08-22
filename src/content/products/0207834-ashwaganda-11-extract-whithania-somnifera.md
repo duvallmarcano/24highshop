@@ -1,6 +1,6 @@
 ---
 title: "Ashwaganda 1:1 Extract - Whithania Somnifera"
-description: "Ashwaganda 1:1 Extract - Whithania Somnifera Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ashwaganda 1:1 Extract - Whithania Somnifera. CHF 15.75, in stock in Zürich and shipped the same working day."
 sku: "0207834"
 price: 14.95
 currency: "EUR"

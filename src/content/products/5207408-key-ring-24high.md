@@ -1,6 +1,6 @@
 ---
 title: "Key ring 24High"
-description: "Buy 24high Keychain? ✓Free goodies with every order ✓Strong & stylish ✓Great gift ✓Discreet shipping via 24High"
+description: "Key ring 24High — souvenir en gadgets. CHF 2.05. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5207408"
 price: 1.95
 currency: "EUR"

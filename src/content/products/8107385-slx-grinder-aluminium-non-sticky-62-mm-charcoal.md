@@ -1,6 +1,6 @@
 ---
 title: "SLX Grinder Aluminium Non Sticky 62 mm - Charcoal"
-description: "SLX Grinder Aluminium Non Sticky 62 mm - Charcoal Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "SLX Grinder Aluminium Non Sticky 62 mm - Charcoal. CHF 63.10, in stock in Zürich and shipped the same working day."
 sku: "8107385"
 price: 59.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Tyson 2.0 NYC Sour Diesel Auto"
-description: "Tyson 2.0 NYC Sour Diesel Auto - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tyson 2.0 NYC Sour Diesel Auto — autoflower seeds. CHF 21.80, in stock in Zürich and shipped the same working day."
 sku: "4207214"
 price: 20.7
 currency: "EUR"

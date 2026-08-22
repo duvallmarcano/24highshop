@@ -1,6 +1,6 @@
 ---
 title: "Medicinal Mushrooms - Essential Guide (Martin Powell)"
-description: "Medicinal Mushrooms - Essential Guide (Martin Powell) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Medicinal Mushrooms - Essential Guide (Martin Powell). CHF 14.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3212609"
 price: 13.95
 currency: "EUR"

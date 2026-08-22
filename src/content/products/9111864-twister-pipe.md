@@ -1,6 +1,6 @@
 ---
 title: "Twister Pipe"
-description: "Twister Pipe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Twister Pipe. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9111864"
 price: 6.95
 currency: "EUR"

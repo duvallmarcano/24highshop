@@ -1,6 +1,6 @@
 ---
 title: "Snorter Gold Plated"
-description: "Snorter Gold Plated Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Snorter Gold Plated — sniff articles. CHF 3.10, in stock in Zürich and shipped the same working day."
 sku: "8107691"
 price: 2.95
 currency: "EUR"

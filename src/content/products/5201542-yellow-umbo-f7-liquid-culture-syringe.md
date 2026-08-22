@@ -1,6 +1,6 @@
 ---
 title: "Yellow Umbo F7 Liquid Culture Syringe"
-description: "Yellow Umbo F7 Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Yellow Umbo F7 Liquid Culture Syringe — live liquid culture. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5201542"
 price: 18.95
 currency: "EUR"

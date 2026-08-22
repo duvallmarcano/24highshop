@@ -1,6 +1,6 @@
 ---
 title: "Dreamliner Acrylbong Black With Color Ski Mask"
-description: "Dreamliner Acrylbong Black With Color Ski Mask Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Dreamliner Acrylbong Black With Color Ski Mask. CHF 50.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1201681"
 price: 47.95
 currency: "EUR"

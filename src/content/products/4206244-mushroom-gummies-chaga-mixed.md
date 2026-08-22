@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Gummies Chaga - Mixed"
-description: "Mushroom Gummies Chaga - Mixed Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mushroom Gummies Chaga - Mixed — heart and blood vessels. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4206244"
 price: 9.95
 currency: "EUR"

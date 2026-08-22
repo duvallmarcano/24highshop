@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Paper KS Slim Limited Edition+ Filter Tips - Display 24pcs"
-description: "Buy the Narcos – Rolling Paper KS Slim Limited Edition + Tips - Display 24 pcs at 24High.nl ✔️ Fast delivery ✔️ Discreet shipping | Order online now"
+description: "Narcos - Rolling Paper KS Slim Limited Edition+ Filter Tips - Display 24pcs. In stock at CHF 41.00. Dispatched from Zürich in plain packaging."
 sku: "4202823"
 price: 38.95
 currency: "EUR"

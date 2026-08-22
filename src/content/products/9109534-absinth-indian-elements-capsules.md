@@ -1,6 +1,6 @@
 ---
 title: "Absinth Indian Elements - Capsules"
-description: "Absinth Indian Elements - Capsules Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Absinth Indian Elements - Capsules — an extract. CHF 12.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9109534"
 price: 11.95
 currency: "EUR"

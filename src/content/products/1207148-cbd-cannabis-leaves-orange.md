@@ -1,6 +1,6 @@
 ---
 title: "CBD Cannabis Leaves - Orange"
-description: "CBD Cannabis Leaves - Orange Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Cannabis Leaves - Orange — hemp, 30 grams. CHF 8.90, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1207148"
 price: 8.45
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "EZ Test for Ketamine"
-description: "EZ Test for Ketamine - 1 x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "EZ Test for Ketamine. In stock at CHF 3.70. Dispatched from Zürich in plain packaging."
 sku: "8101276"
 price: 3.5
 currency: "EUR"

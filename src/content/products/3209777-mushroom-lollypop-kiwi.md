@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Lollypop - Kiwi"
-description: "Mushroom Lollypop - Kiwi Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mushroom Lollypop - Kiwi — an extract, 250 mg. CHF 2.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3209777"
 price: 2.45
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Skullcap Indian Elements"
-description: "Skullcap Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Skullcap Indian Elements — dried. CHF 8.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101913"
 price: 7.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "24HIGH Metal Grinder"
-description: "24HIGH Metal Grinder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "24HIGH Metal Grinder. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1211980"
 price: 7.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mondo Golden Teacher Spore Vial"
-description: "Mondo Golden Teacher Spore Vial Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Golden Teacher Spore Vial. CHF 18.90. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0212786"
 price: 17.95
 currency: "EUR"

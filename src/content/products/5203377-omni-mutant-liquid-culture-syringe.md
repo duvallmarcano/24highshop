@@ -1,6 +1,6 @@
 ---
 title: "Omni (Mutant) Liquid Culture Syringe"
-description: "Order the Omni Mutant Liquid Culture Syringe! Rare mutations, strong colonization. ✓Free goodies with every order!"
+description: "Omni (Mutant) Liquid Culture Syringe — live liquid culture. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5203377"
 price: 18.95
 currency: "EUR"

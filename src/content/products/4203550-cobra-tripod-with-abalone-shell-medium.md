@@ -1,6 +1,6 @@
 ---
 title: "Cobra Tripod with Abalone Shell"
-description: "Cobra tripod with Abalone shell - Medium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cobra Tripod with Abalone Shell — abalone shell. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4203550"
 price: 19.95
 currency: "EUR"

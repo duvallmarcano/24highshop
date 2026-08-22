@@ -1,6 +1,6 @@
 ---
 title: "Glass Bong 15 cm"
-description: "Glass Bong 15 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Glass Bong 15 cm — glass. In stock at CHF 9.40. Dispatched from Zürich in plain packaging."
 sku: "0205501"
 price: 8.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Northern Lights (Vision Seeds)"
-description: "Northern Lights (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Northern Lights (Vision Seeds) — feminised. CHF 18.40, currently sold out. Restocked regularly in Zürich."
 sku: "0203820"
 price: 17.5
 currency: "EUR"

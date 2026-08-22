@@ -1,6 +1,6 @@
 ---
 title: "Amnesia x Buddha Kush (Vision Seeds)"
-description: "Amnesia x Buddha Kush (Vision Seeds) - 3 seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Amnesia x Buddha Kush (Vision Seeds). CHF 31.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0203945"
 price: 30.0
 currency: "EUR"

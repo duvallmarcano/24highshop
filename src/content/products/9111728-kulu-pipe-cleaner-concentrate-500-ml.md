@@ -1,6 +1,6 @@
 ---
 title: "Kulu Pipe Cleaner Concentrate (500 ml)"
-description: "Kulu Pipe Cleaner Concentrate (500 ml) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kulu Pipe Cleaner Concentrate (500 ml) — aluminium. CHF 13.15, currently sold out. Restocked regularly in Zürich."
 sku: "9111728"
 price: 12.5
 currency: "EUR"

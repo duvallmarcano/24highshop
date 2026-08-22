@@ -1,6 +1,6 @@
 ---
 title: "Large Rolling Tray - Plant of Life"
-description: "Large Rolling Tray - Plant of Life Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Large Rolling Tray - Plant of Life. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205974"
 price: 4.95
 currency: "EUR"

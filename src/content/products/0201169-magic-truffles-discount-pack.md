@@ -1,6 +1,6 @@
 ---
 title: "Magic Truffles Discount Pack"
-description: "Magic Truffles Discount Pack Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Magic Truffles Discount Pack. CHF 63.10, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0201169"
 price: 59.95
 currency: "EUR"

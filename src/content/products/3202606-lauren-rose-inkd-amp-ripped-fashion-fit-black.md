@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Ink'd & Ripped Fashion Fit Black"
-description: "Lauren Rose - Ink'd & Ripped Fashion Fit Black Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Ink'd & Ripped Fashion Fit Black — 4:20 lifestyle. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3202606"
 price: 29.95
 currency: "EUR"

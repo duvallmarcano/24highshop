@@ -1,6 +1,6 @@
 ---
 title: "Tepi L-shape Large"
-description: "Tepi L-shape Large Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tepi L-shape Large. CHF 25.20, in stock in Zürich and shipped the same working day."
 sku: "4204932"
 price: 23.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Magic Mushroom Startkit"
-description: "Magic Mushroom Startkit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Magic Mushroom Startkit — all in one growkits. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "0202221"
 price: 19.95
 currency: "EUR"

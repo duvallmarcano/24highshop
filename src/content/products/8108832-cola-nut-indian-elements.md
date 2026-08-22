@@ -1,6 +1,6 @@
 ---
 title: "Cola Nut Indian Elements"
-description: "Cola Nut Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cola Nut Indian Elements. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8108832"
 price: 7.95
 currency: "EUR"

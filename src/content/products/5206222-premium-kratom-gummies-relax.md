@@ -1,6 +1,6 @@
 ---
 title: "Premium Kratom Gummies - Relax"
-description: "Buy Premium Kratom Gummies? ✓Free goodies with every order ✓For relaxation ✓Great taste ✓Discreet shipping via 24High"
+description: "Premium Kratom Gummies - Relax. CHF 10.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5206222"
 price: 9.95
 currency: "EUR"

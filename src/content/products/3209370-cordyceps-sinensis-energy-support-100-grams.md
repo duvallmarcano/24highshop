@@ -1,6 +1,6 @@
 ---
 title: "Cordyceps (Sinensis) - Energy Support - 100 Grams"
-description: "Cordyceps (Sinensis) - Energy Support - 100 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cordyceps (Sinensis) - Energy Support - 100 Grams — an extract, 100 grams. CHF 17.85, in stock in Zürich and shipped the same working day."
 sku: "3209370"
 price: 16.95
 currency: "EUR"

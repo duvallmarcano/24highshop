@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Tray White Small"
-description: "Narcos - Rolling Tray White Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Rolling Tray White Small. CHF 4.15, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4201349"
 price: 3.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Tsunu - 10 Grams"
-description: "Royal Rapé Tsunu is a traditional rapé blend with Tsunu ash, inspired by Amazonian customs and Huni Kuin traditions. Botanical product with classic character, available in 10g."
+description: "Royal Rapé Tsunu, 10 g — Tsunu bark ash, Amazonian in origin. Botanical specimen, dispatched from Zürich in plain packaging."
 sku: "5202407"
 price: 24.95
 currency: "EUR"

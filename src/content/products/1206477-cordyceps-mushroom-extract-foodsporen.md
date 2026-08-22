@@ -1,6 +1,6 @@
 ---
 title: "Cordyceps Mushroom Extract (Foodsporen)"
-description: "Cordyceps Mushroom Extract (Foodsporen) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cordyceps Mushroom Extract (Foodsporen) — an extract. CHF 31.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1206477"
 price: 29.5
 currency: "EUR"

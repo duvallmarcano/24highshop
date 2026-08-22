@@ -1,6 +1,6 @@
 ---
 title: "100% Mycelium Magic Mushroom Growkit Ecuador"
-description: "100% Mycelium Magic Mushroom Growkit Ecuador - 1 X Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "100% Mycelium Magic Mushroom Growkit Ecuador — fresh mushrooms growkits. CHF 42.05, in stock in Zürich and shipped the same working day."
 sku: "0208725"
 price: 39.95
 currency: "EUR"

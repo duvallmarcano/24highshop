@@ -1,6 +1,6 @@
 ---
 title: "Spanish Fly Pasión Intenso"
-description: "Spanish Fly Pasión Intenso Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Spanish Fly Pasión Intenso. CHF 10.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101984"
 price: 9.95
 currency: "EUR"

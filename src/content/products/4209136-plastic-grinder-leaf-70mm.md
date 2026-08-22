@@ -1,6 +1,6 @@
 ---
 title: "Plastic Grinder Leaf - 70mm"
-description: "Plastic Grinder Leaf - 70mm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plastic Grinder Leaf - 70mm, 70mm. In stock at CHF 2.60. Dispatched from Zürich in plain packaging."
 sku: "4209136"
 price: 2.45
 currency: "EUR"

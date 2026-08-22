@@ -1,6 +1,6 @@
 ---
 title: "Ultimate Truffle Fusion Pack"
-description: "Premium magic truffle mix in one pack. Explore different strains and strengths with 24High."
+description: "Ultimate Truffle Fusion Pack — magic truffles. CHF 57.85, in stock in Zürich and shipped the same working day."
 sku: "6205272"
 price: 54.95
 currency: "EUR"

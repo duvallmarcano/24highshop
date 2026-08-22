@@ -1,6 +1,6 @@
 ---
 title: "Click-Clack Box (Ø 5.5 cm) Paisley Weed"
-description: "Click-Clack Box (Ø 5.5 cm) Paisley Weed Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Click-Clack Box (Ø 5.5 cm) Paisley Weed — stash & storage boxes. In stock at CHF 2.65. Dispatched from Zürich in plain packaging."
 sku: "8106127"
 price: 2.5
 currency: "EUR"

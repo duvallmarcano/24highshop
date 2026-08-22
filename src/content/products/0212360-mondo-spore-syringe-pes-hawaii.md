@@ -1,6 +1,6 @@
 ---
 title: "Mondo Spore Syringe PES Hawaii"
-description: "Mondo Spore Syringe PES Hawaii Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Spore Syringe PES Hawaii — a sterile spore syringe. CHF 18.90. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0212360"
 price: 17.95
 currency: "EUR"

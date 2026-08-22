@@ -1,6 +1,6 @@
 ---
 title: "Double Vision Truffles"
-description: "Double Vision truffles - 25 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Double Vision Truffles. CHF 22.05. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0201740"
 price: 20.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "MediCBD Green Tea (Box of 20 Teabags) – 7.5mg CBD"
-description: "MediCBD Green Tea (Box of 20 Teabags) – 7.5mg CBD Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "MediCBD Green Tea (Box of 20 Teabags) – 7.5mg CBD — cbd edibles. CHF 7.30, in stock in Zürich and shipped the same working day."
 sku: "1206313"
 price: 6.95
 currency: "EUR"

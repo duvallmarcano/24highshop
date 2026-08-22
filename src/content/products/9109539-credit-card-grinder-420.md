@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Grinder 420"
-description: "Credit Card Grinder 420 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Credit Card Grinder 420. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "9109539"
 price: 4.95
 currency: "EUR"

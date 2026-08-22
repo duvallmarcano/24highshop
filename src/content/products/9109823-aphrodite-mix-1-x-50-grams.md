@@ -1,6 +1,6 @@
 ---
 title: "Aphrodite Mix - Indian Elements"
-description: "Aphrodite Mix - 1 x 50 grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Aphrodite Mix - Indian Elements — medicinal herbs. CHF 8.35, in stock in Zürich and shipped the same working day."
 sku: "9109823"
 price: 7.95
 currency: "EUR"

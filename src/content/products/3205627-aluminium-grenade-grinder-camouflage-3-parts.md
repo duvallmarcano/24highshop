@@ -1,6 +1,6 @@
 ---
 title: "Aluminium Grenade Grinder Camouflage 3 parts"
-description: "Aluminium Grenade Grinder Camouflage 3 parts Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Aluminium Grenade Grinder Camouflage 3 parts — aluminium. In stock at CHF 10.45. Dispatched from Zürich in plain packaging."
 sku: "3205627"
 price: 9.95
 currency: "EUR"

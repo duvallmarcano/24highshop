@@ -1,6 +1,6 @@
 ---
 title: "Euphoria Tea – Shamanita"
-description: "Euphoria Tea – Shamanita Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Euphoria Tea – Shamanita. CHF 2.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4203410"
 price: 2.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Royal Haze Automatic (RQS)"
-description: "Royal Haze Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Haze Automatic (RQS). CHF 22.65, in stock in Zürich and shipped the same working day."
 sku: "8102243"
 price: 21.5
 currency: "EUR"

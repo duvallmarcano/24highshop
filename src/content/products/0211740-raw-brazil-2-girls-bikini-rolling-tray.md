@@ -1,6 +1,6 @@
 ---
 title: "RAW Brazil 2 Girls Bikini Rolling Tray"
-description: "RAW Brazil 2 Girls Bikini Rolling Tray Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "RAW Brazil 2 Girls Bikini Rolling Tray. CHF 7.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0211740"
 price: 6.95
 currency: "EUR"

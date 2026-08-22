@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Samauma"
-description: "Royal Rapé Samauma is a traditional rapé blend with Samauma ash, inspired by Amazonian customs and Huni Kuin traditions. Available in 5 and 10 grams with authentic botanical character."
+description: "Royal Rapé Samauma, 5 g — Samauma ash from the kapok tree. Botanical specimen, shipped unmarked from Zürich."
 sku: "5202708"
 price: 13.5
 currency: "EUR"

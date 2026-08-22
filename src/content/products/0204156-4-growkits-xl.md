@@ -1,6 +1,6 @@
 ---
 title: "4 GROWKITS XL"
-description: "4 GROWKITS XL Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "4 GROWKITS XL. CHF 194.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0204156"
 price: 184.95
 currency: "EUR"

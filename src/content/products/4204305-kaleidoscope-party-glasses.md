@@ -1,6 +1,6 @@
 ---
 title: "Kaleidoscope party glasses"
-description: "Kaleidoscope party glasses Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kaleidoscope party glasses — magic truffles. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4204305"
 price: 9.95
 currency: "EUR"

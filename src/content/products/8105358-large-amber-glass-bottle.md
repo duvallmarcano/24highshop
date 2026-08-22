@@ -1,6 +1,6 @@
 ---
 title: "Large Amber Glass Bottle"
-description: "Large Amber Glass Bottle Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Large Amber Glass Bottle — glass. CHF 2.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8105358"
 price: 2.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Rolling Tray XXL | Stay 420 Series | Skull Smoker 2"
-description: "Rolling Tray XXL | Stay 420 Series | Skull Smoker 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rolling Tray XXL | Stay 420 Series | Skull Smoker 2. In stock at CHF 8.35. Dispatched from Zürich in plain packaging."
 sku: "4212187"
 price: 7.95
 currency: "EUR"

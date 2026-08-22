@@ -1,6 +1,6 @@
 ---
 title: "7 Chakra Incense"
-description: "7 Chakra Incense Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "7 Chakra Incense. CHF 10.45, currently sold out. Restocked regularly in Zürich."
 sku: "4203981"
 price: 9.95
 currency: "EUR"

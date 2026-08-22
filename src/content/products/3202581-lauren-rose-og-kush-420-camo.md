@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - OG Kush 420 Camo"
-description: "Lauren Rose - OG Kush 420 Camo Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - OG Kush 420 Camo — 4:20 lifestyle. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "3202581"
 price: 29.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Dragon's Dynamite Truffles"
-description: "Dragon's Dynamite - 15 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Dragon's Dynamite Truffles. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "7112426"
 price: 16.95
 currency: "EUR"

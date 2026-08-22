@@ -1,6 +1,6 @@
 ---
 title: "RAW Bikini Large Rolling Tray"
-description: "RAW Bikini Large Rolling Tray Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "RAW Bikini Large Rolling Tray. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203410"
 price: 9.95
 currency: "EUR"

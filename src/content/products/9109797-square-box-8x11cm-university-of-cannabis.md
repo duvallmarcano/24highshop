@@ -1,6 +1,6 @@
 ---
 title: "Square Box (8x11cm) University Of Cannabis"
-description: "Square Box (8x11cm) University Of Cannabis Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Square Box (8x11cm) University Of Cannabis. CHF 3.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9109797"
 price: 3.75
 currency: "EUR"

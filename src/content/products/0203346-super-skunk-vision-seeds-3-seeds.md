@@ -1,6 +1,6 @@
 ---
 title: "Super Skunk (Vision Seeds)"
-description: "Super Skunk (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Super Skunk (Vision Seeds). CHF 18.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203346"
 price: 17.5
 currency: "EUR"

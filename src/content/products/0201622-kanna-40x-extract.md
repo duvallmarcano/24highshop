@@ -1,6 +1,6 @@
 ---
 title: "Kanna 40x Extract"
-description: "Kanna 40x Extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna 40x Extract — powder. In stock at CHF 23.10. Dispatched from Zürich in plain packaging."
 sku: "0201622"
 price: 21.95
 currency: "EUR"

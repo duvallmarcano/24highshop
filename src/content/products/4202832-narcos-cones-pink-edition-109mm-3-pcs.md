@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Cones Pink Edition 109mm 3 PCS"
-description: "Narcos - Cones Pink Edition 109mm 3 PCS Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Cones Pink Edition 109mm 3 PCS. In stock at CHF 1.30. Dispatched from Zürich in plain packaging."
 sku: "4202832"
 price: 1.25
 currency: "EUR"

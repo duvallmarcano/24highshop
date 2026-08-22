@@ -1,6 +1,6 @@
 ---
 title: "White Widow Automatic (royalqueenseeds)"
-description: "White Widow Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "White Widow Automatic (royalqueenseeds) — autoflower seeds. CHF 24.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8102465"
 price: 23.0
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Ink'd & Notorious Fashion Fit Strapback"
-description: "Lauren Rose - Ink'd & Notorious Fashion Fit Strapback Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Ink'd & Notorious Fashion Fit Strapback — 4:20 lifestyle. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "3202278"
 price: 29.95
 currency: "EUR"

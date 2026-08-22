@@ -1,6 +1,6 @@
 ---
 title: "Cooking with Magic Mushrooms"
-description: "Discover Cooking with Magic Mushrooms, a cookbook with creative recipes and tips. Free goodies with every order."
+description: "Cooking with Magic Mushrooms. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6207285"
 price: 19.95
 currency: "EUR"

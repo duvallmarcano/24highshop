@@ -1,6 +1,6 @@
 ---
 title: "Disinfecting Hand Liquid"
-description: "Hand Sanitizer ✓No water needed ✓Fast & clean ✓Free goodies with every order at 24High"
+description: "Disinfecting Hand Liquid — grow supplies. CHF 4.15, currently sold out. Restocked regularly in Zürich."
 sku: "5209515"
 price: 3.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Metal/Rose Wood Pipe 8.5 cm"
-description: "Metal/Rose Wood Pipe 8.5 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Metal/Rose Wood Pipe 8.5 cm. CHF 6.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9110673"
 price: 5.95
 currency: "EUR"

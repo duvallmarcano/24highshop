@@ -1,6 +1,6 @@
 ---
 title: "Khat (Catha edulis) - 10 Seeds"
-description: "Khat (Catha edulis) seeds ✓Free goodies with every order ✓Fast & discreet delivery ✓High-quality seeds for collectors!"
+description: "Khat (Catha edulis) - 10 Seeds. CHF 13.65, currently sold out. Restocked regularly in Zürich."
 sku: "0201282"
 price: 12.95
 currency: "EUR"

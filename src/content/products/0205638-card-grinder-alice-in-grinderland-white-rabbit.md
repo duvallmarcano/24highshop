@@ -1,6 +1,6 @@
 ---
 title: "Card Grinder Alice in Grinderland - White Rabbit"
-description: "Card Grinder Alice in Grinderland - White Rabbit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Card Grinder Alice in Grinderland - White Rabbit. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "0205638"
 price: 4.95
 currency: "EUR"

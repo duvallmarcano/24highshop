@@ -1,6 +1,6 @@
 ---
 title: "Magic Truffle Grinder"
-description: "Magic Truffle Grinder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Magic Truffle Grinder. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "0201113"
 price: 4.95
 currency: "EUR"

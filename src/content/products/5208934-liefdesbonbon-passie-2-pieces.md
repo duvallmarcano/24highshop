@@ -1,6 +1,6 @@
 ---
 title: "Liefdesbonbon - Passie 2 pieces"
-description: "Love Bonbons 2 pcs ✓Tropical taste ✓Fast effect ✓Compact ✓Free goodies with every order at 24High"
+description: "Liefdesbonbon - Passie 2 pieces, 2 pieces. CHF 9.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5208934"
 price: 8.95
 currency: "EUR"

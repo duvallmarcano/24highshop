@@ -1,6 +1,6 @@
 ---
 title: "Refresh Quick Flush - 30 pieces"
-description: "Refresh Quick Flush - 30 pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Refresh Quick Flush - 30 pieces — recovery & detox & tripstopper. CHF 23.10, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3207519"
 price: 21.95
 currency: "EUR"

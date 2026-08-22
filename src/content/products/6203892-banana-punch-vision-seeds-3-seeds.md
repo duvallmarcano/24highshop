@@ -1,6 +1,6 @@
 ---
 title: "Banana Punch (Vision Seeds)"
-description: "Banana Punch seeds by Vision Seeds. Tropical banana flavor and strong strain. Free goodie with every order."
+description: "Banana Punch (Vision Seeds) — feminised. CHF 18.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6203892"
 price: 17.5
 currency: "EUR"

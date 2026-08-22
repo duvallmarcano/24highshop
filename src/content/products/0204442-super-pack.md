@@ -1,6 +1,6 @@
 ---
 title: "Super Pack"
-description: "Want to order Super Pack? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Super Pack — magic truffles. CHF 84.15, in stock in Zürich and shipped the same working day."
 sku: "0204442"
 price: 79.95
 currency: "EUR"

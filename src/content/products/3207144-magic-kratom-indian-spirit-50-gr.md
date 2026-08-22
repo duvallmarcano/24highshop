@@ -1,6 +1,6 @@
 ---
 title: "Magic Kratom Indian Spirit - 50 GR"
-description: "Magic Kratom Indian Spirit - 50 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Magic Kratom Indian Spirit - 50 GR. In stock at CHF 9.40. Dispatched from Zürich in plain packaging."
 sku: "3207144"
 price: 8.95
 currency: "EUR"

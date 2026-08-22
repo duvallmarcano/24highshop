@@ -1,6 +1,6 @@
 ---
 title: "Devils Candy Triple Six"
-description: "Devils Candy Triple Six Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Devils Candy Triple Six. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "0205442"
 price: 29.95
 currency: "EUR"

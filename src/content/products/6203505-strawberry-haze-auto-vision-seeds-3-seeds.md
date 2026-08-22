@@ -1,6 +1,6 @@
 ---
 title: "Strawberry Haze Auto (Vision Seeds)"
-description: "Strawberry Haze Auto by Vision Seeds. Autoflower with sweet strawberry flavor. Free goodies with every order."
+description: "Strawberry Haze Auto (Vision Seeds) — feminised. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "6203505"
 price: 22.5
 currency: "EUR"

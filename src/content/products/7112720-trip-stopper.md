@@ -1,6 +1,6 @@
 ---
 title: "Trip-stopper"
-description: "Want to order Trip Stopper? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Trip-stopper. CHF 3.10, in stock in Zürich and shipped the same working day."
 sku: "7112720"
 price: 2.95
 currency: "EUR"

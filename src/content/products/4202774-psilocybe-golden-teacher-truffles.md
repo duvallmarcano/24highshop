@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Golden Teacher Truffles"
-description: "Discover Golden Teacher Psilocybe Truffles for an intense psychedelic experience. Ideal for experienced users. Discreetly delivered by 24High."
+description: "Psilocybe Golden Teacher Truffles. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4202774"
 price: 16.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Biscotti Auto (Vision Seeds)"
-description: "Auto Biscotti by Vision Seeds. Powerful autoflower with rich flavor. Free goodies with every order."
+description: "Biscotti Auto (Vision Seeds) — feminised. CHF 18.40, in stock in Zürich and shipped the same working day."
 sku: "6203917"
 price: 17.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "RAW All Black Rolling Tray Large"
-description: "RAW All Black Rolling Tray Large Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "RAW All Black Rolling Tray Large. CHF 7.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0211946"
 price: 6.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Pandora`s Magic Truffle Growkit"
-description: "Pandora`s Magic Truffles Growkit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pandora`s Magic Truffle Growkit — fresh. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "2205884"
 price: 22.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Special kush 1 (RQS)"
-description: "Special Kush 1 - 3 seeds (RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Special kush 1 (RQS) — feminized seeds. CHF 10.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8102658"
 price: 9.5
 currency: "EUR"

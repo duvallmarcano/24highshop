@@ -1,6 +1,6 @@
 ---
 title: "Rush Herbal Popper"
-description: "Rush Herbal Popper Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rush Herbal Popper. In stock at CHF 15.25. Dispatched from Zürich in plain packaging."
 sku: "8101812"
 price: 14.5
 currency: "EUR"

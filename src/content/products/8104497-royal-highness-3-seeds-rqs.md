@@ -1,6 +1,6 @@
 ---
 title: "Royal Highness (RQS)"
-description: "Want to order Royal Highness 3 Seeds RQS? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Royal Highness (RQS) — feminised. In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "8104497"
 price: 17.5
 currency: "EUR"

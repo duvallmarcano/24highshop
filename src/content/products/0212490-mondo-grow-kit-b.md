@@ -1,6 +1,6 @@
 ---
 title: "Mondo Grow Kit B+"
-description: "Mondo Grow Kit B+ Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Grow Kit B+. CHF 36.80. Back in stock shortly — shipped from Zürich when it lands."
 sku: "0212490"
 price: 34.95
 currency: "EUR"

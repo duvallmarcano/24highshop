@@ -1,6 +1,6 @@
 ---
 title: "Damiana Indian Elements - Capsules"
-description: "Damiana Indian Elements - Capsules Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Damiana Indian Elements - Capsules — medicinal herbs. CHF 12.60, in stock in Zürich and shipped the same working day."
 sku: "8101464"
 price: 11.95
 currency: "EUR"

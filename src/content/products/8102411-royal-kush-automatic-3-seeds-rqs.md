@@ -1,6 +1,6 @@
 ---
 title: "Royal Kush Automatic (RQS)"
-description: "Royal Kush Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Kush Automatic (RQS) — autoflowering. In stock at CHF 22.65. Dispatched from Zürich in plain packaging."
 sku: "8102411"
 price: 21.5
 currency: "EUR"

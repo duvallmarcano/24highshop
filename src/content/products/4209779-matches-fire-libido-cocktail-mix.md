@@ -1,6 +1,6 @@
 ---
 title: "Matches Fire Libido Cocktail Mix"
-description: "Matches Fire Libido Cocktail Mix Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Matches Fire Libido Cocktail Mix. CHF 26.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4209779"
 price: 24.95
 currency: "EUR"

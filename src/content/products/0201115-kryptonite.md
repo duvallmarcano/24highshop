@@ -1,6 +1,6 @@
 ---
 title: "Kryptonite"
-description: "Want to order Kryptonite? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Kryptonite — capsules. CHF 18.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0201115"
 price: 17.5
 currency: "EUR"

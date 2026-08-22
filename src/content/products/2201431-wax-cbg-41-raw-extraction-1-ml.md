@@ -1,6 +1,6 @@
 ---
 title: "Wax CBG 41% Raw Extraction – 1 ML"
-description: "Wax CBG 41% Raw Extraction – 1 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wax CBG 41% Raw Extraction – 1 ML — cbd paste. In stock at CHF 15.75. Dispatched from Zürich in plain packaging."
 sku: "2201431"
 price: 14.95
 currency: "EUR"

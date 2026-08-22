@@ -1,6 +1,6 @@
 ---
 title: "Medium Amber Glass Bottle"
-description: "Medium Amber Glass Bottle Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Medium Amber Glass Bottle — sniff articles. CHF 2.10, currently sold out. Restocked regularly in Zürich."
 sku: "8105119"
 price: 2.0
 currency: "EUR"

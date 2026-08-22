@@ -1,6 +1,6 @@
 ---
 title: "True Albino Teacher Liquid Culture Syringe"
-description: "True Albino Teacher Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "True Albino Teacher Liquid Culture Syringe — live liquid culture. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207859"
 price: 18.95
 currency: "EUR"

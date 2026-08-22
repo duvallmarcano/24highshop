@@ -1,6 +1,6 @@
 ---
 title: "Libido XTRA"
-description: "Want to order Libido XTRA? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Libido XTRA. CHF 25.15, currently sold out. Restocked regularly in Zürich."
 sku: "0207460"
 price: 23.9
 currency: "EUR"

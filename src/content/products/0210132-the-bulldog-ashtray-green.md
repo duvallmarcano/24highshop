@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog Ashtray Green"
-description: "The Bulldog Ashtray Green Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog Ashtray Green. In stock at CHF 3.10. Dispatched from Zürich in plain packaging."
 sku: "0210132"
 price: 2.95
 currency: "EUR"

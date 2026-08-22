@@ -1,6 +1,6 @@
 ---
 title: "Incense with pure Yagra"
-description: "Surround yourself with the mystical scent of pure Yagra. Refreshing, spiritual, and perfect for rituals or relaxation. Order discreetly and quickly at 24High!"
+description: "Incense with pure Yagra. CHF 6.60, currently sold out. Restocked regularly in Zürich."
 sku: "4203925"
 price: 6.25
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Royal Gorilla - Royal Queen Seeds"
-description: "Royal Gorilla - Royal Queen Seeds - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Gorilla - Royal Queen Seeds. In stock at CHF 28.40. Dispatched from Zürich in plain packaging."
 sku: "0204968"
 price: 27.0
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Sativa Mix - Indian Elements"
-description: "Cannabis Sativa Spliff mix - 1 x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Sativa Mix - Indian Elements. CHF 8.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9102955"
 price: 7.95
 currency: "EUR"

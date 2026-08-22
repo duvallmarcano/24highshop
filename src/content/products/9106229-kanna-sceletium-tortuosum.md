@@ -1,6 +1,6 @@
 ---
 title: "Kanna (Sceletium tortuosum)"
-description: "Kanna (Sceletium tortuosum) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna (Sceletium tortuosum). In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "9106229"
 price: 4.95
 currency: "EUR"

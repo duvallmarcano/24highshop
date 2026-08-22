@@ -1,6 +1,6 @@
 ---
 title: "Narcos Lighter 1 Pcs"
-description: "Narcos Lighter 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos Lighter 1 Pcs. CHF 1.60, in stock in Zürich and shipped the same working day."
 sku: "3208812"
 price: 1.5
 currency: "EUR"

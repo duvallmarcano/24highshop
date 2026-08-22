@@ -1,6 +1,6 @@
 ---
 title: "Royal Gorilla Automatic (RQS)"
-description: "Royal Gorilla Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Gorilla Automatic (RQS) — autoflowering. CHF 28.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4204965"
 price: 27.0
 currency: "EUR"

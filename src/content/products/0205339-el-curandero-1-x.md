@@ -1,6 +1,6 @@
 ---
 title: "El Curandero"
-description: "El Curandero - 1 X Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "El Curandero — fresh mushrooms growkits. CHF 42.05. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205339"
 price: 39.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "High Roller`s Bible"
-description: "High Roller`s Bible Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "High Roller`s Bible. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1212398"
 price: 9.95
 currency: "EUR"

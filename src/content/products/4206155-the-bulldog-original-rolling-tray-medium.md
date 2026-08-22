@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog - Original Rolling Tray Medium"
-description: "The Bulldog - Original Rolling Tray Medium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog - Original Rolling Tray Medium. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4206155"
 price: 4.95
 currency: "EUR"

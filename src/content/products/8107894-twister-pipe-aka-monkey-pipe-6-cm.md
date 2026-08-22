@@ -1,6 +1,6 @@
 ---
 title: "Twister Pipe a.k.a. Monkey Pipe 6 cm"
-description: "Twister Pipe a.k.a. Monkey Pipe 6 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Twister Pipe a.k.a. Monkey Pipe 6 cm. In stock at CHF 6.25. Dispatched from Zürich in plain packaging."
 sku: "8107894"
 price: 5.95
 currency: "EUR"

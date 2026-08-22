@@ -1,6 +1,6 @@
 ---
 title: "Click-Clack Box (Ø 5.5 cm) Leaves"
-description: "Click-Clack Box (Ø 5.5 cm) Leaves Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Click-Clack Box (Ø 5.5 cm) Leaves — stash & storage boxes. CHF 2.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1203178"
 price: 2.5
 currency: "EUR"

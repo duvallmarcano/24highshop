@@ -1,6 +1,6 @@
 ---
 title: "Large SNS"
-description: "Large SNS Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Large SNS — sniff articles. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8105925"
 price: 6.95
 currency: "EUR"

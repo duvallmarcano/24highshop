@@ -1,6 +1,6 @@
 ---
 title: "Pink Mist Automatic (RQS)"
-description: "Pink Mist Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pink Mist Automatic (RQS) — feminised. In stock at CHF 21.05. Dispatched from Zürich in plain packaging."
 sku: "4211603"
 price: 20.0
 currency: "EUR"

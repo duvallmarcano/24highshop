@@ -1,6 +1,6 @@
 ---
 title: "Juicy Jay's Cotton Candy On Roll"
-description: "Juicy Jay's Cotton Candy On Roll - 1 st Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Juicy Jay's Cotton Candy On Roll. CHF 1.85. Back in stock shortly — shipped from Zürich when it lands."
 sku: "9109940"
 price: 1.75
 currency: "EUR"

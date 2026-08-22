@@ -1,6 +1,6 @@
 ---
 title: "Mondo Grow Kit Mexicana"
-description: "Mondo Grow Kit Mexicana Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Grow Kit Mexicana, 1200 cc. In stock at CHF 36.80. Dispatched from Zürich in plain packaging."
 sku: "0212804"
 price: 34.95
 currency: "EUR"

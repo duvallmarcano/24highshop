@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - 24High Camo Snapback Hat"
-description: "Lauren Rose - 24High Camo Snapback Hat Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - 24High Camo Snapback Hat — 4:20 lifestyle. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "3203399"
 price: 29.95
 currency: "EUR"

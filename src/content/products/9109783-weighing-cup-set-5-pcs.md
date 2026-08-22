@@ -1,6 +1,6 @@
 ---
 title: "Weighing Cup Set 5 Pcs"
-description: "Weighing Cup Set 5 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Weighing Cup Set 5 Pcs. CHF 10.45, currently sold out. Restocked regularly in Zürich."
 sku: "9109783"
 price: 9.95
 currency: "EUR"

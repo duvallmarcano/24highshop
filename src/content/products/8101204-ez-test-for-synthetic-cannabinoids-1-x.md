@@ -1,6 +1,6 @@
 ---
 title: "EZ Test for Synthetic Cannabinoids"
-description: "EZ Test for Synthetic Cannabinoids - 1 x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "EZ Test for Synthetic Cannabinoids. CHF 3.70, in stock in Zürich and shipped the same working day."
 sku: "8101204"
 price: 3.5
 currency: "EUR"

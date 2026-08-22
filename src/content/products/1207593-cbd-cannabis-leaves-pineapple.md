@@ -1,6 +1,6 @@
 ---
 title: "CBD Cannabis Leaves - Pineapple"
-description: "CBD Cannabis Leaves - Pineapple Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Cannabis Leaves - Pineapple — hemp. CHF 8.90, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1207593"
 price: 8.45
 currency: "EUR"

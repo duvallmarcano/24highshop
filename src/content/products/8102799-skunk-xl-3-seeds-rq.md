@@ -1,6 +1,6 @@
 ---
 title: "Skunk XL Feminized (RQS)"
-description: "Skunk XL - 3 seeds (RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Skunk XL Feminized (RQS). CHF 21.05, in stock in Zürich and shipped the same working day."
 sku: "8102799"
 price: 20.0
 currency: "EUR"

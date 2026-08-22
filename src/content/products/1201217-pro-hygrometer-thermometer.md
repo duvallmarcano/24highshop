@@ -1,6 +1,6 @@
 ---
 title: "Pro Hygrometer / Thermometer"
-description: "Pro Hygrometer / Thermometer Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pro Hygrometer / Thermometer — grow supplies. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1201217"
 price: 9.95
 currency: "EUR"

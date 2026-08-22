@@ -1,6 +1,6 @@
 ---
 title: "Hygienic Wipes with Alcohol - Bacillol"
-description: "Bacillol Wipes ✓Fast & effective ✓With alcohol ✓Free goodies with every order at 24High"
+description: "Hygienic Wipes with Alcohol - Bacillol — grow supplies. CHF 11.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5209973"
 price: 10.95
 currency: "EUR"

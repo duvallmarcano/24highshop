@@ -1,6 +1,6 @@
 ---
 title: "Valerian Indian Elements"
-description: "Valerian Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Valerian Indian Elements — medicinal herbs. In stock at CHF 13.65. Dispatched from Zürich in plain packaging."
 sku: "8101452"
 price: 12.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Alien Stoner"
-description: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Alien Stoner Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Alien Stoner — aluminium. CHF 23.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4211949"
 price: 22.5
 currency: "EUR"

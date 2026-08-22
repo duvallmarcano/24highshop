@@ -1,6 +1,6 @@
 ---
 title: "Click-Clack Box (Ø 5,5 cm) Peace 3"
-description: "Click-Clack Box (Ø 5,5 cm) Peace 3 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Click-Clack Box (Ø 5,5 cm) Peace 3 — stash & storage boxes. CHF 2.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9109803"
 price: 2.5
 currency: "EUR"

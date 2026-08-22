@@ -1,6 +1,6 @@
 ---
 title: "Mini Quick Hit"
-description: "Mini Quick Hit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mini Quick Hit — sniff articles. CHF 2.05, in stock in Zürich and shipped the same working day."
 sku: "8105712"
 price: 1.95
 currency: "EUR"

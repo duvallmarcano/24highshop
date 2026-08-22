@@ -1,6 +1,6 @@
 ---
 title: "The Psilocybin Mushroom Bible"
-description: "The Psilocybin Mushroom Bible Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Psilocybin Mushroom Bible. CHF 32.65. Back in stock shortly — shipped from Zürich when it lands."
 sku: "1205628"
 price: 31.0
 currency: "EUR"

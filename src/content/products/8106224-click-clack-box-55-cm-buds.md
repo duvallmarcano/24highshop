@@ -1,6 +1,6 @@
 ---
 title: "Click-Clack Box (Ø 5.5 cm) Buds"
-description: "Click-Clack Box (Ø 5.5 cm) Buds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Click-Clack Box (Ø 5.5 cm) Buds — stash & storage boxes. CHF 2.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8106224"
 price: 2.5
 currency: "EUR"

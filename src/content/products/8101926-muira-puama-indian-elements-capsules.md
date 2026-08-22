@@ -1,6 +1,6 @@
 ---
 title: "Muira Puama Indian Elements - Capsules"
-description: "Muira Puama Indian Elements - Capsules Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Muira Puama Indian Elements - Capsules — capsules. CHF 12.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101926"
 price: 11.95
 currency: "EUR"

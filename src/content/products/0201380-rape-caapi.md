@@ -1,6 +1,6 @@
 ---
 title: "Rapé Caapi"
-description: "Want to order Rapé Caapi? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Rapé Caapi. CHF 15.75. Back in stock shortly — shipped from Zürich when it lands."
 sku: "0201380"
 price: 14.95
 currency: "EUR"

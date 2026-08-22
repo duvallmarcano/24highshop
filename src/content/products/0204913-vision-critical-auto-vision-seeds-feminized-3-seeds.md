@@ -1,6 +1,6 @@
 ---
 title: "Vision Critical Auto (Vision Seeds) Feminized"
-description: "Vision Critical Auto (Vision Seeds) Feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vision Critical Auto (Vision Seeds) Feminized — autoflowering. CHF 18.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0204913"
 price: 17.5
 currency: "EUR"

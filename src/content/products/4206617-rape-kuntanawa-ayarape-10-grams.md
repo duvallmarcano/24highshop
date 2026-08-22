@@ -1,6 +1,6 @@
 ---
 title: "Rapé Kuntanawa Ayarapé - 10 Grams"
-description: "Rapé Kuntanawa Ayarapé - 10 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rapé Kuntanawa Ayarapé - 10 Grams, 10 Grams. CHF 23.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4206617"
 price: 21.95
 currency: "EUR"

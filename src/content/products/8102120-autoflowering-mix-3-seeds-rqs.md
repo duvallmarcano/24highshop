@@ -1,6 +1,6 @@
 ---
 title: "Autoflowering mix (RQS)"
-description: "Autoflowering mix - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Autoflowering mix (RQS) — autoflowering. CHF 22.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8102120"
 price: 21.5
 currency: "EUR"

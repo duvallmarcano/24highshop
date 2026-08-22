@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Grinder Anonymous"
-description: "Credit Card Grinder Anonymous Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Credit Card Grinder Anonymous. In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "0204465"
 price: 4.95
 currency: "EUR"

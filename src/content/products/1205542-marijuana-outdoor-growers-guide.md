@@ -1,6 +1,6 @@
 ---
 title: "Marijuana Outdoor Grower's Guide"
-description: "Marijuana Outdoor Grower's Guide Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Marijuana Outdoor Grower's Guide. CHF 17.85, currently sold out. Restocked regularly in Zürich."
 sku: "1205542"
 price: 16.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Devils Candy Monster Cock"
-description: "Devils Candy Monster Cock Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Devils Candy Monster Cock. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205336"
 price: 29.95
 currency: "EUR"

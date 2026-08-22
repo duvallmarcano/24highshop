@@ -1,6 +1,6 @@
 ---
 title: "100% Mycelium Magic Mushroom Growkit B+"
-description: "100% Mycelium Magic Mushroom Growkit B+ - 1 X Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "100% Mycelium Magic Mushroom Growkit B+ — fresh mushrooms growkits. CHF 42.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0208751"
 price: 39.95
 currency: "EUR"

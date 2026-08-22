@@ -1,6 +1,6 @@
 ---
 title: "Erectakraft"
-description: "Want to order Erectakraft? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Erectakraft. CHF 26.25, in stock in Zürich and shipped the same working day."
 sku: "4209894"
 price: 24.95
 currency: "EUR"

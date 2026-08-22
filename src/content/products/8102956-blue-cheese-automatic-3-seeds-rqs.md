@@ -1,6 +1,6 @@
 ---
 title: "Blue Cheese Automatic (RQS)"
-description: "Blue Cheese Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Blue Cheese Automatic (RQS). CHF 22.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8102956"
 price: 21.5
 currency: "EUR"

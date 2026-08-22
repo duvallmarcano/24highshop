@@ -1,6 +1,6 @@
 ---
 title: "Copelandia Hawaiian Mushroom growkit"
-description: "Copelandia Hawaiian Mushroom growkit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Copelandia Hawaiian Mushroom growkit. In stock at CHF 67.30. Dispatched from Zürich in plain packaging."
 sku: "0201891"
 price: 63.95
 currency: "EUR"

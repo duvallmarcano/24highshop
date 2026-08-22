@@ -1,6 +1,6 @@
 ---
 title: "Tyson 2.0 Portrait Bio Grinder"
-description: "Tyson 2.0 Portrait Bio Grinder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tyson 2.0 Portrait Bio Grinder. CHF 7.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207361"
 price: 6.95
 currency: "EUR"

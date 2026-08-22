@@ -1,6 +1,6 @@
 ---
 title: "Zeno Cash ZC16 Pocket Microscope"
-description: "See the unseen with the Zeno Cash ZC16 Pocket Microscope. Compact, powerful, and easy to carry. ✓LED lighting ✓Portable design ✓Perfect for hobby, study, or nature exploration ✓Free goodies with every order at 24High."
+description: "Zeno Cash ZC16 Pocket Microscope — grow supplies. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5210142"
 price: 19.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Ashtray Round Glass | Luxury Art Series | Diamond"
-description: "Ashtray Round Glass | Luxury Art Series | Diamond Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ashtray Round Glass | Luxury Art Series | Diamond — glass. CHF 10.45, in stock in Zürich and shipped the same working day."
 sku: "4212124"
 price: 9.95
 currency: "EUR"

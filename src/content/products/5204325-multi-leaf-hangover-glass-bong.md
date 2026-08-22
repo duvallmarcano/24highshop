@@ -1,6 +1,6 @@
 ---
 title: "Multi Leaf Hangover Glass Bong"
-description: "26cm glass bong with multi leaf design. Hangover style. Free goodies with every order at 24High!"
+description: "Multi Leaf Hangover Glass Bong — glass. In stock at CHF 15.75. Dispatched from Zürich in plain packaging."
 sku: "5204325"
 price: 14.95
 currency: "EUR"

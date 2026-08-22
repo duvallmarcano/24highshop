@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Bong 3D Fantasia"
-description: "Mushroom Bong 3D Fantasia with eye-catching design. Durable and easy to use. Free goodies with every order."
+description: "Mushroom Bong 3D Fantasia — glass, 25 cm. CHF 42.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201132"
 price: 39.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Stash Screwdriver"
-description: "Discover the Stash Screwdriver at 24High. A discreet and practical storage tool for safely hiding small valuables. Free goodies with every order."
+description: "Stash Screwdriver. CHF 7.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201370"
 price: 6.95
 currency: "EUR"

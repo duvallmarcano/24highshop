@@ -1,6 +1,6 @@
 ---
 title: "Absinthe - 10X Extract"
-description: "Absinthe - 10X Extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Absinthe - 10X Extract — an extract. In stock at CHF 10.45. Dispatched from Zürich in plain packaging."
 sku: "8101447"
 price: 9.95
 currency: "EUR"

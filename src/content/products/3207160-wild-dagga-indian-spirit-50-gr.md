@@ -1,6 +1,6 @@
 ---
 title: "Wild Dagga Indian Spirit - 50 GR"
-description: "Wild Dagga Indian Spirit - 50 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wild Dagga Indian Spirit - 50 GR. CHF 12.60, currently sold out. Restocked regularly in Zürich."
 sku: "3207160"
 price: 11.95
 currency: "EUR"

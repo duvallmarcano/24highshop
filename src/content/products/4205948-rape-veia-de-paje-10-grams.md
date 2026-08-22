@@ -1,6 +1,6 @@
 ---
 title: "Rapé Veia de Pajé - 10 grams"
-description: "Rapé Veia de Pajé - 10 grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rapé Veia de Pajé - 10 grams, 10 Gram. CHF 23.10, in stock in Zürich and shipped the same working day."
 sku: "4205948"
 price: 21.95
 currency: "EUR"

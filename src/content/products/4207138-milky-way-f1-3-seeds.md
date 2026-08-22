@@ -1,6 +1,6 @@
 ---
 title: "Milkey Way F1"
-description: "Want to order Milky Way F1 3 Seeds? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Milkey Way F1 — autoflowering. In stock at CHF 39.95. Dispatched from Zürich in plain packaging."
 sku: "4207138"
 price: 37.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Relax Mix Indian Elements"
-description: "Relaxmix - 1x 50 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Relax Mix Indian Elements — medicinal herbs. In stock at CHF 9.40. Dispatched from Zürich in plain packaging."
 sku: "9109428"
 price: 8.95
 currency: "EUR"

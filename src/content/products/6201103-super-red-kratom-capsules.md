@@ -1,6 +1,6 @@
 ---
 title: "Super Red Kratom Capsules"
-description: "Super Red Kratom Capsules by 24high. Easy-to-use capsules filled with premium red kratom. Free goodies with every order"
+description: "Super Red Kratom Capsules — capsules. In stock at CHF 15.25. Dispatched from Zürich in plain packaging."
 sku: "6201103"
 price: 14.5
 currency: "EUR"

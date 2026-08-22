@@ -1,6 +1,6 @@
 ---
 title: "Cola Nut Indian Elements - Capsules"
-description: "Cola Nut Indian Elements - Capsules Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cola Nut Indian Elements - Capsules. CHF 12.60. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101817"
 price: 11.95
 currency: "EUR"

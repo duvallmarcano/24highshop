@@ -1,6 +1,6 @@
 ---
 title: "Mondo Spore Syringe B+"
-description: "Mondo Spore Syringe B+ Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Spore Syringe B+ — a sterile spore syringe. CHF 18.90, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0212257"
 price: 17.95
 currency: "EUR"

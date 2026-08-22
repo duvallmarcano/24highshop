@@ -1,6 +1,6 @@
 ---
 title: "Sterile disposable tweezers - 14 cm"
-description: "Sterile Disposable Tweezers 14cm ✓Ready to use ✓Clean & safe ✓Free goodies with every order at 24High"
+description: "Sterile disposable tweezers - 14 cm — sterile, 14 cm. CHF 0.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5209722"
 price: 0.45
 currency: "EUR"

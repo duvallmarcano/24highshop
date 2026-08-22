@@ -1,6 +1,6 @@
 ---
 title: "Glass bottle with spoon"
-description: "Glass bottle with spoon for easy storage and dosing of powders or herbs. Compact and practical. Free goodies with every order."
+description: "Glass bottle with spoon — glass. CHF 6.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6201957"
 price: 5.95
 currency: "EUR"

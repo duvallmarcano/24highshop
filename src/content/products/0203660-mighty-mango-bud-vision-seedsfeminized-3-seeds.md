@@ -1,6 +1,6 @@
 ---
 title: "Mighty Mango Bud (Vision Seeds) feminized"
-description: "Mighty Mango Bud (Vision Seeds)feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mighty Mango Bud (Vision Seeds) feminized. In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "0203660"
 price: 17.5
 currency: "EUR"

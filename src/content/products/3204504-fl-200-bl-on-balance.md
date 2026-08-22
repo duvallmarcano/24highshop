@@ -1,6 +1,6 @@
 ---
 title: "FL-200-BL On Balance"
-description: "FL-200-BL On Balance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "FL-200-BL On Balance. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3204504"
 price: 16.95
 currency: "EUR"

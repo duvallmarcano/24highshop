@@ -1,6 +1,6 @@
 ---
 title: "Zapotecorum Popocatépetl Liquid Culture Syringe"
-description: "Order the Zapotecorum 'Popocatépetl' Liquid Culture Syringe now! Unique strain. ✓Free goodies with every order!"
+description: "Zapotecorum Popocatépetl Liquid Culture Syringe — live liquid culture. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "5203537"
 price: 18.95
 currency: "EUR"

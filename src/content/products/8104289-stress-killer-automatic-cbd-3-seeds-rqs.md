@@ -1,6 +1,6 @@
 ---
 title: "Stress Killer Automatic CBD (RQS)"
-description: "Stress Killer Automatic CBD - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Stress Killer Automatic CBD (RQS) — cbd seeds. CHF 26.30, in stock in Zürich and shipped the same working day."
 sku: "8104289"
 price: 25.0
 currency: "EUR"

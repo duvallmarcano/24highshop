@@ -1,6 +1,6 @@
 ---
 title: "Lactuca virosa (wild Lettuce) - 10 Seeds"
-description: "Lactuca virosa (wild Lettuce) - 10 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lactuca virosa (wild Lettuce) - 10 Seeds. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205906"
 price: 6.95
 currency: "EUR"

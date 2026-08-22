@@ -1,6 +1,6 @@
 ---
 title: "Mexicana Truffles"
-description: "Order Mexicana Truffles at 24High. Experience a mild trip with visual hallucinations and increased energy. Discreet shipping and fast delivery."
+description: "Mexicana Truffles. CHF 14.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112128"
 price: 13.95
 currency: "EUR"

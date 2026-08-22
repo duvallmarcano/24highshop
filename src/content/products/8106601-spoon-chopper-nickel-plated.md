@@ -1,6 +1,6 @@
 ---
 title: "Spoon/Chopper, Nickel Plated"
-description: "Spoon/Chopper, Nickel Plated Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Spoon/Chopper, Nickel Plated — sniff articles. CHF 2.05. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8106601"
 price: 1.95
 currency: "EUR"

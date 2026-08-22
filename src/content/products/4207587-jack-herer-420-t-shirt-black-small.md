@@ -1,6 +1,6 @@
 ---
 title: "Jack Herer 420 T-shirt Black"
-description: "Jack Herer 420 T-shirt Black - Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Jack Herer 420 T-shirt Black — 4:20 lifestyle. CHF 26.25, currently sold out. Restocked regularly in Zürich."
 sku: "4207587"
 price: 24.95
 currency: "EUR"

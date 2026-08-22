@@ -1,6 +1,6 @@
 ---
 title: "Kratom Combo Box - 3 kg (Red,White & Green)"
-description: "Discover the Kratom Combo Box by 24high. A carefully selected mix of kratom strains. Free goodies with every order."
+description: "Kratom Combo Box - 3 kg (Red,White & Green), 3 kg. In stock at CHF 263.15. Dispatched from Zürich in plain packaging."
 sku: "6201587"
 price: 250.0
 currency: "EUR"

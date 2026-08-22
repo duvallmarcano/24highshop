@@ -1,6 +1,6 @@
 ---
 title: "O.G. Kush Brownie"
-description: "O.G. Kush Brownie Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "O.G. Kush Brownie — cannabis edibles. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "0211516"
 price: 4.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Ladies High Heel Lighter - White"
-description: "Ladies High Heel Lighter - White Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ladies High Heel Lighter - White. In stock at CHF 8.35. Dispatched from Zürich in plain packaging."
 sku: "4211696"
 price: 7.95
 currency: "EUR"

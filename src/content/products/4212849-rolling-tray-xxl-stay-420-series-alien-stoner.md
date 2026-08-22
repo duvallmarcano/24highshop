@@ -1,6 +1,6 @@
 ---
 title: "Rolling Tray XXL | Stay 420 Series | Alien Stoner"
-description: "Rolling Tray XXL | Stay 420 Series | Alien Stoner Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rolling Tray XXL | Stay 420 Series | Alien Stoner. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212849"
 price: 7.95
 currency: "EUR"

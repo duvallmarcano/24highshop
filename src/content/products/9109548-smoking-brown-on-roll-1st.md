@@ -1,6 +1,6 @@
 ---
 title: "Smoking Brown On Roll"
-description: "Smoking Brown On Roll - 1st Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Smoking Brown On Roll. CHF 1.85, in stock in Zürich and shipped the same working day."
 sku: "9109548"
 price: 1.75
 currency: "EUR"

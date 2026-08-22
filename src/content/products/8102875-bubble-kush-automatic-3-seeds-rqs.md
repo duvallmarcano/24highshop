@@ -1,6 +1,6 @@
 ---
 title: "Bubble Kush Automatic (RQS)"
-description: "Bubble Kush Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bubble Kush Automatic (RQS) — autoflower seeds. CHF 26.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8102875"
 price: 25.0
 currency: "EUR"

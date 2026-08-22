@@ -1,6 +1,6 @@
 ---
 title: "Royal Medic"
-description: "Want to order Royal Medic 3 Seeds? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Royal Medic — feminised. CHF 15.80, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8104329"
 price: 15.0
 currency: "EUR"

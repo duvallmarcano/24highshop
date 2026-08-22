@@ -1,6 +1,6 @@
 ---
 title: "Flamez Yellow 2 in 1 King Size Slim"
-description: "Flamez Yellow 2 in 1 King Size Slim Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Flamez Yellow 2 in 1 King Size Slim. CHF 30.45, in stock in Zürich and shipped the same working day."
 sku: "8101604"
 price: 28.95
 currency: "EUR"

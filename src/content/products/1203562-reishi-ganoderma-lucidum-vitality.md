@@ -1,6 +1,6 @@
 ---
 title: "Reishi (Ganoderma Lucidum) - Vitality"
-description: "Reishi (Ganoderma Lucidum) - Vitality Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Reishi (Ganoderma Lucidum) - Vitality — heart and blood vessels. CHF 36.80, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1203562"
 price: 34.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Safe Test Cocaïne 30X"
-description: "Safe Test Cocaïne 30X Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Safe Test Cocaïne 30X. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205700"
 price: 16.95
 currency: "EUR"

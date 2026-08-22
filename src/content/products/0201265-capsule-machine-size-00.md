@@ -1,6 +1,6 @@
 ---
 title: "Capsule Machine Size 00"
-description: "Capsule Machine Size 00 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Capsule Machine Size 00 — capsules. CHF 28.35, in stock in Zürich and shipped the same working day."
 sku: "0201265"
 price: 26.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Huni kuin Kene Kuripe"
-description: "Handcrafted Huni Kuin Kene Kuripe made from Amazon bamboo. Free goodies with every order."
+description: "Huni kuin Kene Kuripe. CHF 26.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6207435"
 price: 24.95
 currency: "EUR"

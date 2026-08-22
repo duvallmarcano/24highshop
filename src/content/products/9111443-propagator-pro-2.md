@@ -1,6 +1,6 @@
 ---
 title: "Propagator Pro 2"
-description: "Propagator Pro 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Propagator Pro 2 — exotic seeds. CHF 18.90, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9111443"
 price: 17.95
 currency: "EUR"

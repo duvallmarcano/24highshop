@@ -1,6 +1,6 @@
 ---
 title: "Cement incense burner"
-description: "Cement Incense Burner - Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cement incense burner. CHF 6.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4203828"
 price: 5.95
 currency: "EUR"

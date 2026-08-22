@@ -1,6 +1,6 @@
 ---
 title: "Fireherb Tea - Shamanita"
-description: "Fireherb Tea - Shamanita Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Fireherb Tea - Shamanita. CHF 2.65, in stock in Zürich and shipped the same working day Article 4203982."
 sku: "4203982"
 price: 2.5
 currency: "EUR"

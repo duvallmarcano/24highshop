@@ -1,6 +1,6 @@
 ---
 title: "Mr. Stiff Delay Spray"
-description: "Buy Mr. Stiff Delay Spray? ✓Free goodies with every order ✓Fast effect ✓Delays climax ✓Discreet shipping from 24High"
+description: "Mr. Stiff Delay Spray. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5207800"
 price: 14.95
 currency: "EUR"

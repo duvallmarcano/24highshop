@@ -1,6 +1,6 @@
 ---
 title: "Entada Rheedii 1 Seed"
-description: "Buy Entada Rheedii Seed at 24High. Unique and fresh. Fast delivery. Free goodies with every order."
+description: "Entada Rheedii 1 Seed — dream herbs. CHF 7.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5211176"
 price: 6.95
 currency: "EUR"

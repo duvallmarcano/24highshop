@@ -1,6 +1,6 @@
 ---
 title: "Chlorella - 240 pieces"
-description: "Chlorella - 240 pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Chlorella - 240 pieces — immune system. CHF 14.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3207636"
 price: 13.95
 currency: "EUR"

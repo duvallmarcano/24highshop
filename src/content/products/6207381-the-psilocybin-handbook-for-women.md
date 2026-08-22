@@ -1,6 +1,6 @@
 ---
 title: "The Psilocybin Handbook for Women"
-description: "Discover The Psilocybin Handbook for Women, an informative guide exploring psilocybin from a female perspective. Free goodies included."
+description: "The Psilocybin Handbook for Women. CHF 18.90, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6207381"
 price: 17.97
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Pink Runtz Feminized (RQS)"
-description: "Pink Runtz - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pink Runtz Feminized (RQS). CHF 26.30. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4203805"
 price: 25.0
 currency: "EUR"

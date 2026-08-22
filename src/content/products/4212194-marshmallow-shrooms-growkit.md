@@ -1,6 +1,6 @@
 ---
 title: "Marshmallow Shrooms Growkit"
-description: "Marshmallow Shrooms Growkit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Marshmallow Shrooms Growkit — all in one growkits. CHF 47.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4212194"
 price: 44.95
 currency: "EUR"

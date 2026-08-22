@@ -1,6 +1,6 @@
 ---
 title: "Golden Teacher Culture Ampoule"
-description: "Golden Teacher Culture Ampoule Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Golden Teacher Culture Ampoule. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "7112152"
 price: 16.95
 currency: "EUR"

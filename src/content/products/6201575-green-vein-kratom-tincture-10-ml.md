@@ -1,6 +1,6 @@
 ---
 title: "Green Vein Kratom Tincture - 10 ML"
-description: "Green Vein Kratom Tincture 10 ML. Concentrated kratom extract in liquid form. Free goodies with every order."
+description: "Green Vein Kratom Tincture - 10 ML — an extract, 10 ml. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6201575"
 price: 19.95
 currency: "EUR"

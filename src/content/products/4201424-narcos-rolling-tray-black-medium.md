@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Tray Black Medium"
-description: "Narcos - Rolling Tray Black Medium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Rolling Tray Black Medium. In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "4201424"
 price: 4.95
 currency: "EUR"

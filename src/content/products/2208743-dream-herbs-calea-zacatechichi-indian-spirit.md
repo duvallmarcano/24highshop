@@ -1,6 +1,6 @@
 ---
 title: "Dream Herbs (Calea zacatechichi) - Indian Spirit"
-description: "Dream Herbs (Calea zacatechichi) - Indian Spirit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Dream Herbs (Calea zacatechichi) - Indian Spirit. CHF 6.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2208743"
 price: 6.48
 currency: "EUR"

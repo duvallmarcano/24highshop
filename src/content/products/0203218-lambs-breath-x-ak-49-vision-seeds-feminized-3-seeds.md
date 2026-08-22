@@ -1,6 +1,6 @@
 ---
 title: "Lamb's Breath x AK-49 (Vision Seeds) feminized"
-description: "Lamb's Breath x AK-49 (Vision Seeds) feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lamb's Breath x AK-49 (Vision Seeds) feminized. CHF 26.30, in stock in Zürich and shipped the same working day."
 sku: "0203218"
 price: 25.0
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Shilajit Resin (Shilafit) - 30 Grams"
-description: "Shilajit Resin (Shilafit) - 30 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Shilajit Resin (Shilafit) - 30 Grams. In stock at CHF 42.05. Dispatched from Zürich in plain packaging."
 sku: "4205387"
 price: 39.95
 currency: "EUR"

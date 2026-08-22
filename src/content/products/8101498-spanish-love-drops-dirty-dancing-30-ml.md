@@ -1,6 +1,6 @@
 ---
 title: "Spanish Love Drops Dirty Dancing - 30 ml"
-description: "Spanish Love Drops Dirty Dancing - 30 ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Spanish Love Drops Dirty Dancing - 30 ml. CHF 15.75, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101498"
 price: 14.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mondo Albino A+ Spore Vial"
-description: "Mondo Albino A+ Spore Vial Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Albino A+ Spore Vial. In stock at CHF 18.90. Dispatched from Zürich in plain packaging."
 sku: "0212723"
 price: 17.95
 currency: "EUR"

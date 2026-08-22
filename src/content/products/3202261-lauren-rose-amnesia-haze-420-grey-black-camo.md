@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Amnesia Haze 420 Grey/Black Camo"
-description: "Lauren Rose - Amnesia Haze 420 Grey/Black Camo Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Amnesia Haze 420 Grey/Black Camo — 4:20 lifestyle. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "3202261"
 price: 29.95
 currency: "EUR"

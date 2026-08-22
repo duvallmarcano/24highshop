@@ -1,6 +1,6 @@
 ---
 title: "Long Socks Size (40-45) White/Green - Cannabis Leaves"
-description: "Long Socks Size (40-45) White/Green - Cannabis Leaves Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Long Socks Size (40-45) White/Green - Cannabis Leaves — 4:20 lifestyle. CHF 3.10. Back in stock shortly — shipped from Zürich when it lands."
 sku: "3203172"
 price: 2.95
 currency: "EUR"

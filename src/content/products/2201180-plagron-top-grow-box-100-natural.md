@@ -1,6 +1,6 @@
 ---
 title: "Plagron – Top Grow Box 100% NATURAL"
-description: "Plagron – Top Grow Box 100% NATURAL Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plagron – Top Grow Box 100% NATURAL. CHF 69.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2201180"
 price: 65.95
 currency: "EUR"

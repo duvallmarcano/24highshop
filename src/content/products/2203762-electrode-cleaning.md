@@ -1,6 +1,6 @@
 ---
 title: "Electrode Cleaning"
-description: "Electrode Cleaning Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Electrode Cleaning — grow supplies. CHF 2.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2203762"
 price: 2.5
 currency: "EUR"

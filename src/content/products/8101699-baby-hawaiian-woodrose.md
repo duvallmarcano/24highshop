@@ -1,6 +1,6 @@
 ---
 title: "Baby Hawaiian Woodrose"
-description: "Baby Hawaiian Woodrose Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Baby Hawaiian Woodrose — exotic seeds. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101699"
 price: 6.95
 currency: "EUR"

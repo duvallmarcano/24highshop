@@ -1,6 +1,6 @@
 ---
 title: "Smoking Green King Size"
-description: "Smoking Green King Size - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Smoking Green King Size — hemp. CHF 0.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101522"
 price: 0.9
 currency: "EUR"

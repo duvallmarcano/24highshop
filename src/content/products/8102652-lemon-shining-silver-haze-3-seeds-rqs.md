@@ -1,6 +1,6 @@
 ---
 title: "Lemon Shining Silver Haze (RQS)"
-description: "Lemon Shining Silver Haze - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lemon Shining Silver Haze (RQS). CHF 22.65, in stock in Zürich and shipped the same working day."
 sku: "8102652"
 price: 21.5
 currency: "EUR"

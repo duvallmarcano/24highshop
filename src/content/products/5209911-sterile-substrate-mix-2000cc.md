@@ -1,6 +1,6 @@
 ---
 title: "Sterile Substrate Mix - 2000cc"
-description: "Sterile Substrate Mix 2000cc ✓Nutrient-rich ✓Ready to use ✓Free goodies with every order at 24High"
+description: "Sterile Substrate Mix - 2000cc — sterile, 2000cc. CHF 14.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5209911"
 price: 13.95
 currency: "EUR"

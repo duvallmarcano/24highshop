@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog - Grinder Plastic Clear"
-description: "The Bulldog - Grinder Plastic Clear Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog - Grinder Plastic Clear. CHF 4.15, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4206276"
 price: 3.95
 currency: "EUR"

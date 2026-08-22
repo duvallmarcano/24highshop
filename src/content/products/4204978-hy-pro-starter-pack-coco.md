@@ -1,6 +1,6 @@
 ---
 title: "Hy-Pro Starter Pack Coco"
-description: "Hy-Pro Starter Pack Coco Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Hy-Pro Starter Pack Coco — grow supplies. CHF 34.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4204978"
 price: 32.95
 currency: "EUR"

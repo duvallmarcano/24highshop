@@ -1,6 +1,6 @@
 ---
 title: "Ashtray Round Glass | Psychedelic Series | Wonderland 2"
-description: "Ashtray Round Glass | Psychedelic Series | Wonderland 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ashtray Round Glass | Psychedelic Series | Wonderland 2 — glass. In stock at CHF 10.45. Dispatched from Zürich in plain packaging."
 sku: "4212435"
 price: 9.95
 currency: "EUR"

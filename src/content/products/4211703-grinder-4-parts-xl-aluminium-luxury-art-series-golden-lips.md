@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts XL | Aluminium | Luxury Art Series | Golden Lips"
-description: "Grinder 4-Parts XL | Aluminium | Luxury Art Series | Golden Lips Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts XL | Aluminium | Luxury Art Series | Golden Lips — aluminium. CHF 23.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4211703"
 price: 22.5
 currency: "EUR"

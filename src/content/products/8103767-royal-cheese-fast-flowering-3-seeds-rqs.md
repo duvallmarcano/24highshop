@@ -1,6 +1,6 @@
 ---
 title: "Royal Cheese Fast Flowering (RQS)"
-description: "Royal Cheese (Fast Flowering) - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Cheese Fast Flowering (RQS) — feminized seeds. CHF 21.05, in stock in Zürich and shipped the same working day."
 sku: "8103767"
 price: 20.0
 currency: "EUR"

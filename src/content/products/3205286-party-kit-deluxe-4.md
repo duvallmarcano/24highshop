@@ -1,6 +1,6 @@
 ---
 title: "Party Kit Deluxe 4"
-description: "Party Kit Deluxe 4 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Party Kit Deluxe 4 — sniff articles. CHF 15.75. Back in stock shortly — shipped from Zürich when it lands."
 sku: "3205286"
 price: 14.95
 currency: "EUR"

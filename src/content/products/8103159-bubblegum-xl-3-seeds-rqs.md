@@ -1,6 +1,6 @@
 ---
 title: "Bubblegum XL (RQS)"
-description: "Bubblegum XL - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bubblegum XL (RQS). CHF 24.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8103159"
 price: 23.0
 currency: "EUR"

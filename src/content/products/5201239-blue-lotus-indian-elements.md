@@ -1,6 +1,6 @@
 ---
 title: "Blue Lotus - Indian Elements"
-description: "Blue Lotus - Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Blue Lotus - Indian Elements — medicinal herbs. CHF 6.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5201239"
 price: 5.98
 currency: "EUR"

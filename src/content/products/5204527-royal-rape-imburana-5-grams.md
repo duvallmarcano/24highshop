@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Imburana"
-description: "Royal Rapé Imburana 10g - Authentic Herbal Blend. Free goodies with every order at 24High."
+description: "Royal Rapé Imburana — ceremonial herbs. In stock at CHF 14.20. Dispatched from Zürich in plain packaging."
 sku: "5204527"
 price: 13.5
 currency: "EUR"

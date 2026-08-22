@@ -1,6 +1,6 @@
 ---
 title: "Kleaner Bottle 30 ml - (Cleans oral cavities)"
-description: "Kleaner Mouth & body hygiene sprayhead - 30 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kleaner Bottle 30 ml - (Cleans oral cavities) — test for drugs. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8107312"
 price: 14.95
 currency: "EUR"

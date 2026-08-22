@@ -1,6 +1,6 @@
 ---
 title: "San Pedro Cutting Macrogona (Trichocereus) 25 - 35 cm"
-description: "San Pedro Cutting Macrogona (Trichocereus) 25 - 35 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro Cutting Macrogona (Trichocereus) 25 - 35 cm — mescaline cacti. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205407"
 price: 29.95
 currency: "EUR"

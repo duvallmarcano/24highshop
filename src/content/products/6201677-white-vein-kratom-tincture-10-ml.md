@@ -1,6 +1,6 @@
 ---
 title: "White Vein Kratom Tincture - 10 ML"
-description: "White Vein Kratom Tincture - 10 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "White Vein Kratom Tincture - 10 ML — an extract, 10 ml. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "6201677"
 price: 19.95
 currency: "EUR"

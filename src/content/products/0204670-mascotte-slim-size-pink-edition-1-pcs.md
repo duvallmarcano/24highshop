@@ -1,6 +1,6 @@
 ---
 title: "Mascot Slim Size Pink Edition"
-description: "Mascotte Slim size Pink Edition - 1 pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mascot Slim Size Pink Edition. CHF 1.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0204670"
 price: 1.0
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mazatapec Culture Ampoule"
-description: "Mazatapec Culture Ampoule Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mazatapec Culture Ampoule. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "7112345"
 price: 16.95
 currency: "EUR"

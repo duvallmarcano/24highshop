@@ -1,6 +1,6 @@
 ---
 title: "Party E Happy Caps"
-description: "Party E Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Party E Happy Caps — capsules. CHF 9.45, currently sold out. Restocked regularly in Zürich."
 sku: "9110141"
 price: 8.99
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "EZ Test for LSD"
-description: "EZ Test for LSD - 1 x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "EZ Test for LSD. CHF 3.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101162"
 price: 3.5
 currency: "EUR"

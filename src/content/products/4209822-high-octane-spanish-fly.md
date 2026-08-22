@@ -1,6 +1,6 @@
 ---
 title: "High Octane Spanish Fly"
-description: "High Octane Spanish Fly Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "High Octane Spanish Fly. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4209822"
 price: 18.95
 currency: "EUR"

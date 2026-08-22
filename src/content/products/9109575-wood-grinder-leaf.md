@@ -1,6 +1,6 @@
 ---
 title: "Wood grinder leaf"
-description: "Wood grinder leaf Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wood grinder leaf. CHF 7.30, in stock in Zürich and shipped the same working day."
 sku: "9109575"
 price: 6.95
 currency: "EUR"

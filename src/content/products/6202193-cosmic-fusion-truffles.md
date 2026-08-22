@@ -1,6 +1,6 @@
 ---
 title: "Cosmic Fusion Truffles"
-description: "Cosmic Fusion blends two strong varieties in 25g. Intense visuals and depth. Free goodie with every order."
+description: "Cosmic Fusion Truffles. CHF 22.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6202193"
 price: 20.95
 currency: "EUR"

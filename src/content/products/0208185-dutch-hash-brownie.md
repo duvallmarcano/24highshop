@@ -1,6 +1,6 @@
 ---
 title: "Dutch Hash Brownie"
-description: "Dutch Hash Brownie Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Dutch Hash Brownie — cannabis edibles. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "0208185"
 price: 4.95
 currency: "EUR"

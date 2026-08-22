@@ -1,6 +1,6 @@
 ---
 title: "Farmers Box XXL"
-description: "Farmers Box XXL Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Farmers Box XXL — all in one growkits. CHF 236.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9111271"
 price: 224.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mr. Stiff Stay Hard Caps - 5 pcs"
-description: "Mr. Stiff Stay Hard Caps - 5 pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mr. Stiff Stay Hard Caps - 5 pcs. CHF 30.45. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4201618"
 price: 28.95
 currency: "EUR"

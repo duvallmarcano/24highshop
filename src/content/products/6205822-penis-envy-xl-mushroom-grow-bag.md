@@ -1,6 +1,6 @@
 ---
 title: "Penis Envy XL Mushroom Grow Bag"
-description: "Grow Penis Envy mushrooms with this XL grow bag. High yield and free goodies with every order."
+description: "Penis Envy XL Mushroom Grow Bag — mystic fungi growkits. In stock at CHF 52.60. Dispatched from Zürich in plain packaging."
 sku: "6205822"
 price: 49.95
 currency: "EUR"

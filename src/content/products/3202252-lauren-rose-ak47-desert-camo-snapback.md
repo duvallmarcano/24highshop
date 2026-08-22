@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - AK47 Desert Camo Snapback"
-description: "Lauren Rose - AK47 Desert Camo Snapback Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - AK47 Desert Camo Snapback — 4:20 lifestyle. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "3202252"
 price: 29.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog – Grinder Plastic Pink"
-description: "The Bulldog – Grinder Plastic Pink Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog – Grinder Plastic Pink. CHF 4.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0207724"
 price: 3.95
 currency: "EUR"

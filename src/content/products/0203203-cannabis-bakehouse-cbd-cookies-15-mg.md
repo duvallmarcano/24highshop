@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Bakehouse CBD Cookies 15 MG"
-description: "Cannabis Bakehouse CBD Cookies 15 MG Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Bakehouse CBD Cookies 15 MG — cbd edibles. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203203"
 price: 6.95
 currency: "EUR"

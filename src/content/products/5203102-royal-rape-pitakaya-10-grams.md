@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Pitakaya - 10 Grams"
-description: "Discover Royal Rapé Pitakaya - 10g. Free goodies with every order. Shop now at 24High!"
+description: "Royal Rapé Pitakaya - 10 Grams, 10 grams. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "5203102"
 price: 24.95
 currency: "EUR"

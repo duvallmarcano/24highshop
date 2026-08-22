@@ -1,6 +1,6 @@
 ---
 title: "Mondo Grow Kit Amazonian"
-description: "Mondo Grow Kit Amazonian Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Grow Kit Amazonian — growkits mushroom. CHF 36.80, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0201817"
 price: 34.95
 currency: "EUR"

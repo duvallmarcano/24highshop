@@ -1,6 +1,6 @@
 ---
 title: "Sahbi Shisha Black 24 cm, One Hose"
-description: "Sahbi Shisha Black 24 cm, One Hose Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Sahbi Shisha Black 24 cm, One Hose — glass. CHF 10.45, currently sold out. Restocked regularly in Zürich."
 sku: "8107393"
 price: 9.95
 currency: "EUR"

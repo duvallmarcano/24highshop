@@ -1,6 +1,6 @@
 ---
 title: "Rolling Tray XXL | Psychedelic Series | Magic Mushrooms 2"
-description: "Rolling Tray XXL | Psychedelic Series | Magic Mushrooms 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rolling Tray XXL | Psychedelic Series | Magic Mushrooms 2. CHF 8.35, in stock in Zürich and shipped the same working day."
 sku: "4212546"
 price: 7.95
 currency: "EUR"

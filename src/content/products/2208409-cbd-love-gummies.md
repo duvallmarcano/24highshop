@@ -1,6 +1,6 @@
 ---
 title: "CBD Love Gummies"
-description: "CBD Love Gummies Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Love Gummies, 30 grams. In stock at CHF 10.45. Dispatched from Zürich in plain packaging."
 sku: "2208409"
 price: 9.95
 currency: "EUR"

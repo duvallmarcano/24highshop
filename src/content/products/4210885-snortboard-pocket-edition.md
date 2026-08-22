@@ -1,6 +1,6 @@
 ---
 title: "Snortboard - Pocket Edition"
-description: "Snortboard - Pocket Edition Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Snortboard - Pocket Edition — party goods. CHF 21.00, in stock in Zürich and shipped the same working day."
 sku: "4210885"
 price: 19.95
 currency: "EUR"

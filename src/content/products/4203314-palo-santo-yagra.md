@@ -1,6 +1,6 @@
 ---
 title: "Palo Santo - 8 sticks"
-description: "Palo Santo - Yagra Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Palo Santo - 8 sticks — ceremonial incense, smudge. CHF 5.80, currently sold out. Restocked regularly in Zürich."
 sku: "4203314"
 price: 5.5
 currency: "EUR"

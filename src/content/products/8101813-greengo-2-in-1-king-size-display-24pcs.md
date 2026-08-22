@@ -1,6 +1,6 @@
 ---
 title: "Greengo 2 in 1 King Size - Display 24pcs"
-description: "Greengo 2 in 1 King Size - Display 24pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Greengo 2 in 1 King Size - Display 24pcs. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101813"
 price: 29.95
 currency: "EUR"

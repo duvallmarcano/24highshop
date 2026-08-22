@@ -1,6 +1,6 @@
 ---
 title: "Precision Industrial Scale 12 Kg X 1 Gr."
-description: "Precision Industrial Scale 12 Kg X 1 Gr. Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Precision Industrial Scale 12 Kg X 1 Gr., 1 gram. In stock at CHF 494.70. Dispatched from Zürich in plain packaging."
 sku: "9108146"
 price: 469.95
 currency: "EUR"

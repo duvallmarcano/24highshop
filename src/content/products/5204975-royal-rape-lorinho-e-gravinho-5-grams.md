@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Lorinho e Gravinho"
-description: "Royal Rapé Lorinho e Cravinho is a traditional rapé blend with spicy botanical profile and vegetable ash. Inspired by Amazonian usage, available in 5 and 10g."
+description: "Royal Rapé Lorinho e Cravinho, 5 g — a spiced blend with vegetable ash. Botanical specimen, shipped from Zürich."
 sku: "5204975"
 price: 13.5
 currency: "EUR"

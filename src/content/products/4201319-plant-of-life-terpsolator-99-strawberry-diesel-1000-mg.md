@@ -1,6 +1,6 @@
 ---
 title: "Plant Of Life Terpsolator 99% Strawberry Diesel 1000 mg"
-description: "Plant Of Life Terpsolator 99% Strawberry Diesel 1000 mg Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plant Of Life Terpsolator 99% Strawberry Diesel 1000 mg — cbd crystals. CHF 7.30, in stock in Zürich and shipped the same working day."
 sku: "4201319"
 price: 6.95
 currency: "EUR"

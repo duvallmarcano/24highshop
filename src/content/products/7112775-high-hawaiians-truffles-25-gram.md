@@ -1,6 +1,6 @@
 ---
 title: "High Hawaiians Truffles"
-description: "Order the potent High Hawaiians Truffles at 24High. Enjoy visual hallucinations and deep self-reflection. Discreet shipping and fast delivery."
+description: "High Hawaiians Truffles. CHF 23.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112775"
 price: 21.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "ZiiiNG Energy - 1 Shot"
-description: "ZiiiNG Energy - 1 Shot Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "ZiiiNG Energy - 1 Shot. CHF 4.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4208625"
 price: 4.45
 currency: "EUR"

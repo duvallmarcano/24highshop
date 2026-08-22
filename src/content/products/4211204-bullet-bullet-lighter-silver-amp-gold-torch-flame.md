@@ -1,6 +1,6 @@
 ---
 title: "Bullet Bullet Lighter - Silver & Gold Torch Flame"
-description: "Bullet Bullet Lighter - Silver & Gold Torch Flame Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bullet Bullet Lighter - Silver & Gold Torch Flame. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4211204"
 price: 7.95
 currency: "EUR"

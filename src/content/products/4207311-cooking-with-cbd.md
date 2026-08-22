@@ -1,6 +1,6 @@
 ---
 title: "Cooking with CBD"
-description: "Cooking with CBD Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cooking with CBD — hemp. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4207311"
 price: 19.95
 currency: "EUR"

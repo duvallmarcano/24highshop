@@ -1,6 +1,6 @@
 ---
 title: "KRAID Cherry - Full Spectrum"
-description: "KRAID Cherry - Full Spectrum Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "KRAID Cherry - Full Spectrum — full-spectrum. CHF 6.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212399"
 price: 5.95
 currency: "EUR"

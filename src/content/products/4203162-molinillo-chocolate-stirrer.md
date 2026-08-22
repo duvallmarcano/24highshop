@@ -1,6 +1,6 @@
 ---
 title: "Molinillo - Chocolate stirrer"
-description: "Molinillo - Chocolate stirrer Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Molinillo - Chocolate stirrer. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4203162"
 price: 19.95
 currency: "EUR"

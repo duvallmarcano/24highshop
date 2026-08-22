@@ -1,6 +1,6 @@
 ---
 title: "Narcos Grinder"
-description: "Narcos Grinder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos Grinder. In stock at CHF 3.10. Dispatched from Zürich in plain packaging."
 sku: "3212100"
 price: 2.95
 currency: "EUR"

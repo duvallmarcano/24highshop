@@ -1,6 +1,6 @@
 ---
 title: "Brain Booster"
-description: "Brain Booster Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Brain Booster — medicinal mushrooms. CHF 36.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2206525"
 price: 34.95
 currency: "EUR"

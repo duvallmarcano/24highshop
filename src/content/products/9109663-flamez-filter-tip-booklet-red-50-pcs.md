@@ -1,6 +1,6 @@
 ---
 title: "Flamez Filter Tip Booklet Red 50 Pcs"
-description: "Flamez Filter Tip Booklet Red 50 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Flamez Filter Tip Booklet Red 50 Pcs — smoking accessories. CHF 14.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9109663"
 price: 13.95
 currency: "EUR"

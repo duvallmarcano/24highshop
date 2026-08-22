@@ -1,6 +1,6 @@
 ---
 title: "PH 4.01 Calibration"
-description: "PH 4.01 Calibration Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "PH 4.01 Calibration — grow supplies. In stock at CHF 2.65. Dispatched from Zürich in plain packaging."
 sku: "2203185"
 price: 2.5
 currency: "EUR"

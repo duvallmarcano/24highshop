@@ -1,6 +1,6 @@
 ---
 title: "Aluminium Rainbow Grinder 55mm 4parts"
-description: "Aluminium Rainbow Grinder 55mm 4parts Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Aluminium Rainbow Grinder 55mm 4parts. CHF 11.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205295"
 price: 10.95
 currency: "EUR"

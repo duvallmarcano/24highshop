@@ -1,6 +1,6 @@
 ---
 title: "Alcohol wipe"
-description: "Alcohol wipe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Alcohol wipe — grow supplies. CHF 0.25, in stock in Zürich and shipped the same working day."
 sku: "3205738"
 price: 0.25
 currency: "EUR"

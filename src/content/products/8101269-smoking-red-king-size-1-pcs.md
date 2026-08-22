@@ -1,6 +1,6 @@
 ---
 title: "Smoking Red King Size"
-description: "Smoking Red King Size - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Smoking Red King Size. CHF 0.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101269"
 price: 0.9
 currency: "EUR"

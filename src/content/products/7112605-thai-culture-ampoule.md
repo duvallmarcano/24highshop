@@ -1,6 +1,6 @@
 ---
 title: "Thai Culture Ampoule"
-description: "Thai Culture Ampoule Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Thai Culture Ampoule. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112605"
 price: 16.95
 currency: "EUR"

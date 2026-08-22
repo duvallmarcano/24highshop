@@ -1,6 +1,6 @@
 ---
 title: "B+ XL Mushroom Grow Bag"
-description: "Grow B+ mushrooms with this XL grow bag. High yield and free goodies with every order."
+description: "B+ XL Mushroom Grow Bag — mystic fungi growkits. CHF 52.60, in stock in Zürich and shipped the same working day."
 sku: "6206747"
 price: 49.95
 currency: "EUR"

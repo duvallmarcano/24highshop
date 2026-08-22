@@ -1,6 +1,6 @@
 ---
 title: "Vision Gorilla (Vision Seeds) Feminized"
-description: "Vision Gorilla (Vision Seeds) Feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vision Gorilla (Vision Seeds) Feminized. In stock at CHF 26.30. Dispatched from Zürich in plain packaging."
 sku: "0204977"
 price: 25.0
 currency: "EUR"

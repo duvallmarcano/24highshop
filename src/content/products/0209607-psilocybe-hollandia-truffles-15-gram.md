@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Hollandia Truffles"
-description: "Psilocybe Hollandia Truffles - 15 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Psilocybe Hollandia Truffles. CHF 16.80, in stock in Zürich and shipped the same working day."
 sku: "0209607"
 price: 15.95
 currency: "EUR"

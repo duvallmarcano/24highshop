@@ -1,6 +1,6 @@
 ---
 title: "Makilla - Gorilla Liquid Culture Syringe"
-description: "Grow with the Makilla - Gorilla Liquid Culture Syringe. ✓ Free goodies with every order!"
+description: "Makilla - Gorilla Liquid Culture Syringe — live liquid culture. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5203367"
 price: 18.95
 currency: "EUR"

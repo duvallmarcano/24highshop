@@ -1,6 +1,6 @@
 ---
 title: "Mimosa Automatic (RQS)"
-description: "Mimosa Automatic (RQS) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mimosa Automatic (RQS) — autoflower seeds. CHF 28.40, in stock in Zürich and shipped the same working day."
 sku: "5202999"
 price: 27.0
 currency: "EUR"

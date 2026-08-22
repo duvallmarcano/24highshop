@@ -1,6 +1,6 @@
 ---
 title: "Kanna Happy Calming Extract - 1g"
-description: "Kanna Happy Calming Extract - 1g Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna Happy Calming Extract - 1g. CHF 21.00, currently sold out. Restocked regularly in Zürich."
 sku: "0201510"
 price: 19.95
 currency: "EUR"

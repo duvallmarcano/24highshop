@@ -1,6 +1,6 @@
 ---
 title: "CBD Hemp Coffee Cup’s Box 10 pcs in box"
-description: "CBD Hemp Coffee Cup’s Box 10 pcs in box Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Hemp Coffee Cup’s Box 10 pcs in box — hemp. CHF 14.70, in stock in Zürich and shipped the same working day."
 sku: "1201192"
 price: 13.95
 currency: "EUR"

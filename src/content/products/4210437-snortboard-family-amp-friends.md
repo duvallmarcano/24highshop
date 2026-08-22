@@ -1,6 +1,6 @@
 ---
 title: "Snortboard - Family & Friends"
-description: "Snortboard - Family & Friends Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Snortboard - Family & Friends — stainless steel. In stock at CHF 57.85. Dispatched from Zürich in plain packaging."
 sku: "4210437"
 price: 54.95
 currency: "EUR"

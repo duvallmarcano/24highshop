@@ -1,6 +1,6 @@
 ---
 title: "Stash Keychain Coloured"
-description: "Stash Keychain Coloured Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Stash Keychain Coloured. In stock at CHF 4.15. Dispatched from Zürich in plain packaging."
 sku: "0210796"
 price: 3.95
 currency: "EUR"

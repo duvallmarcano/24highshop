@@ -1,6 +1,6 @@
 ---
 title: "Albino A+ Mushroom Spawn"
-description: "Buy Albino A+ Mushroom Spawn fast at 24High. ✓Free goodies with every order ✓Fast delivery ✓Premium quality."
+description: "Albino A+ Mushroom Spawn — growkit specials. CHF 26.25, currently sold out. Restocked regularly in Zürich."
 sku: "5204235"
 price: 24.95
 currency: "EUR"

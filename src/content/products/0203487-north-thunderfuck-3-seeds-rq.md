@@ -1,6 +1,6 @@
 ---
 title: "North Thunderfuck (RQ)"
-description: "North Thunderfuck - 3 Seeds (RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "North Thunderfuck (RQ) — feminized seeds. CHF 28.40, in stock in Zürich and shipped the same working day."
 sku: "0203487"
 price: 27.0
 currency: "EUR"

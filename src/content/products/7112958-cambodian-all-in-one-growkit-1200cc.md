@@ -1,6 +1,6 @@
 ---
 title: "Cambodian All in one Growkit"
-description: "Cambodian All in one Growkit - 1200cc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cambodian All in one Growkit. In stock at CHF 36.80. Dispatched from Zürich in plain packaging."
 sku: "7112958"
 price: 34.95
 currency: "EUR"

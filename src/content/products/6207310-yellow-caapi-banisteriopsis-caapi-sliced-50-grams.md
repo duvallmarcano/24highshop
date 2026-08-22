@@ -1,6 +1,6 @@
 ---
 title: "Yellow Caapi (Banisteriopsis caapi) Sliced – 50 grams"
-description: "Discover premium Yellow Caapi at 24High. Carefully packed in 50g bags and free goodies with every order."
+description: "Yellow Caapi (Banisteriopsis caapi) Sliced – 50 grams — hallucinating herbs. CHF 13.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6207310"
 price: 12.95
 currency: "EUR"

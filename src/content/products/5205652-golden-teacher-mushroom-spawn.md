@@ -1,6 +1,6 @@
 ---
 title: "Golden Teacher Mushroom Spawn"
-description: "✓ Golden Teacher mushroom spawn ✓ Easy home growing ✓ Free goodies with every order ✓ Discreet shipping by 24High"
+description: "Golden Teacher Mushroom Spawn — growkit specials. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "5205652"
 price: 24.95
 currency: "EUR"

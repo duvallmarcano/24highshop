@@ -1,6 +1,6 @@
 ---
 title: "Maeng Da Kratom Gold – Mitragyna speciosa"
-description: "Maeng Da Kratom Gold – Mitragyna Speciosa – 100 g Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Maeng Da Kratom Gold – Mitragyna speciosa. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "6205646"
 price: 18.95
 currency: "EUR"

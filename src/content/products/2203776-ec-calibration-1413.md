@@ -1,6 +1,6 @@
 ---
 title: "EC Calibration 1.413"
-description: "EC Calibration 1.413 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "EC Calibration 1.413 — grow supplies. CHF 2.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "2203776"
 price: 2.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mexican Tarragon Tagetes Lucida - 10x Extract"
-description: "Mexican Tarragon Tagetes Lucida - 10x Extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mexican Tarragon Tagetes Lucida - 10x Extract — hallucinating herbs. CHF 10.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0204916"
 price: 9.5
 currency: "EUR"

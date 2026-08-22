@@ -1,6 +1,6 @@
 ---
 title: "San Pedro Cutting Bridgesii (Trichocereus) 25 - 35 CM"
-description: "San Pedro Cutting Bridgesii (Trichocereus) 25 - 35 CM Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro Cutting Bridgesii (Trichocereus) 25 - 35 CM — mescaline cacti. CHF 31.55, currently sold out. Restocked regularly in Zürich."
 sku: "1208518"
 price: 29.95
 currency: "EUR"

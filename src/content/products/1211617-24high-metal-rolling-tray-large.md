@@ -1,6 +1,6 @@
 ---
 title: "24HIGH Metal Rolling Tray Large"
-description: "24HIGH Metal Rolling Tray Large Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "24HIGH Metal Rolling Tray Large. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1211617"
 price: 4.95
 currency: "EUR"

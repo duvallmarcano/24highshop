@@ -1,6 +1,6 @@
 ---
 title: "Supreme Lemon (Vision Seeds) Feminized"
-description: "Supreme Lemon (Vision Seeds) Feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Supreme Lemon (Vision Seeds) Feminized. CHF 23.70, in stock in Zürich and shipped the same working day."
 sku: "0203959"
 price: 22.5
 currency: "EUR"

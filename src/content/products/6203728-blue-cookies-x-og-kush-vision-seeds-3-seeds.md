@@ -1,6 +1,6 @@
 ---
 title: "Blue Cookies x OG Kush (Vision Seeds)"
-description: "Blue Cookies x OG Kush seeds. Sweet and strong with OG influence. Free goodie with every order."
+description: "Blue Cookies x OG Kush (Vision Seeds) — feminised. CHF 26.30, in stock in Zürich and shipped the same working day."
 sku: "6203728"
 price: 25.0
 currency: "EUR"

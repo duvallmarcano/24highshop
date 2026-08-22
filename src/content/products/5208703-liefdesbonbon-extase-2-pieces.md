@@ -1,6 +1,6 @@
 ---
 title: "Liefdesbonbon - Extase 2 pieces"
-description: "Love Bonbons 2 pcs ✓Fast acting ✓Tropical flavor ✓Compact ✓Free goodies with every order at 24High"
+description: "Liefdesbonbon - Extase 2 pieces, 2 pieces. In stock at CHF 9.95. Dispatched from Zürich in plain packaging."
 sku: "5208703"
 price: 9.45
 currency: "EUR"

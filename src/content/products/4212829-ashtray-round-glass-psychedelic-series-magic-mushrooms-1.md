@@ -1,6 +1,6 @@
 ---
 title: "Ashtray Round Glass | Psychedelic Series | Magic Mushrooms 1"
-description: "Ashtray Round Glass | Psychedelic Series | Magic Mushrooms 1 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ashtray Round Glass | Psychedelic Series | Magic Mushrooms 1 — glass. CHF 10.45, in stock in Zürich and shipped the same working day."
 sku: "4212829"
 price: 9.95
 currency: "EUR"

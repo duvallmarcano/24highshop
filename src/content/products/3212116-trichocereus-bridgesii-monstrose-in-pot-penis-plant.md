@@ -1,6 +1,6 @@
 ---
 title: "Trichocereus Bridgesii Monstrose in pot (Penis Plant)"
-description: "Trichocereus Bridgesii Monstrose in pot (Penis Plant) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Trichocereus Bridgesii Monstrose in pot (Penis Plant) — mescaline cacti. CHF 31.55. Back in stock shortly — shipped from Zürich when it lands."
 sku: "3212116"
 price: 29.95
 currency: "EUR"

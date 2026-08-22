@@ -1,6 +1,6 @@
 ---
 title: "Wise Rootz - Full Focus"
-description: "Wise Rootz - Full Focus Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wise Rootz - Full Focus. CHF 52.60, currently sold out. Restocked regularly in Zürich."
 sku: "3205382"
 price: 49.95
 currency: "EUR"

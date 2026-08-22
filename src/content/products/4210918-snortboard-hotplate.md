@@ -1,6 +1,6 @@
 ---
 title: "Snortboard - Hotplate"
-description: "Snortboard - Hotplate Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Snortboard - Hotplate — sniff articles. In stock at CHF 52.60. Dispatched from Zürich in plain packaging."
 sku: "4210918"
 price: 49.95
 currency: "EUR"

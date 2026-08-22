@@ -1,6 +1,6 @@
 ---
 title: "Cones Super Sized"
-description: "Cones Super Sized Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cones Super Sized. CHF 1.30, in stock in Zürich and shipped the same working day."
 sku: "9111633"
 price: 1.25
 currency: "EUR"

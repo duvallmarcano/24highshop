@@ -1,6 +1,6 @@
 ---
 title: "Ecuadorian All in one Growkit"
-description: "Ecuadorian All in one Growkit - 1200 cc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ecuadorian All in one Growkit — all-in-one. CHF 36.80, in stock in Zürich and shipped the same working day."
 sku: "7112355"
 price: 34.95
 currency: "EUR"

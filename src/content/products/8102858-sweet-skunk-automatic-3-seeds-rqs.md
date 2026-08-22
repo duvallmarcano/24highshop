@@ -1,6 +1,6 @@
 ---
 title: "Sweet Skunk Automatic (RQS)"
-description: "Sweet Skunk Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Sweet Skunk Automatic (RQS) — autoflowering. CHF 24.20, in stock in Zürich and shipped the same working day."
 sku: "8102858"
 price: 23.0
 currency: "EUR"

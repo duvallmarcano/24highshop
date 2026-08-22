@@ -1,6 +1,6 @@
 ---
 title: "7-OH & Kratom Mouth Spray - Tropical Flavor"
-description: "7-OH & Kratom Spray? ✓Fast-acting ✓Tropical taste ✓Pocket size ✓Free goodies with every order at 24High"
+description: "7-OH & Kratom Mouth Spray - Tropical Flavor — happy caps e. In stock at CHF 25.80. Dispatched from Zürich in plain packaging."
 sku: "5207564"
 price: 24.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Passion Flower 1:1 Extract - Passiflora Incarnata"
-description: "Passion Flower 1:1 Extract - Passiflora Incarnata Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Passion Flower 1:1 Extract - Passiflora Incarnata. CHF 15.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0207365"
 price: 14.5
 currency: "EUR"

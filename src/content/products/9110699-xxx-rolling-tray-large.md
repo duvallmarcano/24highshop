@@ -1,6 +1,6 @@
 ---
 title: "XXX Rolling Tray Large"
-description: "XXX Rolling Tray Large Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "XXX Rolling Tray Large — smoking accessories. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9110699"
 price: 4.95
 currency: "EUR"

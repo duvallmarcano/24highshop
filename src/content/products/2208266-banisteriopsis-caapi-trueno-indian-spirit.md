@@ -1,6 +1,6 @@
 ---
 title: "Banisteriopsis Caapi (Trueno) - Indian Spirit"
-description: "Banisteriopsis Caapi (Trueno) - Indian Spirit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Banisteriopsis Caapi (Trueno) - Indian Spirit, 50 grams. CHF 13.65. Back in stock shortly — shipped from Zürich when it lands."
 sku: "2208266"
 price: 12.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "CBD Lollypop - Pineapple"
-description: "CBD Lollypop - Pineapple Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Lollypop - Pineapple — hemp. CHF 2.10, in stock in Zürich and shipped the same working day."
 sku: "1207208"
 price: 1.99
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Cacao"
-description: "Royal Rapé Cacao is a traditionally inspired rapé blend from the Amazon, linked to Huni Kuin traditions. Botanical product with cultural character, available in several varieties."
+description: "Royal Rapé Cacao, 5 g — cacao worked into an Amazonian rapé blend. Botanical specimen, plain packaging from Zürich."
 sku: "5204985"
 price: 13.5
 currency: "EUR"

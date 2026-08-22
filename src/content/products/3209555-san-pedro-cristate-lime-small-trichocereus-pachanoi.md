@@ -1,6 +1,6 @@
 ---
 title: "San Pedro Cristate Lime small - Trichocereus Pachanoi"
-description: "San Pedro Cristate Lime small - Trichocereus Pachanoi Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro Cristate Lime small - Trichocereus Pachanoi — mescaline cacti. CHF 26.25, currently sold out. Restocked regularly in Zürich."
 sku: "3209555"
 price: 24.95
 currency: "EUR"

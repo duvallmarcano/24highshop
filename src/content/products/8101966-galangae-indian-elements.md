@@ -1,6 +1,6 @@
 ---
 title: "Galangae Indian Elements"
-description: "Galangae Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Galangae Indian Elements — medicinal herbs. CHF 6.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101966"
 price: 5.95
 currency: "EUR"

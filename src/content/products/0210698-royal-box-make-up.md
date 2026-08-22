@@ -1,6 +1,6 @@
 ---
 title: "Royal Box - Make up"
-description: "Royal Box - Make up Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Box - Make up — party goods. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0210698"
 price: 18.95
 currency: "EUR"

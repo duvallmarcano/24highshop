@@ -1,6 +1,6 @@
 ---
 title: "Purplematic CBD - (RQS)"
-description: "Purplematic CBD - 5 Seeds (RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Purplematic CBD - (RQS) — autoflowering. CHF 36.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205404"
 price: 34.5
 currency: "EUR"

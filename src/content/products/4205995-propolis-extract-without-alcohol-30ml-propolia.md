@@ -1,6 +1,6 @@
 ---
 title: "Propolis Extract Without Alcohol 30ml - Propolia"
-description: "Propolis Extract Without Alcohol 30ml - Propolia Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Propolis Extract Without Alcohol 30ml - Propolia — an extract. CHF 16.80. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4205995"
 price: 15.95
 currency: "EUR"

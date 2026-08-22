@@ -1,6 +1,6 @@
 ---
 title: "CBD Honey"
-description: "Want to order CBD Honey? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "CBD Honey — cbd edibles. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0206370"
 price: 14.95
 currency: "EUR"

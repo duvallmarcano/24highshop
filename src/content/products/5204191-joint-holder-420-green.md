@@ -1,6 +1,6 @@
 ---
 title: "Joint Holder 420 Green"
-description: "Discover the Green 420 Joint Holder for discreet carrying. Free goodies with every order. Shop now!"
+description: "Joint Holder 420 Green — stash & storage boxes. CHF 1.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5204191"
 price: 1.75
 currency: "EUR"

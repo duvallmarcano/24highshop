@@ -1,6 +1,6 @@
 ---
 title: "Click-Clack Box (Ø 5.5 cm) Buds + Leaves"
-description: "Click-Clack Box (Ø 5.5 cm) Buds + Leaves Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Click-Clack Box (Ø 5.5 cm) Buds + Leaves — stash & storage boxes. CHF 2.65, in stock in Zürich and shipped the same working day."
 sku: "8106355"
 price: 2.5
 currency: "EUR"

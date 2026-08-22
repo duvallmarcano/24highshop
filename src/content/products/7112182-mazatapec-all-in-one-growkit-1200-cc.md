@@ -1,6 +1,6 @@
 ---
 title: "Mazatapec, All in one Growkit"
-description: "Mazatapec All in one Growkit - 1200 cc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mazatapec, All in one Growkit — all in one growkits. CHF 36.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112182"
 price: 34.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Devil's Claw - Harpagophytum procumbens"
-description: "Discover Devil's Claw – Harpagophytum procumbens at 24High. High quality, fast delivery and free goodies with every order."
+description: "Devil's Claw - Harpagophytum procumbens — dream herbs. In stock at CHF 7.30. Dispatched from Zürich in plain packaging."
 sku: "5211637"
 price: 6.95
 currency: "EUR"

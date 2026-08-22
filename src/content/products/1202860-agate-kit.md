@@ -1,6 +1,6 @@
 ---
 title: "Agate kit"
-description: "Agate kit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Agate kit — sniff articles. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1202860"
 price: 19.95
 currency: "EUR"

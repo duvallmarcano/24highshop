@@ -1,6 +1,6 @@
 ---
 title: "Cheese (Vision Seeds)"
-description: "Cheese (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cheese (Vision Seeds). In stock at CHF 18.95. Dispatched from Zürich in plain packaging."
 sku: "0203233"
 price: 18.0
 currency: "EUR"

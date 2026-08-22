@@ -1,6 +1,6 @@
 ---
 title: "O.G. Kush (RQS)"
-description: "O.G. Kush - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "O.G. Kush (RQS) — feminized seeds. CHF 22.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8103339"
 price: 21.5
 currency: "EUR"

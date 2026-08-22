@@ -1,6 +1,6 @@
 ---
 title: "Tightvac 0,12 liter Mini Clear Red Cap"
-description: "Tightvac 0,12 liter Mini Clear Red Cap Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tightvac 0,12 liter Mini Clear Red Cap — stash & storage boxes. In stock at CHF 7.30. Dispatched from Zürich in plain packaging."
 sku: "9110721"
 price: 6.95
 currency: "EUR"

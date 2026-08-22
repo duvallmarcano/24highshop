@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Paper KS Slim Brown Edition - Display 50pcs"
-description: "Narcos - Rolling Paper KS Slim Brown Edition - Display 50pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Rolling Paper KS Slim Brown Edition - Display 50pcs. CHF 41.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4202572"
 price: 38.95
 currency: "EUR"

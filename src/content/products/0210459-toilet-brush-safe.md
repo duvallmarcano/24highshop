@@ -1,6 +1,6 @@
 ---
 title: "Toilet Brush-Safe"
-description: "Toilet Brush-Safe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Toilet Brush-Safe — stash & storage boxes. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "0210459"
 price: 22.5
 currency: "EUR"

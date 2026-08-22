@@ -1,6 +1,6 @@
 ---
 title: "Titan F1"
-description: "Want to order Titan F1 3 Seeds? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Titan F1 — autoflowering. In stock at CHF 42.05. Dispatched from Zürich in plain packaging."
 sku: "4207507"
 price: 39.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Pineapple Fruit x Alien Rock (Vision Seeds)"
-description: "Pineapple Fruit x Alien Rock seeds by Vision Seeds. Tropical flavor and strong strain. Free goodie with every order."
+description: "Pineapple Fruit x Alien Rock (Vision Seeds) — feminised. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "6203769"
 price: 22.5
 currency: "EUR"

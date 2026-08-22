@@ -1,6 +1,6 @@
 ---
 title: "Jack Frost XL Mushroom Grow Bag"
-description: "Jack Frost XL Mushroom Grow Bag Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Jack Frost XL Mushroom Grow Bag — mystic fungi growkits. CHF 52.60. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4204840"
 price: 49.95
 currency: "EUR"

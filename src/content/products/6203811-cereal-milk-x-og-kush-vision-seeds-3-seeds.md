@@ -1,6 +1,6 @@
 ---
 title: "Cereal Milk x OG Kush (Vision Seeds)"
-description: "Cereal Milk x OG Kush seeds. Sweet and strong with OG influence. Free goodie with every order."
+description: "Cereal Milk x OG Kush (Vision Seeds) — feminised. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "6203811"
 price: 22.5
 currency: "EUR"

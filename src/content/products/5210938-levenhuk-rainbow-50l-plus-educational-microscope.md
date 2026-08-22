@@ -1,6 +1,6 @@
 ---
 title: "Levenhuk Rainbow 50L PLUS Educational Microscope"
-description: "Explore the microscopic world with the Levenhuk Rainbow 50L PLUS Microscope. Powerful, durable, and easy to use. ✓Adjustable LED lighting ✓High magnification ✓Ideal for study or hobby ✓Free goodies with every order at 24High."
+description: "Levenhuk Rainbow 50L PLUS Educational Microscope, 50L. CHF 199.95, in stock in Zürich and shipped the same working day."
 sku: "5210938"
 price: 189.95
 currency: "EUR"

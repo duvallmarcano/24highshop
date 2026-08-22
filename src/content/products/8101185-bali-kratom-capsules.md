@@ -1,6 +1,6 @@
 ---
 title: "Bali Kratom capsules"
-description: "Bali Kratom capsules Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bali Kratom capsules — capsules. CHF 21.00, in stock in Zürich and shipped the same working day."
 sku: "8101185"
 price: 19.95
 currency: "EUR"

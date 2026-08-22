@@ -1,6 +1,6 @@
 ---
 title: "The Psychedelic Handbook"
-description: "The Psychedelic Handbook Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Psychedelic Handbook. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "2210129"
 price: 19.95
 currency: "EUR"

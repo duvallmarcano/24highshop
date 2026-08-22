@@ -1,6 +1,6 @@
 ---
 title: "Opium Poppy (Papaver somniferum) 5 Gram"
-description: "Opium Poppy (Papaver somniferum) 5 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Opium Poppy (Papaver somniferum) 5 Gram — exotic seeds. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "0201212"
 price: 5.95
 currency: "EUR"

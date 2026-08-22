@@ -1,6 +1,6 @@
 ---
 title: "Ultimate X"
-description: "Want to order Ultimate X? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Ultimate X — capsules. CHF 9.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101773"
 price: 8.95
 currency: "EUR"

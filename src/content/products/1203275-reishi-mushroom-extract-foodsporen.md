@@ -1,6 +1,6 @@
 ---
 title: "Reishi Mushroom Extract (Foodsporen)"
-description: "Reishi Mushroom Extract (Foodsporen) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Reishi Mushroom Extract (Foodsporen) — heart and blood vessels. CHF 31.05, in stock in Zürich and shipped the same working day."
 sku: "1203275"
 price: 29.5
 currency: "EUR"

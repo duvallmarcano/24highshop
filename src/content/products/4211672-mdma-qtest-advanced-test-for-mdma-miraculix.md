@@ -1,6 +1,6 @@
 ---
 title: "MDMA - QTEST (Advanced) Test for MDMA (Miraculix)"
-description: "MDMA - QTEST (Advanced) Test for MDMA (Miraculix) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "MDMA - QTEST (Advanced) Test for MDMA (Miraculix). CHF 27.30, currently sold out. Restocked regularly in Zürich."
 sku: "4211672"
 price: 25.95
 currency: "EUR"

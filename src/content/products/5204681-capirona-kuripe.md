@@ -1,6 +1,6 @@
 ---
 title: "Capirona Kuripe"
-description: "Capirona Kuripe for rapé, handmade sustainable wood. Ideal self-application. ✓Free goodies with every order!"
+description: "Capirona Kuripe — ceremonial accessories. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5204681"
 price: 19.95
 currency: "EUR"

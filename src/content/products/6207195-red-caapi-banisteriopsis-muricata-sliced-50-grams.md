@@ -1,6 +1,6 @@
 ---
 title: "Red Caapi (Banisteriopsis muricata) Sliced – 50 grams"
-description: "Discover premium Red Caapi at 24High. Carefully packed in 50g bags and free goodies with every order."
+description: "Red Caapi (Banisteriopsis muricata) Sliced – 50 grams — hallucinating herbs. CHF 13.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6207195"
 price: 12.95
 currency: "EUR"

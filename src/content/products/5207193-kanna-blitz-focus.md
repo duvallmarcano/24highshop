@@ -1,6 +1,6 @@
 ---
 title: "Kanna Blitz Focus"
-description: "Kanna Blitz Focus? ✓More energy & focus ✓Natural effect ✓Discreet shipping ✓Free goodies with every order at 24High"
+description: "Kanna Blitz Focus — hemp. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5207193"
 price: 22.5
 currency: "EUR"

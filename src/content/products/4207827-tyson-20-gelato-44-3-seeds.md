@@ -1,6 +1,6 @@
 ---
 title: "Tyson 2.0 Gelato 44"
-description: "Tyson 2.0 Gelato 44 - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tyson 2.0 Gelato 44 — feminized seeds. CHF 32.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4207827"
 price: 31.05
 currency: "EUR"

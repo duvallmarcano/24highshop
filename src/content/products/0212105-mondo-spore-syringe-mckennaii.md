@@ -1,6 +1,6 @@
 ---
 title: "Mondo Spore Syringe McKennaii"
-description: "Mondo Spore Syringe McKennaii Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Spore Syringe McKennaii — a sterile spore syringe. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0212105"
 price: 16.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Sterile Inoculation Loop – 10 Pieces"
-description: "Sterile Inoculation Loop – 10 pcs | ✓ For inoculation work | ✓ Safe & hygienic | ✓ Free goodies with every order"
+description: "Sterile Inoculation Loop – 10 Pieces — sterile, 10 Pieces. In stock at CHF 2.65. Dispatched from Zürich in plain packaging."
 sku: "5209179"
 price: 2.5
 currency: "EUR"

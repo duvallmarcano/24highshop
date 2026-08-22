@@ -1,6 +1,6 @@
 ---
 title: "Vision Gelato Auto (Vision Seeds)"
-description: "Vision Gelato Auto (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vision Gelato Auto (Vision Seeds) — autoflowering. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0204953"
 price: 22.5
 currency: "EUR"

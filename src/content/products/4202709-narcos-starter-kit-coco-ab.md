@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Starter Kit Coco A+B"
-description: "Narcos - Starter Kit Coco A+B Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Starter Kit Coco A+B — grow supplies. CHF 42.05, in stock in Zürich and shipped the same working day."
 sku: "4202709"
 price: 39.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "V-Fire Easy Torch Freestyle Rubber"
-description: "V-Fire Easy Torch Freestyle Rubber Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "V-Fire Easy Torch Freestyle Rubber. CHF 5.20. Back in stock shortly — shipped from Zürich when it lands."
 sku: "0205490"
 price: 4.95
 currency: "EUR"

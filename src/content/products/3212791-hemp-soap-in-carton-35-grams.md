@@ -1,6 +1,6 @@
 ---
 title: "Hemp Soap In Carton 35 Grams"
-description: "Hemp Soap In Carton 35 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Hemp Soap In Carton 35 Grams — hemp, 35 grams. In stock at CHF 6.25. Dispatched from Zürich in plain packaging."
 sku: "3212791"
 price: 5.95
 currency: "EUR"

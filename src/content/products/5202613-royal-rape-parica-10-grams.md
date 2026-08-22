@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Parica - 10 Grams"
-description: "Royal Rapé Parica is a traditional rapé blend with Parica and vegetable ash, inspired by Huni Kuin traditions from the Amazon. Available in 10g with authentic character."
+description: "Royal Rapé Parica, 10 g — Parica with vegetable ash, in the Huni Kuin manner. Shipped from Zürich, plain packaging."
 sku: "5202613"
 price: 24.95
 currency: "EUR"

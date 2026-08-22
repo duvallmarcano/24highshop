@@ -1,6 +1,6 @@
 ---
 title: "Mimosa Auto (Vision Seeds)"
-description: "Fast autoflower with fresh citrus aromas, up to 21% THC and harvest in 9–10 weeks. Suitable for indoor and outdoor growing."
+description: "Mimosa Auto, 3 seeds — citrus-forward autoflower, up to 21% THC, ready in 9–10 weeks. Indoor or out. Shipped from Zürich."
 sku: "6203765"
 price: 17.5
 currency: "EUR"

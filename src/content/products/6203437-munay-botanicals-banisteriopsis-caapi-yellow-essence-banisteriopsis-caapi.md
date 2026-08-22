@@ -1,6 +1,6 @@
 ---
 title: "Munay Botanicals Banisteriopsis caapi Yellow Essence - Banisteriopsis caapi"
-description: "Banisteriopsis caapi Yellow Essence by Munay. Powerful extract. Free goodie with every order."
+description: "Munay Botanicals Banisteriopsis caapi Yellow Essence - Banisteriopsis caapi — an extract. In stock at CHF 18.90. Dispatched from Zürich in plain packaging."
 sku: "6203437"
 price: 17.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Gary Payton (Vision Seeds)"
-description: "Gary Payton seeds by Vision Seeds. Popular and powerful strain. Free goodie with every order."
+description: "Gary Payton (Vision Seeds) — feminised. CHF 18.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6203658"
 price: 17.5
 currency: "EUR"

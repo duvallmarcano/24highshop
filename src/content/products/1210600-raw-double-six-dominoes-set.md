@@ -1,6 +1,6 @@
 ---
 title: "RAW Double Six Dominoes Set"
-description: "RAW Double Six Dominoes Set Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "RAW Double Six Dominoes Set — party goods. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1210600"
 price: 29.95
 currency: "EUR"

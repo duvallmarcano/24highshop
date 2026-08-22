@@ -1,6 +1,6 @@
 ---
 title: "Glass Bong 27 cm Double Chillum"
-description: "Glass Bong 27 cm Double Chillum Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Glass Bong 27 cm Double Chillum — glass. CHF 16.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205632"
 price: 15.95
 currency: "EUR"

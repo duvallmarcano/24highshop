@@ -1,6 +1,6 @@
 ---
 title: "Mondo Treasure Coast Spore Vial"
-description: "Mondo Treasure Coast Spore Vial Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Treasure Coast Spore Vial. CHF 18.90. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2204505"
 price: 17.95
 currency: "EUR"

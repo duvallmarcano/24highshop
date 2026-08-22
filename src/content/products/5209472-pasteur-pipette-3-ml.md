@@ -1,6 +1,6 @@
 ---
 title: "Pasteur Pipette - 3 ML"
-description: "Pasteur Pipette 3ml ✓Precise & clean ✓Easy to use ✓Free goodies with every order at 24High"
+description: "Pasteur Pipette - 3 ML, 3 ml. In stock at CHF 0.15. Dispatched from Zürich in plain packaging."
 sku: "5209472"
 price: 0.15
 currency: "EUR"

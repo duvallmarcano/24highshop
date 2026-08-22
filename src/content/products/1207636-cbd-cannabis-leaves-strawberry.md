@@ -1,6 +1,6 @@
 ---
 title: "CBD Cannabis Leaves - Strawberry"
-description: "CBD Cannabis Leaves - Strawberry Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Cannabis Leaves - Strawberry — hemp, 30 grams. In stock at CHF 8.90. Dispatched from Zürich in plain packaging."
 sku: "1207636"
 price: 8.45
 currency: "EUR"

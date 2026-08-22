@@ -1,6 +1,6 @@
 ---
 title: "Sticky Queen Auto (RQS)"
-description: "Sticky Queen Auto (RQS) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Sticky Queen Auto (RQS) — autoflower seeds. In stock at CHF 32.10. Dispatched from Zürich in plain packaging."
 sku: "5202776"
 price: 30.5
 currency: "EUR"

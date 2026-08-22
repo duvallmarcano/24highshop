@@ -1,6 +1,6 @@
 ---
 title: "iGrowcan"
-description: "Buy the iGrowcan - Northern Light Automatic at 24High.nl ✔️ Fast delivery ✔️ Discreet shipping | Order online now"
+description: "iGrowcan, 15cm. CHF 26.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1203615"
 price: 24.95
 currency: "EUR"

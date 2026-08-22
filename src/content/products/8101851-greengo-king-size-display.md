@@ -1,6 +1,6 @@
 ---
 title: "Greengo King Size - Display"
-description: "Greengo King Size - Display Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Greengo King Size - Display. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "8101851"
 price: 29.95
 currency: "EUR"

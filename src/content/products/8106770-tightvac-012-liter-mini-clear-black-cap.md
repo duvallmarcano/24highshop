@@ -1,6 +1,6 @@
 ---
 title: "Tightvac 0,12 liter mini Clear Black cap"
-description: "Tightvac 0,12 liter mini Clear Black cap Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tightvac 0,12 liter mini Clear Black cap — stash & storage boxes. In stock at CHF 7.30. Dispatched from Zürich in plain packaging."
 sku: "8106770"
 price: 6.95
 currency: "EUR"

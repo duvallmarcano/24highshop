@@ -1,6 +1,6 @@
 ---
 title: "Libido Gold"
-description: "Want to order Libido Gold? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Libido Gold. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "4209455"
 price: 29.95
 currency: "EUR"

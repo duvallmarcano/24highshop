@@ -1,6 +1,6 @@
 ---
 title: "Gelato 420 T-shirt - Black"
-description: "Gelato 420 T-shirt - Black - Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Gelato 420 T-shirt - Black — 4:20 lifestyle. CHF 26.25, in stock in Zürich and shipped the same working day."
 sku: "4207434"
 price: 24.95
 currency: "EUR"

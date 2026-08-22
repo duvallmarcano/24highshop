@@ -1,6 +1,6 @@
 ---
 title: "Portable Fog Cannon For Neutralising Odour"
-description: "Portable Fog Cannon For Neutralising Odour Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Portable Fog Cannon For Neutralising Odour — grow supplies. CHF 65.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2208927"
 price: 62.5
 currency: "EUR"

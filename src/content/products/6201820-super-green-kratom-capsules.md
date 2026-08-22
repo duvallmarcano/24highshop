@@ -1,6 +1,6 @@
 ---
 title: "Super Green Kratom Capsules"
-description: "Premium Green Kratom Capsules. Easy to use with consistent dosage. Free goodies with every order."
+description: "Super Green Kratom Capsules — capsules. CHF 15.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201820"
 price: 14.5
 currency: "EUR"

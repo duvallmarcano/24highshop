@@ -1,6 +1,6 @@
 ---
 title: "Triple G (RQS)"
-description: "Triple G Feminised - Royal Queen Seeds - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Triple G (RQS) — feminized seeds. CHF 34.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4204822"
 price: 32.5
 currency: "EUR"

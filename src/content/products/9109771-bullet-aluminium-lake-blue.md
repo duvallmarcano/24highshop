@@ -1,6 +1,6 @@
 ---
 title: "Bullet Aluminium Lake Blue"
-description: "Bullet Aluminium Lake Blue Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bullet Aluminium Lake Blue — aluminium. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9109771"
 price: 4.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Guayusa (Ilex guayusa) Leaves – 50 grams"
-description: "Discover premium Guayusa at 24High. Carefully packed in 50g bags and free goodies with every order."
+description: "Guayusa (Ilex guayusa) Leaves – 50 grams. CHF 9.40, currently sold out. Restocked regularly in Zürich."
 sku: "6207291"
 price: 8.95
 currency: "EUR"

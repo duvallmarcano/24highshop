@@ -1,6 +1,6 @@
 ---
 title: "Kleaner Urea (synthetic urine)"
-description: "Kleaner Urea (synthetic urine) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kleaner Urea (synthetic urine) — test for drugs. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4210102"
 price: 14.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog Ashtray Tin Funky"
-description: "The Bulldog Ashtray Tin Funky Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog Ashtray Tin Funky. CHF 3.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0210573"
 price: 2.95
 currency: "EUR"

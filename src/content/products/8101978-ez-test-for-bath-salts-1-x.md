@@ -1,6 +1,6 @@
 ---
 title: "EZ Test for Bath Salts"
-description: "EZ Test for Bath Salts - 1 x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "EZ Test for Bath Salts. CHF 3.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101978"
 price: 3.5
 currency: "EUR"

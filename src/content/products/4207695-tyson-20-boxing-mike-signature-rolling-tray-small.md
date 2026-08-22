@@ -1,6 +1,6 @@
 ---
 title: "Tyson 2.0 Boxing Mike Signature Rolling Tray Small"
-description: "Tyson 2.0 Boxing Mike Signature Rolling Tray Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tyson 2.0 Boxing Mike Signature Rolling Tray Small. In stock at CHF 5.75. Dispatched from Zürich in plain packaging."
 sku: "4207695"
 price: 5.45
 currency: "EUR"

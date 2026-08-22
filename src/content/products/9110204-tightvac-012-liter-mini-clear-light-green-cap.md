@@ -1,6 +1,6 @@
 ---
 title: "Tightvac 0,12 liter Mini Clear Light Green Cap"
-description: "Tightvac 0,12 liter Mini Clear Light Green Cap Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tightvac 0,12 liter Mini Clear Light Green Cap, 40 grams. In stock at CHF 7.30. Dispatched from Zürich in plain packaging."
 sku: "9110204"
 price: 6.95
 currency: "EUR"

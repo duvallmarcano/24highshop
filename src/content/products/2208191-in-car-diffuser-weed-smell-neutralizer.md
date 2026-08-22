@@ -1,6 +1,6 @@
 ---
 title: "In-Car Diffuser Weed Smell Neutralizer"
-description: "In-Car Diffuser Weed Smell Neutralizer Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "In-Car Diffuser Weed Smell Neutralizer — grow supplies. CHF 12.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "2208191"
 price: 11.95
 currency: "EUR"

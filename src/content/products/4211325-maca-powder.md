@@ -1,6 +1,6 @@
 ---
 title: "Maca Powder"
-description: "Maca Powder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Maca Powder — powder. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4211325"
 price: 4.95
 currency: "EUR"

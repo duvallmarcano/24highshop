@@ -1,6 +1,6 @@
 ---
 title: "Stash Plug"
-description: "Store items discreetly with this stash plug. Looks like a real charger. Free goodies with every order at 24high."
+description: "Stash Plug. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6201988"
 price: 7.95
 currency: "EUR"

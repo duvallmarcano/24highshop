@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Galato - Strapback Hat - Black"
-description: "Lauren Rose - Galato - Strapback Hat - Black Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Galato - Strapback Hat - Black — 4:20 lifestyle. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3202281"
 price: 29.95
 currency: "EUR"

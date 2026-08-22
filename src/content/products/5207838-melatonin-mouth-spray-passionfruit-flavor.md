@@ -1,6 +1,6 @@
 ---
 title: "Melatonin Mouth Spray - Passionfruit Flavor"
-description: "Melatonin Spray? ✓Passionfruit taste ✓Fall asleep fast ✓Pocket size ✓Free goodies with every order at 24High"
+description: "Melatonin Mouth Spray - Passionfruit Flavor — happy caps e. In stock at CHF 7.90. Dispatched from Zürich in plain packaging."
 sku: "5207838"
 price: 7.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Passion Flower 5X Extract"
-description: "Passion Flower 5X Extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Passion Flower 5X Extract. CHF 8.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101431"
 price: 7.95
 currency: "EUR"

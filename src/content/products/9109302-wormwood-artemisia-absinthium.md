@@ -1,6 +1,6 @@
 ---
 title: "Wormwood (Artemisia absinthium)"
-description: "Wormwood (Artemisia absinthium) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wormwood (Artemisia absinthium). CHF 7.90. Back in stock shortly — shipped from Zürich when it lands."
 sku: "9109302"
 price: 7.5
 currency: "EUR"

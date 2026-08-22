@@ -1,6 +1,6 @@
 ---
 title: "Rapé Nukini Onça – 10 grams"
-description: "Discover Rapé Nukini Onça, a traditional Amazonian rapé. Authentic quality and free goodies with every order."
+description: "Rapé Nukini Onça – 10 grams, 10 grams. In stock at CHF 23.10. Dispatched from Zürich in plain packaging."
 sku: "6207208"
 price: 21.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mondo Grow Kit Golden Teacher"
-description: "Mondo Grow Kit Golden Teacher - 1200 cc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Grow Kit Golden Teacher — growkits mushroom. CHF 36.80. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0212319"
 price: 34.95
 currency: "EUR"

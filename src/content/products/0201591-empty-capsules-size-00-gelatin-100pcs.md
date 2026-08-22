@@ -1,6 +1,6 @@
 ---
 title: "Empty Capsules Size 00"
-description: "Empty Capsules Size 00 Gelatin - 100pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Empty Capsules Size 00 — capsules. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0201591"
 price: 4.95
 currency: "EUR"

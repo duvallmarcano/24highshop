@@ -1,6 +1,6 @@
 ---
 title: "Royal Box - Record Player Black"
-description: "Royal Box - Record Player Black Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Box - Record Player Black — sniff articles. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "0210899"
 price: 18.95
 currency: "EUR"

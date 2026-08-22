@@ -1,6 +1,6 @@
 ---
 title: "Dutch Dragons Truffles"
-description: "Dutch Dragons Truffles - 15 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Dutch Dragons Truffles. CHF 16.80, currently sold out. Restocked regularly in Zürich."
 sku: "7112433"
 price: 15.95
 currency: "EUR"

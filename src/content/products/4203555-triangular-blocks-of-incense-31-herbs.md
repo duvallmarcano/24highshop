@@ -1,6 +1,6 @@
 ---
 title: "Triangular Incense"
-description: "Triangular Blocks of Incense - 31 Herbs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Triangular Incense. CHF 6.25. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4203555"
 price: 5.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Oil Pipe – Mixed Colours"
-description: "Oil Pipe in mixed colours. Compact glass pipe, heat resistant and easy to use. Free goodies with every order."
+description: "Oil Pipe – Mixed Colours — glass. CHF 3.10, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201316"
 price: 2.95
 currency: "EUR"

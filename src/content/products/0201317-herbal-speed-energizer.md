@@ -1,6 +1,6 @@
 ---
 title: "Herbal Speed Energizer"
-description: "Herbal Speed Energizer Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Herbal Speed Energizer. CHF 14.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0201317"
 price: 13.5
 currency: "EUR"

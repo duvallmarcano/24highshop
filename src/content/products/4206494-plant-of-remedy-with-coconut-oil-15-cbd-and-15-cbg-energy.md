@@ -1,6 +1,6 @@
 ---
 title: "Plant of Remedy with Coconut Oil - 15% CBD and 15% CBG Energy"
-description: "Buy the Plant of Remedy with Coconut Oil - 15% CBD and 15% CBG Energy at 24High.nl ✔️ Fast delivery ✔️ Discreet shipping | Order online now"
+description: "Plant of Remedy with Coconut Oil - 15% CBD and 15% CBG Energy. In stock at CHF 23.65. Dispatched from Zürich in plain packaging."
 sku: "4206494"
 price: 22.48
 currency: "EUR"

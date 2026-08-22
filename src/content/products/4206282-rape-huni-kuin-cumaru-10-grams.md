@@ -1,6 +1,6 @@
 ---
 title: "Rapé Huni Kuin Cumaru - 10 Grams"
-description: "Rapé Huni Kuin Cumaru - 10 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rapé Huni Kuin Cumaru - 10 Grams, 10 Gram. CHF 23.10, in stock in Zürich and shipped the same working day."
 sku: "4206282"
 price: 21.95
 currency: "EUR"

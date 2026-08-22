@@ -1,6 +1,6 @@
 ---
 title: "Harmony Tea - Shamanita"
-description: "Harmony Tea - Shamanita Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Harmony Tea - Shamanita. In stock at CHF 2.65. Dispatched from Zürich in plain packaging."
 sku: "4203130"
 price: 2.5
 currency: "EUR"

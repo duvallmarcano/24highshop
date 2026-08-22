@@ -1,6 +1,6 @@
 ---
 title: "Unicorn Grow Bag with Injection Port"
-description: "Unicorn Grow Bag with Injection Port - T4 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Unicorn Grow Bag with Injection Port. CHF 3.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6206912"
 price: 2.99
 currency: "EUR"

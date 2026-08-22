@@ -1,6 +1,6 @@
 ---
 title: "On Balance SBM-100 Mini Silicone Bowl Scale Rasta 100 Gram x 0.01"
-description: "Want to order On Balance SBM Mini Silicone Bowl Scale Rasta? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "On Balance SBM-100 Mini Silicone Bowl Scale Rasta 100 Gram x 0.01. CHF 26.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0209888"
 price: 25.0
 currency: "EUR"

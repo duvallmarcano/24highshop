@@ -1,6 +1,6 @@
 ---
 title: "Stash book Love and Peace"
-description: "Stash book Love and Peace Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Stash book Love and Peace. In stock at CHF 11.55. Dispatched from Zürich in plain packaging."
 sku: "4209361"
 price: 10.95
 currency: "EUR"

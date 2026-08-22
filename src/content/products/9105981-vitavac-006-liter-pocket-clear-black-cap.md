@@ -1,6 +1,6 @@
 ---
 title: "Vitavac 0,06 liter Pocket Clear Black Cap"
-description: "Vitavac 0,06 liter Pocket Clear Black Cap Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vitavac 0,06 liter Pocket Clear Black Cap — stash & storage boxes. In stock at CHF 8.35. Dispatched from Zürich in plain packaging."
 sku: "9105981"
 price: 7.95
 currency: "EUR"

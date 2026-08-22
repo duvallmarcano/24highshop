@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Hybrid 420 Snapback Hat"
-description: "Lauren Rose - Hybrid 420 Snapback Hat Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Hybrid 420 Snapback Hat — 4:20 lifestyle. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3202147"
 price: 29.95
 currency: "EUR"

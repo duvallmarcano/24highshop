@@ -1,6 +1,6 @@
 ---
 title: "La Blanca Gold (Vision Seeds)"
-description: "La Blanca Gold (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "La Blanca Gold (Vision Seeds) — resin. CHF 18.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0203756"
 price: 17.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Aluminium Bulb End Snorter"
-description: "Aluminium Bulb End Snorter-red Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Aluminium Bulb End Snorter — aluminium. CHF 3.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9111459"
 price: 2.95
 currency: "EUR"

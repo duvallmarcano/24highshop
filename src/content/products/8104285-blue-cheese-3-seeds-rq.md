@@ -1,6 +1,6 @@
 ---
 title: "Blue Cheese Feminised"
-description: "Blue Cheese - 3 seeds (RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Blue Cheese Feminised — feminized seeds. CHF 22.65, in stock in Zürich and shipped the same working day."
 sku: "8104285"
 price: 21.5
 currency: "EUR"

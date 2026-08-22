@@ -1,6 +1,6 @@
 ---
 title: "Palo Santo sticks"
-description: "Palo Santo sticks - 20 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Palo Santo sticks — ceremonial incense, smudge. CHF 4.15, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207338"
 price: 3.95
 currency: "EUR"

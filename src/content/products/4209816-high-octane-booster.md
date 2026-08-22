@@ -1,6 +1,6 @@
 ---
 title: "High Octane Booster"
-description: "High Octane Booster Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "High Octane Booster. CHF 24.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4209816"
 price: 22.95
 currency: "EUR"

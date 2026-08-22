@@ -1,6 +1,6 @@
 ---
 title: "Power 5 Mushroom Extract (Foodsporen)"
-description: "Power 5 Mushroom Extract (Foodsporen) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Power 5 Mushroom Extract (Foodsporen) — an extract. In stock at CHF 31.05. Dispatched from Zürich in plain packaging."
 sku: "1206930"
 price: 29.5
 currency: "EUR"

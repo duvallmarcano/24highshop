@@ -1,6 +1,6 @@
 ---
 title: "Silver Hand Pipe – Leaf"
-description: "Hand Pipe Silver with leaf design. Compact metal pipe, durable and easy to use. Free goodies with every order."
+description: "Silver Hand Pipe – Leaf. CHF 4.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6201647"
 price: 3.95
 currency: "EUR"

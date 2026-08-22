@@ -1,6 +1,6 @@
 ---
 title: "Recycold Cool Pack"
-description: "Recycold Cool Pack Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Recycold Cool Pack — magic truffles. In stock at CHF 1.05. Dispatched from Zürich in plain packaging."
 sku: "5205818"
 price: 0.99
 currency: "EUR"

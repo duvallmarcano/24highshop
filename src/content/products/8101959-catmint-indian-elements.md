@@ -1,6 +1,6 @@
 ---
 title: "Catmint Indian Elements"
-description: "Catmint Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Catmint Indian Elements — hallucinating herbs. In stock at CHF 6.25. Dispatched from Zürich in plain packaging."
 sku: "8101959"
 price: 5.95
 currency: "EUR"

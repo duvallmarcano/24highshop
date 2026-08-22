@@ -1,6 +1,6 @@
 ---
 title: "Zkittlez 420 T-shirt - Black"
-description: "Zkittlez 420 T-shirt - Black- Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Zkittlez 420 T-shirt - Black — 4:20 lifestyle. CHF 26.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207985"
 price: 24.95
 currency: "EUR"

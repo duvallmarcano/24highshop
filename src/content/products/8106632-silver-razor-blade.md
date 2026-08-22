@@ -1,6 +1,6 @@
 ---
 title: "Silver Razor Blade"
-description: "Silver Razor Blade Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Silver Razor Blade — sniff articles. CHF 1.05. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8106632"
 price: 0.99
 currency: "EUR"

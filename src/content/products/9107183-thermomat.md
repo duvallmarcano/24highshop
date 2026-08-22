@@ -1,6 +1,6 @@
 ---
 title: "Thermomat"
-description: "Thermomat Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Thermomat — grow supplies. In stock at CHF 14.70. Dispatched from Zürich in plain packaging."
 sku: "9107183"
 price: 13.95
 currency: "EUR"

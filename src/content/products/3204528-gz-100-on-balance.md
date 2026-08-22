@@ -1,6 +1,6 @@
 ---
 title: "GZ-100 On Balance"
-description: "GZ-100 On Balance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "GZ-100 On Balance. CHF 15.75, in stock in Zürich and shipped the same working day."
 sku: "3204528"
 price: 14.95
 currency: "EUR"

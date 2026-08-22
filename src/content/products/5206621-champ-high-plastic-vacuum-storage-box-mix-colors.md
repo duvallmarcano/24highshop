@@ -1,6 +1,6 @@
 ---
 title: "Champ High Plastic Vacuum Storage Box Mix Colors"
-description: "Buy Champ High Vacuum Box? ✓Free goodies with every order ✓Airtight & colorful ✓Great gift ✓Discreet delivery via 24High"
+description: "Champ High Plastic Vacuum Storage Box Mix Colors. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5206621"
 price: 4.95
 currency: "EUR"

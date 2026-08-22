@@ -1,6 +1,6 @@
 ---
 title: "Mini Amber Glass Bottle"
-description: "Mini Amber Glass Bottle Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mini Amber Glass Bottle — glass. CHF 1.60, in stock in Zürich and shipped the same working day."
 sku: "8105963"
 price: 1.5
 currency: "EUR"

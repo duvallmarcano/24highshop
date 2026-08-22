@@ -1,6 +1,6 @@
 ---
 title: "Cibdol Fall Asleep Liquid - Meladol formula - 30ml"
-description: "Cibdol Fall Asleep Liquid - Meladol formula - 30ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cibdol Fall Asleep Liquid - Meladol formula - 30ml. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "4206900"
 price: 24.95
 currency: "EUR"

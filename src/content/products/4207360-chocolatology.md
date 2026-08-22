@@ -1,6 +1,6 @@
 ---
 title: "Chocolatology"
-description: "Chocolatology Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Chocolatology. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4207360"
 price: 18.95
 currency: "EUR"

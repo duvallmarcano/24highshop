@@ -1,6 +1,6 @@
 ---
 title: "Peyote (Lophophora Williamsii)"
-description: "Peyote size 1-2 CM Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Peyote (Lophophora Williamsii) — mescaline cacti. CHF 8.35, currently sold out. Restocked regularly in Zürich."
 sku: "9101121"
 price: 7.95
 currency: "EUR"

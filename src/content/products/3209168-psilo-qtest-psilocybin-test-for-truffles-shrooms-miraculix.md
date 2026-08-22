@@ -1,6 +1,6 @@
 ---
 title: "Psilo-QTest - Psilocybin test for Truffles & Shrooms (Miraculix)"
-description: "Want to order Psilo-QTest? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Psilo-QTest - Psilocybin test for Truffles & Shrooms (Miraculix) — all in one growkits. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "3209168"
 price: 18.95
 currency: "EUR"

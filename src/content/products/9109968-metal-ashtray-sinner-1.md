@@ -1,6 +1,6 @@
 ---
 title: "Metal ashtray Sinner 1"
-description: "Metal ashtray Sinner 1 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Metal ashtray Sinner 1. CHF 2.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "9109968"
 price: 2.5
 currency: "EUR"

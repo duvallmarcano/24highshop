@@ -1,6 +1,6 @@
 ---
 title: "Plant of Remedy with Coconut Oil - 35% CBD Sleep (3500mg)"
-description: "Buy the Plant of Remedy with Coconut Oil - 35% CBD Sleep (3500mg) at 24High.nl ✔️ Fast delivery ✔️ Discreet shipping | Order online now"
+description: "Plant of Remedy with Coconut Oil - 35% CBD Sleep (3500mg), 3500mg. CHF 26.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3212748"
 price: 24.95
 currency: "EUR"

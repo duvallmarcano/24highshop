@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Paper Ks Slim Brown Edition + Tips"
-description: "Want to order Narcos Rolling Paper KS Slim Brown? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Narcos - Rolling Paper Ks Slim Brown Edition + Tips. CHF 2.05, in stock in Zürich and shipped the same working day."
 sku: "4202813"
 price: 1.95
 currency: "EUR"

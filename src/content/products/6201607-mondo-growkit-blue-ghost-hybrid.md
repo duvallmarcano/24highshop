@@ -1,6 +1,6 @@
 ---
 title: "Mondo Growkit Blue Ghost Hybrid"
-description: "Mondo Blue Ghost Hybrid Growkit with strong genetics and premium quality. Reliable mushroom grow kit. Free goodies with every order."
+description: "Mondo Growkit Blue Ghost Hybrid. CHF 42.05. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6201607"
 price: 39.95
 currency: "EUR"

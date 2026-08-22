@@ -1,6 +1,6 @@
 ---
 title: "Painkiller XL (RQS)"
-description: "Painkiller XL - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Painkiller XL (RQS) — cbd seeds. CHF 26.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8104531"
 price: 25.0
 currency: "EUR"

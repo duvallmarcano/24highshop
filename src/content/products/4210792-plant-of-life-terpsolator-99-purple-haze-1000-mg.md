@@ -1,6 +1,6 @@
 ---
 title: "Plant Of Life Terpsolator 99% Purple Haze 1000 mg"
-description: "Plant Of Life Terpsolator 99% Purple Haze 1000 mg Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plant Of Life Terpsolator 99% Purple Haze 1000 mg — cbd crystals. CHF 7.30, currently sold out. Restocked regularly in Zürich."
 sku: "4210792"
 price: 6.95
 currency: "EUR"

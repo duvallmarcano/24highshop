@@ -1,6 +1,6 @@
 ---
 title: "Black Stone Delay Spray"
-description: "Black Stone Delay Spray Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Black Stone Delay Spray. CHF 15.75, in stock in Zürich and shipped the same working day."
 sku: "8101442"
 price: 14.95
 currency: "EUR"

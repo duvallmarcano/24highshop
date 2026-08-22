@@ -1,6 +1,6 @@
 ---
 title: "RAW Crystal Glass Ashtray"
-description: "RAW Crystal Glass Ashtray Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "RAW Crystal Glass Ashtray. CHF 42.05, in stock in Zürich and shipped the same working day."
 sku: "9109342"
 price: 39.95
 currency: "EUR"

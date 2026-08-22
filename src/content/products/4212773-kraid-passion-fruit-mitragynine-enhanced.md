@@ -1,6 +1,6 @@
 ---
 title: "KRAID Passion Fruit - Mitragynine Enhanced"
-description: "KRAID Passion Fruit - Mitragynine Enhanced Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "KRAID Passion Fruit - Mitragynine Enhanced — an extract. CHF 6.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212773"
 price: 5.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Incense board natural"
-description: "Incense board natural Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Incense board natural. CHF 2.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4203994"
 price: 1.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Clipper Large Shrooms"
-description: "Clipper Large Shrooms Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Clipper Large Shrooms. CHF 1.60. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4207135"
 price: 1.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mondo Spore Syringe Treasure Coast"
-description: "Mondo Spore Syringe Treasure Coast Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Spore Syringe Treasure Coast — a sterile spore syringe. CHF 18.90. Back in stock shortly — shipped from Zürich when it lands."
 sku: "0212566"
 price: 17.95
 currency: "EUR"

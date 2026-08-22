@@ -1,6 +1,6 @@
 ---
 title: "HulkBerry (Royal Queen Seeds) feminized"
-description: "HulkBerry feminized - 3 Seeds (RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "HulkBerry (Royal Queen Seeds) feminized. CHF 30.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203845"
 price: 29.0
 currency: "EUR"

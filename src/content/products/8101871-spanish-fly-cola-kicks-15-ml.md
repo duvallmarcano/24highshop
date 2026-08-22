@@ -1,6 +1,6 @@
 ---
 title: "Spanish Fly Cola Kicks - 15 ml"
-description: "Spanish Fly Cola Kicks - 15 ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Spanish Fly Cola Kicks - 15 ml. CHF 11.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101871"
 price: 10.95
 currency: "EUR"

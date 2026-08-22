@@ -1,6 +1,6 @@
 ---
 title: "Purize XTRA Slim Filters Rainbow - 50 Pcs"
-description: "Colorful Purize Slim Filters with activated charcoal. Clean and smooth smoke. Free goodies with every order!"
+description: "Purize XTRA Slim Filters Rainbow - 50 Pcs, 50 Pcs. CHF 8.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5210204"
 price: 8.5
 currency: "EUR"

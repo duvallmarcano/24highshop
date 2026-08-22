@@ -1,6 +1,6 @@
 ---
 title: "24High Lighter"
-description: "24High Lighter Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "24High Lighter. CHF 0.80, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9112248"
 price: 0.75
 currency: "EUR"

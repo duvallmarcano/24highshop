@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Bakehouse Gorilla Cookies"
-description: "Cannabis Bakehouse Gorilla Cookies Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Bakehouse Gorilla Cookies. CHF 6.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0203240"
 price: 6.5
 currency: "EUR"

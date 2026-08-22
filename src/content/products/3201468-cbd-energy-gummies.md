@@ -1,6 +1,6 @@
 ---
 title: "CBD Energy Gummies"
-description: "CBD Energy Gummies Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Energy Gummies, 30 grams. CHF 10.45, in stock in Zürich and shipped the same working day."
 sku: "3201468"
 price: 9.95
 currency: "EUR"

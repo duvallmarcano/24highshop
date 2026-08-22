@@ -1,6 +1,6 @@
 ---
 title: "Trance E Happy Caps"
-description: "Trance E Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Trance E Happy Caps — hallucinating herbs. CHF 9.45, in stock in Zürich and shipped the same working day."
 sku: "3212354"
 price: 8.99
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "100% Mycelium Magic Mushroom Growkit Golden Teacher"
-description: "Order the Golden Teacher Magic Mushroom Growkit from 24High. Grow your own mushrooms with this 100% Mycelium kit. Discreet shipping and fast delivery."
+description: "100% Mycelium Magic Mushroom Growkit Golden Teacher — fresh mushrooms growkits. CHF 42.05, in stock in Zürich and shipped the same working day."
 sku: "0208819"
 price: 39.95
 currency: "EUR"

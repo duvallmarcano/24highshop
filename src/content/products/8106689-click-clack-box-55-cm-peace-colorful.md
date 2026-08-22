@@ -1,6 +1,6 @@
 ---
 title: "Click-Clack Box (Ø 5.5 cm) Peace Colorful"
-description: "Click-Clack Box (Ø 5.5 cm) Peace Colorful Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Click-Clack Box (Ø 5.5 cm) Peace Colorful — stash & storage boxes. CHF 2.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8106689"
 price: 2.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Red Vein Kratom Tincture - 10 ML"
-description: "Red Vein Kratom Tincture 10 ML. Concentrated kratom extract in liquid form. Free goodies with every order."
+description: "Red Vein Kratom Tincture - 10 ML — an extract, 10 ml. CHF 21.00, in stock in Zürich and shipped the same working day."
 sku: "6201304"
 price: 19.95
 currency: "EUR"

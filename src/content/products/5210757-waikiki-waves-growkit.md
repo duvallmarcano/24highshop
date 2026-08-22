@@ -1,6 +1,6 @@
 ---
 title: "Waikiki Waves Growkit"
-description: "Grow your own Waikiki Waves mushrooms with this premium kit. Easy, fresh & powerful. Free goodies with every order!"
+description: "Waikiki Waves Growkit, 1200cc. CHF 47.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5210757"
 price: 44.95
 currency: "EUR"

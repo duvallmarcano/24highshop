@@ -1,6 +1,6 @@
 ---
 title: "Leucistic JMF (Jedi Mind Fuck) XL Mushroom Grow Bag"
-description: "Grow Leucistic JMF mushrooms easily at home. A powerful strain with a unique look. Free goodie with every order."
+description: "Leucistic JMF (Jedi Mind Fuck) XL Mushroom Grow Bag — growkit specials. In stock at CHF 52.60. Dispatched from Zürich in plain packaging."
 sku: "5212232"
 price: 49.95
 currency: "EUR"

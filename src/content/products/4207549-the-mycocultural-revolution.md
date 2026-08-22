@@ -1,6 +1,6 @@
 ---
 title: "The Mycocultural Revolution"
-description: "The Mycocultural Revolution Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Mycocultural Revolution. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207549"
 price: 18.95
 currency: "EUR"

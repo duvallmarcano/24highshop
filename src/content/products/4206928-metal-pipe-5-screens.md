@@ -1,6 +1,6 @@
 ---
 title: "Metal Pipe + 5 screens"
-description: "Metal Pipe + 5 screens Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Metal Pipe + 5 screens. CHF 4.15, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4206928"
 price: 3.95
 currency: "EUR"

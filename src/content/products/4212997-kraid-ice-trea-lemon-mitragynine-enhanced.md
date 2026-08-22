@@ -1,6 +1,6 @@
 ---
 title: "KRAID Ice Trea Lemon - Mitragynine Enhanced"
-description: "KRAID Ice Trea Lemon - Mitragynine Enhanced Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "KRAID Ice Trea Lemon - Mitragynine Enhanced. CHF 6.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212997"
 price: 5.95
 currency: "EUR"

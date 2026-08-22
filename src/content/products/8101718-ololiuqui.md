@@ -1,6 +1,6 @@
 ---
 title: "Ololiuqui"
-description: "Want to order Ololiuqui? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Ololiuqui — exotic seeds. CHF 6.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101718"
 price: 5.95
 currency: "EUR"

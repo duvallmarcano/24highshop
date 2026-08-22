@@ -1,6 +1,6 @@
 ---
 title: "Kanna Blitz Boost"
-description: "Kanna Blitz Boost? ✓Energy & focus boost ✓Plant-based ✓Discreet shipping ✓Free goodies with every order at 24High"
+description: "Kanna Blitz Boost. CHF 23.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5207552"
 price: 22.5
 currency: "EUR"

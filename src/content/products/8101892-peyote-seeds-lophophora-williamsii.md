@@ -1,6 +1,6 @@
 ---
 title: "Peyote seeds (Lophophora Williamsii)"
-description: "Peyote seeds (Lophophora Williamsii) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Peyote seeds (Lophophora Williamsii) — mescaline cacti. In stock at CHF 9.40. Dispatched from Zürich in plain packaging."
 sku: "8101892"
 price: 8.95
 currency: "EUR"

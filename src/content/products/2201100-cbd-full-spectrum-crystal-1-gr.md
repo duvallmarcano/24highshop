@@ -1,6 +1,6 @@
 ---
 title: "CBD Full Spectrum Crystal 1 GR"
-description: "CBD Full Spectrum Crystal 1 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Full Spectrum Crystal 1 GR — full-spectrum. CHF 10.45. Back in stock shortly — shipped from Zürich when it lands."
 sku: "2201100"
 price: 9.95
 currency: "EUR"

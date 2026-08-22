@@ -1,6 +1,6 @@
 ---
 title: "White Widow (RQS)"
-description: "White Widow - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "White Widow (RQS) — feminized seeds. In stock at CHF 21.05. Dispatched from Zürich in plain packaging."
 sku: "8102734"
 price: 20.0
 currency: "EUR"

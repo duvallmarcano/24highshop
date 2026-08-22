@@ -1,6 +1,6 @@
 ---
 title: "Mountain Caviar Original Himalayan Shilajit - 150 Softgels"
-description: "Discover Mountain Caviar Original Himalayan Shilajit - 150 softgels. Pure and authentic from the Himalayas. ✓Premium quality ✓Free goodies with every order!"
+description: "Mountain Caviar Original Himalayan Shilajit - 150 Softgels. CHF 42.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5202240"
 price: 39.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Freeze-dried acai powder"
-description: "Freeze-dried acai powder Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Freeze-dried acai powder — heart and blood vessels. CHF 15.75, on the shelf in Zürich. Discreet tracked delivery Article 3208150."
 sku: "3208150"
 price: 14.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Bears - Strawberry Haze"
-description: "Cannabis Bears - Strawberry Haze Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Bears - Strawberry Haze. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4206793"
 price: 4.95
 currency: "EUR"

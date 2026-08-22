@@ -1,6 +1,6 @@
 ---
 title: "EZ Test for Cocaine Cuts"
-description: "EZ Test for Cocaine Cuts - 1x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "EZ Test for Cocaine Cuts. CHF 3.70, in stock in Zürich and shipped the same working day."
 sku: "8101622"
 price: 3.5
 currency: "EUR"

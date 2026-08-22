@@ -1,6 +1,6 @@
 ---
 title: "Pure Gelato (Vision Seeds) feminized"
-description: "Pure Gelato (Vision Seeds) feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pure Gelato (Vision Seeds) feminized — resin. CHF 31.60, in stock in Zürich and shipped the same working day."
 sku: "0203924"
 price: 30.0
 currency: "EUR"

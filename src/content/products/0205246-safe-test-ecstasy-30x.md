@@ -1,6 +1,6 @@
 ---
 title: "Safe Test Ecstasy - 30X"
-description: "Want to order Safe Test X? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Safe Test Ecstasy - 30X. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205246"
 price: 16.95
 currency: "EUR"

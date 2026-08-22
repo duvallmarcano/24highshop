@@ -1,6 +1,6 @@
 ---
 title: "Dark Star x AK-49 (Vision Seeds) feminized"
-description: "Dark Star x AK-49 (Vision Seeds) feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Dark Star x AK-49 (Vision Seeds) feminized. CHF 26.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0203464"
 price: 25.0
 currency: "EUR"

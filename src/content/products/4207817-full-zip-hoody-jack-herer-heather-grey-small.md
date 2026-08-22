@@ -1,6 +1,6 @@
 ---
 title: "Full Zip Hoody Jack Herer - Heather Grey"
-description: "Full Zip Hoody Jack Herer - Heather Grey - Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Full Zip Hoody Jack Herer - Heather Grey — 4:20 lifestyle. In stock at CHF 42.05. Dispatched from Zürich in plain packaging."
 sku: "4207817"
 price: 39.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Sterile Corn Spawn Bag - 2000 cc"
-description: "Sterile Corn Breeding Bag 2000cc ✓Ready-to-use ✓Quick results ✓Hygienic ✓Free shipping from €35 at 24High"
+description: "Sterile Corn Spawn Bag - 2000 cc — sterile, 2000 cc. CHF 19.95. Back in stock shortly — shipped from Zürich when it lands."
 sku: "5209121"
 price: 18.95
 currency: "EUR"

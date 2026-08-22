@@ -1,6 +1,6 @@
 ---
 title: "Gloves (sterile)"
-description: "Gloves (sterile) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Gloves (sterile) — sterile. CHF 1.60, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9107949"
 price: 1.5
 currency: "EUR"

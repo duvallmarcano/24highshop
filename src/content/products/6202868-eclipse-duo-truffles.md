@@ -1,6 +1,6 @@
 ---
 title: "Eclipse Duo Truffles"
-description: "Discover Eclipse Duo Truffles: a unique combination for an intense and balanced experience. Fresh, potent and carefully selected."
+description: "Eclipse Duo Truffles — two strains packed together, fresh and vacuum-sealed. Shipped cold from Zürich, unmarked."
 sku: "6202868"
 price: 20.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Glass Pipe"
-description: "Stylish mushroom glass pipe made of durable glass. Compact and easy to clean. Free goodie with every order."
+description: "Mushroom Glass Pipe — glass. CHF 15.75, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201194"
 price: 14.95
 currency: "EUR"

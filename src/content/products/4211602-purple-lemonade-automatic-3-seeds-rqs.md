@@ -1,6 +1,6 @@
 ---
 title: "Purple Lemonade Automatic (RQS)"
-description: "Purple Lemonade Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Purple Lemonade Automatic (RQS) — autoflower seeds. CHF 36.30, in stock in Zürich and shipped the same working day."
 sku: "4211602"
 price: 34.5
 currency: "EUR"

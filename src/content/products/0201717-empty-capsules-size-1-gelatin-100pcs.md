@@ -1,6 +1,6 @@
 ---
 title: "Empty Capsules Size 1"
-description: "Empty Capsules Size 1 Gelatin - 100pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Empty Capsules Size 1 — powder. CHF 4.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0201717"
 price: 4.5
 currency: "EUR"

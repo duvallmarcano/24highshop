@@ -1,6 +1,6 @@
 ---
 title: "Liefdesbonbon - Love bombs 6 pieces"
-description: "Love Bombs 6 pcs ✓Tropical flavor ✓Fast acting ✓Compact ✓Free goodies with every order at 24High"
+description: "Liefdesbonbon - Love bombs 6 pieces, 6 pieces. CHF 8.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5208422"
 price: 7.95
 currency: "EUR"

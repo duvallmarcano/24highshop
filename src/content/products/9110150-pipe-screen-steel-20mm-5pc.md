@@ -1,6 +1,6 @@
 ---
 title: "Pipe Screen Steel 20MM - 5 pieces"
-description: "Pipe Screen Steel 20MM - 5pc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pipe Screen Steel 20MM - 5 pieces. In stock at CHF 0.55. Dispatched from Zürich in plain packaging."
 sku: "9110150"
 price: 0.5
 currency: "EUR"

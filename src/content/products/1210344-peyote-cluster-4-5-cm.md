@@ -1,6 +1,6 @@
 ---
 title: "Peyote cluster 4-5 cm"
-description: "Peyote cluster 4-5 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Peyote cluster 4-5 cm — mescaline cacti. CHF 31.55, currently sold out. Restocked regularly in Zürich."
 sku: "1210344"
 price: 29.95
 currency: "EUR"

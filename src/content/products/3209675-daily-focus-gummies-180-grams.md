@@ -1,6 +1,6 @@
 ---
 title: "Daily Focus Gummies - 180 grams"
-description: "Daily Focus Gummies - 180 grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Daily Focus Gummies - 180 grams. CHF 18.90, in stock in Zürich and shipped the same working day."
 sku: "3209675"
 price: 17.95
 currency: "EUR"

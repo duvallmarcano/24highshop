@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Bakehouse Fat Banana Cookies"
-description: "Cannabis Bakehouse Fat Banana Cookies Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Bakehouse Fat Banana Cookies. CHF 6.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1211926"
 price: 6.5
 currency: "EUR"

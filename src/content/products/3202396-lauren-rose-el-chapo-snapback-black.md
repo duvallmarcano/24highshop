@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - El Chapo Snapback Black"
-description: "Lauren Rose - El Chapo Snapback Black Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - El Chapo Snapback Black — 4:20 lifestyle. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "3202396"
 price: 29.95
 currency: "EUR"

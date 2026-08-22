@@ -1,6 +1,6 @@
 ---
 title: "Grip bags Pablo 30 mm x 30 mm - 1000 pieces"
-description: "Grip bags Pablo 30 x 30 mm Transparent - 1000 pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grip bags Pablo 30 mm x 30 mm - 1000 pieces. CHF 14.70, in stock in Zürich and shipped the same working day."
 sku: "4208266"
 price: 13.95
 currency: "EUR"

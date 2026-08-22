@@ -1,6 +1,6 @@
 ---
 title: "Kanna 10x Extract"
-description: "Kanna 10x Extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna 10x Extract — an extract. In stock at CHF 11.55. Dispatched from Zürich in plain packaging."
 sku: "8101182"
 price: 10.95
 currency: "EUR"

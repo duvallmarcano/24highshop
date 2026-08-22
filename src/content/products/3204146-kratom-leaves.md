@@ -1,6 +1,6 @@
 ---
 title: "Kratom leaves"
-description: "Kratom leaves Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kratom leaves — medicinal herbs. CHF 13.65, in stock in Zürich and shipped the same working day."
 sku: "3204146"
 price: 12.95
 currency: "EUR"

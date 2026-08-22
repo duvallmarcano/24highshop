@@ -1,6 +1,6 @@
 ---
 title: "Microdosing Psilocybine Truffles -20 Pack"
-description: "Microdosing Psilocybine Truffles -20 Pack Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Microdosing Psilocybine Truffles -20 Pack — fresh. CHF 105.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0210668"
 price: 99.95
 currency: "EUR"

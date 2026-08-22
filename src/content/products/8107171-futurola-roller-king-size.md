@@ -1,6 +1,6 @@
 ---
 title: "Futurola Roller King Size"
-description: "Futurola Roller King Size Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Futurola Roller King Size. In stock at CHF 17.85. Dispatched from Zürich in plain packaging."
 sku: "8107171"
 price: 16.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Energy E Happy Caps"
-description: "Energy E Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Energy E Happy Caps — capsules. CHF 9.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101197"
 price: 8.99
 currency: "EUR"

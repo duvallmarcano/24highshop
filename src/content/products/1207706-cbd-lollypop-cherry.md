@@ -1,6 +1,6 @@
 ---
 title: "CBD Lollypop - Cherry"
-description: "CBD Lollypop - Cherry Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Lollypop - Cherry — hemp. CHF 2.10, on the shelf in Zürich. Discreet tracked delivery."
 sku: "1207706"
 price: 1.99
 currency: "EUR"

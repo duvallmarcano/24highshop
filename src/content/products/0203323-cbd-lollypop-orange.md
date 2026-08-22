@@ -1,6 +1,6 @@
 ---
 title: "CBD Lollypop - Orange"
-description: "CBD Lollypop - Orange Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Lollypop - Orange — hemp. In stock at CHF 2.10. Dispatched from Zürich in plain packaging."
 sku: "0203323"
 price: 1.99
 currency: "EUR"

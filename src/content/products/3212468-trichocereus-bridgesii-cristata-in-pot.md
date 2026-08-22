@@ -1,6 +1,6 @@
 ---
 title: "Trichocereus Bridgesii Cristata in pot"
-description: "Trichocereus Bridgesii Cristata in pot Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Trichocereus Bridgesii Cristata in pot — mescaline cacti. CHF 42.05. Back in stock shortly — shipped from Zürich when it lands."
 sku: "3212468"
 price: 39.95
 currency: "EUR"

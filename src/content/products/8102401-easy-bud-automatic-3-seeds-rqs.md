@@ -1,6 +1,6 @@
 ---
 title: "Easy Bud - Automatic (RQS)"
-description: "Easy Bud Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Easy Bud - Automatic (RQS) — feminised. CHF 18.40, in stock in Zürich and shipped the same working day."
 sku: "8102401"
 price: 17.5
 currency: "EUR"

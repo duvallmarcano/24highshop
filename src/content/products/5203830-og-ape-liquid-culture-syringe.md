@@ -1,6 +1,6 @@
 ---
 title: "OG APE Liquid Culture Syringe"
-description: "OG APE Liquid Culture Syringe – Easy mushroom growing! Premium quality. ✓Free goodies with every order!"
+description: "OG APE Liquid Culture Syringe — live liquid culture. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "5203830"
 price: 18.95
 currency: "EUR"

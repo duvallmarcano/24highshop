@@ -1,6 +1,6 @@
 ---
 title: "Glass Pipe with Cannabis Leaf"
-description: "Durable glass pipe with cannabis leaf design. Compact and easy to clean. Free goodie with every order."
+description: "Glass Pipe with Cannabis Leaf — glass. CHF 2.05, in stock in Zürich and shipped the same working day."
 sku: "6201902"
 price: 1.95
 currency: "EUR"

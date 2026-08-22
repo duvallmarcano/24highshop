@@ -1,6 +1,6 @@
 ---
 title: "Sterilized Mushroom Grow Substrate"
-description: "High-quality sterilized substrate – ready to use for clean and successful cultivation. Free goodies with every order!"
+description: "Sterilized Mushroom Grow Substrate. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5210163"
 price: 19.95
 currency: "EUR"

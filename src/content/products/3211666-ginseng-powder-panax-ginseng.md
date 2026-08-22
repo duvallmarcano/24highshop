@@ -1,6 +1,6 @@
 ---
 title: "Ginseng powder - Panax Ginseng"
-description: "Ginseng powder - Panax Ginseng Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ginseng powder - Panax Ginseng. In stock at CHF 11.55. Dispatched from Zürich in plain packaging."
 sku: "3211666"
 price: 10.95
 currency: "EUR"

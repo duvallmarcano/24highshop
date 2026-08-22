@@ -1,6 +1,6 @@
 ---
 title: "7 Pipe Twisty Glass Blunt"
-description: "7Pipe Twisty Glass Blunt – Reusable and stylish glass blunt. Perfect for smooth sessions. ✓Free goodies with every order!"
+description: "7 Pipe Twisty Glass Blunt — glass. CHF 21.00. Back in stock shortly — shipped from Zürich when it lands."
 sku: "5206124"
 price: 19.95
 currency: "EUR"

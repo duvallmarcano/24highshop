@@ -1,6 +1,6 @@
 ---
 title: "CBD Brownie - 15mg"
-description: "CBD Brownie - 15mg Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Brownie - 15mg — cbd edibles. CHF 5.55, in stock in Zürich and shipped the same working day."
 sku: "0207393"
 price: 5.25
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Clipper Lighter Large Amsterdam 420 Girls"
-description: "Clipper Lighter Large Amsterdam 420 Girls Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Clipper Lighter Large Amsterdam 420 Girls. In stock at CHF 1.60. Dispatched from Zürich in plain packaging."
 sku: "3211972"
 price: 1.5
 currency: "EUR"

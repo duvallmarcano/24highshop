@@ -1,6 +1,6 @@
 ---
 title: "100% Mycelium Magic Mushroom Growkit Colombian"
-description: "100% Mycelium Magic Mushroom Growkit Colombian - 1 X Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "100% Mycelium Magic Mushroom Growkit Colombian — fresh mushrooms growkits. CHF 42.05. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0208224"
 price: 39.95
 currency: "EUR"

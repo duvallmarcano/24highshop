@@ -1,6 +1,6 @@
 ---
 title: "Sagrada Madre Premium 7 Chakra Smudge Bombs"
-description: "Sagrada Madre Premium 7 Chakra Smudge Bombs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Sagrada Madre Premium 7 Chakra Smudge Bombs. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "4203412"
 price: 5.95
 currency: "EUR"

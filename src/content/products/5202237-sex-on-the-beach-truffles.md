@@ -1,6 +1,6 @@
 ---
 title: "Sex on the Beach Truffles"
-description: "Discover Sex on the Beach Magic Truffles for a unique experience. ✓Premium quality ✓Free goodies with every order!"
+description: "Sex on the Beach Truffles. In stock at CHF 18.90. Dispatched from Zürich in plain packaging."
 sku: "5202237"
 price: 17.95
 currency: "EUR"

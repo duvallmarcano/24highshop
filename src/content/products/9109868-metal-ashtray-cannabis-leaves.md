@@ -1,6 +1,6 @@
 ---
 title: "Metal Ashtray Cannabis Leaves"
-description: "Metal Ashtray Cannabis Leaves Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Metal Ashtray Cannabis Leaves. In stock at CHF 2.65. Dispatched from Zürich in plain packaging."
 sku: "9109868"
 price: 2.5
 currency: "EUR"

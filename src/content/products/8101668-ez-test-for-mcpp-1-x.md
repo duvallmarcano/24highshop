@@ -1,6 +1,6 @@
 ---
 title: "EZ Test for MCPP"
-description: "EZ Test for MCPP - 1 x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "EZ Test for MCPP. CHF 3.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101668"
 price: 3.5
 currency: "EUR"

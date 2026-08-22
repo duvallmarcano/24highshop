@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Valhalla"
-description: "Order the potent Psilocybe Valhalla Truffles at 24High. Enjoy a deep psychedelic experience with visual hallucinations and spiritual insights."
+description: "Psilocybe Valhalla — magic truffles. CHF 21.00, in stock in Zürich and shipped the same working day."
 sku: "0203250"
 price: 19.95
 currency: "EUR"

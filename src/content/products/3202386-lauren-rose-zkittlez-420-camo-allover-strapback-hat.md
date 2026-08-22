@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Zkittlez 420 Camo Allover Strapback Hat"
-description: "Want to order Lauren Rose Zkittlez Camo Strapback Hat? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Lauren Rose - Zkittlez 420 Camo Allover Strapback Hat — 4:20 lifestyle. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "3202386"
 price: 29.95
 currency: "EUR"

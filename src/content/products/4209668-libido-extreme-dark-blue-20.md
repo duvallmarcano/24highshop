@@ -1,6 +1,6 @@
 ---
 title: "Libido Extreme Dark Blue 2.0"
-description: "Libido Extreme Dark Blue 2.0 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Libido Extreme Dark Blue 2.0. CHF 28.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4209668"
 price: 26.95
 currency: "EUR"

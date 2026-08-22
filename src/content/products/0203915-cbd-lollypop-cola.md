@@ -1,6 +1,6 @@
 ---
 title: "CBD Lollypop - Cola"
-description: "CBD Lollypop - Cola Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Lollypop - Cola, 10 mg. CHF 2.10, in stock in Zürich and shipped the same working day."
 sku: "0203915"
 price: 1.99
 currency: "EUR"

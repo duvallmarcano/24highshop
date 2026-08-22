@@ -1,6 +1,6 @@
 ---
 title: "Erlenmeyer flask"
-description: "Erlenmeyer Flask ✓Durable glass ✓Perfect for lab & growing ✓Sterile use ✓Free goodies with every order at 24High"
+description: "Erlenmeyer flask — grow supplies. In stock at CHF 6.25. Dispatched from Zürich in plain packaging."
 sku: "5209221"
 price: 5.95
 currency: "EUR"

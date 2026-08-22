@@ -1,6 +1,6 @@
 ---
 title: "Mondo Grow Kit Treasure Coast"
-description: "Mondo Grow Kit Treasure Coast Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Grow Kit Treasure Coast — growkits mushroom. CHF 36.80, currently sold out. Restocked regularly in Zürich."
 sku: "0201143"
 price: 34.95
 currency: "EUR"

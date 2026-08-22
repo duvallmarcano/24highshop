@@ -1,6 +1,6 @@
 ---
 title: "Purize XTRA Slim Filters Lilac - 100 Pcs"
-description: "Purize Slim Filters in purple with activated charcoal. Clean and smooth smoke. Free goodies with every order!"
+description: "Purize XTRA Slim Filters Lilac - 100 Pcs, 100 Pcs. In stock at CHF 17.35. Dispatched from Zürich in plain packaging."
 sku: "5210184"
 price: 16.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Great White Kratom – Mitragyna speciosa"
-description: "Great White Kratom – Mitragyna speciosa Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Great White Kratom – Mitragyna speciosa. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "6205808"
 price: 18.95
 currency: "EUR"

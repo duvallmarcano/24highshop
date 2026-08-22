@@ -1,6 +1,6 @@
 ---
 title: "Mulungu (Erythrina Mulungu) Indian Spirit"
-description: "Mulungu (Erythrina Mulungu) Indian Spirit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mulungu (Erythrina Mulungu) Indian Spirit. CHF 6.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "2208537"
 price: 5.98
 currency: "EUR"

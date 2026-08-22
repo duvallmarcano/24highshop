@@ -1,6 +1,6 @@
 ---
 title: "Stress Aid Complex - Together"
-description: "Stress Aid Complex - Together Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Stress Aid Complex - Together — immune system. CHF 15.75, in stock in Zürich and shipped the same working day."
 sku: "4211242"
 price: 14.95
 currency: "EUR"

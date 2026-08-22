@@ -1,6 +1,6 @@
 ---
 title: "Ceramic Waterpipe 18.5 cm Skull 4 hoses"
-description: "Ceramic Waterpipe 18.5 cm Skull 4 hoses Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ceramic Waterpipe 18.5 cm Skull 4 hoses — ceramic. CHF 17.85, in stock in Zürich and shipped the same working day."
 sku: "2212634"
 price: 16.95
 currency: "EUR"

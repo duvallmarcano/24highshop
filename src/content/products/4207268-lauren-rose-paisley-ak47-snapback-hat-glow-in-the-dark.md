@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Paisley AK47 Snapback Hat - Glow in the dark"
-description: "Lauren Rose - Paisley AK47 Snapback Hat - Glow in the dark Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Paisley AK47 Snapback Hat - Glow in the dark — 4:20 lifestyle. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "4207268"
 price: 29.95
 currency: "EUR"

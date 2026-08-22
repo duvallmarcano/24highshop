@@ -1,6 +1,6 @@
 ---
 title: "Chacruna (Psychotria viridis) Leaves – 50 grams"
-description: "Discover premium Chacruna at 24High. Carefully packed in 50g bags and free goodies with every order."
+description: "Chacruna (Psychotria viridis) Leaves – 50 grams — hallucinating herbs. In stock at CHF 13.65. Dispatched from Zürich in plain packaging."
 sku: "6207536"
 price: 12.95
 currency: "EUR"

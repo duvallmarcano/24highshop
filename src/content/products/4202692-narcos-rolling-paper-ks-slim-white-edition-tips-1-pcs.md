@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Paper Ks Slim White Edition + Tips - 1 Pcs"
-description: "Want to order Narcos Rolling Paper KS Slim White? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Narcos - Rolling Paper Ks Slim White Edition + Tips - 1 Pcs. In stock at CHF 2.05. Dispatched from Zürich in plain packaging."
 sku: "4202692"
 price: 1.95
 currency: "EUR"

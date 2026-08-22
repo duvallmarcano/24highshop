@@ -1,6 +1,6 @@
 ---
 title: "Wild Lettuce 50x extract"
-description: "Wild Lettuce 50x extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wild Lettuce 50x extract — an extract. CHF 10.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101742"
 price: 9.95
 currency: "EUR"

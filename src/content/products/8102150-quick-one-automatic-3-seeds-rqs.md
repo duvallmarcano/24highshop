@@ -1,6 +1,6 @@
 ---
 title: "Quick One Automatic (RQS)"
-description: "Quick One Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Quick One Automatic (RQS) — autoflowering. In stock at CHF 16.85. Dispatched from Zürich in plain packaging."
 sku: "8102150"
 price: 16.0
 currency: "EUR"

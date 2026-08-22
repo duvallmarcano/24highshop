@@ -1,6 +1,6 @@
 ---
 title: "Lemon Cherry Gelato x Ice Cream (Vision Seeds)"
-description: "Lemon Cherry Gelato x Ice Cream seeds. Sweet and strong strain. Free goodie with every order."
+description: "Lemon Cherry Gelato x Ice Cream (Vision Seeds) — feminised. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "6203680"
 price: 22.5
 currency: "EUR"

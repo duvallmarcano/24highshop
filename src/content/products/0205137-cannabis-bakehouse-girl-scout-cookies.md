@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Bakehouse Girl Scout Cookies"
-description: "Cannabis Bakehouse Girl Scout Cookies Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Bakehouse Girl Scout Cookies. CHF 6.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0205137"
 price: 6.5
 currency: "EUR"

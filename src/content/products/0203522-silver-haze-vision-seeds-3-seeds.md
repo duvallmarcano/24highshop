@@ -1,6 +1,6 @@
 ---
 title: "Silver Haze (Vision Seeds)"
-description: "Silver Haze (Vision Seeds)- 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Silver Haze (Vision Seeds). CHF 22.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203522"
 price: 21.0
 currency: "EUR"

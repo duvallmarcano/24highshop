@@ -1,6 +1,6 @@
 ---
 title: "Lighter Shaped Plastic Stash - 1 Pcs"
-description: "Buy Lighter Stash? ✓Free goodies with every order ✓Discreet design ✓Looks real ✓Fast & anonymous shipping by 24High."
+description: "Lighter Shaped Plastic Stash - 1 Pcs, 1 Pcs. CHF 2.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5206692"
 price: 2.5
 currency: "EUR"

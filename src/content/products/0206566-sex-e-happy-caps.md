@@ -1,6 +1,6 @@
 ---
 title: "Sex E Happy Caps"
-description: "Sex E Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Sex E Happy Caps. In stock at CHF 9.45. Dispatched from Zürich in plain packaging."
 sku: "0206566"
 price: 8.99
 currency: "EUR"

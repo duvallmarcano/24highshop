@@ -1,6 +1,6 @@
 ---
 title: "SLX Grinder Aluminium Non Sticky 50 mm - Yellow Gold"
-description: "Buy the SLX Grinder Aluminum Non-Sticky 50 mm - Yellow Gold at 24High.nl ✔️ Fast delivery ✔️ Discreet shipping | Order online now"
+description: "SLX Grinder Aluminium Non Sticky 50 mm - Yellow Gold. CHF 57.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9105592"
 price: 54.95
 currency: "EUR"

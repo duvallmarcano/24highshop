@@ -1,6 +1,6 @@
 ---
 title: "Schmandweg cleaner 150gr"
-description: "Schmandweg cleaner 150gr Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Schmandweg cleaner 150gr. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "0211174"
 price: 5.95
 currency: "EUR"

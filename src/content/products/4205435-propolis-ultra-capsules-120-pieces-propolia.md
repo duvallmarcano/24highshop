@@ -1,6 +1,6 @@
 ---
 title: "Propolis Ultra Capsules 120 pieces - Propolia"
-description: "Propolis Ultra Capsules 120 pieces - Propolia Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Propolis Ultra Capsules 120 pieces - Propolia — capsules. CHF 25.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4205435"
 price: 23.95
 currency: "EUR"

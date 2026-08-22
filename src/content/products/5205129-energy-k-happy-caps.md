@@ -1,6 +1,6 @@
 ---
 title: "Energy- K Happy Caps"
-description: "✓Free goodies with every order! Energy-K gives a natural boost of energy and positivity. Order now at 24High."
+description: "Energy- K Happy Caps — capsules. CHF 9.45, in stock in Zürich and shipped the same working day."
 sku: "5205129"
 price: 8.99
 currency: "EUR"

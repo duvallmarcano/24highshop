@@ -1,6 +1,6 @@
 ---
 title: "Grip bags blue 35 x 35 mm - 1000 pieces"
-description: "Grip bags blue 35 x 35 mm - 1000 pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grip bags blue 35 x 35 mm - 1000 pieces. CHF 16.80, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205569"
 price: 15.95
 currency: "EUR"

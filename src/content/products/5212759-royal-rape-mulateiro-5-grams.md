@@ -1,6 +1,6 @@
 ---
 title: "Royal Rapé Mulateiro"
-description: "Discover Royal Rapé Mulateiro, a powerful Amazon blend for clarity and focus. Free goodies with every order at 24High."
+description: "Royal Rapé Mulateiro. CHF 14.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5212759"
 price: 13.5
 currency: "EUR"

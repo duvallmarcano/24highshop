@@ -1,6 +1,6 @@
 ---
 title: "Valerian root - Valeriana officinalis"
-description: "Valerian root - Valeriana officinalis Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Valerian root - Valeriana officinalis — medicinal herbs. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "3211364"
 price: 5.95
 currency: "EUR"

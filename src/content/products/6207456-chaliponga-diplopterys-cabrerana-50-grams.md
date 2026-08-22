@@ -1,6 +1,6 @@
 ---
 title: "Chaliponga (Diplopterys cabrerana) – 50 grams"
-description: "Discover premium Chaliponga at 24High. Carefully packed in 50g bags with free goodies included with every order."
+description: "Chaliponga (Diplopterys cabrerana) – 50 grams — hallucinating herbs. CHF 13.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6207456"
 price: 12.95
 currency: "EUR"

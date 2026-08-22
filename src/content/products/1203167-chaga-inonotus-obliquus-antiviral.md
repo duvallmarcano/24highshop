@@ -1,6 +1,6 @@
 ---
 title: "Chaga (Inonotus Obliquus) - Antiviral"
-description: "Chaga (Inonotus Obliquus) - Antiviral Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Chaga (Inonotus Obliquus) - Antiviral — heart and blood vessels. CHF 36.80, in stock in Zürich and shipped the same working day."
 sku: "1203167"
 price: 34.95
 currency: "EUR"

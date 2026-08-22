@@ -1,6 +1,6 @@
 ---
 title: "Rasta Leaf Rolling Tray Large"
-description: "Rasta Leaf Rolling Tray Large Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rasta Leaf Rolling Tray Large — smoking accessories. CHF 5.20, currently sold out. Restocked regularly in Zürich."
 sku: "9110783"
 price: 4.95
 currency: "EUR"

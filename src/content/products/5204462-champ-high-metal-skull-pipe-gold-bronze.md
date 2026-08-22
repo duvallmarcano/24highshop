@@ -1,6 +1,6 @@
 ---
 title: "Champ High Metal Skull Pipe Gold / Bronze"
-description: "✓Free goodies with every Champ High Skull Pipe Gold/Bronze order at 24high."
+description: "Champ High Metal Skull Pipe Gold / Bronze. CHF 5.75, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5204462"
 price: 5.45
 currency: "EUR"

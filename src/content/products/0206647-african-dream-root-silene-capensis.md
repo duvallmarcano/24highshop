@@ -1,6 +1,6 @@
 ---
 title: "African Dream Root (Silene Capensis)"
-description: "African Dream Root (Silene Capensis) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "African Dream Root (Silene Capensis). In stock at CHF 10.45. Dispatched from Zürich in plain packaging."
 sku: "0206647"
 price: 9.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Glass Spiral Pipe, Amber 13 cm"
-description: "Glass Spiral Pipe, Amber 13 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Glass Spiral Pipe, Amber 13 cm — glass. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8107280"
 price: 9.95
 currency: "EUR"

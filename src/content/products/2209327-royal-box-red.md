@@ -1,6 +1,6 @@
 ---
 title: "Royal Box - Red"
-description: "Royal Box - Red Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Box - Red — sniff articles. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "2209327"
 price: 18.95
 currency: "EUR"

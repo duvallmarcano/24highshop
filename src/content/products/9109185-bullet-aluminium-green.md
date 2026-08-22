@@ -1,6 +1,6 @@
 ---
 title: "Bullet Aluminium Green"
-description: "Bullet Aluminium Green Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bullet Aluminium Green — aluminium. In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "9109185"
 price: 4.95
 currency: "EUR"

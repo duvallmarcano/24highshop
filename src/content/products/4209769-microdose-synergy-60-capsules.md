@@ -1,6 +1,6 @@
 ---
 title: "Microdose Synergy - 60 Capsules"
-description: "Microdose Synergy - 60 Capsules Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Microdose Synergy - 60 Capsules. In stock at CHF 18.90. Dispatched from Zürich in plain packaging."
 sku: "4209769"
 price: 17.95
 currency: "EUR"

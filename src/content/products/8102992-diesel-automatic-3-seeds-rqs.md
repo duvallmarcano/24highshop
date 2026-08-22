@@ -1,6 +1,6 @@
 ---
 title: "Diesel Automatic (RQS)"
-description: "Diesel Automatic - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Diesel Automatic (RQS) — autoflowering, 60 grams. CHF 22.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8102992"
 price: 21.5
 currency: "EUR"

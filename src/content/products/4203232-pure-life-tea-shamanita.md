@@ -1,6 +1,6 @@
 ---
 title: "Pure Life Tea – Shamanita"
-description: "Pure Life Tea – Shamanita Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pure Life Tea – Shamanita. CHF 2.65, in stock in Zürich and shipped the same working day."
 sku: "4203232"
 price: 2.5
 currency: "EUR"

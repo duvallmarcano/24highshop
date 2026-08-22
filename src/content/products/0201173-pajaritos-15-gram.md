@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Pajaritos Truffles"
-description: "Pajaritos - 15 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Psilocybe Pajaritos Truffles. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0201173"
 price: 14.95
 currency: "EUR"

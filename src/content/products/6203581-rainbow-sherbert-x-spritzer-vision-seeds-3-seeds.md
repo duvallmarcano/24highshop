@@ -1,6 +1,6 @@
 ---
 title: "Rainbow Sherbert x Spritzer (Vision Seeds)"
-description: "Rainbow Sherbert x Spritzer (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rainbow Sherbert x Spritzer (Vision Seeds) — feminised. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "6203581"
 price: 22.5
 currency: "EUR"

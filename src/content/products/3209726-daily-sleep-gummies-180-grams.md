@@ -1,6 +1,6 @@
 ---
 title: "Daily Sleep Gummies - 180 grams"
-description: "Daily Sleep Gummies - 180 grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Daily Sleep Gummies - 180 grams. In stock at CHF 18.90. Dispatched from Zürich in plain packaging."
 sku: "3209726"
 price: 17.95
 currency: "EUR"

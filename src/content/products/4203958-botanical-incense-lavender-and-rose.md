@@ -1,6 +1,6 @@
 ---
 title: "Botanical Incense"
-description: "Botanical Incense - Lavender and Rose Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Botanical Incense — handmade. CHF 7.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4203958"
 price: 7.25
 currency: "EUR"

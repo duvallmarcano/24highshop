@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Tray Pink Medium"
-description: "Narcos - Rolling Tray Pink Medium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Rolling Tray Pink Medium. CHF 5.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4201209"
 price: 4.95
 currency: "EUR"

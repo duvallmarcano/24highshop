@@ -1,6 +1,6 @@
 ---
 title: "Snorter Brass Nickel Plated"
-description: "Snorter Brass Nickel Plated Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Snorter Brass Nickel Plated — sniff articles. CHF 4.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8107428"
 price: 3.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Hulkberry Automatic (RQS)"
-description: "Hulkberry Automatic (RQS) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Hulkberry Automatic (RQS) — autoflower seeds. CHF 28.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5202153"
 price: 27.0
 currency: "EUR"

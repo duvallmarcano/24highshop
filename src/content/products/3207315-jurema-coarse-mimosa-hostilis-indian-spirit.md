@@ -1,6 +1,6 @@
 ---
 title: "Jurema Coarse (Mimosa hostilis) - Indian Spirit"
-description: "Jurema Coarse (Mimosa hostilis) - Indian Spirit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Jurema Coarse (Mimosa hostilis) - Indian Spirit. In stock at CHF 8.40. Dispatched from Zürich in plain packaging."
 sku: "3207315"
 price: 7.98
 currency: "EUR"

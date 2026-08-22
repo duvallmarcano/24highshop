@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts Majestic XL | Red | Aluminium | 3D Logo"
-description: "Grinder 4-Parts Majestic XL | Red | Aluminium | 3D Logo Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts Majestic XL | Red | Aluminium | 3D Logo — aluminium. CHF 27.30, in stock in Zürich and shipped the same working day."
 sku: "4212551"
 price: 25.95
 currency: "EUR"

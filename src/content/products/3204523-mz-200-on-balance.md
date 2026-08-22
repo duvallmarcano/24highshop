@@ -1,6 +1,6 @@
 ---
 title: "MZ-200 On Balance"
-description: "MZ-200 On Balance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "MZ-200 On Balance. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3204523"
 price: 18.95
 currency: "EUR"

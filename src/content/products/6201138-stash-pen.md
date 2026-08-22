@@ -1,6 +1,6 @@
 ---
 title: "Stash Pen"
-description: "Store items discreetly with this stash pen. Looks like a normal marker. Free goodies with every order at 24high."
+description: "Stash Pen. In stock at CHF 6.25. Dispatched from Zürich in plain packaging."
 sku: "6201138"
 price: 5.95
 currency: "EUR"

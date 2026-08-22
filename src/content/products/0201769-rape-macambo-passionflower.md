@@ -1,6 +1,6 @@
 ---
 title: "Rapé Macambo Passionflower"
-description: "Rapé Macambo Passionflower Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rapé Macambo Passionflower. CHF 15.75, currently sold out. Restocked regularly in Zürich."
 sku: "0201769"
 price: 14.95
 currency: "EUR"

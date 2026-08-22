@@ -1,6 +1,6 @@
 ---
 title: "Space E Happy Caps"
-description: "Space E Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Space E Happy Caps. In stock at CHF 9.45. Dispatched from Zürich in plain packaging."
 sku: "8101968"
 price: 8.99
 currency: "EUR"

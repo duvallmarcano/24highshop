@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Amazonia Truffles"
-description: "Psilocybe Amazonia Truffles - 25 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Psilocybe Amazonia Truffles. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0210570"
 price: 19.95
 currency: "EUR"

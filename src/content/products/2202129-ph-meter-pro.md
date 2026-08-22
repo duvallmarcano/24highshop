@@ -1,6 +1,6 @@
 ---
 title: "PH - Meter Pro"
-description: "Want to order PH Meter Pro? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "PH - Meter Pro — grow supplies. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2202129"
 price: 19.95
 currency: "EUR"

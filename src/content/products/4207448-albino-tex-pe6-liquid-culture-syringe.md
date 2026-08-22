@@ -1,6 +1,6 @@
 ---
 title: "Albino Tex Pe6 Liquid Culture Syringe"
-description: "Albino Tex Pe6 Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Albino Tex Pe6 Liquid Culture Syringe — live liquid culture. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "4207448"
 price: 18.95
 currency: "EUR"

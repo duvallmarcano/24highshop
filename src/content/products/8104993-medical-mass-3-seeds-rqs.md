@@ -1,6 +1,6 @@
 ---
 title: "Medical Mass (RQS)"
-description: "Medical Mass - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Medical Mass (RQS) — cbd seeds. CHF 26.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8104993"
 price: 25.0
 currency: "EUR"

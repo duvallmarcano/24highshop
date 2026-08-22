@@ -1,6 +1,6 @@
 ---
 title: "Kanna Seeds (Sceletium tortuosum) - 10 Seeds"
-description: "Kanna Seeds (Sceletium tortuosum) - 10 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kanna Seeds (Sceletium tortuosum) - 10 Seeds. CHF 6.25. Back in stock shortly — shipped from Zürich when it lands."
 sku: "9106318"
 price: 5.95
 currency: "EUR"

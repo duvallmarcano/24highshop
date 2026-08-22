@@ -1,6 +1,6 @@
 ---
 title: "NARCOS - Cones White Edition 109mm 3 PCS"
-description: "NARCOS - Cones White Edition 109mm 3 PCS Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "NARCOS - Cones White Edition 109mm 3 PCS. CHF 1.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3212248"
 price: 1.25
 currency: "EUR"

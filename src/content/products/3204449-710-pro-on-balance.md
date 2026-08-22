@@ -1,6 +1,6 @@
 ---
 title: "710-PRO On Balance"
-description: "710-PRO On Balance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "710-PRO On Balance. CHF 47.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3204449"
 price: 44.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "APE221 (Albino Penis Envy) XL Mushroom Grow Bag"
-description: "APE221 Albino Penis Envy mushroom grow kit of premium quality. Easy to use, discreetly packaged and free goodies with every order."
+description: "APE221 (Albino Penis Envy) XL Mushroom Grow Bag — growkit specials. In stock at CHF 52.60. Dispatched from Zürich in plain packaging."
 sku: "5212524"
 price: 49.95
 currency: "EUR"

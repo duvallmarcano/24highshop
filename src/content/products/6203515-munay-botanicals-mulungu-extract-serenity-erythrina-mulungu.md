@@ -1,6 +1,6 @@
 ---
 title: "Munay Botanicals Mulungu Extract - Serenity (Erythrina mulungu)"
-description: "Mulungu extract 10ml by Munay Botanicals. Pure and powerful extract. Free goodie with every order."
+description: "Munay Botanicals Mulungu Extract - Serenity (Erythrina mulungu) — an extract. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6203515"
 price: 29.95
 currency: "EUR"

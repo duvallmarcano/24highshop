@@ -1,6 +1,6 @@
 ---
 title: "Card Grinder Alice in Grinderland - Cheshire"
-description: "Card Grinder Alice in Grinderland - Cheshire Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Card Grinder Alice in Grinderland - Cheshire. In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "0205105"
 price: 4.95
 currency: "EUR"

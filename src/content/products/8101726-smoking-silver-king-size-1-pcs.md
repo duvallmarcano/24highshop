@@ -1,6 +1,6 @@
 ---
 title: "Smoking Silver King Size"
-description: "Smoking Silver King Size - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Smoking Silver King Size. In stock at CHF 0.95. Dispatched from Zürich in plain packaging."
 sku: "8101726"
 price: 0.9
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Panaeolus Cyanescens (Jamaica) Liquid Culture Syringe"
-description: "Order the Panaeolus cyanescens ‘Jamaica’ Liquid Culture Syringe! Potent tropical strain. ✓Free goodies with every order!"
+description: "Panaeolus Cyanescens (Jamaica) Liquid Culture Syringe — live liquid culture. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "5203717"
 price: 18.95
 currency: "EUR"

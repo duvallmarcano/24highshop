@@ -1,6 +1,6 @@
 ---
 title: "Colombian Culture Ampoule"
-description: "Colombian Culture Ampoule Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Colombian Culture Ampoule. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "7112398"
 price: 16.95
 currency: "EUR"

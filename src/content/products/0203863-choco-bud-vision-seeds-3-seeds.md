@@ -1,6 +1,6 @@
 ---
 title: "Choco Bud ( Vision Seeds )"
-description: "Choco Bud ( Vision Seeds ) - 3 seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Choco Bud ( Vision Seeds ). CHF 23.70. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203863"
 price: 22.5
 currency: "EUR"

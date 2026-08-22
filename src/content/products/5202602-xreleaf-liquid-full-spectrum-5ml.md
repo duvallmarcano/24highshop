@@ -1,6 +1,6 @@
 ---
 title: "XRELEAF® Liquid Full Spectrum - 5ml"
-description: "XRELEAF® Liquid Full Spectrum - 5ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "XRELEAF® Liquid Full Spectrum - 5ml — full-spectrum. In stock at CHF 41.00. Dispatched from Zürich in plain packaging."
 sku: "5202602"
 price: 38.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Jack Herer (Vision Seeds)"
-description: "Jack Herer (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Jack Herer (Vision Seeds). CHF 18.15, in stock in Zürich and shipped the same working day."
 sku: "0203982"
 price: 17.25
 currency: "EUR"

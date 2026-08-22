@@ -1,6 +1,6 @@
 ---
 title: "Premium Kratom Gummies - Energy"
-description: "Buy Kratom Energy Gummies? ✓Free goodies with every order ✓Natural energy boost ✓Great taste ✓Discreetly shipped by 24High"
+description: "Premium Kratom Gummies - Energy. CHF 10.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5206828"
 price: 9.95
 currency: "EUR"

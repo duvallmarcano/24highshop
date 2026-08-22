@@ -1,6 +1,6 @@
 ---
 title: "Metal Pipe Flower Sleeve 7 cm"
-description: "Metal Pipe Flower Sleeve 7 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Metal Pipe Flower Sleeve 7 cm. In stock at CHF 4.15. Dispatched from Zürich in plain packaging."
 sku: "8107485"
 price: 3.95
 currency: "EUR"

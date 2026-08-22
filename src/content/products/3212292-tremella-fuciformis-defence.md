@@ -1,6 +1,6 @@
 ---
 title: "Tremella Fuciformis - Defence"
-description: "Tremella Fuciformis - Defence Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tremella Fuciformis - Defence. CHF 36.80, currently sold out. Restocked regularly in Zürich."
 sku: "3212292"
 price: 34.95
 currency: "EUR"

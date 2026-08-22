@@ -1,6 +1,6 @@
 ---
 title: "Wedding Cake x Triple OG (Vision Seeds) Feminized"
-description: "Want to order Wedding Cake x Triple OG Feminized? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Wedding Cake x Triple OG (Vision Seeds) Feminized. CHF 31.60. Back in stock shortly — shipped from Zürich when it lands."
 sku: "0204503"
 price: 30.0
 currency: "EUR"

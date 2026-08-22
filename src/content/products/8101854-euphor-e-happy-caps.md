@@ -1,6 +1,6 @@
 ---
 title: "Euphor E Happy Caps"
-description: "Euphor E Happy Caps Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Euphor E Happy Caps. CHF 9.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101854"
 price: 8.99
 currency: "EUR"

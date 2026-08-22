@@ -1,6 +1,6 @@
 ---
 title: "Flamez Yellow King Size Slim - Display 50pcs"
-description: "Flamez Yellow King Size Slim - Display 50pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Flamez Yellow King Size Slim - Display 50pcs. CHF 26.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101853"
 price: 24.95
 currency: "EUR"

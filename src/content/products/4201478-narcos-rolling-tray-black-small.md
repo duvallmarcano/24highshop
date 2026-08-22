@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Tray Black Small"
-description: "Narcos - Rolling Tray Black Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Rolling Tray Black Small. CHF 4.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4201478"
 price: 3.95
 currency: "EUR"

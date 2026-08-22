@@ -1,6 +1,6 @@
 ---
 title: "Crazy Jacks"
-description: "Want to order Crazy Jacks? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Crazy Jacks — capsules. CHF 14.70. Back in stock shortly — shipped from Zürich when it lands."
 sku: "0211792"
 price: 13.95
 currency: "EUR"

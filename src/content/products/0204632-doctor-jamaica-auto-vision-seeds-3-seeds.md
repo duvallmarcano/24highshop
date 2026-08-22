@@ -1,6 +1,6 @@
 ---
 title: "Doctor Jamaica Auto (Vision Seeds)"
-description: "Doctor Jamaica Auto (Vision Seeds) - 3 seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Doctor Jamaica Auto (Vision Seeds). In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "0204632"
 price: 22.5
 currency: "EUR"

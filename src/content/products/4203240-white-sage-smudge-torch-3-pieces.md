@@ -1,6 +1,6 @@
 ---
 title: "White Sage Smudge Torch - 3 pieces"
-description: "White Sage Smudge Torch - 3 pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "White Sage Smudge Torch - 3 pieces. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4203240"
 price: 16.95
 currency: "EUR"

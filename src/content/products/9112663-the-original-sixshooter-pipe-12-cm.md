@@ -1,6 +1,6 @@
 ---
 title: "The Original SixShooter Pipe 12 cm"
-description: "The Original SixShooter Pipe 12 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Original SixShooter Pipe 12 cm — aluminium. CHF 42.05, in stock in Zürich and shipped the same working day."
 sku: "9112663"
 price: 39.95
 currency: "EUR"

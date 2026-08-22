@@ -1,6 +1,6 @@
 ---
 title: "Aluminium Ashtray Round | Silver | JNKO Premium"
-description: "Aluminium Ashtray Round | Silver | JNKO Premium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Aluminium Ashtray Round | Silver | JNKO Premium — aluminium. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4212464"
 price: 16.95
 currency: "EUR"

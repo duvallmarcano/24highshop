@@ -1,6 +1,6 @@
 ---
 title: "Ivac Spacevac 0,06 liter/5 g Black Cap/Black Body"
-description: "Ivac Spacevac 0,06 liter/5 g Black Cap/Black Body Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ivac Spacevac 0,06 liter/5 g Black Cap/Black Body — stash & storage boxes. CHF 7.30, in stock in Zürich and shipped the same working day."
 sku: "8106810"
 price: 6.95
 currency: "EUR"

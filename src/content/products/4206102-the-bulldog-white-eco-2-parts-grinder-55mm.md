@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog White Eco 2-Parts Grinder - 55mm"
-description: "The Bulldog White Eco 2-Parts Grinder - 55mm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog White Eco 2-Parts Grinder - 55mm. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4206102"
 price: 4.95
 currency: "EUR"

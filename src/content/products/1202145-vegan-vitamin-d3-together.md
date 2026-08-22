@@ -1,6 +1,6 @@
 ---
 title: "Vegan Vitamin D3 - Together"
-description: "Vegan Vitamin D3 - Together Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vegan Vitamin D3 - Together — vegan. CHF 9.40, currently sold out. Restocked regularly in Zürich."
 sku: "1202145"
 price: 8.95
 currency: "EUR"

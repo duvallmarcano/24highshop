@@ -1,6 +1,6 @@
 ---
 title: "La Blanca Gold Auto (Vision Seeds)"
-description: "La Blanca Gold Auto (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "La Blanca Gold Auto (Vision Seeds) — feminised. CHF 18.40, in stock in Zürich and shipped the same working day."
 sku: "0204406"
 price: 17.5
 currency: "EUR"

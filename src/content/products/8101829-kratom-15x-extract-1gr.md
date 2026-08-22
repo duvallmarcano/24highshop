@@ -1,6 +1,6 @@
 ---
 title: "Kratom 15x / 20x Extract"
-description: "Kratom 15x Extract - 1gr Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Kratom 15x / 20x Extract. In stock at CHF 11.55. Dispatched from Zürich in plain packaging."
 sku: "8101829"
 price: 10.95
 currency: "EUR"

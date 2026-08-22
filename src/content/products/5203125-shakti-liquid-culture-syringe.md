@@ -1,6 +1,6 @@
 ---
 title: "Shakti Liquid Culture Syringe"
-description: "Order the Shakti Liquid Culture Syringe now! Fast colonization, strong fruiting, and high potency. ✓Free goodies with every order"
+description: "Shakti Liquid Culture Syringe — live liquid culture. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5203125"
 price: 18.95
 currency: "EUR"

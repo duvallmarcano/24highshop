@@ -1,6 +1,6 @@
 ---
 title: "Critical Impact (Vision Seeds)"
-description: "Critical Impact (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Critical Impact (Vision Seeds). CHF 18.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0203905"
 price: 17.5
 currency: "EUR"

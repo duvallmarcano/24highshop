@@ -1,6 +1,6 @@
 ---
 title: "Purple Queen Automatic (RQS)"
-description: "Purple Queen Automatic (RQS) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Purple Queen Automatic (RQS) — autoflower seeds. CHF 24.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5202248"
 price: 23.0
 currency: "EUR"

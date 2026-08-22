@@ -1,6 +1,6 @@
 ---
 title: "Disposable Face Mask"
-description: "Disposable Face Mask Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Disposable Face Mask — sterile. In stock at CHF 0.35. Dispatched from Zürich in plain packaging."
 sku: "9107668"
 price: 0.35
 currency: "EUR"

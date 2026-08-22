@@ -1,6 +1,6 @@
 ---
 title: "White Runtz (Vision Seeds)"
-description: "White Runtz seeds by Vision Seeds. Popular strain with sweet flavor. Free goodie with every order."
+description: "White Runtz (Vision Seeds) — feminised. CHF 18.40, in stock in Zürich and shipped the same working day."
 sku: "6203368"
 price: 17.5
 currency: "EUR"

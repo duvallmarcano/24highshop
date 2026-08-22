@@ -1,6 +1,6 @@
 ---
 title: "Hawaiian Baby Woodrose Madagascar - 10 Seeds"
-description: "Hawaiian Baby Woodrose Madagascar - 10 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Hawaiian Baby Woodrose Madagascar - 10 Seeds, 10 seeds. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "0210630"
 price: 5.95
 currency: "EUR"

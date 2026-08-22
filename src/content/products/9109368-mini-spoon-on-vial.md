@@ -1,6 +1,6 @@
 ---
 title: "Mini Spoon On Vial"
-description: "Mini Spoon On Vial Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mini Spoon On Vial — sniff articles. CHF 4.15, in stock in Zürich and shipped the same working day."
 sku: "9109368"
 price: 3.95
 currency: "EUR"

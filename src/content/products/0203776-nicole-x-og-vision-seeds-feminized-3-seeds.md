@@ -1,6 +1,6 @@
 ---
 title: "Nicole x OG (Vision Seeds) feminized"
-description: "Nicole x OG (Vision Seeds) feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Nicole x OG (Vision Seeds) feminized. In stock at CHF 34.20. Dispatched from Zürich in plain packaging."
 sku: "0203776"
 price: 32.5
 currency: "EUR"

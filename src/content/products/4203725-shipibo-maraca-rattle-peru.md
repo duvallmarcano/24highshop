@@ -1,6 +1,6 @@
 ---
 title: "Shipibo Maraca Rattle - Peru"
-description: "Shipibo Maraca Rattle - Peru Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Shipibo Maraca Rattle - Peru. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4203725"
 price: 19.95
 currency: "EUR"

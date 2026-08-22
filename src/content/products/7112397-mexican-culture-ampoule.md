@@ -1,6 +1,6 @@
 ---
 title: "Mexican Culture Ampoule"
-description: "Mexican Culture Ampoule Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mexican Culture Ampoule. CHF 17.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112397"
 price: 16.95
 currency: "EUR"

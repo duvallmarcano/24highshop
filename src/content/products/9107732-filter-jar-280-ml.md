@@ -1,6 +1,6 @@
 ---
 title: "Filter Jar"
-description: "Filter jar- 280 ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Filter Jar — grow supplies. In stock at CHF 1.85. Dispatched from Zürich in plain packaging."
 sku: "9107732"
 price: 1.75
 currency: "EUR"

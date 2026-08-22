@@ -1,6 +1,6 @@
 ---
 title: "Guarana Indian Elements"
-description: "Guarana Indian Elements Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Guarana Indian Elements. In stock at CHF 9.40. Dispatched from Zürich in plain packaging."
 sku: "8101793"
 price: 8.95
 currency: "EUR"

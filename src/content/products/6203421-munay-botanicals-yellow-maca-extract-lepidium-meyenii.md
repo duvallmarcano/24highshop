@@ -1,6 +1,6 @@
 ---
 title: "Munay Botanicals Yellow Maca Extract - Lepidium meyenii"
-description: "Yellow Maca extract 50ml by Munay Botanicals. Lepidium meyenii. Pure and powerful. Free goodie with every order."
+description: "Munay Botanicals Yellow Maca Extract - Lepidium meyenii — full-spectrum. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6203421"
 price: 19.95
 currency: "EUR"

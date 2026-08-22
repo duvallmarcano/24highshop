@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Growing Guide"
-description: "Cannabis Growing Guide Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Growing Guide. CHF 26.25, in stock in Zürich and shipped the same working day."
 sku: "4207618"
 price: 24.95
 currency: "EUR"

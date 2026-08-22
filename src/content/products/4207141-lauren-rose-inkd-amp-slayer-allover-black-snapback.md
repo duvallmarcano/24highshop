@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Ink'd & Slayer Allover Black Snapback"
-description: "Want to order Lauren Rose Ink'd Slayer Black Snapback? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Lauren Rose - Ink'd & Slayer Allover Black Snapback — 4:20 lifestyle. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4207141"
 price: 29.95
 currency: "EUR"

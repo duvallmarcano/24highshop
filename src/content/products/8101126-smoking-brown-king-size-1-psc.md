@@ -1,6 +1,6 @@
 ---
 title: "Smoking Brown King Size"
-description: "Smoking Brown King Size - 1 Psc Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Smoking Brown King Size. CHF 0.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101126"
 price: 0.9
 currency: "EUR"

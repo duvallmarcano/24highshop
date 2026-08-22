@@ -1,6 +1,6 @@
 ---
 title: "Medical CBD Mix (RQS)"
-description: "Medical CBD Mix - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Medical CBD Mix (RQS) — cbd seeds. CHF 22.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8104355"
 price: 21.5
 currency: "EUR"

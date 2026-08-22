@@ -1,6 +1,6 @@
 ---
 title: "The Bulldog Original Silver King Size Slim Rolling Papers (50pcs/display)"
-description: "The Bulldog Original Silver King Size Slim Rolling Papers (50pcs/display) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "The Bulldog Original Silver King Size Slim Rolling Papers (50pcs/display). CHF 26.25, in stock in Zürich and shipped the same working day."
 sku: "4206723"
 price: 24.95
 currency: "EUR"

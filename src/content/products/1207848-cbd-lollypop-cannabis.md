@@ -1,6 +1,6 @@
 ---
 title: "CBD Lollypop - Cannabis"
-description: "CBD Lollypop - Cannabis Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Lollypop - Cannabis — cbd edibles. CHF 2.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1207848"
 price: 1.99
 currency: "EUR"

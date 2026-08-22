@@ -1,6 +1,6 @@
 ---
 title: "Wild dagga (Leonotis leonorus) - 10 Seeds"
-description: "Wild dagga (Leonotis leonorus) - 10 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wild dagga (Leonotis leonorus) - 10 Seeds. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "3203323"
 price: 5.95
 currency: "EUR"

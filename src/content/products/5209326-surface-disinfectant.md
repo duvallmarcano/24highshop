@@ -1,6 +1,6 @@
 ---
 title: "Surface disinfectant"
-description: "Surface Disinfectant ✓Fast-acting ✓Powerful cleaning ✓Free goodies with every order at 24High"
+description: "Surface disinfectant — grow supplies. CHF 9.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5209326"
 price: 8.95
 currency: "EUR"

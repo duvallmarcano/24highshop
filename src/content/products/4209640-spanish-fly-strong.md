@@ -1,6 +1,6 @@
 ---
 title: "Spanish Fly Strong"
-description: "Spanish Fly Strong Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Spanish Fly Strong. In stock at CHF 21.00. Dispatched from Zürich in plain packaging."
 sku: "4209640"
 price: 19.95
 currency: "EUR"

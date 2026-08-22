@@ -1,6 +1,6 @@
 ---
 title: "Gold Bar Lighter Slim Size"
-description: "Gold Bar Lighter Slim Size Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Gold Bar Lighter Slim Size. In stock at CHF 9.40. Dispatched from Zürich in plain packaging."
 sku: "4211962"
 price: 8.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Liefdesbonbon - The Love XL 2 Pieces"
-description: "Love Bonbon XL – 2 pieces of passion ✓Tropical taste ✓Fast effect ✓Compact ✓Free goodies with every order at 24High"
+description: "Liefdesbonbon - The Love XL 2 Pieces, 2 Pieces. CHF 17.30, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5208992"
 price: 16.45
 currency: "EUR"

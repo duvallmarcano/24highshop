@@ -1,6 +1,6 @@
 ---
 title: "Mondo Grow Kit McKennaii"
-description: "Mondo Grow Kit McKennaii Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Grow Kit McKennaii — growkits mushroom. CHF 36.80, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0212594"
 price: 34.95
 currency: "EUR"

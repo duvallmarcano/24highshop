@@ -1,6 +1,6 @@
 ---
 title: "Higher Standards dot wipes"
-description: "Higher Standards dot wipes Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Higher Standards dot wipes. In stock at CHF 1.00. Dispatched from Zürich in plain packaging."
 sku: "1204361"
 price: 0.95
 currency: "EUR"

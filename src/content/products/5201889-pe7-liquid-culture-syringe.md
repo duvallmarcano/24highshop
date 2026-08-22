@@ -1,6 +1,6 @@
 ---
 title: "PE7 Liquid Culture Syringe"
-description: "PE7 Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "PE7 Liquid Culture Syringe. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "5201889"
 price: 18.95
 currency: "EUR"

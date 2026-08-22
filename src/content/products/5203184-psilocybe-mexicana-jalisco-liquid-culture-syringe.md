@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Mexicana (Jalisco) Liquid Culture Syringe"
-description: "Order the Psilocybe Mexicana (Jalisco) Liquid Culture Syringe! Unique sclerotia-producing strain. ✓Free goodies with every order!"
+description: "Psilocybe Mexicana (Jalisco) Liquid Culture Syringe — live liquid culture. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5203184"
 price: 18.95
 currency: "EUR"

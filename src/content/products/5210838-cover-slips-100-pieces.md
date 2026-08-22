@@ -1,6 +1,6 @@
 ---
 title: "Cover Slips – 100 Pieces"
-description: "Cover slips 100 pieces for clear microscopy results. Perfect for study or hobby. Durable and precise. Free goodies with every order!"
+description: "Cover Slips – 100 Pieces, 100 Pieces. CHF 9.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5210838"
 price: 8.95
 currency: "EUR"

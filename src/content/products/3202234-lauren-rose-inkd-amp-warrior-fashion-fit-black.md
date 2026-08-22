@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Ink'd & Warrior Fashion Fit - Black"
-description: "Lauren Rose - Ink'd & Warrior Fashion Fit - Black Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Ink'd & Warrior Fashion Fit - Black — 4:20 lifestyle. CHF 31.55, in stock in Zürich and shipped the same working day."
 sku: "3202234"
 price: 29.95
 currency: "EUR"

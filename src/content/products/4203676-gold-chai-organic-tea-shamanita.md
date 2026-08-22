@@ -1,6 +1,6 @@
 ---
 title: "Gold Chai Tea - Shamanita"
-description: "Gold Chai Tea - Shamanita Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Gold Chai Tea - Shamanita. CHF 2.65, in stock in Zürich and shipped the same working day."
 sku: "4203676"
 price: 2.5
 currency: "EUR"

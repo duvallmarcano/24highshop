@@ -1,6 +1,6 @@
 ---
 title: "Royal Cookies (RQS)"
-description: "Royal Cookies - 3 seeds (RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Cookies (RQS) — feminized seeds. In stock at CHF 28.40. Dispatched from Zürich in plain packaging."
 sku: "8102725"
 price: 27.0
 currency: "EUR"

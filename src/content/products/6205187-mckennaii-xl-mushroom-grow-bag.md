@@ -1,6 +1,6 @@
 ---
 title: "McKennaii XL Mushroom Grow Bag"
-description: "Grow McKennaii mushrooms with this XL grow bag. Easy to use, high yield and free goodies with every order."
+description: "McKennaii XL Mushroom Grow Bag — mystic fungi growkits. In stock at CHF 52.60. Dispatched from Zürich in plain packaging."
 sku: "6205187"
 price: 49.95
 currency: "EUR"

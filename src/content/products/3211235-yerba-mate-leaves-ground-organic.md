@@ -1,6 +1,6 @@
 ---
 title: "Ground Yerba Maté Leaves"
-description: "Ground Yerba Maté Leaves Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ground Yerba Maté Leaves. In stock at CHF 7.30. Dispatched from Zürich in plain packaging Article 3211235."
 sku: "3211235"
 price: 6.95
 currency: "EUR"

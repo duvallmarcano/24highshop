@@ -1,6 +1,6 @@
 ---
 title: "SH-100 GOLD - On Balance"
-description: "SH-100 GOLD - On Balance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "SH-100 GOLD - On Balance. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "3206549"
 price: 29.95
 currency: "EUR"

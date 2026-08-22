@@ -1,6 +1,6 @@
 ---
 title: "Ashtray Round Glass | Luxury Art Series | Golden Skull 1"
-description: "Ashtray Round Glass | Luxury Art Series | Golden Skull 1 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ashtray Round Glass | Luxury Art Series | Golden Skull 1 — glass. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212746"
 price: 9.95
 currency: "EUR"

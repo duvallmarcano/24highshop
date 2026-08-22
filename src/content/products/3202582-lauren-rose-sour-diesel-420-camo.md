@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Sour Diesel 420 Camo"
-description: "Lauren Rose - Sour Diesel 420 Camo Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Sour Diesel 420 Camo — 4:20 lifestyle. CHF 31.55. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3202582"
 price: 29.95
 currency: "EUR"

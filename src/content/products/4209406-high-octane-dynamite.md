@@ -1,6 +1,6 @@
 ---
 title: "High Octane Dynamite"
-description: "High Octane Dynamite Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "High Octane Dynamite. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "4209406"
 price: 24.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "RAW Aluminium Tube Green 20th Anniversary"
-description: "RAW Tube Green ✓Limited Edition ✓Aluminum ✓Joint protection ✓Free goodies with every order at 24High"
+description: "RAW Aluminium Tube Green 20th Anniversary — aluminium. In stock at CHF 3.15. Dispatched from Zürich in plain packaging."
 sku: "5209652"
 price: 2.99
 currency: "EUR"

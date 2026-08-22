@@ -1,6 +1,6 @@
 ---
 title: "Palo Chonta Kuripe"
-description: "Buy Palo Chonta Kuripe at 24High. ✓Free goodies with every order ✓Authentic rapé applicator ✓Traditional Palo Chonta wood ✓Discrete shipping."
+description: "Palo Chonta Kuripe — ceremonial accessories. CHF 21.00. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5204658"
 price: 19.95
 currency: "EUR"

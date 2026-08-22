@@ -1,6 +1,6 @@
 ---
 title: "Atlantis Truffles"
-description: "Atlantis - 15 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Atlantis Truffles. CHF 15.75. Ships from Zürich in 1–2 working days, unmarked."
 sku: "7112300"
 price: 14.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Amnesia (Vision Seeds)"
-description: "Amnesia (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Amnesia (Vision Seeds). CHF 26.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203450"
 price: 25.0
 currency: "EUR"

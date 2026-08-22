@@ -1,6 +1,6 @@
 ---
 title: "Ceremonial Raw Cacao Nibs - Peru"
-description: "Raw Cacao Nibs - Peru Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ceremonial Raw Cacao Nibs - Peru. CHF 15.75. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4202293"
 price: 14.95
 currency: "EUR"

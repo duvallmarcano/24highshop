@@ -1,6 +1,6 @@
 ---
 title: "Welcome To Psilocybin"
-description: "Welcome To Psilocybin Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Welcome To Psilocybin. CHF 26.25. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4207472"
 price: 24.95
 currency: "EUR"

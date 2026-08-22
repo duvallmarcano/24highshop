@@ -1,6 +1,6 @@
 ---
 title: "Magic Truffle Jar"
-description: "High quality Magic Truffle Jar for safe and discreet storage. Includes free goodies with every order at 24high."
+description: "Magic Truffle Jar. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201855"
 price: 29.95
 currency: "EUR"

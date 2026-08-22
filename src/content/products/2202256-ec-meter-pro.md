@@ -1,6 +1,6 @@
 ---
 title: "EC - Meter Pro"
-description: "Want to order EC Meter Pro? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "EC - Meter Pro — grow supplies. CHF 21.00, on the shelf in Zürich. Discreet tracked delivery."
 sku: "2202256"
 price: 19.95
 currency: "EUR"

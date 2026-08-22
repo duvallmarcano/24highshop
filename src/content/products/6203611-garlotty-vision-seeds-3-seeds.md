@@ -1,6 +1,6 @@
 ---
 title: "Garlotty (Vision Seeds)"
-description: "Garlotty seeds by Vision Seeds. Unique and powerful strain. Free goodie with every order."
+description: "Garlotty (Vision Seeds) — feminised. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6203611"
 price: 22.5
 currency: "EUR"

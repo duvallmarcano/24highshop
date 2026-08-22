@@ -1,6 +1,6 @@
 ---
 title: "Vision Kosher (Vision Seeds) Feminized"
-description: "Vision Kosher (Vision Seeds) Feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vision Kosher (Vision Seeds) Feminized. In stock at CHF 34.20. Dispatched from Zürich in plain packaging."
 sku: "0204654"
 price: 32.5
 currency: "EUR"

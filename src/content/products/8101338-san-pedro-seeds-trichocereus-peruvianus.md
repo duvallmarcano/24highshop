@@ -1,6 +1,6 @@
 ---
 title: "San Pedro seeds (Trichocereus Peruvianus)"
-description: "San Pedro seeds (Trichocereus Peruvianus) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro seeds (Trichocereus Peruvianus) — mescaline cacti. CHF 13.65, in stock in Zürich and shipped the same working day."
 sku: "8101338"
 price: 12.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Ashtray Round Glass | Luxury Art Series | Mafia Dog"
-description: "Ashtray Round Glass | Luxury Art Series | Mafia Dog Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ashtray Round Glass | Luxury Art Series | Mafia Dog — glass. In stock at CHF 10.45. Dispatched from Zürich in plain packaging."
 sku: "4212987"
 price: 9.95
 currency: "EUR"

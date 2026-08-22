@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts XL | Aluminium | Psychedelic Series | Magic Mushrooms 1"
-description: "Grinder 4-Parts XL | Aluminium | Psychedelic Series | Magic Mushrooms 1 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts XL | Aluminium | Psychedelic Series | Magic Mushrooms 1 — aluminium. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4211924"
 price: 22.5
 currency: "EUR"

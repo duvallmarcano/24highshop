@@ -1,6 +1,6 @@
 ---
 title: "Aluminium Ashtray Round 10cm |Pink | JNKO Premium"
-description: "Aluminium Ashtray Round 10cm |Pink | JNKO Premium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Aluminium Ashtray Round 10cm |Pink | JNKO Premium — aluminium, 10cm. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4212882"
 price: 16.95
 currency: "EUR"

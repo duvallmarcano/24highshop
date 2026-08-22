@@ -1,6 +1,6 @@
 ---
 title: "E phedra Sinica - 20 zaden"
-description: "E phedra Sinica - 20 zaden Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "E phedra Sinica - 20 zaden — exotic seeds. CHF 6.25, currently sold out. Restocked regularly in Zürich."
 sku: "0201262"
 price: 5.95
 currency: "EUR"

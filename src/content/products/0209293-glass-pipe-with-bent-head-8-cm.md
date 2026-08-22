@@ -1,6 +1,6 @@
 ---
 title: "Glass Pipe With Bent Head 8 cm"
-description: "Glass Pipe With Bent Head 8 cm Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Glass Pipe With Bent Head 8 cm — glass. In stock at CHF 2.05. Dispatched from Zürich in plain packaging."
 sku: "0209293"
 price: 1.95
 currency: "EUR"

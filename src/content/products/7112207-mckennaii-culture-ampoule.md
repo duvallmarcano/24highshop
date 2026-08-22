@@ -1,6 +1,6 @@
 ---
 title: "McKennaii Culture Ampoule"
-description: "McKennaii Culture Ampoule Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "McKennaii Culture Ampoule. CHF 17.85, in stock in Zürich and shipped the same working day."
 sku: "7112207"
 price: 16.95
 currency: "EUR"

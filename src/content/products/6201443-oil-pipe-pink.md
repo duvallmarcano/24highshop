@@ -1,6 +1,6 @@
 ---
 title: "Oil Pipe - Pink"
-description: "Oil Pipe in pink. Compact glass pipe, heat resistant and easy to use. Free goodies with every order."
+description: "Oil Pipe - Pink. CHF 3.10, in stock in Zürich and shipped the same working day."
 sku: "6201443"
 price: 2.95
 currency: "EUR"

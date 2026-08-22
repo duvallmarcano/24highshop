@@ -1,6 +1,6 @@
 ---
 title: "Royal Sex"
-description: "Want to order Royal Sex? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Royal Sex. CHF 9.40. Ships from Zürich in 1–2 working days, unmarked."
 sku: "8101615"
 price: 8.95
 currency: "EUR"

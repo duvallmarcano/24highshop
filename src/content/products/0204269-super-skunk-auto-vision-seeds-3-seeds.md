@@ -1,6 +1,6 @@
 ---
 title: "Super Skunk Auto (Vision Seeds)"
-description: "Super Skunk Auto (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Super Skunk Auto (Vision Seeds) — autoflowering. CHF 18.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0204269"
 price: 17.5
 currency: "EUR"

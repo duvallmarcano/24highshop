@@ -1,6 +1,6 @@
 ---
 title: "Psilocybin Mushroom Handbook"
-description: "Psilocybin Mushroom Handbook Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Psilocybin Mushroom Handbook. CHF 26.25, in stock in Zürich and shipped the same working day."
 sku: "2210861"
 price: 24.95
 currency: "EUR"

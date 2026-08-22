@@ -1,6 +1,6 @@
 ---
 title: "Juicy Jay's Peaches & Cream On Roll"
-description: "Juicy Jay's Peaches & Cream On Roll - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Juicy Jay's Peaches & Cream On Roll. CHF 1.85. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0211419"
 price: 1.75
 currency: "EUR"

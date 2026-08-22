@@ -1,6 +1,6 @@
 ---
 title: "Acrylic Bong 1.5"
-description: "Acrylic Bong 1.5 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Acrylic Bong 1.5. In stock at CHF 13.15. Dispatched from Zürich in plain packaging."
 sku: "8110155"
 price: 12.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Bears - Purple Haze"
-description: "Cannabis Bears - Purple Haze Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Bears - Purple Haze. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4206807"
 price: 4.95
 currency: "EUR"

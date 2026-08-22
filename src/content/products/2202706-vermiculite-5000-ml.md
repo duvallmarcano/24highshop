@@ -1,6 +1,6 @@
 ---
 title: "Vermiculite - 5000 ML"
-description: "Vermiculite - 5000 ML Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vermiculite - 5000 ML, 5000 ML. CHF 10.45, on the shelf in Zürich. Discreet tracked delivery."
 sku: "2202706"
 price: 9.95
 currency: "EUR"

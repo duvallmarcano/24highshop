@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - Gelato Strain Strapback Hat - White"
-description: "Lauren Rose - Gelato Strain Strapback Hat - White Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - Gelato Strain Strapback Hat - White — 4:20 lifestyle. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "3202693"
 price: 29.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Happy Budz"
-description: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Happy Budz Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts XL | Aluminium | Stay 420 Series | Happy Budz — aluminium. In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "4211234"
 price: 22.5
 currency: "EUR"

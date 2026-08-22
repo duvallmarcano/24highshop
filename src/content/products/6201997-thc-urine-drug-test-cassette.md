@@ -1,6 +1,6 @@
 ---
 title: "THC Urine Drug Test Cassette"
-description: "THC urine test cassette for fast and clear detection. Single test with pipette. Free goodies included with every order."
+description: "THC Urine Drug Test Cassette. CHF 3.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "6201997"
 price: 2.95
 currency: "EUR"

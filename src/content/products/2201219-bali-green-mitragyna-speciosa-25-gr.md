@@ -1,6 +1,6 @@
 ---
 title: "Bali Green - Mitragyna Speciosa"
-description: "Bali Green - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bali Green - Mitragyna Speciosa. In stock at CHF 8.35. Dispatched from Zürich in plain packaging."
 sku: "2201219"
 price: 7.95
 currency: "EUR"

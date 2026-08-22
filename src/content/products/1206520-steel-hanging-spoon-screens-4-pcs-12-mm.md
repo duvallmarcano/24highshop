@@ -1,6 +1,6 @@
 ---
 title: "Steel Hanging Spoon Screens 4 Pcs"
-description: "Steel Hanging Spoon Screens 4 Pcs - 12 MM Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Steel Hanging Spoon Screens 4 Pcs, 4 Pcs. CHF 1.05, in stock in Zürich and shipped the same working day."
 sku: "1206520"
 price: 0.99
 currency: "EUR"

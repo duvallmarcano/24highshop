@@ -1,6 +1,6 @@
 ---
 title: "Munay Botanicals Black Maca Extract - Lepidium meyenii"
-description: "Black Maca extract 50ml by Munay Botanicals. Lepidium meyenii. Pure and powerful. Free goodie with every order."
+description: "Munay Botanicals Black Maca Extract - Lepidium meyenii — full-spectrum. CHF 26.25, in stock in Zürich and shipped the same working day."
 sku: "6203153"
 price: 24.95
 currency: "EUR"

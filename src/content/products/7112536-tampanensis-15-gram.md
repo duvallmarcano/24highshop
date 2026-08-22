@@ -1,6 +1,6 @@
 ---
 title: "Tampanensis Truffles"
-description: "Order the mild Tampanensis Truffles at 24High. Enjoy a philosophical trip with visual hallucinations. Discreet shipping and fast delivery."
+description: "Tampanensis Truffles. In stock at CHF 13.65. Dispatched from Zürich in plain packaging."
 sku: "7112536"
 price: 12.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "San Pedro Cutting Peruvianus (Trichocereus) 25 - 35 CM"
-description: "San Pedro Cutting Peruvianus (Trichocereus) 25 - 35 CM Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro Cutting Peruvianus (Trichocereus) 25 - 35 CM — mescaline cacti. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "0204371"
 price: 29.95
 currency: "EUR"

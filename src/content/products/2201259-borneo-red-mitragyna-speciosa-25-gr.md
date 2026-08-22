@@ -1,6 +1,6 @@
 ---
 title: "Borneo Red - Mitragyna Speciosa"
-description: "Borneo Red - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Borneo Red - Mitragyna Speciosa. In stock at CHF 8.35. Dispatched from Zürich in plain packaging."
 sku: "2201259"
 price: 7.95
 currency: "EUR"

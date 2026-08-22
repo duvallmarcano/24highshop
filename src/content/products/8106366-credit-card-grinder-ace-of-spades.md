@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Grinder, Ace Of Spades"
-description: "Credit Card Grinder, Ace Of Spades Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Credit Card Grinder, Ace Of Spades. CHF 5.20. Back in stock shortly — shipped from Zürich when it lands."
 sku: "8106366"
 price: 4.95
 currency: "EUR"

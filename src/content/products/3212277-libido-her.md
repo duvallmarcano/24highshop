@@ -1,6 +1,6 @@
 ---
 title: "Libido - Her"
-description: "Want to order Libido Her? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Libido - Her. CHF 24.15. Back in stock shortly — shipped from Zürich when it lands."
 sku: "3212277"
 price: 22.95
 currency: "EUR"

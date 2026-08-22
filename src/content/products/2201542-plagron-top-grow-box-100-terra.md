@@ -1,6 +1,6 @@
 ---
 title: "Plagron – Top Grow Box 100% TERRA"
-description: "Plagron – Top Grow Box 100% TERRA Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plagron – Top Grow Box 100% TERRA. CHF 62.05, in stock in Zürich and shipped the same working day."
 sku: "2201542"
 price: 58.95
 currency: "EUR"

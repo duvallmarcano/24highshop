@@ -1,6 +1,6 @@
 ---
 title: "ApeStoned Kong Case Classic"
-description: "Protect your smoking gear in style with the ApeStoned Kong Case Classic. Strong, waterproof, and smell-proof. ✓Compact design ✓Perfect for travel ✓Fits grinders, papers & more ✓Free goodies with every order at 24High."
+description: "ApeStoned Kong Case Classic — stash & storage boxes. CHF 13.65, in stock in Zürich and shipped the same working day."
 sku: "5210817"
 price: 12.95
 currency: "EUR"

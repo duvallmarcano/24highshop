@@ -1,6 +1,6 @@
 ---
 title: "Grip bags red 30 x 30 mm - 1000 pieces"
-description: "Grip bags red 30 x 30 mm - 1000 pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grip bags red 30 x 30 mm - 1000 pieces, 1000 pieces. In stock at CHF 16.80. Dispatched from Zürich in plain packaging."
 sku: "0205217"
 price: 15.95
 currency: "EUR"

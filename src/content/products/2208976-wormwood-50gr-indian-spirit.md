@@ -1,6 +1,6 @@
 ---
 title: "Wormwood Indian Spirit"
-description: "Wormwood - 50GR Indian spirit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Wormwood Indian Spirit — hallucinating herbs. CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "2208976"
 price: 6.95
 currency: "EUR"

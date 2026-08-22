@@ -1,6 +1,6 @@
 ---
 title: "Fantastic 5 Combination"
-description: "Fantastic 5 Combination Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Fantastic 5 Combination — capsules, 120 capsules. CHF 36.80, in stock in Zürich and shipped the same working day."
 sku: "2204633"
 price: 34.95
 currency: "EUR"

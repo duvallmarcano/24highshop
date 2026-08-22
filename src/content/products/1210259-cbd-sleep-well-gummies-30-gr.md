@@ -1,6 +1,6 @@
 ---
 title: "CBD Sleep Well Gummies"
-description: "CBD Sleep Well Gummies - 30 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Sleep Well Gummies, 30 grams. CHF 10.45, in stock in Zürich and shipped the same working day."
 sku: "1210259"
 price: 9.95
 currency: "EUR"

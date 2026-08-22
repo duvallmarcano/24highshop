@@ -1,6 +1,6 @@
 ---
 title: "Party Kit Deluxe 2"
-description: "Party Kit Deluxe 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Party Kit Deluxe 2. In stock at CHF 14.70. Dispatched from Zürich in plain packaging."
 sku: "3207719"
 price: 13.95
 currency: "EUR"

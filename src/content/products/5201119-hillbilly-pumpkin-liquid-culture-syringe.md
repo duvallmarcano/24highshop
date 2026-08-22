@@ -1,6 +1,6 @@
 ---
 title: "Hillbilly Pumpkin Liquid Culture Syringe"
-description: "Hillbilly Pumpkin Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Hillbilly Pumpkin Liquid Culture Syringe. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "5201119"
 price: 18.95
 currency: "EUR"

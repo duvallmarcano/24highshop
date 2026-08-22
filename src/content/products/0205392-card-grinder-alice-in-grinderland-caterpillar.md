@@ -1,6 +1,6 @@
 ---
 title: "Card Grinder Alice in Grinderland - Caterpillar"
-description: "Card Grinder Alice in Grinderland - Caterpillar Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Card Grinder Alice in Grinderland - Caterpillar. In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "0205392"
 price: 4.95
 currency: "EUR"

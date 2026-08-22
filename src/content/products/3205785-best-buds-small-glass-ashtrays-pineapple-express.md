@@ -1,6 +1,6 @@
 ---
 title: "Best Buds - Small Glass Ashtrays Pineapple Express"
-description: "Best Buds - Small Glass Ashtrays Pineapple Express Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Best Buds - Small Glass Ashtrays Pineapple Express — glass. CHF 4.15. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3205785"
 price: 3.95
 currency: "EUR"

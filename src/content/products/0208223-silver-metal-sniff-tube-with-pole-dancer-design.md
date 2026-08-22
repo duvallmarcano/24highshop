@@ -1,6 +1,6 @@
 ---
 title: "METAL SNIFF TUBE WITH POLE DANCER DESIGN"
-description: "SILVER METAL SNIFF TUBE WITH POLE DANCER DESIGN Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "METAL SNIFF TUBE WITH POLE DANCER DESIGN. In stock at CHF 7.30. Dispatched from Zürich in plain packaging."
 sku: "0208223"
 price: 6.95
 currency: "EUR"

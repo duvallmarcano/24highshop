@@ -1,6 +1,6 @@
 ---
 title: "Amnesia Haze Automatic (RQS)"
-description: "Amnesia haze auto - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Amnesia Haze Automatic (RQS). CHF 28.40, in stock in Zürich and shipped the same working day."
 sku: "8102175"
 price: 27.0
 currency: "EUR"

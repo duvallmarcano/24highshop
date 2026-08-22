@@ -1,6 +1,6 @@
 ---
 title: "Strawberry Cough (RQS)"
-description: "Strawberry Cough - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Strawberry Cough (RQS) — feminized seeds. CHF 26.30, in stock in Zürich and shipped the same working day."
 sku: "4211754"
 price: 25.0
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Granddaddy Purple (RQS)"
-description: "Granddaddy Purple - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Granddaddy Purple (RQS) — feminized seeds. In stock at CHF 30.55. Dispatched from Zürich in plain packaging."
 sku: "4203732"
 price: 29.0
 currency: "EUR"

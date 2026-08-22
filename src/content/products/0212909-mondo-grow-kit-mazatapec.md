@@ -1,6 +1,6 @@
 ---
 title: "Mondo Grow Kit Mazatapec"
-description: "Mondo Grow Kit Mazatapec Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Mondo Grow Kit Mazatapec. CHF 36.80, currently sold out. Restocked regularly in Zürich."
 sku: "0212909"
 price: 34.95
 currency: "EUR"

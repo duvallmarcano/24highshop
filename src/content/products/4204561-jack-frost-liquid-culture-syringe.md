@@ -1,6 +1,6 @@
 ---
 title: "Jack Frost Liquid Culture Syringe"
-description: "Jack Frost Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Jack Frost Liquid Culture Syringe — live liquid culture. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4204561"
 price: 18.95
 currency: "EUR"

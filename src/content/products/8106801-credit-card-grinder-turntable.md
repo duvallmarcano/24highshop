@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Grinder: Turntable"
-description: "Credit Card Grinder: Turntable Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Credit Card Grinder: Turntable. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "8106801"
 price: 4.95
 currency: "EUR"

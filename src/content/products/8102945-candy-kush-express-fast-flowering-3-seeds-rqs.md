@@ -1,6 +1,6 @@
 ---
 title: "Candy Kush Express Fast Flowering (RQS)"
-description: "Candy Kush Express (Fast Flowering) - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Candy Kush Express Fast Flowering (RQS). In stock at CHF 24.20. Dispatched from Zürich in plain packaging."
 sku: "8102945"
 price: 23.0
 currency: "EUR"

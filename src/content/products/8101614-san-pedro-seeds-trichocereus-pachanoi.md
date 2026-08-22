@@ -1,6 +1,6 @@
 ---
 title: "San Pedro seeds (Trichocereus Pachanoi)"
-description: "San Pedro seeds (Trichocereus Pachanoi) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro seeds (Trichocereus Pachanoi) — mescaline cacti. In stock at CHF 13.65. Dispatched from Zürich in plain packaging."
 sku: "8101614"
 price: 12.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Vision Kush Auto (Vision Seeds)"
-description: "Vision Kush Auto (Vision Seeds) Feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Vision Kush Auto (Vision Seeds) — feminised. In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "0204627"
 price: 17.5
 currency: "EUR"

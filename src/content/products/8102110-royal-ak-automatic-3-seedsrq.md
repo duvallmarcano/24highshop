@@ -1,6 +1,6 @@
 ---
 title: "Royal AK Automatic (RQS)"
-description: "Royal AK Automatic - 3 seeds(RQ) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal AK Automatic (RQS) — autoflower seeds. In stock at CHF 22.65. Dispatched from Zürich in plain packaging."
 sku: "8102110"
 price: 21.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Tyson 2.0 Relax Mike Rolling Tray - Medium"
-description: "Tyson 2.0 Relax Mike Rolling Tray - Medium Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Tyson 2.0 Relax Mike Rolling Tray - Medium. In stock at CHF 6.80. Dispatched from Zürich in plain packaging."
 sku: "4207129"
 price: 6.45
 currency: "EUR"

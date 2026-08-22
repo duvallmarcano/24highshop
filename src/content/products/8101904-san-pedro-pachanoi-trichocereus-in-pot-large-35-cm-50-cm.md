@@ -1,6 +1,6 @@
 ---
 title: "San Pedro Pachanoi (Trichocereus) In Pot Large 35 CM - 50 CM"
-description: "San Pedro Pachanoi (Trichocereus) In Pot Large 35 CM - 50 CM Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "San Pedro Pachanoi (Trichocereus) In Pot Large 35 CM - 50 CM, 15 cm. CHF 52.60, currently sold out. Restocked regularly in Zürich."
 sku: "8101904"
 price: 49.95
 currency: "EUR"

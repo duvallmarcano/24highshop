@@ -1,6 +1,6 @@
 ---
 title: "Best Buds- Large Glass Ashtrays AK47"
-description: "Best Buds- Large Glass Ashtrays AK47 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Best Buds- Large Glass Ashtrays AK47 — glass. In stock at CHF 5.20. Dispatched from Zürich in plain packaging."
 sku: "3205137"
 price: 4.95
 currency: "EUR"

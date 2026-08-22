@@ -1,6 +1,6 @@
 ---
 title: "EZ Test - MDMA"
-description: "Want to order EZ Test MDMA? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "EZ Test - MDMA. In stock at CHF 7.30. Dispatched from Zürich in plain packaging."
 sku: "8108888"
 price: 6.95
 currency: "EUR"

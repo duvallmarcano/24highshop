@@ -1,6 +1,6 @@
 ---
 title: "CBD Cannabis Leaves - Cannabis Extract"
-description: "CBD Cannabis Leaves - Cannabis Extract Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Cannabis Leaves - Cannabis Extract — an extract, 30 grams. CHF 8.90. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1207569"
 price: 8.45
 currency: "EUR"

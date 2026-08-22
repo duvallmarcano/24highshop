@@ -1,6 +1,6 @@
 ---
 title: "NY Diesel (Vision Seeds)"
-description: "NY Diesel (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "NY Diesel (Vision Seeds). CHF 18.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0203149"
 price: 17.5
 currency: "EUR"

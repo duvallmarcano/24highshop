@@ -1,6 +1,6 @@
 ---
 title: "B+ Liquid Culture Syringe"
-description: "B+ Liquid Culture Syringe Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "B+ Liquid Culture Syringe — live liquid culture. CHF 19.95, in stock in Zürich and shipped the same working day."
 sku: "4207717"
 price: 18.95
 currency: "EUR"

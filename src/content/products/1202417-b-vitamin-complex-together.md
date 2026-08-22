@@ -1,6 +1,6 @@
 ---
 title: "B-Vitamin Complex - Together"
-description: "B-Vitamin Complex - Together Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "B-Vitamin Complex - Together. In stock at CHF 15.00. Dispatched from Zürich in plain packaging."
 sku: "1202417"
 price: 14.25
 currency: "EUR"

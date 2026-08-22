@@ -1,6 +1,6 @@
 ---
 title: "Syrian Rue (Peganum Harmala) - 10 Grams"
-description: "Syrian Rue (Peganum Harmala) - 10 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Syrian Rue (Peganum Harmala) - 10 Grams — exotic seeds. CHF 2.60, in stock in Zürich and shipped the same working day."
 sku: "2208996"
 price: 2.47
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Scale OB SBS-200 collapsible silicone bowl (200 x 0.01 g)"
-description: "Want to order On Balance SBS 200 with foldable silicone bowl? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Scale OB SBS-200 collapsible silicone bowl (200 x 0.01 g), 0.01 g. CHF 31.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0205611"
 price: 29.95
 currency: "EUR"

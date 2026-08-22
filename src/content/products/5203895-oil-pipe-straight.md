@@ -1,6 +1,6 @@
 ---
 title: "Oil Pipe Straight"
-description: "Oil Pipe Straight 10cm: ✓Free goodies with every order at 24High. Shop now!"
+description: "Oil Pipe Straight — glass. CHF 4.15, in stock in Zürich and shipped the same working day."
 sku: "5203895"
 price: 3.95
 currency: "EUR"

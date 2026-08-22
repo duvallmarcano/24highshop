@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Bears Sour - 200 Gram"
-description: "Cannabis Bears Sour - 200 Gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Bears Sour - 200 Gram. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "2201191"
 price: 5.95
 currency: "EUR"

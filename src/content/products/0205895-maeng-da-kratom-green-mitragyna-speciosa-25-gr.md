@@ -1,6 +1,6 @@
 ---
 title: "Maeng Da Kratom Green - Mitragyna Speciosa"
-description: "Maeng Da Kratom Green - Mitragyna Speciosa - 25 GR Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Maeng Da Kratom Green - Mitragyna Speciosa. In stock at CHF 8.35. Dispatched from Zürich in plain packaging."
 sku: "0205895"
 price: 7.95
 currency: "EUR"

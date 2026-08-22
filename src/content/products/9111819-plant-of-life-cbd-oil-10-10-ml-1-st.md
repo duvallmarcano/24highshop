@@ -1,6 +1,6 @@
 ---
 title: "Plant Of Life Cannabis Oil - 10% CBD (10ml)"
-description: "Plant Of Life CBD Oil 10% - 10 ml - 1 St Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plant Of Life Cannabis Oil - 10% CBD (10ml) — hemp. CHF 21.00. Back in stock shortly — shipped from Zürich when it lands."
 sku: "9111819"
 price: 19.95
 currency: "EUR"

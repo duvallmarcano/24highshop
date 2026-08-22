@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Bakehouse Wedding Gelato Cookies"
-description: "Cannabis Bakehouse Wedding Gelato Cookies Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis Bakehouse Wedding Gelato Cookies. In stock at CHF 6.85. Dispatched from Zürich in plain packaging."
 sku: "1211659"
 price: 6.5
 currency: "EUR"

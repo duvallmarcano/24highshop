@@ -1,6 +1,6 @@
 ---
 title: "Psilocybin Magic Mushroom Grower's Guide"
-description: "Psilocybin Magic Mushroom Grower's Guide Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Psilocybin Magic Mushroom Grower's Guide. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4207405"
 price: 18.95
 currency: "EUR"

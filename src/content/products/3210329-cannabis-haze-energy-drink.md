@@ -1,6 +1,6 @@
 ---
 title: "Cannabis HAZE Energy Drink"
-description: "Cannabis HAZE Energy Drink Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabis HAZE Energy Drink. CHF 2.05, in stock in Zürich and shipped the same working day."
 sku: "3210329"
 price: 1.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Rolling Tray Pink Small"
-description: "Narcos - Rolling Tray Pink Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Rolling Tray Pink Small. In stock at CHF 4.15. Dispatched from Zürich in plain packaging."
 sku: "4201420"
 price: 3.95
 currency: "EUR"

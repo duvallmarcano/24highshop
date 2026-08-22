@@ -1,6 +1,6 @@
 ---
 title: "Metal Pipe crazy"
-description: "Metal Pipe crazy Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Metal Pipe crazy. CHF 4.15, in stock in Zürich and shipped the same working day."
 sku: "0203254"
 price: 3.95
 currency: "EUR"

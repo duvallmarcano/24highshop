@@ -1,6 +1,6 @@
 ---
 title: "CBD Choco Leaves 40 gram"
-description: "CBD Choco Leaves 40 gram Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Choco Leaves 40 gram, 40 grams. CHF 10.45. Back in stock shortly — shipped from Zürich when it lands."
 sku: "2203364"
 price: 9.95
 currency: "EUR"

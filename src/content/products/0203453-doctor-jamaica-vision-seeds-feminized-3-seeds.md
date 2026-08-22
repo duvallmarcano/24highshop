@@ -1,6 +1,6 @@
 ---
 title: "Doctor Jamaica (Vision Seeds) feminized"
-description: "Doctor Jamaica (Vision Seeds) feminized - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Doctor Jamaica (Vision Seeds) feminized. In stock at CHF 18.40. Dispatched from Zürich in plain packaging."
 sku: "0203453"
 price: 17.5
 currency: "EUR"

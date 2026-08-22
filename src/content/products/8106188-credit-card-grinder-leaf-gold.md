@@ -1,6 +1,6 @@
 ---
 title: "Credit Card Grinder, Leaf - GOLD"
-description: "Credit Card Grinder, Leaf - GOLD Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Credit Card Grinder, Leaf - GOLD. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "8106188"
 price: 4.95
 currency: "EUR"

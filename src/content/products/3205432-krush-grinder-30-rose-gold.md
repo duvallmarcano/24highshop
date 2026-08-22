@@ -1,6 +1,6 @@
 ---
 title: "KRUSH Grinder 3.0 - Rose Gold"
-description: "KRUSH Grinder 3.0 - Rose Gold Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "KRUSH Grinder 3.0 - Rose Gold — aluminium. CHF 63.10, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3205432"
 price: 59.95
 currency: "EUR"

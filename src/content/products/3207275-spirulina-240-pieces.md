@@ -1,6 +1,6 @@
 ---
 title: "Spirulina - 240 pieces"
-description: "Spirulina - 240 pieces Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Spirulina - 240 pieces. CHF 13.65. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3207275"
 price: 12.95
 currency: "EUR"

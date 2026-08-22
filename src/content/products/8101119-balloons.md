@@ -1,6 +1,6 @@
 ---
 title: "Balloons"
-description: "Want to order Balloons? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Balloons — party goods. In stock at CHF 14.70. Dispatched from Zürich in plain packaging."
 sku: "8101119"
 price: 13.95
 currency: "EUR"

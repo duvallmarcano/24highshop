@@ -1,6 +1,6 @@
 ---
 title: "Munay Botanicals Blue Lotus Extract - Nymphaea Caerulea"
-description: "Blue Lotus extract 10ml by Munay Botanicals. Pure and powerful. Free goodie with every order."
+description: "Munay Botanicals Blue Lotus Extract - Nymphaea Caerulea — full-spectrum. In stock at CHF 19.95. Dispatched from Zürich in plain packaging."
 sku: "6203572"
 price: 18.95
 currency: "EUR"

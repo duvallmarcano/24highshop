@@ -1,6 +1,6 @@
 ---
 title: "Munay Botanicals Bobinsana Extract - Calliandra Angustifolia"
-description: "Bobinsana extract 10ml by Munay Botanicals. Pure and powerful. Free goodie with every order."
+description: "Munay Botanicals Bobinsana Extract - Calliandra Angustifolia — full-spectrum. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6203398"
 price: 18.95
 currency: "EUR"

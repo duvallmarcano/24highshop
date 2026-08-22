@@ -1,6 +1,6 @@
 ---
 title: "Aluminium Pipe - 7 CM"
-description: "Compact 7 cm aluminium pipe. Lightweight, durable and easy to use. Order from 24High and receive free goodies with every order."
+description: "Aluminium Pipe - 7 CM — aluminium, 7cm. CHF 5.20, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6201312"
 price: 4.95
 currency: "EUR"

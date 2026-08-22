@@ -1,6 +1,6 @@
 ---
 title: "Bona Dea CBD+ (Vision Seeds)"
-description: "Bona Dea CBD+ (Vision Seeds) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Bona Dea CBD+ (Vision Seeds). In stock at CHF 23.70. Dispatched from Zürich in plain packaging."
 sku: "0203394"
 price: 22.5
 currency: "EUR"

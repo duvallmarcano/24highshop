@@ -1,6 +1,6 @@
 ---
 title: "Libido Jelly"
-description: "Want to order Libido Jelly? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Libido Jelly. CHF 25.20. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0203539"
 price: 23.95
 currency: "EUR"

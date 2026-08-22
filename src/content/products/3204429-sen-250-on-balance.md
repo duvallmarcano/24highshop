@@ -1,6 +1,6 @@
 ---
 title: "SEN-250 On Balance"
-description: "SEN-250 On Balance Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "SEN-250 On Balance, 0.001 g. CHF 84.15, in stock in Zürich and shipped the same working day."
 sku: "3204429"
 price: 79.95
 currency: "EUR"

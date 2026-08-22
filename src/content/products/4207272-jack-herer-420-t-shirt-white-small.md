@@ -1,6 +1,6 @@
 ---
 title: "Jack Herer 420 T-shirt White"
-description: "Jack Herer 420 T-shirt - White - Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Jack Herer 420 T-shirt White — 4:20 lifestyle. CHF 26.25. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4207272"
 price: 24.95
 currency: "EUR"

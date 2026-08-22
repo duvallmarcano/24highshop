@@ -1,6 +1,6 @@
 ---
 title: "Royal Box – Camouflage"
-description: "Royal Box – Camouflage Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Box – Camouflage. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0210615"
 price: 18.95
 currency: "EUR"

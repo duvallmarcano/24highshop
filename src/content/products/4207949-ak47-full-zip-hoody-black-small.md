@@ -1,6 +1,6 @@
 ---
 title: "AK47 Full Zip Hoody - Black"
-description: "AK47 Full Zip Hoody - Black - Small Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "AK47 Full Zip Hoody - Black — 4:20 lifestyle. CHF 42.05, currently sold out. Restocked regularly in Zürich."
 sku: "4207949"
 price: 39.95
 currency: "EUR"

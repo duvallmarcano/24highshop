@@ -1,6 +1,6 @@
 ---
 title: "Lauren Rose - 420 White Widow Snapback"
-description: "Lauren Rose - 420 White Widow Snapback Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lauren Rose - 420 White Widow Snapback — 4:20 lifestyle. In stock at CHF 31.55. Dispatched from Zürich in plain packaging."
 sku: "3202325"
 price: 29.95
 currency: "EUR"

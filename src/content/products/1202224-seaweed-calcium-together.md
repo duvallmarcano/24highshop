@@ -1,6 +1,6 @@
 ---
 title: "Seaweed Calcium - Together"
-description: "Seaweed Calcium - Together Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Seaweed Calcium - Together — heart and blood vessels. In stock at CHF 13.65. Dispatched from Zürich in plain packaging."
 sku: "1202224"
 price: 12.95
 currency: "EUR"

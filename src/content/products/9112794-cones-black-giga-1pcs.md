@@ -1,6 +1,6 @@
 ---
 title: "Cones Black Giga 1Pcs"
-description: "Cones Black Giga 1Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cones Black Giga 1Pcs. In stock at CHF 2.90. Dispatched from Zürich in plain packaging."
 sku: "9112794"
 price: 2.75
 currency: "EUR"

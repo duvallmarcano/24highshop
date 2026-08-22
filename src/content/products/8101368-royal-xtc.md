@@ -1,6 +1,6 @@
 ---
 title: "Royal Xtc"
-description: "Want to order Royal XTC? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Royal Xtc — an extract. CHF 9.40, on the shelf in Zürich. Discreet tracked delivery."
 sku: "8101368"
 price: 8.95
 currency: "EUR"

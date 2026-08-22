@@ -1,6 +1,6 @@
 ---
 title: "Plagron Green Sensation - 100 ml"
-description: "Plagron Green Sensation - 100 ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plagron Green Sensation - 100 ml — grow supplies. CHF 26.25, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4204517"
 price: 24.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Royal Box - Superstar"
-description: "Royal Box - Superstar Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Box - Superstar — party goods. CHF 19.95. Ships from Zürich in 1–2 working days, unmarked."
 sku: "0210928"
 price: 18.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Grinder 4-Parts Royal XL | Gold | Aluminium | 3D Logo"
-description: "Grinder 4-Parts Royal XL | Gold | Aluminium | 3D Logo Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Grinder 4-Parts Royal XL | Gold | Aluminium | 3D Logo — aluminium. CHF 27.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212854"
 price: 25.95
 currency: "EUR"

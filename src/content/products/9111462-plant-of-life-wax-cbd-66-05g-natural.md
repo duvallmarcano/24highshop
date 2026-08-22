@@ -1,6 +1,6 @@
 ---
 title: "Plant Of Life WAX CBD 66% Natural"
-description: "Plant Of Life WAX CBD 66% 0.5G Natural Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Plant Of Life WAX CBD 66% Natural — cbd paste. CHF 11.55. Back in stock shortly — shipped from Zürich when it lands."
 sku: "9111462"
 price: 10.95
 currency: "EUR"

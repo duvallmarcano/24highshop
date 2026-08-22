@@ -1,6 +1,6 @@
 ---
 title: "Calibration Set (1G,5G,10G,20G)"
-description: "Calibration Set (1G,5G,10G,20G) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Calibration Set (1G,5G,10G,20G). CHF 7.30. Ships from Zürich in 1–2 working days, unmarked."
 sku: "1205204"
 price: 6.95
 currency: "EUR"

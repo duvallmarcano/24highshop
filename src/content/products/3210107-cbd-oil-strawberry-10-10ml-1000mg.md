@@ -1,6 +1,6 @@
 ---
 title: "CBD Oil Strawberry 10% - 10ML (1000MG)"
-description: "CBD Oil Strawberry 10% - 10ML (1000MG) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "CBD Oil Strawberry 10% - 10ML (1000MG), 10ML. CHF 31.55. Back in stock shortly — shipped from Zürich when it lands."
 sku: "3210107"
 price: 29.95
 currency: "EUR"

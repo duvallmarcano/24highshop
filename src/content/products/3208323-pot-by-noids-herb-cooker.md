@@ -1,6 +1,6 @@
 ---
 title: "Pot By Noids Herb Cooker"
-description: "Pot By Noids Herb Cooker Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Pot By Noids Herb Cooker — all-in-one. In stock at CHF 367.35. Dispatched from Zürich in plain packaging."
 sku: "3208323"
 price: 349.0
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Ashtray Round Glass | Psychedelic Series | Cannabis Leaf 2"
-description: "Ashtray Round Glass | Psychedelic Series | Cannabis Leaf 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ashtray Round Glass | Psychedelic Series | Cannabis Leaf 2 — glass. CHF 10.45. Ships from Zürich in 1–2 working days, unmarked."
 sku: "4212405"
 price: 9.95
 currency: "EUR"

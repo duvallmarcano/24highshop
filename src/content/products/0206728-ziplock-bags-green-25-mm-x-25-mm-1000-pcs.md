@@ -1,6 +1,6 @@
 ---
 title: "Ziplock bags green 25 mm x 25 mm (1000 pcs)"
-description: "Ziplock bags green 25 mm x 25 mm (1000 pcs) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Ziplock bags green 25 mm x 25 mm (1000 pcs). In stock at CHF 16.80. Dispatched from Zürich in plain packaging."
 sku: "0206728"
 price: 15.95
 currency: "EUR"

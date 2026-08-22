@@ -1,6 +1,6 @@
 ---
 title: "Smoking DeLuxe On Roll"
-description: "Smoking DeLuxe On Roll - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Smoking DeLuxe On Roll. In stock at CHF 1.85. Dispatched from Zürich in plain packaging."
 sku: "9109918"
 price: 1.75
 currency: "EUR"

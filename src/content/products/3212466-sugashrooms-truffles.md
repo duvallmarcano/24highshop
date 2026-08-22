@@ -1,6 +1,6 @@
 ---
 title: "Sugashrooms Truffles"
-description: "Order SugaShrooms Truffles now at 24High and discover a colourful inner journey full of visual effects. Discreet shipping, delivered directly from stock."
+description: "Sugashrooms Truffles. CHF 21.00, in stock in Zürich and shipped the same working day."
 sku: "3212466"
 price: 19.95
 currency: "EUR"

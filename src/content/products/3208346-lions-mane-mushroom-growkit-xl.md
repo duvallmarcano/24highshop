@@ -1,6 +1,6 @@
 ---
 title: "Lion's Mane Mushroom Growkit XL"
-description: "Lion's Mane Mushroom Growkit XL Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Lion's Mane Mushroom Growkit XL — medicinal mushrooms. CHF 28.35. Ships from Zürich in 1–2 working days, unmarked."
 sku: "3208346"
 price: 26.95
 currency: "EUR"

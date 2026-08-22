@@ -1,6 +1,6 @@
 ---
 title: "THC/CBD-QTest - Cannabis test (Miraculix)"
-description: "THC/CBD-QTest - Cannabis test (Miraculix) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "THC/CBD-QTest - Cannabis test (Miraculix). CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "3209872"
 price: 18.95
 currency: "EUR"

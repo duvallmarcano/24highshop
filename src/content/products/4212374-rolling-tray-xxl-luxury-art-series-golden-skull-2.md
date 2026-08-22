@@ -1,6 +1,6 @@
 ---
 title: "Rolling Tray XXL | Luxury Art Series | Golden Skull 2"
-description: "Rolling Tray XXL | Luxury Art Series | Golden Skull 2 Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Rolling Tray XXL | Luxury Art Series | Golden Skull 2. CHF 8.35, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4212374"
 price: 7.95
 currency: "EUR"

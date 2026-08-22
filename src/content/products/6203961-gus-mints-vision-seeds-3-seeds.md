@@ -1,6 +1,6 @@
 ---
 title: "Gus Mints (Vision Seeds)"
-description: "Gus Mints seeds by Vision Seeds. Powerful strain with unique flavor. Free goodie with every order."
+description: "Gus Mints (Vision Seeds) — feminised. CHF 23.70, on the shelf in Zürich. Discreet tracked delivery."
 sku: "6203961"
 price: 22.5
 currency: "EUR"

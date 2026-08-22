@@ -1,6 +1,6 @@
 ---
 title: "Spanish Fly Strawberry Dreams - 15 ml"
-description: "Spanish Fly Strawberry Dreams - 15 ml Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Spanish Fly Strawberry Dreams - 15 ml. CHF 11.55, in stock in Zürich and shipped the same working day."
 sku: "8101288"
 price: 10.95
 currency: "EUR"

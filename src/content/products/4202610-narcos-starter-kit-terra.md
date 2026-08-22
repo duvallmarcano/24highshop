@@ -1,6 +1,6 @@
 ---
 title: "Narcos - Starter Kit Terra"
-description: "Narcos - Starter Kit Terra Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Narcos - Starter Kit Terra — grow supplies. CHF 42.05, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4202610"
 price: 39.95
 currency: "EUR"

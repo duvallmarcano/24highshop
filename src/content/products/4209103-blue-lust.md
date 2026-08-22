@@ -1,6 +1,6 @@
 ---
 title: "Blue Lust"
-description: "Want to order Blue Lust? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Blue Lust. CHF 19.95, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4209103"
 price: 18.95
 currency: "EUR"

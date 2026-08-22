@@ -1,6 +1,6 @@
 ---
 title: "Azurescens Outdoor Growkit"
-description: "Azurescens Outdoor Growkit Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Azurescens Outdoor Growkit. In stock at CHF 26.25. Dispatched from Zürich in plain packaging."
 sku: "1201513"
 price: 24.95
 currency: "EUR"

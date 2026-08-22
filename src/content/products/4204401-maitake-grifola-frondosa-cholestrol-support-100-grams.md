@@ -1,6 +1,6 @@
 ---
 title: "Maitake (Grifola frondosa) - Cholestrol Support - 100 Grams"
-description: "Maitake (Grifola frondosa) - Cholestrol Support - 100 Grams Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Maitake (Grifola frondosa) - Cholestrol Support - 100 Grams — powder. CHF 17.85, on the shelf in Zürich. Discreet tracked delivery."
 sku: "4204401"
 price: 16.95
 currency: "EUR"

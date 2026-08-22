@@ -1,6 +1,6 @@
 ---
 title: "Oreoz x Spritzer (Vision Seeds)"
-description: "Oreoz x Spritzer seeds. Sweet and strong with unique flavor. Free goodie with every order."
+description: "Oreoz x Spritzer (Vision Seeds) — feminised. CHF 26.30, in stock in Zürich and shipped the same working day."
 sku: "6203885"
 price: 25.0
 currency: "EUR"

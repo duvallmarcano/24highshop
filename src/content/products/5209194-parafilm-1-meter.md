@@ -1,6 +1,6 @@
 ---
 title: "Parafilm"
-description: "Parafilm ✓Stretchable & airtight ✓Perfect for lab use ✓Free goodies with every order at 24High"
+description: "Parafilm — grow supplies. CHF 2.10. Ships from Zürich in 1–2 working days, unmarked."
 sku: "5209194"
 price: 1.99
 currency: "EUR"

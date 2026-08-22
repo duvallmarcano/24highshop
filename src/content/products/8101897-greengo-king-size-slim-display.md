@@ -1,6 +1,6 @@
 ---
 title: "Greengo King Size Slim - Display"
-description: "Greengo King Size Slim - Display Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Greengo King Size Slim - Display. CHF 31.55. Back in stock shortly — shipped from Zürich when it lands."
 sku: "8101897"
 price: 29.95
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Zip-lock bags 55 x 65 mm - 1000 pieces"
-description: "Transparent grip bags 55x65 mm (1000 pcs). Perfect for packaging and storage. Free goodies with every order!"
+description: "Zip-lock bags 55 x 65 mm - 1000 pieces, 65 mm. CHF 16.30, in stock in Zürich and shipped the same working day."
 sku: "5210435"
 price: 15.5
 currency: "EUR"

@@ -1,6 +1,6 @@
 ---
 title: "Northern Light (RQS)"
-description: "Northern Light - 3 Seeds (RQS) Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Northern Light (RQS) — feminized seeds. In stock at CHF 22.65. Dispatched from Zürich in plain packaging."
 sku: "8103188"
 price: 21.5
 currency: "EUR"

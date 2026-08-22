@@ -1,6 +1,6 @@
 ---
 title: "Curing Jars"
-description: "Store your cannabis airtight and fresh with our jars. Free goodies with every order!"
+description: "Curing Jars — glass. CHF 5.20, in stock in Zürich and shipped the same working day."
 sku: "5210732"
 price: 4.95
 currency: "EUR"

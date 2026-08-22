@@ -1,6 +1,6 @@
 ---
 title: "Libido - Him"
-description: "Want to order Libido Him? Take a look at our assortment! ✓ Free goodies with your order ✓ Fast and discreet shipping"
+description: "Libido - Him. CHF 24.15, currently sold out. Restocked regularly in Zürich."
 sku: "3212889"
 price: 22.95
 currency: "EUR"

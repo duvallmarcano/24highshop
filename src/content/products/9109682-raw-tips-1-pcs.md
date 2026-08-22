@@ -1,6 +1,6 @@
 ---
 title: "Raw Tips"
-description: "Raw Tips - 1 Pcs Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Raw Tips — smoking accessories. CHF 0.55, on the shelf in Zürich. Discreet tracked delivery."
 sku: "9109682"
 price: 0.5
 currency: "EUR"

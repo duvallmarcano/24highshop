@@ -1,6 +1,6 @@
 ---
 title: "Royal Dwarf Automatic (RQS)"
-description: "Royal Dwarf Automatic (RQS) - 3 Seeds Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Royal Dwarf Automatic (RQS) — autoflower seeds. In stock at CHF 15.80. Dispatched from Zürich in plain packaging."
 sku: "5202682"
 price: 15.0
 currency: "EUR"

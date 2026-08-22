@@ -1,6 +1,6 @@
 ---
 title: "Golden Teacher Liquid Culture Syringe"
-description: "Golden Teacher Liquid Culture Syringe. ✓Free shipping from €35 ✓Fast, discreet delivery!"
+description: "Golden Teacher Liquid Culture Syringe — live liquid culture. CHF 19.95, in stock in Zürich and shipped the same working day."
 sku: "5203370"
 price: 18.95
 currency: "EUR"

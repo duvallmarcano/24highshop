@@ -1,6 +1,6 @@
 ---
 title: "KRAID Ice-T Lemon - Full Spectrum"
-description: "KRAID Ice-T Lemon - Full Spectrum Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "KRAID Ice-T Lemon - Full Spectrum — full-spectrum. CHF 6.25, in stock in Zürich and shipped the same working day."
 sku: "4212708"
 price: 5.95
 currency: "EUR"

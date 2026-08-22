@@ -1,6 +1,6 @@
 ---
 title: "Metal Ashtray Call of Doobie"
-description: "Metal Ashtray Call of Doobie Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Metal Ashtray Call of Doobie. CHF 2.65. Back in stock shortly — shipped from Zürich when it lands."
 sku: "4211659"
 price: 2.5
 currency: "EUR"

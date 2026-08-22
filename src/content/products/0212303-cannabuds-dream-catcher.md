@@ -1,6 +1,6 @@
 ---
 title: "Cannabuds Dream Catcher"
-description: "Cannabuds Dream Catcher Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "Cannabuds Dream Catcher — hemp. CHF 13.65, on the shelf in Zürich. Discreet tracked delivery."
 sku: "0212303"
 price: 12.95
 currency: "EUR"

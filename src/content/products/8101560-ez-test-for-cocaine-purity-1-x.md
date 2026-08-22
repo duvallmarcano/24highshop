@@ -1,6 +1,6 @@
 ---
 title: "EZ Test for Cocaine Purity"
-description: "EZ Test for Cocaine Purity - 1 x Buy online at 24High: ✔️ Simple ✔️ Fast and anonymous | Buy Online"
+description: "EZ Test for Cocaine Purity. In stock at CHF 10.45. Dispatched from Zürich in plain packaging."
 sku: "8101560"
 price: 9.95
 currency: "EUR"
