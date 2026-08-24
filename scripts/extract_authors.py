@@ -40,10 +40,16 @@ def main():
         name = clean(h1.get_text()) if h1 else slug.replace('-', ' ').title()
 
         # the bio is the run of paragraphs before the "Latest articles" list
+        # Only paragraphs before the "Latest articles" list are biography.
+        # Walking every <p> pulled article summaries in as bio text.
         bio = []
-        for p in content.find_all('p'):
-            text = clean(p.get_text())
-            if not text or text.lower().startswith('latest article'):
+        for node in content.find_all(['h2', 'h3', 'p']):
+            text = clean(node.get_text())
+            if node.name in ('h2', 'h3'):
+                if re.search(r'latest|articles|artikel', text, re.I):
+                    break
+                continue
+            if not text or re.search(r'^latest article', text, re.I):
                 break
             if len(text) > 40:
                 bio.append(text)

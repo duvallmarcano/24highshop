@@ -1,5 +1,5 @@
 ---
-import { authorImage, type Author } from '../../lib/authors';
+import { authorImage, bioFor, type Author } from '../../lib/authors';
 import { localized } from '../../lib/i18n';
 import { DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 
@@ -33,7 +33,7 @@ const { author, fallbackName = '24highshop', updated, lang = DEFAULT_LOCALE } = 
           <p class="abox__name">
             <a href={localized(`/authors/${author.slug}`, lang)} rel="author">{author.name}</a>
           </p>
-          {author.bio[0] && <p class="abox__bio">{author.bio[0]}</p>}
+          {bioFor(author.slug, lang)[0] && <p class="abox__bio">{bioFor(author.slug, lang)[0]}</p>}
         </div>
       </>
     ) : (

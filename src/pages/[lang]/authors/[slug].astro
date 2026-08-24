@@ -3,7 +3,7 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
 import PostCard from '../../../components/blog/PostCard.astro';
-import { AUTHORS, authorImage, type Author } from '../../../lib/authors';
+import { AUTHORS, authorImage, bioFor, type Author } from '../../../lib/authors';
 import { breadcrumbSchema, personSchema } from '../../../lib/seo';
 import { ENABLED_LOCALES, localized } from '../../../lib/i18n';
 import type { LocaleCode } from '../../../data/site';
@@ -46,14 +46,14 @@ const crumbs = [
 
 <BaseLayout
   title={author.name}
-  description={author.bio[0] ?? `Guides written by ${author.name} for 24highshop.`}
+  description={bioFor(author.slug, lang)[0] ?? `Guides written by ${author.name} for 24highshop.`}
   image={authorImage(author, 400)}
   schemas={[
     breadcrumbSchema(crumbs),
     personSchema({
       name: author.name,
       slug: author.slug,
-      bio: author.bio[0],
+      bio: bioFor(author.slug, lang)[0],
       image: authorImage(author, 400),
     }),
   ]}
@@ -70,7 +70,7 @@ const crumbs = [
       <p class="eyebrow">Writer at 24highshop</p>
       <h1>{author.name}</h1>
       <div class="bio__text">
-        {author.bio.map((p) => <p>{p}</p>)}
+        {bioFor(author.slug, lang).map((p) => <p>{p}</p>)}
       </div>
       <p class="bio__n">{posts.length} published guides</p>
     </div>

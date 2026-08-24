@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
-import { AUTHORS, authorImage } from '../../../lib/authors';
+import { AUTHORS, authorImage, bioFor } from '../../../lib/authors';
 import { breadcrumbSchema } from '../../../lib/seo';
 import { ENABLED_LOCALES, localized } from '../../../lib/i18n';
 import type { LocaleCode } from '../../../data/site';
@@ -52,7 +52,7 @@ const crumbs = [{ label: 'Home', href: L('/') }, { label: 'Our writers' }];
             <div>
               <h2>{a.name}</h2>
               <p class="author__n">{countFor(a.name)} guides</p>
-              {a.bio[0] && <p class="author__bio">{a.bio[0]}</p>}
+              {bioFor(a.slug, lang)[0] && <p class="author__bio">{bioFor(a.slug, lang)[0]}</p>}
             </div>
           </a>
         </li>
