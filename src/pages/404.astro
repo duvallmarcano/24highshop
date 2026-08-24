@@ -1,7 +1,13 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Button from '../components/ui/Button.astro';
-import { SHOPS } from '../data/site';
+import { SHOPS, DEFAULT_LOCALE } from '../data/site';
+import { localized } from '../lib/i18n';
+import { useTranslations } from '../i18n/ui';
+
+// the 404 has no locale segment of its own; it speaks the default language
+const t = useTranslations(DEFAULT_LOCALE);
+const L = (p: string) => localized(p, DEFAULT_LOCALE);
 ---
 
 <BaseLayout title="Page not found" description="That page does not exist." noindex>
@@ -12,11 +18,11 @@ import { SHOPS } from '../data/site';
       The link is broken or the product has moved. Try a search, or start from one of the shops.
     </p>
     <div class="nf__cta">
-      <Button href="/en/search" size="lg" icon="search">Search the catalogue</Button>
-      <Button href="/en/" size="lg" variant="secondary">Back to home</Button>
+      <Button href={L("/search")} size="lg" icon="search">Search the catalogue</Button>
+      <Button href={L("/")} size="lg" variant="secondary">Back to home</Button>
     </div>
     <ul class="nf__shops" role="list">
-      {SHOPS.map((s) => <li><a href={s.href}>{s.label}</a></li>)}
+      {SHOPS.map((s) => <li><a href={L(s.href)}>{t(`shopmeta.${s.id}.label` as never)}</a></li>)}
     </ul>
   </div>
 </BaseLayout>

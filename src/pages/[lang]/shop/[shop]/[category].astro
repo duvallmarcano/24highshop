@@ -16,10 +16,12 @@ import {
 import { alignDescription, keywordsFor, relatedGuides } from '../../../../lib/keywords';
 import { ENABLED_LOCALES, localized } from '../../../../lib/i18n';
 import type { LocaleCode } from '../../../../data/site';
+import { useTranslations } from '../../../../i18n/ui';
 
 // the locale segment drives every link and every string on the page
 const lang = Astro.params.lang as LocaleCode;
 const L = (p: string) => localized(p, lang);
+const t = useTranslations(lang);
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -46,6 +48,7 @@ interface Props {
 }
 
 const { shop, category, products } = Astro.props;
+const shopLabel = t(`shopmeta.${shop.id}.label` as never);
 
 // in stock first, then cheapest — the order a shopper actually wants
 const sorted = [...products].sort((a, b) => {
@@ -62,8 +65,8 @@ const available = products.filter((p) => p.data.inStock).length;
 
 const url = `/shop/${shop.id}/${category.slug}`;
 const crumbs = [
-  { label: 'Home', href: L('/') },
-  { label: shop.label, href: shop.href },
+  { label: t('page.home'), href: L('/') },
+  { label: shopLabel, href: L(shop.href) },
   { label: category.label },
 ];
 
@@ -71,22 +74,23 @@ const crumbs = [
 // what price, how fast it ships. Written to be quotable in one lift.
 // Split in two so the visible price can follow the switcher while the meta
 // description keeps the canonical franc figure.
-const answerLead = `24highshop stocks ${products.length} ${category.label.toLowerCase()}`;
-const answerTail = `, shipped from ${SITE.address.locality} in plain packaging. ${available} ${
-  available === 1 ? 'is' : 'are'
-} in stock today and dispatch the same working day when ordered before ${SITE.cutoff}.`;
-const answer = `${answerLead}${
-  fromCHF !== null ? ` from CHF ${fromCHF.toFixed(2)}` : ''
-}${answerTail}`;
+const answer = t('cat.answer', {
+  count: products.length,
+  category: category.label.toLowerCase(),
+  from: fromCHF !== null ? t('cat.answerFrom', { price: `CHF ${fromCHF.toFixed(2)}` }) : '',
+  available,
+  city: SITE.address.locality,
+  cutoff: SITE.cutoff,
+});
 
 const facts = [
-  { label: 'Products', value: String(products.length) },
-  { label: 'In stock', value: String(available) },
+  { label: t('page.products'), value: String(products.length) },
+  { label: t('shop.available'), value: String(available) },
   ...(fromEUR !== null && toEUR !== null
-    ? [{ label: 'From', eur: fromEUR, chf: fromCHF! }, { label: 'Up to', eur: toEUR, chf: toCHFmax! }]
+    ? [{ label: t('shop.from'), eur: fromEUR, chf: fromCHF! }, { label: t('page.upTo'), eur: toEUR, chf: toCHFmax! }]
     : []),
-  { label: 'Shop', value: shop.label },
-  { label: 'Delivery', value: '1–2 working days in Switzerland' },
+  { label: t('footer.shop'), value: shopLabel },
+  { label: t('page.delivery'), value: t('page.deliveryValue') },
 ];
 
 const rawDescription = `${category.label} at 24highshop — ${products.length} products${
@@ -117,15 +121,9 @@ const guides = relatedGuides(url, 3);
 
   <header class="cat" data-shop={shop.id}>
     <div class="cat__lead">
-      <p class="eyebrow">{shop.label}</p>
+      <p class="eyebrow">{shopLabel}</p>
       <h1>{category.label}</h1>
-      <p class="cat__answer">
-        {answerLead}
-        {fromEUR !== null && (
-          <> from <Money eur={fromEUR} chf={fromCHF!} /></>
-        )}
-        {answerTail}
-      </p>
+      <p class="cat__answer">{answer}</p>
     </div>
     <div class="cat__facts">
       <KeyFacts facts={facts} />
@@ -138,23 +136,23 @@ const guides = relatedGuides(url, 3);
     ) : (
       <p class="empty">
         Nothing in this category right now.{' '}
-        <a href={shop.href}>Browse all {shop.label.toLowerCase()}</a>.
+        <a href={L(shop.href)}>{t('cat.browseAll', { shop: shopLabel })}</a>.
       </p>
     )
   }
 
   <section class="cat__faq">
-    <FAQ items={SHOP_FAQ[shop.id as ShopId] ?? []} title={`${shop.label} — common questions`} />
+    <FAQ items={SHOP_FAQ[shop.id as ShopId] ?? []} title={t('cat.commonQuestions', { shop: shopLabel })} />
   </section>
 
   {
     guides.length > 0 && (
       <section class="guides">
-        <h2>Guides for {category.label.toLowerCase()}</h2>
+        <h2>{t('cat.guidesFor', { category: category.label.toLowerCase() })}</h2>
         <ul role="list">
           {guides.map((g) => (
             <li>
-              <a href={g.route}>
+              <a href={L(g.route)}>
                 {g.route
                   .replace('/blog/', '')
                   .replace(/-/g, ' ')
@@ -167,8 +165,8 @@ const guides = relatedGuides(url, 3);
     )
   }
 
-  <nav class="siblings" aria-label={`Other ${shop.label} categories`} data-shop={shop.id}>
-    <h2 class="eyebrow">More in {shop.label}</h2>
+  <nav class="siblings" aria-label={t('cat.moreIn', { shop: shopLabel })} data-shop={shop.id}>
+    <h2 class="eyebrow">{t('cat.moreIn', { shop: shopLabel })}</h2>
     <ul role="list">
       {
         shop.categories
@@ -176,7 +174,7 @@ const guides = relatedGuides(url, 3);
           .slice(0, 14)
           .map((c) => (
             <li>
-              <a href={c.href}>
+              <a href={L(c.href)}>
                 {c.label} <span>{c.count}</span>
               </a>
             </li>

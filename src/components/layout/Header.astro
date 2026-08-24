@@ -77,14 +77,14 @@ const MEGA_LIMIT = 10;
                 class:list={['nav__link', activeShop === shop.id && 'nav__link--active']}
                 href={L(shop.href)}
               >
-                {shop.label}
+                {t(`shopmeta.${shop.id}.label` as never)}
               </a>
 
               <div class="mega">
                 <div class="mega__in container">
                   <div class="mega__lead">
                     <span class="mega__icon"><Icon name={shop.icon} size={30} /></span>
-                    <p class="mega__blurb">{shop.blurb}</p>
+                    <p class="mega__blurb">{t(`shopmeta.${shop.id}.blurb` as never)}</p>
                     <a class="mega__all" href={L(shop.href)}>
                       {t('nav.allProducts', { n: shop.total })}
                       <Icon name="arrow-right" size={14} />
@@ -116,7 +116,7 @@ const MEGA_LIMIT = 10;
           UTILITY_NAV.map((l) => (
             <li class="nav__item">
               <a class="nav__link" href={L(l.href)}>
-                {l.label}
+                {t(l.key as never)}
               </a>
             </li>
           ))
@@ -172,7 +172,7 @@ const MEGA_LIMIT = 10;
               <a href={L(shop.href)}>
                 <span class="drawer__label">
                   <Icon name={shop.icon} size={18} />
-                  {shop.label}
+                  {t(`shopmeta.${shop.id}.label` as never)}
                 </span>
                 <span class="drawer__n">{shop.total}</span>
               </a>
@@ -182,7 +182,7 @@ const MEGA_LIMIT = 10;
         {
           UTILITY_NAV.map((l) => (
             <li>
-              <a href={L(l.href)}>{l.label}</a>
+              <a href={L(l.href)}>{t(l.key as never)}</a>
             </li>
           ))
         }

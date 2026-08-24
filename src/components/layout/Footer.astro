@@ -77,7 +77,7 @@ const minCHF = toCHF(MIN_ORDER_EUR);
       <nav class="ftr__col" aria-label="Shop">
         <h2>{t('footer.shop')}</h2>
         <ul role="list">
-          {SHOPS.map((s) => <li><a href={L(s.href)}>{s.label}</a></li>)}
+          {SHOPS.map((s) => <li><a href={L(s.href)}>{t(`shopmeta.${s.id}.label` as never)}</a></li>)}
         </ul>
       </nav>
 

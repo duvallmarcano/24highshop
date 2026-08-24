@@ -18,10 +18,12 @@ import { alignDescription } from '../../../lib/keywords';
 import { firstImage } from '../../../lib/images';
 import { ENABLED_LOCALES, localized } from '../../../lib/i18n';
 import type { LocaleCode } from '../../../data/site';
+import { useTranslations } from '../../../i18n/ui';
 
 // the locale segment drives every link and every string on the page
 const lang = Astro.params.lang as LocaleCode;
 const L = (p: string) => localized(p, lang);
+const t = useTranslations(lang);
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -62,8 +64,8 @@ const shopMeta = SHOP_BY_ID.get(shop as ShopId);
 const url = `/product/${entry.slug}`;
 
 const crumbs = [
-  { label: 'Home', href: L('/') },
-  ...(shopMeta ? [{ label: shopMeta.label, href: shopMeta.href }] : []),
+  { label: t('page.home'), href: L('/') },
+  ...(shopMeta ? [{ label: t(`shopmeta.${shop}.label` as never), href: L(shopMeta.href) }] : []),
   ...(categoryLabel ? [{ label: categoryLabel, href: L(`/shop/${shop}/${category}`) }] : []),
   { label: title },
 ];
@@ -75,14 +77,14 @@ const chf = price === null ? null : toCHF(price);
 const facts = [
   // rendered through <Money> so it follows the currency switcher
   ...(chf !== null && price !== null
-    ? [{ label: 'Price', eur: price, chf, suffix: 'incl. VAT' }]
+    ? [{ label: t('page.price'), eur: price, chf, suffix: t('footer.vatNote') }]
     : []),
-  { label: 'Availability', value: inStock ? 'In stock, ships today' : 'Currently sold out' },
-  { label: 'Article no.', value: sku },
-  ...(categoryLabel ? [{ label: 'Category', value: categoryLabel }] : []),
-  { label: 'Ships from', value: `${SITE.address.locality}, Switzerland` },
-  { label: 'Delivery', value: '1–2 working days within Switzerland' },
-  { label: 'Packaging', value: 'Plain and unmarked' },
+  { label: t('page.availability'), value: inStock ? t('page.inStockShips') : t('page.currentlySoldOut') },
+  { label: t('page.articleNo'), value: sku },
+  ...(categoryLabel ? [{ label: t('page.category'), value: categoryLabel }] : []),
+  { label: t('page.shipsFrom'), value: `${SITE.address.locality}, ${SITE.address.countryName}` },
+  { label: t('page.delivery'), value: t('page.deliveryValue') },
+  { label: t('page.packaging'), value: t('page.packagingValue') },
 ];
 
 // Product-specific questions first, then the ones people ask about the shop
@@ -150,12 +152,12 @@ const metaDescription = alignDescription(
 
   <div class="pdp__detail">
     <section class="pdp__desc">
-      <h2>About this product</h2>
+      <h2>{t('product.description')}</h2>
       <div class="prose"><Content /></div>
     </section>
 
     <aside class="pdp__aside">
-      <KeyFacts facts={facts} title="At a glance" />
+      <KeyFacts facts={facts} title={t('page.atAGlance')} />
     </aside>
   </div>
 
@@ -164,11 +166,11 @@ const metaDescription = alignDescription(
   </section>
 
   <section class="pdp__faq">
-    <FAQ items={faqs} title={`${title} — common questions`} />
+    <FAQ items={faqs} title={t('product.faq')} />
   </section>
 
   <ProductRail
-    title={`More ${categoryLabel || shopMeta?.label || 'products'}`}
+    title={t('product.related', { category: categoryLabel || t(`shopmeta.${shop}.label` as never) })}
     products={related}
     lang={lang}
     href={L(`/shop/${shop}/${category}`)}

@@ -11,10 +11,12 @@ import { SHOP_FAQ } from '../../../../data/faq';
 import { breadcrumbSchema, collectionPageSchema, itemListSchema } from '../../../../lib/seo';
 import { ENABLED_LOCALES, localized } from '../../../../lib/i18n';
 import type { LocaleCode } from '../../../../data/site';
+import { useTranslations } from '../../../../i18n/ui';
 
 // the locale segment drives every link and every string on the page
 const lang = Astro.params.lang as LocaleCode;
 const L = (p: string) => localized(p, lang);
+const t = useTranslations(lang);
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -37,18 +39,25 @@ const fromEUR = prices.length ? Math.min(...prices) : null;
 const fromCHF = fromEUR === null ? null : toCHF(fromEUR);
 const available = products.filter((p) => p.data.inStock).length;
 
-const crumbs = [{ label: 'Home', href: L('/') }, { label: shop.label }];
-const description = `${shop.label} at 24highshop — ${shop.total} products across ${shop.categories.length} categories${
+// the whole sentence comes from the locale table, so word order can differ
+const shopLabel = t(`shopmeta.${shop.id}.label` as never);
+const shopBlurb = t(`shopmeta.${shop.id}.blurb` as never);
+
+const crumbs = [{ label: t('page.home'), href: L('/') }, { label: shopLabel }];
+const description = `${shopLabel} at 24highshop — ${shop.total} products across ${shop.categories.length} categories${
   fromCHF !== null ? `, from CHF ${fromCHF.toFixed(2)}` : ''
 }. Shipped from Zürich in 1–2 working days.`;
 
-const answerLead = `24highshop’s ${shop.label.toLowerCase()} carries ${shop.total} products in ${
-  shop.categories.length
-} categories`;
-const answerTail = `. ${available} are in stock in ${SITE.address.locality} today and ship the same working day when ordered before ${SITE.cutoff}.`;
-const answer = `${answerLead}${
-  fromCHF !== null ? `, starting at CHF ${fromCHF.toFixed(2)}` : ''
-}${answerTail}`;
+const priceFrom = fromCHF !== null ? `CHF ${fromCHF.toFixed(2)}` : '';
+const answer = t('shop.answer', {
+  shop: shopLabel,
+  total: shop.total,
+  cats: shop.categories.length,
+  from: fromCHF !== null ? t('shop.answerFrom', { price: priceFrom }) : '',
+  available,
+  city: SITE.address.locality,
+  cutoff: SITE.cutoff,
+});
 ---
 
 <BaseLayout
@@ -68,25 +77,19 @@ const answer = `${answerLead}${
 
   <header class="shophead" data-shop={shop.id}>
     <span class="shophead__icon"><Icon name={shop.icon} size={40} /></span>
-    <p class="eyebrow">{shop.categories.length} categories · {shop.total} products</p>
-    <h1>{shop.label}</h1>
-    <p class="shophead__answer">
-      {answerLead}
-      {fromEUR !== null && (
-        <>, starting at <Money eur={fromEUR} chf={fromCHF!} /></>
-      )}
-      {answerTail}
-    </p>
-    <p class="shophead__intro">{shop.intro}</p>
+    <p class="eyebrow">{shop.categories.length} {t('page.categories')} · {shop.total} {t('page.products')}</p>
+    <h1>{shopLabel}</h1>
+    <p class="shophead__answer">{answer}</p>
+    <p class="shophead__intro">{shopBlurb}</p>
   </header>
 
   <section class="section" data-shop={shop.id}>
-    <h2 class="section__title">Browse by category</h2>
+    <h2 class="section__title">{t('page.browseCategory')}</h2>
     <ul class="cats" role="list">
       {
         shop.categories.map((c) => (
           <li>
-            <a href={c.href}>
+            <a href={L(c.href)}>
               <span>{c.label}</span>
               <span class="cats__n">
                 {c.count}
@@ -100,12 +103,12 @@ const answer = `${answerLead}${
   </section>
 
   <section class="section">
-    <h2 class="section__title">In stock now</h2>
+    <h2 class="section__title">{t('page.inStockNow')}</h2>
     <ProductGrid products={highlights} eagerCount={6} lang={lang} />
   </section>
 
   <section class="section section--rule">
-    <FAQ items={SHOP_FAQ[shop.id as ShopId] ?? []} title={`${shop.label} — common questions`} />
+    <FAQ items={SHOP_FAQ[shop.id as ShopId] ?? []} title={t('cat.commonQuestions', { shop: shopLabel })} />
   </section>
 </BaseLayout>
 

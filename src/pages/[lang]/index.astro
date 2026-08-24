@@ -203,7 +203,7 @@ const steps = [
       {
         SHOPS.map((shop) => (
           <li data-shop={shop.id}>
-            <a class="shop" href={shop.href}>
+            <a class="shop" href={L(shop.href)}>
               <span class="shop__icon"><Icon name={shop.icon} size={26} /></span>
               <span class="shop__top">
                 <h3>{shop.label}</h3>

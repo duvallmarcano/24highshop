@@ -2,6 +2,7 @@
 import ProductCard from './ProductCard.astro';
 import type { CollectionEntry } from 'astro:content';
 import { DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
+import { useTranslations } from '../../i18n/ui';
 
 interface Props {
   title: string;
@@ -11,6 +12,7 @@ interface Props {
 }
 
 const { title, products, href, lang = DEFAULT_LOCALE } = Astro.props;
+const t = useTranslations(lang);
 ---
 
 {
@@ -18,7 +20,7 @@ const { title, products, href, lang = DEFAULT_LOCALE } = Astro.props;
     <section class="rail">
       <div class="rail__head">
         <h2>{title}</h2>
-        {href && <a class="rail__more" href={href}>See all</a>}
+        {href && <a class="rail__more" href={href}>{t('cta.seeAll')}</a>}
       </div>
       <div class="rail__track">
         {products.map((p) => (
