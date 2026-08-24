@@ -81,15 +81,27 @@ export function toCHF(eur: number): number {
 }
 
 /**
- * Switzerland is a four-language market. Only `en` has content today; the
- * rest are declared so the language switcher, hreflang set and routing
- * helpers are already in place when translations land.
+ * Markets the shop sells into.
+ *
+ * `enabled` gates whether a locale is published. Chrome is translated for all
+ * of them, but a locale only goes live once its catalogue and guides exist in
+ * that language — shipping translated navigation over English product copy
+ * would give mixed-language pages and eight near-duplicate versions of the
+ * same content, which is worse for search than not shipping the locale.
+ *
+ * Swiss regional codes for the three national languages, plain codes for the
+ * export markets.
  */
 export const LOCALES = [
   { code: 'en', hreflang: 'en-CH', label: 'English', enabled: true },
   { code: 'de', hreflang: 'de-CH', label: 'Deutsch', enabled: false },
   { code: 'fr', hreflang: 'fr-CH', label: 'Français', enabled: false },
   { code: 'it', hreflang: 'it-CH', label: 'Italiano', enabled: false },
+  { code: 'nl', hreflang: 'nl', label: 'Nederlands', enabled: false },
+  { code: 'es', hreflang: 'es', label: 'Español', enabled: false },
+  { code: 'pl', hreflang: 'pl', label: 'Polski', enabled: false },
+  { code: 'cs', hreflang: 'cs', label: 'Čeština', enabled: false },
+  { code: 'pt', hreflang: 'pt', label: 'Português', enabled: false },
 ] as const;
 
 export type LocaleCode = (typeof LOCALES)[number]['code'];

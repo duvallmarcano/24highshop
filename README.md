@@ -93,9 +93,17 @@ fluid scale.
 
 ## Notes
 
-- **One locale.** The other languages are separate domains (24high.nl, .fr,
-  .de, .es, .it), linked by hreflang from `Meta.astro`. The previous migration
-  declared twelve collections for them; eleven were empty.
+- **Nine locales declared, one published.** `src/data/site.ts` lists en, de,
+  fr, it, nl, es, pl, cs, pt. Interface strings are translated for all nine in
+  `src/i18n/ui.ts` (56 keys each). Only `en` has `enabled: true`, because a
+  locale should not go live until its catalogue and guides exist in that
+  language — translated navigation over English product copy gives
+  mixed-language pages and eight near-duplicate versions of the same content.
+  `hreflang` is emitted only for enabled locales, for the same reason.
+
+  Still English-only: the FAQ answers (`src/data/faq.ts`), the legal and info
+  pages (`src/data/info-pages.ts`), the shop blurbs in `site.ts`, and all
+  1,695 content files. Flip `enabled` once a locale's copy is in place.
 - **Icons** are defined once per document by `IconSprite` and referenced with
   `<use>`. There is no icon font and no remote kit.
 - **The basket** is `localStorage` only. Checkout needs the 24High order

@@ -92,9 +92,9 @@ const minCHF = toCHF(MIN_ORDER_EUR);
             LOCALES.map((l) => (
               <li>
                 {l.enabled ? (
-                  <a href="/en/" hreflang={l.hreflang} lang={l.code}>{l.label}</a>
+                  <a href={`/${l.code}/`} hreflang={l.hreflang} lang={l.code}>{l.label}</a>
                 ) : (
-                  <span class="ftr__soon">{l.label}</span>
+                  <span class="ftr__soon" lang={l.code}>{l.label}</span>
                 )}
               </li>
             ))

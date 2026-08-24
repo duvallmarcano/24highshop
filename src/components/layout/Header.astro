@@ -131,11 +131,16 @@ const MEGA_LIMIT = 10;
                 LOCALES.map((l) => (
                   <li>
                     {l.enabled ? (
-                      <a href="/en/" hreflang={l.hreflang} lang={l.code} aria-current="true">
+                      <a
+                        href={`/${l.code}/`}
+                        hreflang={l.hreflang}
+                        lang={l.code}
+                        aria-current={l.code === 'en' ? 'true' : undefined}
+                      >
                         {l.label}
                       </a>
                     ) : (
-                      <span class="langsel__soon">
+                      <span class="langsel__soon" lang={l.code}>
                         {l.label} <em>soon</em>
                       </span>
                     )}

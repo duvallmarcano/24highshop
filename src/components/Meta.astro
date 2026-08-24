@@ -80,9 +80,15 @@ const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 <meta name="twitter:description" content={metaDescription} />
 <meta name="twitter:image" content={ogImage} />
 
+{/* Only published locales get an alternate. Announcing a hreflang for a
+    language that serves English content is worse than omitting it. */}
 {
   LOCALES.filter((l) => l.enabled).map((l) => (
-    <link rel="alternate" hreflang={l.hreflang} href={canonical} />
+    <link
+      rel="alternate"
+      hreflang={l.hreflang}
+      href={l.code === 'en' ? canonical : canonical.replace('/en/', `/${l.code}/`)}
+    />
   ))
 }
 <link rel="alternate" hreflang="x-default" href={`${SITE.url}/en/`} />
