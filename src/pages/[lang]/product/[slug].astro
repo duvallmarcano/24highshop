@@ -12,7 +12,7 @@ import FAQ from '../../../components/seo/FAQ.astro';
 import KeyFacts from '../../../components/seo/KeyFacts.astro';
 import Money from '../../../components/ui/Money.astro';
 import { SHOP_BY_ID, SITE, toCHF, type ShopId } from '../../../data/site';
-import { productFAQ, SHOP_FAQ } from '../../../data/faq';
+import { productFAQ, shopFAQ } from '../../../data/faq';
 import { breadcrumbSchema } from '../../../lib/seo';
 import { alignDescription } from '../../../lib/keywords';
 import { firstImage } from '../../../lib/images';
@@ -91,7 +91,7 @@ const facts = [
 // this product belongs to.
 const faqs = [
   ...productFAQ({ title, priceEUR: price, inStock, categoryLabel, shop }, lang),
-  ...(SHOP_FAQ[shop as ShopId] ?? []).slice(0, 2),
+  ...shopFAQ(shop as ShopId, lang).slice(0, 2),
 ];
 
 const metaDescription = alignDescription(

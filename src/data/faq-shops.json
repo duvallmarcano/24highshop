@@ -1,0 +1,848 @@
+{
+  "en": {
+    "mushrooms": [
+      {
+        "q": "How long does a mushroom grow kit take to fruit?",
+        "a": "An all-in-one grow kit usually produces its first flush two to three weeks after you start it, provided it is kept between 21 and 24 °C with high humidity. Most kits give two to four flushes before the substrate is exhausted."
+      },
+      {
+        "q": "What is the difference between a spore syringe and a liquid culture?",
+        "a": "A spore syringe contains ungerminated spores, so colonisation starts from scratch and the genetics vary between spores. A liquid culture contains mycelium that has already germinated and been selected, so it colonises faster — typically half the time — and produces a uniform result."
+      },
+      {
+        "q": "Are magic truffles legal in Switzerland?",
+        "a": "No. Psilocybin-containing truffles and mushrooms are controlled substances under Swiss narcotics law. 24highshop supplies grow kits, spores and cultivation equipment; psilocybin products are not shipped to Swiss addresses."
+      },
+      {
+        "q": "Do medicinal mushrooms contain psilocybin?",
+        "a": "No. Lion’s mane, reishi, cordyceps, chaga and turkey tail contain no psilocybin and are not psychoactive. They are sold as food supplements and are legal throughout Switzerland."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "What does kratom do, and how much should I take?",
+        "a": "Kratom (Mitragyna speciosa) is stimulating at low doses and sedating at higher ones. Red vein is typically the most relaxing, white the most stimulating, green in between. Start at 1–2 g if you have not used it before, and do not combine it with alcohol, sedatives or MAO inhibitors."
+      },
+      {
+        "q": "Is kratom legal in Switzerland?",
+        "a": "Kratom is not listed as a narcotic in Switzerland, but it is not authorised as a foodstuff or medicine either, so it is sold as a botanical specimen and not for consumption. Its status differs across Europe — check the rules where you live before ordering."
+      },
+      {
+        "q": "What is kanna used for?",
+        "a": "Kanna (Sceletium tortuosum) is a South African succulent traditionally chewed or taken as a snuff. It is mildly mood-lifting and anxiolytic. It should not be combined with SSRIs or other serotonergic medication."
+      },
+      {
+        "q": "How long do mescaline cacti take to grow?",
+        "a": "San Pedro (Trichocereus pachanoi) grows roughly 30–50 cm a year in good conditions, considerably faster than peyote, which takes a decade or more to reach maturity. Cacti are sold as ornamental plants."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "What should I look for in a grinder?",
+        "a": "Aluminium or titanium beats plastic for edge retention. A four-piece grinder with a kief screen is the standard choice. Check the teeth are milled rather than cast, and that the thread turns smoothly without grit."
+      },
+      {
+        "q": "How do I store herbs so they keep?",
+        "a": "Airtight, opaque, and around 59–63% relative humidity. Glass or stainless steel with a good seal, kept out of direct light. A two-way humidity pack holds the range without you having to manage it."
+      },
+      {
+        "q": "Is borosilicate glass worth the extra cost?",
+        "a": "Yes, for anything heated. Borosilicate handles thermal shock far better than soda-lime glass, so it is much less likely to crack when a hot bowl meets cold water."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "Is it legal to grow cannabis in Switzerland?",
+        "a": "Cannabis containing less than 1% THC may be cultivated legally in Switzerland. Growing higher-THC cannabis is not permitted outside authorised pilot programmes. Seeds are sold as souvenirs and collectors’ items."
+      },
+      {
+        "q": "What is the difference between feminised and autoflowering seeds?",
+        "a": "Feminised seeds produce female plants that flower when the light cycle shortens, so you control timing. Autoflowering seeds flower after a set number of weeks regardless of light, which makes them faster and simpler but usually smaller."
+      },
+      {
+        "q": "How long do cannabis seeds stay viable?",
+        "a": "Stored cool, dark and dry — ideally in a sealed container in the fridge — seeds stay viable for around three to five years, with germination rates falling gradually after the first year."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "Is CBD legal in Switzerland?",
+        "a": "Yes. Switzerland permits cannabis products containing less than 1% THC, a considerably higher threshold than the 0.2–0.3% applied across most of the EU. Swiss CBD products are therefore often stronger than their EU equivalents."
+      },
+      {
+        "q": "What is the difference between CBD oil, paste and crystals?",
+        "a": "Oil is CBD extract diluted in a carrier oil, usually 5–30% strength, and the easiest to dose. Paste is a thicker, more concentrated full-spectrum extract. Crystals are isolated CBD at 98%+ purity with no other cannabinoids or terpenes."
+      },
+      {
+        "q": "Will CBD make me high?",
+        "a": "No. CBD is not intoxicating. Full-spectrum products contain trace THC below the legal threshold, which can in rare cases register on a sensitive drug test, but will not produce a high."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "What are adaptogens?",
+        "a": "Adaptogens are plants — ashwagandha, rhodiola, ginseng among them — traditionally used to help the body cope with stress. Effects are typically cumulative over weeks rather than immediate."
+      },
+      {
+        "q": "Can I take these alongside prescription medication?",
+        "a": "Ask a doctor or pharmacist first. Several common supplements interact with prescription drugs — St John’s wort with many medications, ashwagandha with thyroid treatment, rhodiola with antidepressants."
+      },
+      {
+        "q": "How long before I notice anything?",
+        "a": "Nootropics such as L-theanine or caffeine combinations act within an hour. Adaptogens and medicinal mushrooms are cumulative and usually take two to six weeks of consistent use."
+      }
+    ]
+  },
+  "de": {
+    "mushrooms": [
+      {
+        "q": "Wie lange braucht ein Pilz-Grow-Set bis zur Ernte?",
+        "a": "Ein All-in-one-Set bringt die erste Welle meist zwei bis drei Wochen nach dem Start, sofern es bei 21 bis 24 °C und hoher Luftfeuchtigkeit steht. Die meisten Sets liefern zwei bis vier Wellen, bis das Substrat erschöpft ist."
+      },
+      {
+        "q": "Was ist der Unterschied zwischen Sporenspritze und Flüssigkultur?",
+        "a": "Eine Sporenspritze enthält ungekeimte Sporen — die Besiedlung beginnt bei null und die Genetik variiert von Spore zu Spore. Eine Flüssigkultur enthält bereits gekeimtes, ausgelesenes Myzel, besiedelt darum schneller (meist in der halben Zeit) und liefert ein einheitliches Ergebnis."
+      },
+      {
+        "q": "Sind Zaubertrüffel in der Schweiz legal?",
+        "a": "Nein. Psilocybinhaltige Trüffel und Pilze fallen unter das Schweizer Betäubungsmittelrecht. 24highshop liefert Grow-Sets, Sporen und Zuchtzubehör; psilocybinhaltige Produkte werden nicht an Schweizer Adressen versandt."
+      },
+      {
+        "q": "Enthalten Vitalpilze Psilocybin?",
+        "a": "Nein. Igelstachelbart, Reishi, Cordyceps, Chaga und Schmetterlingstramete enthalten kein Psilocybin und sind nicht psychoaktiv. Sie werden als Nahrungsergänzung verkauft und sind in der ganzen Schweiz legal."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "Was bewirkt Kratom und wie viel nimmt man?",
+        "a": "Kratom (Mitragyna speciosa) wirkt in tiefer Dosis anregend, in höherer beruhigend. Red Vein ist meist am entspannendsten, White am anregendsten, Green liegt dazwischen. Beginnen Sie mit 1–2 g, wenn Sie es nicht kennen, und kombinieren Sie es nicht mit Alkohol, Beruhigungsmitteln oder MAO-Hemmern."
+      },
+      {
+        "q": "Ist Kratom in der Schweiz legal?",
+        "a": "Kratom ist in der Schweiz nicht als Betäubungsmittel gelistet, aber auch nicht als Lebens- oder Arzneimittel zugelassen. Es wird daher als botanisches Sammlerstück und nicht zum Verzehr verkauft. Der Status unterscheidet sich innerhalb Europas — prüfen Sie die Regeln an Ihrem Wohnort vor der Bestellung."
+      },
+      {
+        "q": "Wofür wird Kanna verwendet?",
+        "a": "Kanna (Sceletium tortuosum) ist eine südafrikanische Sukkulente, traditionell gekaut oder als Schnupfpulver genommen. Sie hebt die Stimmung leicht und wirkt angstlösend. Nicht mit SSRI oder anderen serotonergen Medikamenten kombinieren."
+      },
+      {
+        "q": "Wie schnell wachsen Mescalin-Kakteen?",
+        "a": "San Pedro (Trichocereus pachanoi) wächst unter guten Bedingungen etwa 30–50 cm pro Jahr — deutlich schneller als Peyote, der ein Jahrzehnt oder länger bis zur Reife braucht. Kakteen werden als Zierpflanzen verkauft."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "Worauf achtet man bei einem Grinder?",
+        "a": "Aluminium oder Titan hält die Schneide besser als Kunststoff. Standard ist ein vierteiliger Grinder mit Pollensieb. Achten Sie darauf, dass die Zähne gefräst und nicht gegossen sind und das Gewinde ohne Körnung läuft."
+      },
+      {
+        "q": "Wie lagert man Kräuter richtig?",
+        "a": "Luftdicht, lichtundurchlässig und bei etwa 59–63% relativer Luftfeuchtigkeit. Glas oder Edelstahl mit gutem Verschluss, vor direktem Licht geschützt. Ein Zwei-Wege-Feuchtigkeitspack hält den Bereich von selbst."
+      },
+      {
+        "q": "Lohnt sich Borosilikatglas?",
+        "a": "Ja, überall dort, wo erhitzt wird. Borosilikat verträgt Temperaturschocks weit besser als Kalk-Natron-Glas und springt deshalb viel seltener, wenn ein heisser Kopf auf kaltes Wasser trifft."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "Ist Cannabisanbau in der Schweiz legal?",
+        "a": "Cannabis mit weniger als 1% THC darf in der Schweiz legal angebaut werden. Der Anbau THC-stärkerer Sorten ist ausserhalb bewilligter Pilotversuche nicht erlaubt. Samen werden als Souvenirs und Sammlerstücke verkauft."
+      },
+      {
+        "q": "Was unterscheidet feminisierte von autoflowering Samen?",
+        "a": "Feminisierte Samen ergeben weibliche Pflanzen, die blühen, sobald die Lichtphase kürzer wird — Sie bestimmen also den Zeitpunkt. Autoflowering Samen blühen nach einer festen Wochenzahl unabhängig vom Licht: schneller und einfacher, meist aber kleiner."
+      },
+      {
+        "q": "Wie lange bleiben Cannabissamen keimfähig?",
+        "a": "Kühl, dunkel und trocken gelagert — idealerweise luftdicht im Kühlschrank — bleiben Samen etwa drei bis fünf Jahre keimfähig, wobei die Keimrate nach dem ersten Jahr allmählich sinkt."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "Ist CBD in der Schweiz legal?",
+        "a": "Ja. Die Schweiz erlaubt Cannabisprodukte mit weniger als 1% THC — deutlich mehr als die 0,2–0,3%, die in weiten Teilen der EU gelten. Schweizer CBD-Produkte sind darum oft stärker als ihre EU-Pendants."
+      },
+      {
+        "q": "Was unterscheidet CBD-Öl, -Paste und -Kristalle?",
+        "a": "Öl ist CBD-Extrakt in einem Trägeröl, meist 5–30% stark und am einfachsten zu dosieren. Paste ist ein dickeres, konzentrierteres Vollspektrum-Extrakt. Kristalle sind isoliertes CBD mit über 98% Reinheit, ohne weitere Cannabinoide oder Terpene."
+      },
+      {
+        "q": "Macht CBD high?",
+        "a": "Nein. CBD wirkt nicht berauschend. Vollspektrum-Produkte enthalten Spuren von THC unterhalb der gesetzlichen Grenze, die in seltenen Fällen einen empfindlichen Drogentest auslösen können, aber kein High erzeugen."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "Was sind Adaptogene?",
+        "a": "Adaptogene sind Pflanzen — darunter Ashwagandha, Rhodiola und Ginseng — die traditionell verwendet werden, um dem Körper den Umgang mit Stress zu erleichtern. Die Wirkung baut sich meist über Wochen auf und tritt nicht sofort ein."
+      },
+      {
+        "q": "Kann ich das zusammen mit Medikamenten nehmen?",
+        "a": "Fragen Sie zuerst Ärztin oder Apotheker. Mehrere gängige Nahrungsergänzungen wechselwirken mit verschreibungspflichtigen Mitteln — Johanniskraut mit vielen Medikamenten, Ashwagandha mit Schilddrüsentherapien, Rhodiola mit Antidepressiva."
+      },
+      {
+        "q": "Wann merke ich etwas?",
+        "a": "Nootropika wie L-Theanin oder Koffein-Kombinationen wirken innerhalb einer Stunde. Adaptogene und Vitalpilze wirken kumulativ und brauchen meist zwei bis sechs Wochen regelmässiger Einnahme."
+      }
+    ]
+  },
+  "fr": {
+    "mushrooms": [
+      {
+        "q": "Combien de temps un kit de culture met-il à fructifier ?",
+        "a": "Un kit tout-en-un donne sa première volée deux à trois semaines après le démarrage, à condition d’être maintenu entre 21 et 24 °C avec une forte humidité. La plupart des kits donnent deux à quatre volées avant épuisement du substrat."
+      },
+      {
+        "q": "Quelle différence entre une seringue de spores et une culture liquide ?",
+        "a": "Une seringue de spores contient des spores non germées : la colonisation part de zéro et la génétique varie d’une spore à l’autre. Une culture liquide contient du mycélium déjà germé et sélectionné, colonise donc plus vite — souvent deux fois — et donne un résultat homogène."
+      },
+      {
+        "q": "Les truffes magiques sont-elles légales en Suisse ?",
+        "a": "Non. Les truffes et champignons contenant de la psilocybine relèvent de la loi suisse sur les stupéfiants. 24highshop fournit des kits de culture, des spores et du matériel ; aucun produit à psilocybine n’est expédié vers une adresse suisse."
+      },
+      {
+        "q": "Les champignons médicinaux contiennent-ils de la psilocybine ?",
+        "a": "Non. Hydne hérisson, reishi, cordyceps, chaga et polypore versicolore ne contiennent pas de psilocybine et ne sont pas psychoactifs. Ils sont vendus comme compléments alimentaires et sont légaux dans toute la Suisse."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "Que fait le kratom, et quelle quantité prendre ?",
+        "a": "Le kratom (Mitragyna speciosa) est stimulant à faible dose et sédatif à dose plus élevée. Le red vein est généralement le plus relaxant, le white le plus stimulant, le green entre les deux. Commencez à 1–2 g si vous n’en avez jamais pris, et ne l’associez pas à l’alcool, aux sédatifs ni aux IMAO."
+      },
+      {
+        "q": "Le kratom est-il légal en Suisse ?",
+        "a": "Le kratom n’est pas classé comme stupéfiant en Suisse, mais il n’est pas non plus autorisé comme denrée alimentaire ou médicament : il est donc vendu comme spécimen botanique, non destiné à la consommation. Son statut varie en Europe — vérifiez la réglementation chez vous avant de commander."
+      },
+      {
+        "q": "À quoi sert le kanna ?",
+        "a": "Le kanna (Sceletium tortuosum) est une plante grasse d’Afrique du Sud, traditionnellement mâchée ou prisée. Elle est légèrement euphorisante et anxiolytique. Elle ne doit pas être associée aux ISRS ni à d’autres médicaments sérotoninergiques."
+      },
+      {
+        "q": "À quelle vitesse poussent les cactus à mescaline ?",
+        "a": "Le San Pedro (Trichocereus pachanoi) pousse d’environ 30–50 cm par an dans de bonnes conditions, bien plus vite que le peyotl, qui met une décennie ou plus à atteindre la maturité. Les cactus sont vendus comme plantes ornementales."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "Que regarder sur un grinder ?",
+        "a": "L’aluminium ou le titane tiennent le fil mieux que le plastique. Le choix standard est un grinder quatre parties avec tamis à pollen. Vérifiez que les dents sont fraisées et non moulées, et que le filetage tourne sans accroc."
+      },
+      {
+        "q": "Comment conserver des herbes ?",
+        "a": "À l’abri de l’air et de la lumière, autour de 59–63% d’humidité relative. Verre ou inox avec une bonne étanchéité, hors lumière directe. Un sachet régulateur d’humidité bidirectionnel maintient la plage sans intervention."
+      },
+      {
+        "q": "Le verre borosilicate vaut-il son prix ?",
+        "a": "Oui, dès qu’il y a chauffe. Le borosilicate encaisse bien mieux les chocs thermiques que le verre sodocalcique : il casse beaucoup moins souvent quand un foyer chaud rencontre l’eau froide."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "Peut-on cultiver du cannabis légalement en Suisse ?",
+        "a": "Le cannabis contenant moins de 1% de THC peut être cultivé légalement en Suisse. La culture de variétés plus riches en THC n’est pas autorisée hors programmes pilotes agréés. Les graines sont vendues comme souvenirs et objets de collection."
+      },
+      {
+        "q": "Quelle différence entre graines féminisées et autofloraison ?",
+        "a": "Les graines féminisées donnent des plantes femelles qui fleurissent quand la photopériode raccourcit : vous maîtrisez le calendrier. Les autofloraisons fleurissent après un nombre de semaines fixe, quelle que soit la lumière — plus rapides et plus simples, mais généralement plus petites."
+      },
+      {
+        "q": "Combien de temps les graines restent-elles viables ?",
+        "a": "Conservées au frais, au sec et à l’obscurité — idéalement en contenant hermétique au réfrigérateur — les graines restent viables environ trois à cinq ans, le taux de germination diminuant progressivement après la première année."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "Le CBD est-il légal en Suisse ?",
+        "a": "Oui. La Suisse autorise les produits à base de cannabis contenant moins de 1% de THC, un seuil nettement plus élevé que les 0,2–0,3% appliqués dans la majeure partie de l’UE. Les produits CBD suisses sont donc souvent plus concentrés que leurs équivalents européens."
+      },
+      {
+        "q": "Quelle différence entre huile, pâte et cristaux de CBD ?",
+        "a": "L’huile est un extrait de CBD dilué dans une huile porteuse, généralement à 5–30%, et la plus simple à doser. La pâte est un extrait full spectrum plus épais et plus concentré. Les cristaux sont du CBD isolé à plus de 98% de pureté, sans autres cannabinoïdes ni terpènes."
+      },
+      {
+        "q": "Le CBD rend-il défoncé ?",
+        "a": "Non. Le CBD n’est pas psychotrope. Les produits full spectrum contiennent des traces de THC sous le seuil légal, qui peuvent dans de rares cas apparaître à un test de dépistage sensible, mais ne provoquent aucun effet planant."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "Que sont les adaptogènes ?",
+        "a": "Les adaptogènes sont des plantes — ashwagandha, rhodiola, ginseng entre autres — traditionnellement employées pour aider l’organisme à composer avec le stress. Les effets sont cumulatifs sur plusieurs semaines plutôt qu’immédiats."
+      },
+      {
+        "q": "Puis-je en prendre avec un traitement médical ?",
+        "a": "Demandez d’abord à un médecin ou à un pharmacien. Plusieurs compléments courants interagissent avec les médicaments : le millepertuis avec de nombreux traitements, l’ashwagandha avec la thyroïde, la rhodiola avec les antidépresseurs."
+      },
+      {
+        "q": "Au bout de combien de temps ressent-on quelque chose ?",
+        "a": "Les nootropiques comme la L-théanine ou les associations à la caféine agissent en moins d’une heure. Les adaptogènes et les champignons médicinaux sont cumulatifs et demandent généralement deux à six semaines d’usage régulier."
+      }
+    ]
+  },
+  "it": {
+    "mushrooms": [
+      {
+        "q": "Quanto tempo impiega un kit di coltivazione a fruttificare?",
+        "a": "Un kit all-in-one dà la prima ondata due o tre settimane dopo l’avvio, se tenuto fra 21 e 24 °C con umidità elevata. La maggior parte dei kit produce da due a quattro ondate prima che il substrato si esaurisca."
+      },
+      {
+        "q": "Che differenza c’è fra siringa di spore e coltura liquida?",
+        "a": "La siringa contiene spore non germinate: la colonizzazione parte da zero e la genetica varia da spora a spora. La coltura liquida contiene micelio già germinato e selezionato, quindi colonizza più in fretta — spesso in metà tempo — con un risultato uniforme."
+      },
+      {
+        "q": "I tartufi magici sono legali in Svizzera?",
+        "a": "No. Tartufi e funghi contenenti psilocibina rientrano nella legge svizzera sugli stupefacenti. 24highshop fornisce kit, spore e attrezzatura da coltivazione; i prodotti a base di psilocibina non vengono spediti a indirizzi svizzeri."
+      },
+      {
+        "q": "I funghi medicinali contengono psilocibina?",
+        "a": "No. Criniera di leone, reishi, cordyceps, chaga e coda di tacchino non contengono psilocibina e non sono psicoattivi. Sono venduti come integratori alimentari e sono legali in tutta la Svizzera."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "Cosa fa il kratom e quanto se ne prende?",
+        "a": "Il kratom (Mitragyna speciosa) è stimolante a dosi basse e sedativo a dosi più alte. La vena rossa è di norma la più rilassante, la bianca la più stimolante, la verde sta nel mezzo. Se non l’hai mai usato parti da 1–2 g, e non associarlo ad alcol, sedativi o inibitori delle MAO."
+      },
+      {
+        "q": "Il kratom è legale in Svizzera?",
+        "a": "Il kratom non è classificato come stupefacente in Svizzera, ma non è nemmeno autorizzato come alimento o medicinale: è quindi venduto come campione botanico e non per il consumo. Lo status cambia in Europa — verifica le norme del tuo Paese prima di ordinare."
+      },
+      {
+        "q": "A cosa serve la kanna?",
+        "a": "La kanna (Sceletium tortuosum) è una succulenta sudafricana, tradizionalmente masticata o assunta come polvere da fiuto. Solleva lievemente l’umore ed è ansiolitica. Non va combinata con SSRI o altri farmaci serotoninergici."
+      },
+      {
+        "q": "Quanto crescono i cactus mescalinici?",
+        "a": "Il San Pedro (Trichocereus pachanoi) cresce circa 30–50 cm l’anno in buone condizioni, molto più rapidamente del peyote, che impiega un decennio o più per maturare. I cactus sono venduti come piante ornamentali."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "Cosa guardare in un grinder?",
+        "a": "Alluminio o titanio tengono il filo meglio della plastica. La scelta standard è un grinder a quattro pezzi con setaccio per il kief. Controlla che i denti siano fresati e non fusi e che la filettatura giri liscia."
+      },
+      {
+        "q": "Come si conservano le erbe?",
+        "a": "Ermetico, opaco e attorno al 59–63% di umidità relativa. Vetro o acciaio inox con buona tenuta, lontano dalla luce diretta. Una bustina umidostatica bidirezionale mantiene l’intervallo senza doverci pensare."
+      },
+      {
+        "q": "Vale la pena il vetro borosilicato?",
+        "a": "Sì, ovunque ci sia calore. Il borosilicato regge lo shock termico assai meglio del vetro sodico-calcico, quindi si crepa molto meno quando un braciere caldo incontra l’acqua fredda."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "È legale coltivare cannabis in Svizzera?",
+        "a": "La cannabis con meno dell’1% di THC può essere coltivata legalmente in Svizzera. La coltivazione di varietà con più THC non è consentita al di fuori dei programmi pilota autorizzati. I semi sono venduti come souvenir e articoli da collezione."
+      },
+      {
+        "q": "Che differenza c’è fra semi femminizzati e autofiorenti?",
+        "a": "I semi femminizzati danno piante femmina che fioriscono quando il fotoperiodo si accorcia: il tempismo lo decidi tu. Gli autofiorenti fioriscono dopo un numero fisso di settimane a prescindere dalla luce — più rapidi e semplici, ma di solito più piccoli."
+      },
+      {
+        "q": "Quanto restano vitali i semi di cannabis?",
+        "a": "Conservati al fresco, al buio e all’asciutto — idealmente in contenitore sigillato in frigorifero — i semi restano vitali circa tre-cinque anni, con il tasso di germinazione che cala gradualmente dopo il primo anno."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "Il CBD è legale in Svizzera?",
+        "a": "Sì. La Svizzera consente prodotti a base di cannabis con meno dell’1% di THC, una soglia molto più alta dello 0,2–0,3% applicato in gran parte dell’UE. I prodotti CBD svizzeri sono quindi spesso più concentrati degli equivalenti europei."
+      },
+      {
+        "q": "Che differenza c’è fra olio, pasta e cristalli di CBD?",
+        "a": "L’olio è estratto di CBD diluito in un olio vettore, di norma al 5–30%, ed è il più facile da dosare. La pasta è un estratto full spectrum più denso e concentrato. I cristalli sono CBD isolato con purezza superiore al 98%, senza altri cannabinoidi né terpeni."
+      },
+      {
+        "q": "Il CBD fa sballare?",
+        "a": "No. Il CBD non è inebriante. I prodotti full spectrum contengono tracce di THC sotto la soglia di legge, che in rari casi possono risultare a un test antidroga sensibile, ma non producono sballo."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "Cosa sono gli adattogeni?",
+        "a": "Gli adattogeni sono piante — fra cui ashwagandha, rodiola e ginseng — tradizionalmente usate per aiutare l’organismo a gestire lo stress. Gli effetti sono cumulativi nell’arco di settimane, non immediati."
+      },
+      {
+        "q": "Posso assumerli insieme a farmaci?",
+        "a": "Chiedi prima a un medico o a un farmacista. Diversi integratori comuni interagiscono con i farmaci: l’iperico con molte terapie, l’ashwagandha con quelle tiroidee, la rodiola con gli antidepressivi."
+      },
+      {
+        "q": "Dopo quanto si nota qualcosa?",
+        "a": "I nootropi come la L-teanina o le combinazioni con caffeina agiscono entro un’ora. Adattogeni e funghi medicinali sono cumulativi e richiedono di norma due-sei settimane di uso costante."
+      }
+    ]
+  },
+  "nl": {
+    "mushrooms": [
+      {
+        "q": "Hoe lang duurt het voordat een kweekset vruchten geeft?",
+        "a": "Een all-in-one set geeft de eerste flush twee tot drie weken na de start, mits hij tussen 21 en 24 °C staat bij hoge luchtvochtigheid. De meeste sets geven twee tot vier flushes voordat het substraat op is."
+      },
+      {
+        "q": "Wat is het verschil tussen een sporenspuit en een liquid culture?",
+        "a": "Een sporenspuit bevat ongekiemde sporen: de kolonisatie begint bij nul en de genetica verschilt per spore. Een liquid culture bevat mycelium dat al gekiemd en geselecteerd is, kolo­niseert daardoor sneller — vaak in de helft van de tijd — en geeft een uniform resultaat."
+      },
+      {
+        "q": "Zijn magic truffels legaal in Zwitserland?",
+        "a": "Nee. Truffels en paddenstoelen met psilocybine vallen onder de Zwitserse verdovingsmiddelenwet. 24highshop levert kweeksets, sporen en kweekbenodigdheden; producten met psilocybine worden niet naar Zwitserse adressen verzonden."
+      },
+      {
+        "q": "Bevatten medicinale paddenstoelen psilocybine?",
+        "a": "Nee. Pruikzwam, reishi, cordyceps, chaga en elfenbankje bevatten geen psilocybine en zijn niet psychoactief. Ze worden verkocht als voedingssupplement en zijn in heel Zwitserland legaal."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "Wat doet kratom en hoeveel neem je?",
+        "a": "Kratom (Mitragyna speciosa) werkt stimulerend bij lage dosering en verdovend bij hogere. Red vein is doorgaans het meest ontspannend, white het meest stimulerend, green zit ertussenin. Begin met 1–2 g als je het niet kent, en combineer het niet met alcohol, kalmeringsmiddelen of MAO-remmers."
+      },
+      {
+        "q": "Is kratom legaal in Zwitserland?",
+        "a": "Kratom staat in Zwitserland niet op de verdovingsmiddelenlijst, maar is ook niet toegelaten als levensmiddel of geneesmiddel. Het wordt daarom verkocht als botanisch specimen, niet voor consumptie. De status verschilt binnen Europa — controleer de regels waar je woont voordat je bestelt."
+      },
+      {
+        "q": "Waarvoor gebruik je kanna?",
+        "a": "Kanna (Sceletium tortuosum) is een Zuid-Afrikaanse vetplant die traditioneel gekauwd of gesnoven wordt. Het werkt licht stemmingsverbeterend en angstverlagend. Niet combineren met SSRI’s of andere serotonerge medicatie."
+      },
+      {
+        "q": "Hoe snel groeien mescalinecactussen?",
+        "a": "San Pedro (Trichocereus pachanoi) groeit onder goede omstandigheden ongeveer 30–50 cm per jaar, veel sneller dan peyote, die tien jaar of langer nodig heeft om volwassen te worden. Cactussen worden verkocht als sierplant."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "Waar let je op bij een grinder?",
+        "a": "Aluminium of titanium houdt de snede beter dan kunststof. De standaardkeuze is een vierdelige grinder met kiefzeef. Kijk of de tanden gefreesd zijn in plaats van gegoten en of de schroefdraad soepel loopt."
+      },
+      {
+        "q": "Hoe bewaar je kruiden goed?",
+        "a": "Luchtdicht, ondoorzichtig en rond 59–63% relatieve luchtvochtigheid. Glas of rvs met een goede sluiting, uit direct licht. Een tweewegs vochtregelaar houdt dat bereik vanzelf vast."
+      },
+      {
+        "q": "Is borosilicaatglas het meerprijs waard?",
+        "a": "Ja, overal waar verhit wordt. Borosilicaat verdraagt temperatuurschokken veel beter dan kalknatronglas en barst dus veel minder snel wanneer een hete kop koud water raakt."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "Mag je in Zwitserland cannabis kweken?",
+        "a": "Cannabis met minder dan 1% THC mag in Zwitserland legaal gekweekt worden. Het kweken van sterkere varianten is buiten goedgekeurde pilotprogramma’s niet toegestaan. Zaden worden verkocht als souvenir en verzamelobject."
+      },
+      {
+        "q": "Wat is het verschil tussen gefeminiseerde en autoflower zaden?",
+        "a": "Gefeminiseerde zaden geven vrouwelijke planten die bloeien zodra de lichtcyclus korter wordt: jij bepaalt de timing. Autoflowers bloeien na een vast aantal weken, ongeacht het licht — sneller en simpeler, maar meestal kleiner."
+      },
+      {
+        "q": "Hoe lang blijven cannabiszaden kiemkrachtig?",
+        "a": "Koel, donker en droog bewaard — bij voorkeur luchtdicht in de koelkast — blijven zaden zo’n drie tot vijf jaar kiemkrachtig, waarbij het kiempercentage na het eerste jaar geleidelijk daalt."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "Is CBD legaal in Zwitserland?",
+        "a": "Ja. Zwitserland staat cannabisproducten met minder dan 1% THC toe, een veel hogere grens dan de 0,2–0,3% die in het grootste deel van de EU geldt. Zwitserse CBD-producten zijn daardoor vaak sterker dan hun EU-tegenhangers."
+      },
+      {
+        "q": "Wat is het verschil tussen CBD-olie, -pasta en -kristallen?",
+        "a": "Olie is CBD-extract verdund in een draagolie, meestal 5–30% sterk en het makkelijkst te doseren. Pasta is een dikker, geconcentreerder full-spectrum extract. Kristallen zijn geïsoleerd CBD met meer dan 98% zuiverheid, zonder andere cannabinoïden of terpenen."
+      },
+      {
+        "q": "Word je high van CBD?",
+        "a": "Nee. CBD is niet bedwelmend. Full-spectrum producten bevatten sporen THC onder de wettelijke grens, die in zeldzame gevallen kunnen opduiken bij een gevoelige drugstest, maar geen high geven."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "Wat zijn adaptogenen?",
+        "a": "Adaptogenen zijn planten — waaronder ashwagandha, rhodiola en ginseng — die van oudsher gebruikt worden om het lichaam met stress te helpen omgaan. De werking bouwt zich op over weken en is niet direct merkbaar."
+      },
+      {
+        "q": "Kan ik dit naast medicijnen gebruiken?",
+        "a": "Vraag het eerst aan een arts of apotheker. Verschillende gangbare supplementen hebben wisselwerking met medicatie: sint-janskruid met veel middelen, ashwagandha met schildkliermedicatie, rhodiola met antidepressiva."
+      },
+      {
+        "q": "Hoe lang duurt het voor je iets merkt?",
+        "a": "Nootropica zoals L-theanine of combinaties met cafeïne werken binnen een uur. Adaptogenen en medicinale paddenstoelen werken cumulatief en vragen meestal twee tot zes weken consistent gebruik."
+      }
+    ]
+  },
+  "es": {
+    "mushrooms": [
+      {
+        "q": "¿Cuánto tarda en fructificar un kit de cultivo?",
+        "a": "Un kit todo en uno da la primera cosecha dos o tres semanas después de iniciarlo, siempre que se mantenga entre 21 y 24 °C con humedad alta. La mayoría de kits dan de dos a cuatro cosechas antes de agotar el sustrato."
+      },
+      {
+        "q": "¿Qué diferencia hay entre una jeringa de esporas y un cultivo líquido?",
+        "a": "La jeringa contiene esporas sin germinar: la colonización parte de cero y la genética varía entre esporas. El cultivo líquido contiene micelio ya germinado y seleccionado, así que coloniza más rápido — a menudo en la mitad de tiempo — y da un resultado uniforme."
+      },
+      {
+        "q": "¿Son legales las trufas mágicas en Suiza?",
+        "a": "No. Las trufas y setas con psilocibina están sujetas a la ley suiza de estupefacientes. 24highshop suministra kits, esporas y material de cultivo; los productos con psilocibina no se envían a direcciones suizas."
+      },
+      {
+        "q": "¿Las setas medicinales contienen psilocibina?",
+        "a": "No. Melena de león, reishi, cordyceps, chaga y cola de pavo no contienen psilocibina ni son psicoactivas. Se venden como complementos alimenticios y son legales en toda Suiza."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "¿Qué hace el kratom y cuánto se toma?",
+        "a": "El kratom (Mitragyna speciosa) es estimulante en dosis bajas y sedante en dosis altas. La vena roja suele ser la más relajante, la blanca la más estimulante y la verde intermedia. Empieza con 1–2 g si no lo has probado, y no lo combines con alcohol, sedantes ni inhibidores de la MAO."
+      },
+      {
+        "q": "¿Es legal el kratom en Suiza?",
+        "a": "El kratom no figura como estupefaciente en Suiza, pero tampoco está autorizado como alimento ni medicamento, así que se vende como espécimen botánico y no para consumo. Su estatus varía en Europa: comprueba la normativa de tu país antes de pedir."
+      },
+      {
+        "q": "¿Para qué se usa la kanna?",
+        "a": "La kanna (Sceletium tortuosum) es una suculenta sudafricana que tradicionalmente se masca o se toma en polvo. Levanta ligeramente el ánimo y es ansiolítica. No debe combinarse con ISRS ni con otra medicación serotoninérgica."
+      },
+      {
+        "q": "¿Cuánto crecen los cactus de mescalina?",
+        "a": "El San Pedro (Trichocereus pachanoi) crece unos 30–50 cm al año en buenas condiciones, mucho más rápido que el peyote, que tarda una década o más en madurar. Los cactus se venden como plantas ornamentales."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "¿En qué fijarse al elegir un grinder?",
+        "a": "El aluminio o el titanio mantienen el filo mejor que el plástico. Lo estándar es un grinder de cuatro piezas con tamiz para el polen. Comprueba que los dientes estén fresados y no fundidos, y que la rosca gire suave."
+      },
+      {
+        "q": "¿Cómo se conservan bien las hierbas?",
+        "a": "Hermético, opaco y en torno al 59–63% de humedad relativa. Vidrio o acero inoxidable con buen cierre, lejos de la luz directa. Un regulador de humedad bidireccional mantiene ese rango sin que tengas que intervenir."
+      },
+      {
+        "q": "¿Merece la pena el vidrio de borosilicato?",
+        "a": "Sí, siempre que haya calor. El borosilicato aguanta el choque térmico mucho mejor que el vidrio sodocálcico, así que se agrieta bastante menos cuando un cazoleta caliente toca agua fría."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "¿Es legal cultivar cannabis en Suiza?",
+        "a": "El cannabis con menos del 1% de THC puede cultivarse legalmente en Suiza. Cultivar variedades con más THC no está permitido fuera de programas piloto autorizados. Las semillas se venden como recuerdo y artículo de coleccionista."
+      },
+      {
+        "q": "¿Qué diferencia hay entre semillas feminizadas y autoflorecientes?",
+        "a": "Las feminizadas dan plantas hembra que florecen cuando el fotoperiodo se acorta: tú controlas los tiempos. Las autoflorecientes florecen tras un número fijo de semanas independientemente de la luz — más rápidas y sencillas, pero normalmente más pequeñas."
+      },
+      {
+        "q": "¿Cuánto tiempo siguen siendo viables las semillas?",
+        "a": "Guardadas en frío, oscuridad y sequedad — idealmente en recipiente hermético en la nevera — las semillas siguen siendo viables unos tres a cinco años, con una tasa de germinación que baja poco a poco tras el primer año."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "¿Es legal el CBD en Suiza?",
+        "a": "Sí. Suiza permite productos de cannabis con menos del 1% de THC, un umbral bastante más alto que el 0,2–0,3% aplicado en la mayor parte de la UE. Por eso los productos de CBD suizos suelen ser más potentes que sus equivalentes europeos."
+      },
+      {
+        "q": "¿Qué diferencia hay entre aceite, pasta y cristales de CBD?",
+        "a": "El aceite es extracto de CBD diluido en un aceite portador, normalmente al 5–30%, y el más fácil de dosificar. La pasta es un extracto de espectro completo más denso y concentrado. Los cristales son CBD aislado con más del 98% de pureza, sin otros cannabinoides ni terpenos."
+      },
+      {
+        "q": "¿El CBD coloca?",
+        "a": "No. El CBD no es embriagante. Los productos de espectro completo contienen trazas de THC por debajo del límite legal, que en casos raros pueden dar positivo en un test sensible, pero no producen colocón."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "¿Qué son los adaptógenos?",
+        "a": "Los adaptógenos son plantas — ashwagandha, rodiola y ginseng entre ellas — usadas tradicionalmente para ayudar al cuerpo a manejar el estrés. Los efectos son acumulativos a lo largo de semanas, no inmediatos."
+      },
+      {
+        "q": "¿Puedo tomarlos con medicación?",
+        "a": "Consulta antes con un médico o farmacéutico. Varios suplementos habituales interactúan con medicamentos: el hipérico con muchos tratamientos, la ashwagandha con la medicación tiroidea y la rodiola con los antidepresivos."
+      },
+      {
+        "q": "¿Cuánto tardan en notarse?",
+        "a": "Los nootrópicos como la L-teanina o las combinaciones con cafeína actúan en menos de una hora. Los adaptógenos y las setas medicinales son acumulativos y suelen requerir de dos a seis semanas de uso constante."
+      }
+    ]
+  },
+  "pl": {
+    "mushrooms": [
+      {
+        "q": "Ile czasu zestaw do uprawy potrzebuje na owocowanie?",
+        "a": "Zestaw all-in-one daje pierwszy rzut dwa do trzech tygodni po uruchomieniu, o ile stoi w temperaturze 21–24 °C przy wysokiej wilgotności. Większość zestawów daje od dwóch do czterech rzutów, zanim podłoże się wyczerpie."
+      },
+      {
+        "q": "Czym różni się strzykawka zarodnikowa od kultury płynnej?",
+        "a": "Strzykawka zawiera niewykiełkowane zarodniki: kolonizacja startuje od zera, a genetyka różni się między zarodnikami. Kultura płynna zawiera już wykiełkowaną i wyselekcjonowaną grzybnię, więc kolonizuje szybciej — często o połowę — i daje jednolity efekt."
+      },
+      {
+        "q": "Czy magiczne trufle są legalne w Szwajcarii?",
+        "a": "Nie. Trufle i grzyby zawierające psylocybinę podlegają szwajcarskiemu prawu narkotykowemu. 24highshop dostarcza zestawy do uprawy, zarodniki i sprzęt; produktów z psylocybiną nie wysyłamy na szwajcarskie adresy."
+      },
+      {
+        "q": "Czy grzyby lecznicze zawierają psylocybinę?",
+        "a": "Nie. Soplówka jeżowata, reishi, cordyceps, chaga i wrośniak różnobarwny nie zawierają psylocybiny i nie są psychoaktywne. Sprzedawane są jako suplementy diety i są legalne w całej Szwajcarii."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "Jak działa kratom i ile się go bierze?",
+        "a": "Kratom (Mitragyna speciosa) w niskich dawkach pobudza, w wyższych działa uspokajająco. Czerwona żyłka jest zwykle najbardziej relaksująca, biała najbardziej pobudzająca, zielona pośrodku. Zacznij od 1–2 g, jeśli go nie znasz, i nie łącz go z alkoholem, lekami uspokajającymi ani inhibitorami MAO."
+      },
+      {
+        "q": "Czy kratom jest legalny w Szwajcarii?",
+        "a": "Kratom nie figuruje w Szwajcarii jako narkotyk, ale nie jest też dopuszczony jako żywność ani lek — sprzedajemy go więc jako okaz botaniczny, nie do spożycia. Status różni się w Europie: sprawdź przepisy w swoim kraju przed zamówieniem."
+      },
+      {
+        "q": "Do czego stosuje się kannę?",
+        "a": "Kanna (Sceletium tortuosum) to południowoafrykański sukulent, tradycyjnie żuty lub zażywany jako proszek. Lekko poprawia nastrój i działa przeciwlękowo. Nie należy jej łączyć z SSRI ani innymi lekami serotoninergicznymi."
+      },
+      {
+        "q": "Jak szybko rosną kaktusy meskalinowe?",
+        "a": "San Pedro (Trichocereus pachanoi) rośnie w dobrych warunkach około 30–50 cm rocznie, znacznie szybciej niż pejotl, któremu dojrzewanie zajmuje dekadę lub dłużej. Kaktusy sprzedawane są jako rośliny ozdobne."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "Na co zwracać uwagę przy młynku?",
+        "a": "Aluminium lub tytan trzymają ostrze lepiej niż plastik. Standardem jest czteroczęściowy młynek z sitkiem na kief. Sprawdź, czy zęby są frezowane, a nie odlewane, i czy gwint chodzi gładko."
+      },
+      {
+        "q": "Jak przechowywać zioła?",
+        "a": "Szczelnie, w nieprzezroczystym pojemniku i przy wilgotności względnej około 59–63%. Szkło lub stal nierdzewna z dobrym zamknięciem, z dala od bezpośredniego światła. Dwukierunkowa saszetka wilgotnościowa utrzyma ten zakres sama."
+      },
+      {
+        "q": "Czy szkło borokrzemowe jest warte dopłaty?",
+        "a": "Tak, wszędzie tam, gdzie pojawia się ciepło. Borokrzemowe znosi szok termiczny znacznie lepiej niż sodowo-wapniowe, więc dużo rzadziej pęka, gdy gorący cybuch trafi na zimną wodę."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "Czy w Szwajcarii można legalnie uprawiać konopie?",
+        "a": "Konopie o zawartości THC poniżej 1% można w Szwajcarii uprawiać legalnie. Uprawa odmian o wyższej zawartości THC jest dozwolona wyłącznie w ramach zatwierdzonych programów pilotażowych. Nasiona sprzedajemy jako pamiątki i przedmioty kolekcjonerskie."
+      },
+      {
+        "q": "Czym różnią się nasiona feminizowane od automatycznych?",
+        "a": "Feminizowane dają rośliny żeńskie, które kwitną po skróceniu fotoperiodu — czas kontrolujesz ty. Automatyczne kwitną po ustalonej liczbie tygodni niezależnie od światła: szybciej i prościej, ale zwykle mniejsze."
+      },
+      {
+        "q": "Jak długo nasiona zachowują żywotność?",
+        "a": "Przechowywane w chłodzie, ciemności i suchu — najlepiej w szczelnym pojemniku w lodówce — nasiona zachowują żywotność około trzech do pięciu lat, przy czym siła kiełkowania spada stopniowo po pierwszym roku."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "Czy CBD jest legalne w Szwajcarii?",
+        "a": "Tak. Szwajcaria dopuszcza produkty konopne o zawartości THC poniżej 1% — próg znacznie wyższy niż 0,2–0,3% obowiązujące w większości UE. Szwajcarskie produkty CBD są dlatego często mocniejsze niż ich unijne odpowiedniki."
+      },
+      {
+        "q": "Czym różnią się olej, pasta i kryształy CBD?",
+        "a": "Olej to ekstrakt CBD rozcieńczony w oleju nośnikowym, zwykle 5–30%, i najłatwiejszy do dawkowania. Pasta to gęstszy, bardziej skoncentrowany ekstrakt pełnospektralny. Kryształy to wyizolowane CBD o czystości powyżej 98%, bez innych kannabinoidów i terpenów."
+      },
+      {
+        "q": "Czy po CBD jest haj?",
+        "a": "Nie. CBD nie odurza. Produkty pełnospektralne zawierają śladowe ilości THC poniżej progu prawnego, które w rzadkich przypadkach mogą wyjść w czułym teście, ale nie wywołują haju."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "Czym są adaptogeny?",
+        "a": "Adaptogeny to rośliny — m.in. ashwagandha, różeniec górski i żeń-szeń — tradycyjnie stosowane, by pomóc organizmowi radzić sobie ze stresem. Efekty kumulują się przez tygodnie, nie pojawiają się od razu."
+      },
+      {
+        "q": "Czy mogę je brać razem z lekami?",
+        "a": "Najpierw zapytaj lekarza lub farmaceutę. Kilka popularnych suplementów wchodzi w interakcje z lekami: dziurawiec z wieloma preparatami, ashwagandha z leczeniem tarczycy, różeniec z antydepresantami."
+      },
+      {
+        "q": "Po jakim czasie coś poczuję?",
+        "a": "Nootropiki takie jak L-teanina czy połączenia z kofeiną działają w ciągu godziny. Adaptogeny i grzyby lecznicze działają kumulacyjnie i zwykle wymagają dwóch do sześciu tygodni regularnego stosowania."
+      }
+    ]
+  },
+  "cs": {
+    "mushrooms": [
+      {
+        "q": "Za jak dlouho pěstební sada vyplodí?",
+        "a": "Sada all-in-one dává první vlnu dva až tři týdny po spuštění, pokud stojí při 21 až 24 °C a vysoké vlhkosti. Většina sad dá dvě až čtyři vlny, než se substrát vyčerpá."
+      },
+      {
+        "q": "Jaký je rozdíl mezi výtrusovou stříkačkou a tekutou kulturou?",
+        "a": "Stříkačka obsahuje nevyklíčené výtrusy: kolonizace začíná od nuly a genetika se mezi výtrusy liší. Tekutá kultura obsahuje již vyklíčené a vybrané mycelium, kolonizuje proto rychleji — často za poloviční čas — a dává jednotný výsledek."
+      },
+      {
+        "q": "Jsou lanýže s psilocybinem ve Švýcarsku legální?",
+        "a": "Ne. Lanýže a houby obsahující psilocybin spadají pod švýcarský zákon o omamných látkách. 24highshop dodává pěstební sady, výtrusy a vybavení; produkty s psilocybinem na švýcarské adresy neposíláme."
+      },
+      {
+        "q": "Obsahují léčivé houby psilocybin?",
+        "a": "Ne. Korálovec ježatý, reishi, cordyceps, chaga ani outkovka pestrá psilocybin neobsahují a nejsou psychoaktivní. Prodávají se jako doplňky stravy a jsou legální v celém Švýcarsku."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "Co kratom dělá a kolik se ho bere?",
+        "a": "Kratom (Mitragyna speciosa) v nízkých dávkách povzbuzuje, ve vyšších tlumí. Červená žilka bývá nejvíce uvolňující, bílá nejvíce povzbuzující, zelená je mezi tím. Pokud jej neznáte, začněte na 1–2 g a nekombinujte jej s alkoholem, sedativy ani inhibitory MAO."
+      },
+      {
+        "q": "Je kratom ve Švýcarsku legální?",
+        "a": "Kratom není ve Švýcarsku veden jako omamná látka, není však schválen ani jako potravina či lék — prodává se proto jako botanický vzorek, nikoli ke konzumaci. Status se v Evropě liší; před objednáním si ověřte pravidla ve své zemi."
+      },
+      {
+        "q": "K čemu se kanna používá?",
+        "a": "Kanna (Sceletium tortuosum) je jihoafrická sukulentní rostlina, tradičně žvýkaná nebo užívaná jako šňupací prášek. Mírně zvedá náladu a působí proti úzkosti. Nekombinujte ji s SSRI ani jinými serotonergními léky."
+      },
+      {
+        "q": "Jak rychle rostou meskalinové kaktusy?",
+        "a": "San Pedro (Trichocereus pachanoi) roste za dobrých podmínek zhruba 30–50 cm ročně, tedy podstatně rychleji než peyotl, kterému dozrání trvá deset let i více. Kaktusy se prodávají jako okrasné rostliny."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "Čeho si všímat u drtičky?",
+        "a": "Hliník nebo titan drží ostří lépe než plast. Standardem je čtyřdílná drtička se sítkem na kief. Zkontrolujte, že zuby jsou frézované, nikoli lité, a že závit běží hladce."
+      },
+      {
+        "q": "Jak správně skladovat bylinky?",
+        "a": "Vzduchotěsně, neprůhledně a při relativní vlhkosti kolem 59–63 %. Sklo nebo nerez s dobrým těsněním, mimo přímé světlo. Obousměrný vlhkostní sáček udrží rozsah sám."
+      },
+      {
+        "q": "Vyplatí se borosilikátové sklo?",
+        "a": "Ano, všude, kde se zahřívá. Borosilikát snáší teplotní šok mnohem lépe než sodnovápenaté sklo, takže praská výrazně méně, když horká hlavička potká studenou vodu."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "Je ve Švýcarsku legální pěstovat konopí?",
+        "a": "Konopí s obsahem THC pod 1 % lze ve Švýcarsku pěstovat legálně. Pěstování odrůd s vyšším THC není mimo schválené pilotní programy povoleno. Semena se prodávají jako suvenýry a sběratelské předměty."
+      },
+      {
+        "q": "Jaký je rozdíl mezi feminizovanými a samonakvétacími semeny?",
+        "a": "Feminizovaná semena dají samičí rostliny, které kvetou, jakmile se zkrátí světelný cyklus — načasování řídíte vy. Samonakvétací kvetou po pevném počtu týdnů bez ohledu na světlo: rychlejší a jednodušší, obvykle však menší."
+      },
+      {
+        "q": "Jak dlouho semena zůstanou klíčivá?",
+        "a": "Skladovaná v chladu, temnu a suchu — ideálně vzduchotěsně v lednici — zůstávají semena klíčivá přibližně tři až pět let, přičemž klíčivost po prvním roce postupně klesá."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "Je CBD ve Švýcarsku legální?",
+        "a": "Ano. Švýcarsko povoluje konopné produkty s obsahem THC pod 1 %, tedy podstatně vyšší hranicí než 0,2–0,3 % platných ve většině EU. Švýcarské CBD produkty jsou proto často silnější než jejich unijní obdoby."
+      },
+      {
+        "q": "Jaký je rozdíl mezi CBD olejem, pastou a krystaly?",
+        "a": "Olej je CBD extrakt zředěný v nosném oleji, obvykle 5–30 %, a nejsnáze se dávkuje. Pasta je hustší, koncentrovanější plnospektrální extrakt. Krystaly jsou izolované CBD s čistotou nad 98 %, bez dalších kanabinoidů a terpenů."
+      },
+      {
+        "q": "Budu po CBD sjetý?",
+        "a": "Ne. CBD neopíjí. Plnospektrální produkty obsahují stopy THC pod zákonnou hranicí, které se ve vzácných případech mohou projevit v citlivém testu, ale žádnou intoxikaci nezpůsobí."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "Co jsou adaptogeny?",
+        "a": "Adaptogeny jsou rostliny — mimo jiné ashwagandha, rozchodnice růžová a ženšen — tradičně užívané k tomu, aby tělu pomohly zvládat stres. Účinek se sčítá v řádu týdnů, nedostaví se okamžitě."
+      },
+      {
+        "q": "Mohu je brát spolu s léky?",
+        "a": "Nejdřív se zeptejte lékaře nebo lékárníka. Několik běžných doplňků interaguje s léky: třezalka s řadou přípravků, ashwagandha s léčbou štítné žlázy, rozchodnice s antidepresivy."
+      },
+      {
+        "q": "Za jak dlouho něco poznám?",
+        "a": "Nootropika jako L-theanin nebo kombinace s kofeinem účinkují do hodiny. Adaptogeny a léčivé houby působí kumulativně a obvykle vyžadují dva až šest týdnů pravidelného užívání."
+      }
+    ]
+  },
+  "pt": {
+    "mushrooms": [
+      {
+        "q": "Quanto tempo demora um kit de cultivo a frutificar?",
+        "a": "Um kit tudo-em-um dá a primeira colheita duas a três semanas após o arranque, desde que fique entre 21 e 24 °C com humidade elevada. A maioria dos kits dá duas a quatro colheitas antes de o substrato se esgotar."
+      },
+      {
+        "q": "Qual a diferença entre seringa de esporos e cultura líquida?",
+        "a": "A seringa contém esporos por germinar: a colonização começa do zero e a genética varia entre esporos. A cultura líquida contém micélio já germinado e selecionado, por isso coloniza mais depressa — muitas vezes em metade do tempo — e dá um resultado uniforme."
+      },
+      {
+        "q": "As trufas mágicas são legais na Suíça?",
+        "a": "Não. Trufas e cogumelos com psilocibina estão abrangidos pela lei suíça de estupefacientes. A 24highshop fornece kits de cultivo, esporos e equipamento; produtos com psilocibina não são enviados para moradas suíças."
+      },
+      {
+        "q": "Os cogumelos medicinais contêm psilocibina?",
+        "a": "Não. Juba-de-leão, reishi, cordyceps, chaga e cauda-de-peru não contêm psilocibina nem são psicoativos. São vendidos como suplementos alimentares e são legais em toda a Suíça."
+      }
+    ],
+    "smartshop": [
+      {
+        "q": "O que faz o kratom e quanto se toma?",
+        "a": "O kratom (Mitragyna speciosa) é estimulante em doses baixas e sedativo em doses mais altas. A veia vermelha costuma ser a mais relaxante, a branca a mais estimulante e a verde intermédia. Comece com 1–2 g se nunca tomou, e não o combine com álcool, sedativos ou inibidores da MAO."
+      },
+      {
+        "q": "O kratom é legal na Suíça?",
+        "a": "O kratom não consta como estupefaciente na Suíça, mas também não está autorizado como alimento ou medicamento, pelo que é vendido como espécime botânico e não para consumo. O estatuto varia na Europa — verifique as regras do seu país antes de encomendar."
+      },
+      {
+        "q": "Para que serve a kanna?",
+        "a": "A kanna (Sceletium tortuosum) é uma suculenta sul-africana, tradicionalmente mascada ou tomada em pó. Levanta ligeiramente o humor e é ansiolítica. Não deve ser combinada com ISRS nem com outra medicação serotoninérgica."
+      },
+      {
+        "q": "A que velocidade crescem os cactos de mescalina?",
+        "a": "O San Pedro (Trichocereus pachanoi) cresce cerca de 30–50 cm por ano em boas condições, bastante mais depressa do que o peiote, que leva uma década ou mais a atingir a maturidade. Os cactos são vendidos como plantas ornamentais."
+      }
+    ],
+    "headshop": [
+      {
+        "q": "O que ver num moinho?",
+        "a": "Alumínio ou titânio mantêm o corte melhor do que o plástico. O padrão é um moinho de quatro peças com peneira para kief. Verifique se os dentes são fresados e não fundidos, e se a rosca gira sem atrito."
+      },
+      {
+        "q": "Como conservar ervas?",
+        "a": "Hermético, opaco e a cerca de 59–63% de humidade relativa. Vidro ou aço inoxidável com bom fecho, longe da luz direta. Uma saqueta reguladora de humidade bidirecional mantém esse intervalo sozinha."
+      },
+      {
+        "q": "Vale a pena o vidro borossilicato?",
+        "a": "Sim, sempre que haja calor. O borossilicato aguenta o choque térmico muito melhor do que o vidro sodo-cálcico, pelo que racha bastante menos quando uma fornilha quente encontra água fria."
+      }
+    ],
+    "seedshop": [
+      {
+        "q": "É legal cultivar canábis na Suíça?",
+        "a": "Canábis com menos de 1% de THC pode ser cultivada legalmente na Suíça. Cultivar variedades com mais THC não é permitido fora de programas-piloto autorizados. As sementes são vendidas como recordações e artigos de coleção."
+      },
+      {
+        "q": "Qual a diferença entre sementes feminizadas e autoflorescentes?",
+        "a": "As feminizadas dão plantas fêmeas que florescem quando o fotoperíodo encurta: o calendário é controlado por si. As autoflorescentes florescem ao fim de um número fixo de semanas, independentemente da luz — mais rápidas e simples, mas normalmente mais pequenas."
+      },
+      {
+        "q": "Durante quanto tempo as sementes se mantêm viáveis?",
+        "a": "Guardadas em local fresco, escuro e seco — idealmente em recipiente hermético no frigorífico — as sementes mantêm-se viáveis cerca de três a cinco anos, com a taxa de germinação a descer gradualmente após o primeiro ano."
+      }
+    ],
+    "cbdshop": [
+      {
+        "q": "O CBD é legal na Suíça?",
+        "a": "Sim. A Suíça permite produtos de canábis com menos de 1% de THC, um limiar bastante mais alto do que os 0,2–0,3% aplicados na maior parte da UE. Por isso os produtos suíços de CBD são muitas vezes mais fortes do que os equivalentes europeus."
+      },
+      {
+        "q": "Qual a diferença entre óleo, pasta e cristais de CBD?",
+        "a": "O óleo é extrato de CBD diluído num óleo veicular, normalmente a 5–30%, e o mais fácil de dosear. A pasta é um extrato de espectro completo mais denso e concentrado. Os cristais são CBD isolado com mais de 98% de pureza, sem outros canabinoides nem terpenos."
+      },
+      {
+        "q": "O CBD deixa-me pedrado?",
+        "a": "Não. O CBD não é intoxicante. Os produtos de espectro completo contêm vestígios de THC abaixo do limite legal, que em casos raros podem surgir num teste sensível, mas não provocam qualquer efeito."
+      }
+    ],
+    "healthshop": [
+      {
+        "q": "O que são adaptogénios?",
+        "a": "Os adaptogénios são plantas — ashwagandha, rodiola e ginseng, entre outras — tradicionalmente usadas para ajudar o corpo a lidar com o stress. Os efeitos são cumulativos ao longo de semanas, não imediatos."
+      },
+      {
+        "q": "Posso tomá-los com medicação?",
+        "a": "Pergunte primeiro a um médico ou farmacêutico. Vários suplementos comuns interagem com medicamentos: o hipericão com muitos tratamentos, a ashwagandha com a medicação da tiroide, a rodiola com antidepressivos."
+      },
+      {
+        "q": "Quanto tempo até notar alguma coisa?",
+        "a": "Nootrópicos como a L-teanina ou combinações com cafeína atuam dentro de uma hora. Adaptogénios e cogumelos medicinais são cumulativos e exigem normalmente duas a seis semanas de uso consistente."
+      }
+    ]
+  }
+}

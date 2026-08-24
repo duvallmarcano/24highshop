@@ -7,7 +7,7 @@ import FAQ from '../../../../components/seo/FAQ.astro';
 import Icon from '../../../../components/ui/Icon.astro';
 import Money from '../../../../components/ui/Money.astro';
 import { SHOPS, SITE, toCHF, type Shop, type ShopId } from '../../../../data/site';
-import { SHOP_FAQ } from '../../../../data/faq';
+import { shopFAQ } from '../../../../data/faq';
 import { breadcrumbSchema, collectionPageSchema, itemListSchema } from '../../../../lib/seo';
 import { ENABLED_LOCALES, localized } from '../../../../lib/i18n';
 import type { LocaleCode } from '../../../../data/site';
@@ -108,7 +108,7 @@ const answer = t('shop.answer', {
   </section>
 
   <section class="section section--rule">
-    <FAQ items={SHOP_FAQ[shop.id as ShopId] ?? []} title={t('cat.commonQuestions', { shop: shopLabel })} />
+    <FAQ items={shopFAQ(shop.id as ShopId, lang)} title={t('cat.commonQuestions', { shop: shopLabel })} />
   </section>
 </BaseLayout>
 
