@@ -1,0 +1,272 @@
+{
+  "en": [
+    {
+      "q": "Where does 24highshop ship from?",
+      "a": "24highshop ships from Zürich, Switzerland. Orders placed before 16:00 on a working day are dispatched the same day. Delivery within Switzerland takes one to two working days; elsewhere in Europe, two to five."
+    },
+    {
+      "q": "How much does shipping cost?",
+      "a": "Nothing. Shipping is included on every order, within Switzerland and across Europe, and every parcel is tracked. This is possible because there is a minimum order value of €200."
+    },
+    {
+      "q": "Is there a minimum order?",
+      "a": "Yes — €200, about CHF 211. Both payment methods settle manually, so smaller orders are not economic to process. You can reach the minimum with any mix of products."
+    },
+    {
+      "q": "Is the packaging discreet?",
+      "a": "Yes. Everything ships in plain, unmarked boxes with no branding, no product names and nothing on the outside indicating the contents. The sender line shows a neutral company name."
+    },
+    {
+      "q": "Which payment methods can I use?",
+      "a": "Bitcoin and bank transfer only. Bitcoin is settled on-chain with the rate locked for 15 minutes at checkout. Bank transfer accepts SEPA and Swiss IBAN, and the order is dispatched once the payment clears. No card details are collected at any point."
+    },
+    {
+      "q": "Do I have to be 18 to order?",
+      "a": "Yes. 24highshop sells strictly to adults aged 18 and over. Orders may be cancelled and refunded where there is reason to believe the buyer is underage."
+    },
+    {
+      "q": "Can I return an order?",
+      "a": "Unopened, undamaged items can be returned within 14 days of delivery. Perishable goods — fresh truffles, grow kits and anything containing a live culture — and opened consumables are excluded for hygiene reasons."
+    }
+  ],
+  "de": [
+    {
+      "q": "Von wo versendet 24highshop?",
+      "a": "24highshop versendet ab Zürich, Schweiz. Bestellungen bis 16:00 Uhr an einem Werktag gehen am selben Tag raus. Die Lieferung innerhalb der Schweiz dauert ein bis zwei Werktage, im übrigen Europa zwei bis fünf."
+    },
+    {
+      "q": "Was kostet der Versand?",
+      "a": "Nichts. Der Versand ist bei jeder Bestellung inbegriffen, in der Schweiz wie in ganz Europa, und jedes Paket ist verfolgbar. Möglich macht das ein Mindestbestellwert von 200 €."
+    },
+    {
+      "q": "Gibt es einen Mindestbestellwert?",
+      "a": "Ja — 200 €, rund CHF 211. Beide Zahlungsarten werden manuell abgewickelt, kleinere Bestellungen lohnen sich deshalb nicht. Den Mindestwert erreichen Sie mit beliebigen Produkten."
+    },
+    {
+      "q": "Ist die Verpackung neutral?",
+      "a": "Ja. Alles geht in schlichten, unbeschrifteten Kartons raus — ohne Branding, ohne Produktnamen und ohne Hinweis auf den Inhalt. Als Absender erscheint ein neutraler Firmenname."
+    },
+    {
+      "q": "Welche Zahlungsarten gibt es?",
+      "a": "Nur Bitcoin und Banküberweisung. Bitcoin wird on-chain abgewickelt, der Kurs ist beim Checkout 15 Minuten fixiert. Die Banküberweisung akzeptiert SEPA und Schweizer IBAN; versandt wird, sobald die Zahlung eingegangen ist. Kartendaten werden zu keinem Zeitpunkt erhoben."
+    },
+    {
+      "q": "Muss ich 18 sein, um zu bestellen?",
+      "a": "Ja. 24highshop verkauft ausschliesslich an Erwachsene ab 18 Jahren. Bestellungen können storniert und erstattet werden, wenn Grund zur Annahme besteht, dass die Käuferschaft minderjährig ist."
+    },
+    {
+      "q": "Kann ich eine Bestellung zurückgeben?",
+      "a": "Ungeöffnete, unbeschädigte Artikel können innerhalb von 14 Tagen nach Erhalt zurückgegeben werden. Verderbliche Ware — frische Trüffel, Grow-Sets und alles mit lebender Kultur — sowie geöffnete Verbrauchsartikel sind aus Hygienegründen ausgeschlossen."
+    }
+  ],
+  "fr": [
+    {
+      "q": "D’où 24highshop expédie-t-il ?",
+      "a": "24highshop expédie de Zurich, en Suisse. Les commandes passées avant 16h00 un jour ouvré partent le jour même. La livraison en Suisse prend un à deux jours ouvrés, deux à cinq ailleurs en Europe."
+    },
+    {
+      "q": "Combien coûte la livraison ?",
+      "a": "Rien. La livraison est incluse sur chaque commande, en Suisse comme dans toute l’Europe, et chaque colis est suivi. Cela est possible grâce à une commande minimum de 200 €."
+    },
+    {
+      "q": "Y a-t-il une commande minimum ?",
+      "a": "Oui — 200 €, environ 211 CHF. Les deux moyens de paiement sont traités manuellement, les petites commandes ne sont donc pas rentables. Vous atteignez le minimum avec n’importe quelle combinaison de produits."
+    },
+    {
+      "q": "L’emballage est-il discret ?",
+      "a": "Oui. Tout part en cartons neutres et sans marquage : aucune marque, aucun nom de produit, rien à l’extérieur n’indique le contenu. L’expéditeur affiché est un nom de société neutre."
+    },
+    {
+      "q": "Quels moyens de paiement puis-je utiliser ?",
+      "a": "Bitcoin et virement bancaire uniquement. Le Bitcoin est réglé on-chain, le taux étant bloqué 15 minutes au moment du paiement. Le virement accepte SEPA et IBAN suisse ; la commande part dès réception des fonds. Aucune donnée de carte n’est collectée."
+    },
+    {
+      "q": "Faut-il avoir 18 ans pour commander ?",
+      "a": "Oui. 24highshop vend strictement aux adultes de 18 ans et plus. Une commande peut être annulée et remboursée s’il y a lieu de penser que l’acheteur est mineur."
+    },
+    {
+      "q": "Puis-je retourner une commande ?",
+      "a": "Les articles non ouverts et intacts peuvent être retournés dans les 14 jours suivant la livraison. Les denrées périssables — truffes fraîches, kits de culture et tout produit contenant une culture vivante — ainsi que les consommables ouverts sont exclus pour des raisons d’hygiène."
+    }
+  ],
+  "it": [
+    {
+      "q": "Da dove spedisce 24highshop?",
+      "a": "24highshop spedisce da Zurigo, in Svizzera. Gli ordini effettuati entro le 16:00 di un giorno lavorativo partono in giornata. La consegna in Svizzera richiede uno o due giorni lavorativi, nel resto d’Europa da due a cinque."
+    },
+    {
+      "q": "Quanto costa la spedizione?",
+      "a": "Nulla. La spedizione è inclusa in ogni ordine, in Svizzera e in tutta Europa, e ogni pacco è tracciato. È possibile grazie a un ordine minimo di 200 €."
+    },
+    {
+      "q": "C’è un ordine minimo?",
+      "a": "Sì — 200 €, circa 211 CHF. Entrambi i metodi di pagamento sono gestiti manualmente, quindi ordini più piccoli non sono sostenibili. Il minimo si raggiunge con qualsiasi combinazione di prodotti."
+    },
+    {
+      "q": "L’imballaggio è discreto?",
+      "a": "Sì. Tutto viene spedito in scatole neutre e anonime: nessun marchio, nessun nome di prodotto e nulla all’esterno che indichi il contenuto. Il mittente riporta un nome societario neutro."
+    },
+    {
+      "q": "Quali metodi di pagamento posso usare?",
+      "a": "Solo Bitcoin e bonifico bancario. Il Bitcoin è regolato on-chain con il cambio bloccato per 15 minuti al checkout. Il bonifico accetta SEPA e IBAN svizzero; l’ordine parte quando il pagamento risulta accreditato. Non vengono mai raccolti dati di carte."
+    },
+    {
+      "q": "Devo avere 18 anni per ordinare?",
+      "a": "Sì. 24highshop vende esclusivamente a maggiorenni di 18 anni. Gli ordini possono essere annullati e rimborsati se vi è motivo di ritenere che l’acquirente sia minorenne."
+    },
+    {
+      "q": "Posso restituire un ordine?",
+      "a": "Gli articoli non aperti e integri possono essere restituiti entro 14 giorni dalla consegna. Sono esclusi per motivi igienici i beni deperibili — tartufi freschi, kit di coltivazione e qualsiasi prodotto con coltura viva — e i consumabili già aperti."
+    }
+  ],
+  "nl": [
+    {
+      "q": "Vanwaar verzendt 24highshop?",
+      "a": "24highshop verzendt vanuit Zürich, Zwitserland. Bestellingen vóór 16:00 uur op een werkdag gaan dezelfde dag de deur uit. Levering binnen Zwitserland duurt één tot twee werkdagen, elders in Europa twee tot vijf."
+    },
+    {
+      "q": "Wat kost de verzending?",
+      "a": "Niets. Verzending is bij elke bestelling inbegrepen, binnen Zwitserland en door heel Europa, en elk pakket heeft track & trace. Dat kan dankzij een minimale bestelwaarde van € 200."
+    },
+    {
+      "q": "Is er een minimale bestelling?",
+      "a": "Ja — € 200, ongeveer CHF 211. Beide betaalmethoden worden handmatig verwerkt, kleinere bestellingen zijn daardoor niet rendabel. Je haalt het minimum met elke combinatie van producten."
+    },
+    {
+      "q": "Is de verpakking discreet?",
+      "a": "Ja. Alles gaat in blanco, ongemarkeerde dozen zonder merknaam, zonder productnaam en zonder enige aanwijzing over de inhoud. Als afzender staat een neutrale bedrijfsnaam vermeld."
+    },
+    {
+      "q": "Welke betaalmethoden kan ik gebruiken?",
+      "a": "Alleen Bitcoin en bankoverschrijving. Bitcoin wordt on-chain afgewikkeld, met de koers 15 minuten vastgezet bij het afrekenen. Bankoverschrijving accepteert SEPA en Zwitserse IBAN; de order gaat weg zodra de betaling binnen is. Er worden nooit kaartgegevens verzameld."
+    },
+    {
+      "q": "Moet ik 18 zijn om te bestellen?",
+      "a": "Ja. 24highshop verkoopt uitsluitend aan volwassenen van 18 jaar en ouder. Bestellingen kunnen worden geannuleerd en terugbetaald als er reden is om aan te nemen dat de koper minderjarig is."
+    },
+    {
+      "q": "Kan ik een bestelling retourneren?",
+      "a": "Ongeopende, onbeschadigde artikelen kunnen binnen 14 dagen na levering worden geretourneerd. Bederfelijke waren — verse truffels, kweeksets en alles met een levende cultuur — en geopende verbruiksartikelen zijn om hygiënische redenen uitgesloten."
+    }
+  ],
+  "es": [
+    {
+      "q": "¿Desde dónde envía 24highshop?",
+      "a": "24highshop envía desde Zúrich, Suiza. Los pedidos realizados antes de las 16:00 en día laborable salen el mismo día. La entrega dentro de Suiza tarda uno o dos días laborables; en el resto de Europa, de dos a cinco."
+    },
+    {
+      "q": "¿Cuánto cuesta el envío?",
+      "a": "Nada. El envío está incluido en cada pedido, dentro de Suiza y en toda Europa, y todos los paquetes llevan seguimiento. Es posible gracias a un pedido mínimo de 200 €."
+    },
+    {
+      "q": "¿Hay un pedido mínimo?",
+      "a": "Sí — 200 €, unos 211 CHF. Ambos métodos de pago se liquidan manualmente, así que los pedidos menores no salen a cuenta. Puedes alcanzar el mínimo con cualquier combinación de productos."
+    },
+    {
+      "q": "¿El embalaje es discreto?",
+      "a": "Sí. Todo se envía en cajas neutras y sin marcas: sin marca comercial, sin nombres de producto y sin nada en el exterior que indique el contenido. El remitente aparece con un nombre de empresa neutro."
+    },
+    {
+      "q": "¿Qué métodos de pago puedo usar?",
+      "a": "Solo Bitcoin y transferencia bancaria. El Bitcoin se liquida on-chain con el tipo de cambio bloqueado 15 minutos al finalizar la compra. La transferencia acepta SEPA e IBAN suizo; el pedido sale en cuanto el pago se confirma. Nunca se recogen datos de tarjeta."
+    },
+    {
+      "q": "¿Hay que ser mayor de 18 para pedir?",
+      "a": "Sí. 24highshop vende estrictamente a adultos de 18 años o más. Los pedidos pueden cancelarse y reembolsarse si hay motivos para creer que el comprador es menor de edad."
+    },
+    {
+      "q": "¿Puedo devolver un pedido?",
+      "a": "Los artículos sin abrir y en buen estado pueden devolverse en un plazo de 14 días desde la entrega. Quedan excluidos por higiene los productos perecederos — trufas frescas, kits de cultivo y cualquier producto con cultivo vivo — y los consumibles ya abiertos."
+    }
+  ],
+  "pl": [
+    {
+      "q": "Skąd 24highshop wysyła paczki?",
+      "a": "24highshop wysyła z Zurychu w Szwajcarii. Zamówienia złożone przed 16:00 w dzień roboczy wychodzą tego samego dnia. Dostawa na terenie Szwajcarii trwa jeden do dwóch dni roboczych, w pozostałej części Europy dwa do pięciu."
+    },
+    {
+      "q": "Ile kosztuje wysyłka?",
+      "a": "Nic. Wysyłka jest wliczona w każde zamówienie, na terenie Szwajcarii i w całej Europie, a każda paczka ma śledzenie. Jest to możliwe dzięki minimalnej wartości zamówienia wynoszącej 200 €."
+    },
+    {
+      "q": "Czy jest minimalne zamówienie?",
+      "a": "Tak — 200 €, około 211 CHF. Obie metody płatności rozliczane są ręcznie, więc mniejsze zamówienia się nie opłacają. Minimum osiągniesz dowolnym zestawem produktów."
+    },
+    {
+      "q": "Czy opakowanie jest dyskretne?",
+      "a": "Tak. Wszystko wysyłamy w zwykłych, nieoznaczonych kartonach — bez logo, bez nazw produktów i bez żadnej wskazówki co do zawartości. Jako nadawca widnieje neutralna nazwa firmy."
+    },
+    {
+      "q": "Jakie metody płatności są dostępne?",
+      "a": "Wyłącznie Bitcoin i przelew bankowy. Bitcoin rozliczany jest on-chain, a kurs zablokowany na 15 minut przy składaniu zamówienia. Przelew obsługuje SEPA i szwajcarski IBAN; zamówienie wychodzi po zaksięgowaniu wpłaty. Dane kart nie są zbierane w żadnym momencie."
+    },
+    {
+      "q": "Czy trzeba mieć 18 lat, żeby zamówić?",
+      "a": "Tak. 24highshop sprzedaje wyłącznie osobom pełnoletnim, od 18 lat. Zamówienie może zostać anulowane i zwrócone, jeśli istnieje podejrzenie, że kupujący jest niepełnoletni."
+    },
+    {
+      "q": "Czy mogę zwrócić zamówienie?",
+      "a": "Nieotwarte i nieuszkodzone produkty można zwrócić w ciągu 14 dni od dostawy. Ze względów higienicznych wyłączone są towary łatwo psujące się — świeże trufle, zestawy do uprawy i wszystko z żywą kulturą — oraz otwarte produkty konsumpcyjne."
+    }
+  ],
+  "cs": [
+    {
+      "q": "Odkud 24highshop odesílá?",
+      "a": "24highshop odesílá ze Curychu ve Švýcarsku. Objednávky zadané do 16:00 v pracovní den odcházejí týž den. Doručení v rámci Švýcarska trvá jeden až dva pracovní dny, jinde v Evropě dva až pět."
+    },
+    {
+      "q": "Kolik stojí doprava?",
+      "a": "Nic. Doprava je zahrnuta u každé objednávky, v rámci Švýcarska i po celé Evropě, a každá zásilka má sledování. Umožňuje to minimální hodnota objednávky 200 €."
+    },
+    {
+      "q": "Je stanovena minimální objednávka?",
+      "a": "Ano — 200 €, přibližně 211 CHF. Obě platební metody se vyřizují ručně, menší objednávky se proto nevyplatí. Minima dosáhnete libovolnou kombinací produktů."
+    },
+    {
+      "q": "Je balení diskrétní?",
+      "a": "Ano. Vše odesíláme v jednoduchých, neoznačených krabicích bez loga, bez názvů produktů a bez jakéhokoli náznaku obsahu. Jako odesílatel je uveden neutrální název firmy."
+    },
+    {
+      "q": "Jaké platební metody mohu použít?",
+      "a": "Pouze Bitcoin a bankovní převod. Bitcoin se vypořádává on-chain, kurz je při objednávce zafixován na 15 minut. Bankovní převod přijímá SEPA i švýcarský IBAN; objednávka odchází po připsání platby. Údaje o kartách nesbíráme nikdy."
+    },
+    {
+      "q": "Musím být starší 18 let?",
+      "a": "Ano. 24highshop prodává výhradně dospělým od 18 let. Objednávku můžeme zrušit a vrátit peníze, pokud existuje důvod se domnívat, že kupující je nezletilý."
+    },
+    {
+      "q": "Mohu objednávku vrátit?",
+      "a": "Neotevřené a nepoškozené zboží lze vrátit do 14 dnů od doručení. Z hygienických důvodů jsou vyloučeny rychle se kazící produkty — čerstvé lanýže, pěstební sady a cokoli s živou kulturou — a otevřené spotřební zboží."
+    }
+  ],
+  "pt": [
+    {
+      "q": "De onde envia a 24highshop?",
+      "a": "A 24highshop envia de Zurique, na Suíça. As encomendas feitas antes das 16:00 num dia útil seguem no mesmo dia. A entrega na Suíça demora um a dois dias úteis; no resto da Europa, dois a cinco."
+    },
+    {
+      "q": "Quanto custam os portes?",
+      "a": "Nada. Os portes estão incluídos em todas as encomendas, na Suíça e em toda a Europa, e todas as encomendas têm rastreio. Isto é possível graças a um valor mínimo de encomenda de 200 €."
+    },
+    {
+      "q": "Existe uma encomenda mínima?",
+      "a": "Sim — 200 €, cerca de 211 CHF. Ambos os métodos de pagamento são liquidados manualmente, pelo que encomendas menores não são viáveis. Atinge o mínimo com qualquer combinação de produtos."
+    },
+    {
+      "q": "A embalagem é discreta?",
+      "a": "Sim. Tudo segue em caixas simples e sem marcas: sem marca, sem nomes de produtos e sem nada no exterior que indique o conteúdo. O remetente apresenta um nome de empresa neutro."
+    },
+    {
+      "q": "Que métodos de pagamento posso usar?",
+      "a": "Apenas Bitcoin e transferência bancária. O Bitcoin é liquidado on-chain, com a taxa fixada durante 15 minutos no checkout. A transferência aceita SEPA e IBAN suíço; a encomenda segue assim que o pagamento é confirmado. Nunca são recolhidos dados de cartão."
+    },
+    {
+      "q": "Tenho de ter 18 anos para encomendar?",
+      "a": "Sim. A 24highshop vende estritamente a adultos com 18 anos ou mais. As encomendas podem ser canceladas e reembolsadas se houver motivos para crer que o comprador é menor."
+    },
+    {
+      "q": "Posso devolver uma encomenda?",
+      "a": "Artigos por abrir e sem danos podem ser devolvidos no prazo de 14 dias após a entrega. Por razões de higiene, excluem-se bens perecíveis — trufas frescas, kits de cultivo e tudo o que contenha cultura viva — e consumíveis já abertos."
+    }
+  ]
+}

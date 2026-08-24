@@ -239,7 +239,8 @@ export const TOP_SELLER_KEYS = new Set(
   TOP_SELLER_CATEGORIES.map((c) => `${c.shop}/${c.slug}`)
 );
 
+/** Secondary nav. `key` names the string table entry for the label. */
 export const UTILITY_NAV = [
-  { label: 'Guides', href: '/en/blog' },
-  { label: 'About', href: '/en/about' },
+  { key: 'blog.allGuides', href: '/blog' },
+  { key: 'footer.company', href: '/about' },
 ] as const;

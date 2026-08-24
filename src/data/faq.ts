@@ -1,5 +1,7 @@
 import type { QA } from '../lib/seo';
-import { SITE, MIN_ORDER_EUR, toCHF, type ShopId } from './site';
+import { SITE, MIN_ORDER_EUR, toCHF, DEFAULT_LOCALE, type ShopId, type LocaleCode } from './site';
+import globalFaq from './faq-global.json';
+import productFaq from './faq-product.json';
 
 /**
  * Answer-engine copy.
@@ -12,37 +14,19 @@ import { SITE, MIN_ORDER_EUR, toCHF, type ShopId } from './site';
 
 const MIN_CHF = toCHF(MIN_ORDER_EUR);
 
-/** Applies to every page; kept short so it can be quoted whole. */
-export const GLOBAL_FAQ: QA[] = [
-  {
-    q: 'Where does 24highshop ship from?',
-    a: `24highshop ships from ${SITE.address.locality}, Switzerland. Orders placed before ${SITE.cutoff} on a working day are dispatched the same day. Delivery within Switzerland takes one to two working days; elsewhere in Europe, two to five.`,
-  },
-  {
-    q: 'How much does shipping cost?',
-    a: `Nothing. Shipping is included on every order, within Switzerland and across Europe, and every parcel is tracked. This is possible because there is a minimum order value of €${MIN_ORDER_EUR}.`,
-  },
-  {
-    q: `Is there a minimum order?`,
-    a: `Yes — €${MIN_ORDER_EUR}, about CHF ${MIN_CHF.toFixed(0)}. Both payment methods settle manually, so smaller orders are not economic to process. You can reach the minimum with any mix of products.`,
-  },
-  {
-    q: 'Is the packaging discreet?',
-    a: 'Yes. Everything ships in plain, unmarked boxes with no branding, no product names and nothing on the outside indicating the contents. The sender line shows a neutral company name.',
-  },
-  {
-    q: 'Which payment methods can I use?',
-    a: `Bitcoin and bank transfer only. Bitcoin is settled on-chain with the rate locked for 15 minutes at checkout. Bank transfer accepts SEPA and Swiss IBAN, and the order is dispatched once the payment clears. No card details are collected at any point.`,
-  },
-  {
-    q: 'Do I have to be 18 to order?',
-    a: 'Yes. 24highshop sells strictly to adults aged 18 and over. Orders may be cancelled and refunded where there is reason to believe the buyer is underage.',
-  },
-  {
-    q: 'Can I return an order?',
-    a: 'Unopened, undamaged items can be returned within 14 days of delivery. Perishable goods — fresh truffles, grow kits and anything containing a live culture — and opened consumables are excluded for hygiene reasons.',
-  },
-];
+/**
+ * Applies to every page; kept short so each answer can be quoted whole.
+ * Translated in full — these are the answers an assistant is most likely to
+ * lift, so they have to be right in every language.
+ */
+const GLOBAL_BY_LOCALE = globalFaq as Record<string, QA[]>;
+
+export function globalFAQ(locale: LocaleCode = DEFAULT_LOCALE): QA[] {
+  return GLOBAL_BY_LOCALE[locale] ?? GLOBAL_BY_LOCALE[DEFAULT_LOCALE];
+}
+
+/** Kept for callers that have no locale to hand. */
+export const GLOBAL_FAQ: QA[] = GLOBAL_BY_LOCALE[DEFAULT_LOCALE];
 
 /** What people actually ask before buying from a given shop. */
 export const SHOP_FAQ: Record<ShopId, QA[]> = {
@@ -141,37 +125,45 @@ export const SHOP_FAQ: Record<ShopId, QA[]> = {
 };
 
 /** Product-level questions, answered from that product's own record. */
-export function productFAQ(p: {
-  title: string;
-  priceEUR: number | null;
-  inStock: boolean;
-  categoryLabel: string;
-  shop: string;
-}): QA[] {
+const PRODUCT_BY_LOCALE = productFaq as Record<
+  string,
+  Record<'price' | 'stockYes' | 'stockNo' | 'pack', QA>
+>;
+
+function fill(text: string, vars: Record<string, string | number>): string {
+  return Object.entries(vars).reduce(
+    (out, [k, v]) => out.replaceAll(`{${k}}`, String(v)),
+    text
+  );
+}
+
+export function productFAQ(
+  p: {
+    title: string;
+    priceEUR: number | null;
+    inStock: boolean;
+    categoryLabel: string;
+    shop: string;
+  },
+  locale: LocaleCode = DEFAULT_LOCALE
+): QA[] {
+  const T = PRODUCT_BY_LOCALE[locale] ?? PRODUCT_BY_LOCALE[DEFAULT_LOCALE];
   const chf = p.priceEUR === null ? null : toCHF(p.priceEUR);
+  const vars = {
+    title: p.title,
+    chf: chf === null ? '' : chf.toFixed(2),
+    eur: p.priceEUR === null ? '' : p.priceEUR.toFixed(2),
+    min: MIN_ORDER_EUR,
+    minchf: MIN_CHF.toFixed(0),
+    city: SITE.address.locality,
+    cutoff: SITE.cutoff,
+    category: p.categoryLabel,
+  };
+
   const out: QA[] = [];
-
-  if (chf !== null) {
-    out.push({
-      q: `How much does ${p.title} cost?`,
-      // Both currencies stated rather than switched: this text is also the
-      // FAQPage answer, and an answer engine quoting it out of context should
-      // carry the full fact.
-      a: `${p.title} costs CHF ${chf.toFixed(2)} (€${p.priceEUR!.toFixed(2)}) including 8.1% Swiss VAT, with shipping included. 24highshop has a minimum order value of €${MIN_ORDER_EUR} — about CHF ${MIN_CHF.toFixed(0)} — which you can reach with any mix of products.`,
-    });
-  }
-
-  out.push({
-    q: `Is ${p.title} in stock?`,
-    a: p.inStock
-      ? `Yes. ${p.title} is in stock in ${SITE.address.locality} and ships the same working day when ordered before ${SITE.cutoff}, arriving in one to two working days within Switzerland.`
-      : `${p.title} is currently sold out. Stock is replenished regularly — other options in ${p.categoryLabel} are available now.`,
-  });
-
-  out.push({
-    q: `How is ${p.title} packaged?`,
-    a: `In plain, unmarked packaging with no branding or product name on the outside. Nothing about the parcel indicates what it contains or that it came from a smartshop.`,
-  });
-
+  if (chf !== null) out.push({ q: fill(T.price.q, vars), a: fill(T.price.a, vars) });
+  const stock = p.inStock ? T.stockYes : T.stockNo;
+  out.push({ q: fill(stock.q, vars), a: fill(stock.a, vars) });
+  out.push({ q: fill(T.pack.q, vars), a: fill(T.pack.a, vars) });
   return out;
 }

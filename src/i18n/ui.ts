@@ -121,6 +121,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Oils, pastes, crystals and edibles across the cannabinoid range.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogens, nootropics and superfoods for focus, sleep and mood.",
+    "page.faqTitle": "Ordering from 24highshop",
   },
 
   de: {
@@ -238,6 +239,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Öle, Pasten, Kristalle und Esswaren über die ganze Cannabinoid-Bandbreite.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogene, Nootropika und Superfoods für Fokus, Schlaf und Stimmung.",
+    "page.faqTitle": "Bestellen bei 24highshop",
   },
 
   fr: {
@@ -355,6 +357,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Huiles, pâtes, cristaux et comestibles sur toute la gamme des cannabinoïdes.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogènes, nootropiques et superaliments pour la concentration, le sommeil et l’humeur.",
+    "page.faqTitle": "Commander chez 24highshop",
   },
 
   it: {
@@ -472,6 +475,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Oli, paste, cristalli ed edibili su tutta la gamma dei cannabinoidi.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adattogeni, nootropici e superfood per concentrazione, sonno e umore.",
+    "page.faqTitle": "Ordinare da 24highshop",
   },
 
   nl: {
@@ -589,6 +593,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Oliën, pasta’s, kristallen en edibles over de hele cannabinoïdenreeks.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogenen, nootropica en superfoods voor focus, slaap en stemming.",
+    "page.faqTitle": "Bestellen bij 24highshop",
   },
 
   es: {
@@ -706,6 +711,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Aceites, pastas, cristales y comestibles en toda la gama de cannabinoides.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptógenos, nootrópicos y superalimentos para concentración, sueño y ánimo.",
+    "page.faqTitle": "Comprar en 24highshop",
   },
 
   pl: {
@@ -823,6 +829,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Oleje, pasty, kryształy i produkty spożywcze z całej gamy kannabinoidów.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogeny, nootropiki i superfoods na skupienie, sen i nastrój.",
+    "page.faqTitle": "Zamawianie w 24highshop",
   },
 
   cs: {
@@ -940,6 +947,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Oleje, pasty, krystaly a poživatiny napříč celou škálou kanabinoidů.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogeny, nootropika a superpotraviny pro soustředění, spánek a náladu.",
+    "page.faqTitle": "Objednávání v 24highshop",
   },
 
   pt: {
@@ -1057,6 +1065,7 @@ export const UI = {
     "shopmeta.cbdshop.blurb": "Óleos, pastas, cristais e comestíveis em toda a gama de canabinoides.",
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogénios, nootrópicos e superalimentos para foco, sono e humor.",
+    "page.faqTitle": "Encomendar na 24highshop",
   },
 } satisfies Record<string, Record<string, string>>;
 

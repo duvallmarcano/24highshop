@@ -8,8 +8,9 @@ import Icon from '../../components/ui/Icon.astro';
 import Stars from '../../components/product/Stars.astro';
 import FAQ from '../../components/seo/FAQ.astro';
 import { SHOPS, SITE, TOTAL_PRODUCTS, TOP_SELLER_KEYS } from '../../data/site';
-import { GLOBAL_FAQ } from '../../data/faq';
+import { globalFAQ } from '../../data/faq';
 import { firstImage } from '../../lib/images';
+import { useTranslations } from '../../i18n/ui';
 import { ENABLED_LOCALES, localized } from '../../lib/i18n';
 import type { LocaleCode } from '../../data/site';
 
@@ -21,6 +22,7 @@ export function getStaticPaths() {
 // the locale segment drives every link and every string on the page
 const lang = Astro.params.lang as LocaleCode;
 const L = (p: string) => localized(p, lang);
+const t = useTranslations(lang);
 
 const products = await getCollection('products');
 const posts = (await getCollection('blog')).sort(
@@ -328,7 +330,7 @@ const steps = [
 
   <!-- ── faq (answer engines) ─────────────────────────────────────────── -->
   <section class="container band">
-    <FAQ items={GLOBAL_FAQ} title="Ordering from 24highshop" />
+    <FAQ items={globalFAQ(lang)} title={t('page.faqTitle')} />
   </section>
 </BaseLayout>
 

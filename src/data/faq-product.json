@@ -1,0 +1,164 @@
+{
+  "en": {
+    "price": {
+      "q": "How much does {title} cost?",
+      "a": "{title} costs CHF {chf} (€{eur}) including 8.1% Swiss VAT, with shipping included. 24highshop has a minimum order value of €{min} — about CHF {minchf} — which you can reach with any mix of products."
+    },
+    "stockYes": {
+      "q": "Is {title} in stock?",
+      "a": "Yes. {title} is in stock in {city} and ships the same working day when ordered before {cutoff}, arriving in one to two working days within Switzerland."
+    },
+    "stockNo": {
+      "q": "Is {title} in stock?",
+      "a": "{title} is currently sold out. Stock is replenished regularly — other options in {category} are available now."
+    },
+    "pack": {
+      "q": "How is {title} packaged?",
+      "a": "In plain, unmarked packaging with no branding or product name on the outside. Nothing about the parcel indicates what it contains or that it came from a smartshop."
+    }
+  },
+  "de": {
+    "price": {
+      "q": "Was kostet {title}?",
+      "a": "{title} kostet CHF {chf} (€{eur}) inklusive 8,1% Schweizer MwSt., Versand inbegriffen. Bei 24highshop gilt ein Mindestbestellwert von {min} € — rund CHF {minchf} — den Sie mit beliebigen Produkten erreichen."
+    },
+    "stockYes": {
+      "q": "Ist {title} an Lager?",
+      "a": "Ja. {title} ist in {city} an Lager und geht bei Bestellung vor {cutoff} am selben Werktag raus; innerhalb der Schweiz in ein bis zwei Werktagen."
+    },
+    "stockNo": {
+      "q": "Ist {title} an Lager?",
+      "a": "{title} ist derzeit ausverkauft. Wir füllen regelmässig nach — andere Optionen aus {category} sind jetzt verfügbar."
+    },
+    "pack": {
+      "q": "Wie wird {title} verpackt?",
+      "a": "In neutraler, unbeschrifteter Verpackung ohne Branding und ohne Produktnamen aussen. Nichts am Paket verrät den Inhalt oder die Herkunft aus einem Smartshop."
+    }
+  },
+  "fr": {
+    "price": {
+      "q": "Combien coûte {title} ?",
+      "a": "{title} coûte CHF {chf} ({eur} €), TVA suisse de 8,1% et livraison incluses. 24highshop applique une commande minimum de {min} € — environ {minchf} CHF — que vous atteignez avec n’importe quels produits."
+    },
+    "stockYes": {
+      "q": "{title} est-il en stock ?",
+      "a": "Oui. {title} est en stock à {city} et part le jour même pour toute commande avant {cutoff}, avec livraison en un à deux jours ouvrés en Suisse."
+    },
+    "stockNo": {
+      "q": "{title} est-il en stock ?",
+      "a": "{title} est actuellement épuisé. Le stock est réapprovisionné régulièrement — d’autres options dans {category} sont disponibles."
+    },
+    "pack": {
+      "q": "Comment {title} est-il emballé ?",
+      "a": "Dans un emballage neutre et sans marquage, sans marque ni nom de produit à l’extérieur. Rien sur le colis n’indique son contenu ni son origine."
+    }
+  },
+  "it": {
+    "price": {
+      "q": "Quanto costa {title}?",
+      "a": "{title} costa CHF {chf} ({eur} €), IVA svizzera dell’8,1% e spedizione incluse. 24highshop applica un ordine minimo di {min} € — circa {minchf} CHF — raggiungibile con qualsiasi combinazione di prodotti."
+    },
+    "stockYes": {
+      "q": "{title} è disponibile?",
+      "a": "Sì. {title} è disponibile a {city} e parte in giornata per ordini entro le {cutoff}, con consegna in uno o due giorni lavorativi in Svizzera."
+    },
+    "stockNo": {
+      "q": "{title} è disponibile?",
+      "a": "{title} è al momento esaurito. Riforniamo regolarmente — altre opzioni in {category} sono disponibili ora."
+    },
+    "pack": {
+      "q": "Come viene imballato {title}?",
+      "a": "In un imballaggio neutro e anonimo, senza marchi né nomi di prodotto all’esterno. Nulla sul pacco rivela il contenuto o la provenienza."
+    }
+  },
+  "nl": {
+    "price": {
+      "q": "Wat kost {title}?",
+      "a": "{title} kost CHF {chf} (€ {eur}) inclusief 8,1% Zwitserse btw en verzending. Bij 24highshop geldt een minimale bestelwaarde van € {min} — ongeveer CHF {minchf} — die je met elke combinatie van producten haalt."
+    },
+    "stockYes": {
+      "q": "Is {title} op voorraad?",
+      "a": "Ja. {title} ligt in {city} op voorraad en gaat dezelfde werkdag weg bij bestelling vóór {cutoff}, met levering binnen Zwitserland in één tot twee werkdagen."
+    },
+    "stockNo": {
+      "q": "Is {title} op voorraad?",
+      "a": "{title} is momenteel uitverkocht. We vullen regelmatig aan — andere opties in {category} zijn nu wel beschikbaar."
+    },
+    "pack": {
+      "q": "Hoe wordt {title} verpakt?",
+      "a": "In neutrale, blanco verpakking zonder merknaam of productnaam aan de buitenkant. Niets aan het pakket verraadt de inhoud of de herkomst."
+    }
+  },
+  "es": {
+    "price": {
+      "q": "¿Cuánto cuesta {title}?",
+      "a": "{title} cuesta CHF {chf} ({eur} €) con el 8,1% de IVA suizo y el envío incluidos. 24highshop tiene un pedido mínimo de {min} € — unos {minchf} CHF — que puedes alcanzar con cualquier combinación de productos."
+    },
+    "stockYes": {
+      "q": "¿Hay stock de {title}?",
+      "a": "Sí. {title} está en stock en {city} y sale el mismo día laborable si pides antes de las {cutoff}, con entrega en uno o dos días laborables dentro de Suiza."
+    },
+    "stockNo": {
+      "q": "¿Hay stock de {title}?",
+      "a": "{title} está agotado por ahora. Reponemos con regularidad — hay otras opciones disponibles en {category}."
+    },
+    "pack": {
+      "q": "¿Cómo se embala {title}?",
+      "a": "En embalaje neutro y sin marcas, sin marca comercial ni nombre de producto en el exterior. Nada en el paquete indica su contenido ni su procedencia."
+    }
+  },
+  "pl": {
+    "price": {
+      "q": "Ile kosztuje {title}?",
+      "a": "{title} kosztuje CHF {chf} ({eur} €) z 8,1% szwajcarskim VAT i wysyłką w cenie. W 24highshop obowiązuje minimalna wartość zamówienia {min} € — około {minchf} CHF — którą osiągniesz dowolnym zestawem produktów."
+    },
+    "stockYes": {
+      "q": "Czy {title} jest dostępny?",
+      "a": "Tak. {title} jest dostępny w {city} i wychodzi tego samego dnia roboczego przy zamówieniu przed {cutoff}, z dostawą w Szwajcarii w jeden do dwóch dni roboczych."
+    },
+    "stockNo": {
+      "q": "Czy {title} jest dostępny?",
+      "a": "{title} jest chwilowo wyprzedany. Regularnie uzupełniamy zapasy — inne opcje w {category} są dostępne teraz."
+    },
+    "pack": {
+      "q": "Jak pakowany jest {title}?",
+      "a": "W neutralne, nieoznakowane opakowanie bez logo i nazwy produktu na zewnątrz. Nic w przesyłce nie zdradza zawartości ani pochodzenia."
+    }
+  },
+  "cs": {
+    "price": {
+      "q": "Kolik stojí {title}?",
+      "a": "{title} stojí CHF {chf} ({eur} €) včetně 8,1% švýcarské DPH a dopravy. V 24highshop platí minimální hodnota objednávky {min} € — přibližně {minchf} CHF — které dosáhnete libovolnou kombinací produktů."
+    },
+    "stockYes": {
+      "q": "Je {title} skladem?",
+      "a": "Ano. {title} je skladem v {city} a odchází tentýž pracovní den při objednávce do {cutoff}, doručení v rámci Švýcarska trvá jeden až dva pracovní dny."
+    },
+    "stockNo": {
+      "q": "Je {title} skladem?",
+      "a": "{title} je momentálně vyprodán. Zásoby pravidelně doplňujeme — jiné možnosti v kategorii {category} jsou dostupné hned."
+    },
+    "pack": {
+      "q": "Jak je {title} zabalen?",
+      "a": "V neutrálním, neoznačeném balení bez loga a názvu produktu zvenčí. Na zásilce nic neprozrazuje obsah ani původ."
+    }
+  },
+  "pt": {
+    "price": {
+      "q": "Quanto custa {title}?",
+      "a": "{title} custa CHF {chf} ({eur} €) com 8,1% de IVA suíço e portes incluídos. A 24highshop tem uma encomenda mínima de {min} € — cerca de {minchf} CHF — que atinge com qualquer combinação de produtos."
+    },
+    "stockYes": {
+      "q": "{title} está em stock?",
+      "a": "Sim. {title} está em stock em {city} e segue no mesmo dia útil se encomendar antes das {cutoff}, com entrega na Suíça em um a dois dias úteis."
+    },
+    "stockNo": {
+      "q": "{title} está em stock?",
+      "a": "{title} está esgotado de momento. Reabastecemos com regularidade — há outras opções disponíveis em {category}."
+    },
+    "pack": {
+      "q": "Como é embalado o {title}?",
+      "a": "Em embalagem neutra e sem marcas, sem marca nem nome de produto no exterior. Nada na encomenda revela o conteúdo ou a origem."
+    }
+  }
+}

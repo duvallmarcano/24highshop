@@ -90,7 +90,7 @@ const facts = [
 // Product-specific questions first, then the ones people ask about the shop
 // this product belongs to.
 const faqs = [
-  ...productFAQ({ title, priceEUR: price, inStock, categoryLabel, shop }),
+  ...productFAQ({ title, priceEUR: price, inStock, categoryLabel, shop }, lang),
   ...(SHOP_FAQ[shop as ShopId] ?? []).slice(0, 2),
 ];
 
