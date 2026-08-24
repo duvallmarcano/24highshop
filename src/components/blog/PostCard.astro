@@ -1,15 +1,18 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { formatDate } from '../../lib/format';
+import { localized } from '../../lib/i18n';
+import { DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 
 interface Props {
   post: CollectionEntry<'blog'>;
   eager?: boolean;
+  lang?: LocaleCode;
 }
 
-const { post, eager = false } = Astro.props;
+const { post, eager = false, lang = DEFAULT_LOCALE } = Astro.props;
 const { title, description, heroImage, publishedAt } = post.data;
-const href = `/en/blog/${post.slug}`;
+const href = localized(`/blog/${post.slug}`, lang);
 ---
 
 <article class="post">
@@ -28,7 +31,7 @@ const href = `/en/blog/${post.slug}`;
     )
   }
   <div class="post__body">
-    <time class="post__date" datetime={publishedAt}>{formatDate(publishedAt)}</time>
+    <time class="post__date" datetime={publishedAt}>{formatDate(publishedAt, lang)}</time>
     <h3 class="post__title"><a href={href}>{title}</a></h3>
     <p class="post__excerpt">{description}</p>
   </div>

@@ -1,14 +1,17 @@
 ---
 import Icon from '../ui/Icon.astro';
-import { SHOPS, UTILITY_NAV, LOCALES, SITE } from '../../data/site';
+import { SHOPS, UTILITY_NAV, LOCALES, SITE, DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 import { useTranslations } from '../../i18n/ui';
+import { localized, labelFor, switchLocale } from '../../lib/i18n';
 
 interface Props {
   activeShop?: string;
+  lang?: LocaleCode;
 }
 
-const { activeShop } = Astro.props;
-const t = useTranslations('en');
+const { activeShop, lang = DEFAULT_LOCALE } = Astro.props;
+const t = useTranslations(lang);
+const L = (path: string) => localized(path, lang);
 
 // Headshop alone has 35 categories. A dropdown listing every one is both
 // unusable and, repeated across 1,800 pages, the largest thing on the page.
@@ -39,12 +42,12 @@ const MEGA_LIMIT = 10;
         <Icon name="menu" size={20} />
       </button>
 
-      <a class="hdr__logo" href="/en/">
+      <a class="hdr__logo" href={L("/")}>
         <span class="hdr__logo-a">24high</span><span class="hdr__logo-b">shop</span>
         <span class="hdr__ch" aria-hidden="true">CH</span>
       </a>
 
-      <form class="hdr__search" action="/en/search" method="get" role="search">
+      <form class="hdr__search" action={L("/search")} method="get" role="search">
         <Icon name="search" size={16} class="hdr__search-icon" />
         <label class="visually-hidden" for="q">{t('nav.searchLabel')}</label>
         <input id="q" name="q" type="search" placeholder={t('nav.search')} autocomplete="off" />
@@ -56,7 +59,7 @@ const MEGA_LIMIT = 10;
           <Icon name="moon" size={17} class="icon-dark" />
         </button>
 
-        <a class="hdr__act hdr__cart" href="/en/cart" aria-label={t('nav.basket')}>
+        <a class="hdr__act hdr__cart" href={L("/cart")} aria-label={t('nav.basket')}>
           <Icon name="cart" size={17} />
           <span class="hdr__count" data-cart-count hidden>0</span>
         </a>
@@ -72,7 +75,7 @@ const MEGA_LIMIT = 10;
             <li class="nav__item" data-shop={shop.id}>
               <a
                 class:list={['nav__link', activeShop === shop.id && 'nav__link--active']}
-                href={shop.href}
+                href={L(shop.href)}
               >
                 {shop.label}
               </a>
@@ -82,7 +85,7 @@ const MEGA_LIMIT = 10;
                   <div class="mega__lead">
                     <span class="mega__icon"><Icon name={shop.icon} size={30} /></span>
                     <p class="mega__blurb">{shop.blurb}</p>
-                    <a class="mega__all" href={shop.href}>
+                    <a class="mega__all" href={L(shop.href)}>
                       {t('nav.allProducts', { n: shop.total })}
                       <Icon name="arrow-right" size={14} />
                     </a>
@@ -90,7 +93,7 @@ const MEGA_LIMIT = 10;
                   <ul class="mega__cols" role="list">
                     {shop.categories.slice(0, MEGA_LIMIT).map((c) => (
                       <li>
-                        <a href={c.href}>
+                        <a href={L(c.href)}>
                           {c.label}
                           <span class="mega__n">{c.count}</span>
                         </a>
@@ -98,7 +101,7 @@ const MEGA_LIMIT = 10;
                     ))}
                     {shop.categories.length > MEGA_LIMIT && (
                       <li>
-                        <a class="mega__rest" href={shop.href}>
+                        <a class="mega__rest" href={L(shop.href)}>
                           {t('nav.moreCategories', { n: shop.categories.length - MEGA_LIMIT })}
                         </a>
                       </li>
@@ -112,7 +115,7 @@ const MEGA_LIMIT = 10;
         {
           UTILITY_NAV.map((l) => (
             <li class="nav__item">
-              <a class="nav__link" href={l.href}>
+              <a class="nav__link" href={L(l.href)}>
                 {l.label}
               </a>
             </li>
@@ -123,7 +126,7 @@ const MEGA_LIMIT = 10;
           <details class="langsel">
             <summary aria-label={t('nav.language')}>
               <Icon name="external" size={13} />
-              English
+              {labelFor(lang)}
               <Icon name="chevron-down" size={12} />
             </summary>
             <ul role="list">
@@ -132,10 +135,10 @@ const MEGA_LIMIT = 10;
                   <li>
                     {l.enabled ? (
                       <a
-                        href={`/${l.code}/`}
+                        href={switchLocale(Astro.url.pathname, l.code)}
                         hreflang={l.hreflang}
                         lang={l.code}
-                        aria-current={l.code === 'en' ? 'true' : undefined}
+                        aria-current={l.code === lang ? 'true' : undefined}
                       >
                         {l.label}
                       </a>
@@ -166,7 +169,7 @@ const MEGA_LIMIT = 10;
         {
           SHOPS.map((shop) => (
             <li data-shop={shop.id}>
-              <a href={shop.href}>
+              <a href={L(shop.href)}>
                 <span class="drawer__label">
                   <Icon name={shop.icon} size={18} />
                   {shop.label}
@@ -179,7 +182,7 @@ const MEGA_LIMIT = 10;
         {
           UTILITY_NAV.map((l) => (
             <li>
-              <a href={l.href}>{l.label}</a>
+              <a href={L(l.href)}>{l.label}</a>
             </li>
           ))
         }

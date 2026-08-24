@@ -5,21 +5,29 @@ import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
 import PostCard from '../../../components/blog/PostCard.astro';
 import { AUTHORS, authorImage, type Author } from '../../../lib/authors';
 import { breadcrumbSchema, personSchema } from '../../../lib/seo';
+import { ENABLED_LOCALES, localized } from '../../../lib/i18n';
+import type { LocaleCode } from '../../../data/site';
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 export async function getStaticPaths() {
   const posts = (await getCollection('blog')).sort(
     (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
   );
 
-  return AUTHORS.map((author) => ({
-    params: { slug: author.slug },
+  return ENABLED_LOCALES.flatMap((lang) =>
+    AUTHORS.map((author) => ({
+      params: { lang, slug: author.slug },
     props: {
       author,
       posts: posts.filter(
         (p) => p.data.author.toLowerCase() === author.name.toLowerCase()
       ),
     },
-  }));
+    }))
+  );
 }
 
 interface Props {
@@ -30,8 +38,8 @@ interface Props {
 const { author, posts } = Astro.props;
 
 const crumbs = [
-  { label: 'Home', href: '/en/' },
-  { label: 'Our writers', href: '/en/authors' },
+  { label: 'Home', href: L('/') },
+  { label: 'Our writers', href: L('/authors') },
   { label: author.name },
 ];
 ---
@@ -74,7 +82,7 @@ const crumbs = [
         <h2>Guides by {author.name}</h2>
         <div class="work__grid">
           {posts.map((p, i) => (
-            <PostCard post={p} eager={i < 3} />
+            <PostCard post={p} eager={i < 3} lang={lang} />
           ))}
         </div>
       </section>

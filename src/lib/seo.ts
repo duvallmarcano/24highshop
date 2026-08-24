@@ -1,4 +1,5 @@
-import { SITE, VAT_RATE, toCHF } from '../data/site';
+import { SITE, VAT_RATE, toCHF, DEFAULT_LOCALE, type LocaleCode } from '../data/site';
+import { bcp47, localized } from './i18n';
 import { productImage } from './images';
 
 const abs = (path: string) => new URL(path, SITE.url).href;
@@ -68,7 +69,7 @@ export function websiteSchema() {
     url: SITE.url,
     name: SITE.name,
     description: SITE.description,
-    inLanguage: 'en-CH',
+    inLanguage: bcp47(DEFAULT_LOCALE),
     publisher: { '@id': `${SITE.url}/#organization` },
     potentialAction: {
       '@type': 'SearchAction',
@@ -246,7 +247,7 @@ export function itemListSchema(
     itemListElement: products.slice(0, 30).map((p, i) => ({
       '@type': 'ListItem',
       position: i + 1,
-      url: abs(`/en/product/${p.slug}`),
+      url: abs(localized(`/product/${p.slug}`, DEFAULT_LOCALE)),
       name: p.title,
     })),
   };
@@ -260,7 +261,7 @@ export function collectionPageSchema(name: string, description: string, url: str
     description,
     url: abs(url),
     isPartOf: { '@id': `${SITE.url}/#website` },
-    inLanguage: 'en-CH',
+    inLanguage: bcp47(DEFAULT_LOCALE),
     provider: { '@id': `${SITE.url}/#organization` },
   };
 }
@@ -276,9 +277,9 @@ export function personSchema(a: AuthorRef) {
   return {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    '@id': a.slug ? abs(`/en/authors/${a.slug}`) + '#person' : undefined,
+    '@id': a.slug ? abs(localized(`/authors/${a.slug}`, DEFAULT_LOCALE)) + '#person' : undefined,
     name: a.name,
-    ...(a.slug && { url: abs(`/en/authors/${a.slug}`) }),
+    ...(a.slug && { url: abs(localized(`/authors/${a.slug}`, DEFAULT_LOCALE)) }),
     ...(a.bio && { description: a.bio }),
     ...(a.image && { image: abs(a.image) }),
     worksFor: { '@id': `${SITE.url}/#organization` },
@@ -313,7 +314,7 @@ export function articleSchema(a: ArticleSchemaInput) {
     datePublished: a.published,
     dateModified: a.modified || a.published,
     ...(a.wordCount && { wordCount: a.wordCount }),
-    inLanguage: 'en-CH',
+    inLanguage: bcp47(DEFAULT_LOCALE),
     author: namedAuthor
       ? personSchema(a.author)
       : { '@type': 'Organization', '@id': `${SITE.url}/#organization`, name: SITE.name },

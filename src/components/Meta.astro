@@ -1,5 +1,6 @@
 ---
-import { SITE, LOCALES } from '../data/site';
+import { SITE, LOCALES, DEFAULT_LOCALE, type LocaleCode } from '../data/site';
+import { localized, ogLocale, switchLocale } from '../lib/i18n';
 
 interface Props {
   title: string;
@@ -9,6 +10,7 @@ interface Props {
   noindex?: boolean;
   /** Overrides the generated canonical, for paginated or filtered views. */
   canonicalPath?: string;
+  lang?: LocaleCode;
 }
 
 const {
@@ -18,6 +20,7 @@ const {
   type = 'website',
   noindex = false,
   canonicalPath,
+  lang = DEFAULT_LOCALE,
 } = Astro.props;
 
 // Astro builds directory-style URLs and the sitemap emits them with a
@@ -73,7 +76,7 @@ const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
 <meta property="og:image:alt" content={title} />
 <meta property="og:type" content={type === 'product' ? 'website' : type} />
 <meta property="og:url" content={canonical} />
-<meta property="og:locale" content="en_CH" />
+<meta property="og:locale" content={ogLocale(lang)} />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={fullTitle} />
@@ -87,7 +90,7 @@ const fullTitle = title.includes(SITE.name) ? title : `${title} | ${SITE.name}`;
     <link
       rel="alternate"
       hreflang={l.hreflang}
-      href={l.code === 'en' ? canonical : canonical.replace('/en/', `/${l.code}/`)}
+      href={new URL(switchLocale(Astro.url.pathname, l.code), SITE.url).href}
     />
   ))
 }

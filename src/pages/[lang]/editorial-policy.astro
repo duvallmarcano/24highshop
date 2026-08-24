@@ -4,8 +4,19 @@ import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
 import { AUTHORS } from '../../lib/authors';
 import { SITE } from '../../data/site';
 import { breadcrumbSchema } from '../../lib/seo';
+import { ENABLED_LOCALES, localized } from '../../lib/i18n';
+import type { LocaleCode } from '../../data/site';
 
-const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Editorial standards' }];
+// one copy of this page per enabled locale
+export function getStaticPaths() {
+  return ENABLED_LOCALES.map((lang) => ({ params: { lang } }));
+}
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
+
+const crumbs = [{ label: 'Home', href: L('/') }, { label: 'Editorial standards' }];
 ---
 
 <BaseLayout
@@ -30,7 +41,7 @@ const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Editorial standards' 
       <p>
         Guides carry a byline. {AUTHORS.length} named writers cover most of the
         catalogue — you can see who they are, what they specialise in and everything
-        they have written on <a href="/en/authors">our writers page</a>. Where a piece
+        they have written on <a href={L("/authors")}>our writers page</a>. Where a piece
         is compiled in-house rather than by a single author, it says so and is
         attributed to the editorial team.
       </p>

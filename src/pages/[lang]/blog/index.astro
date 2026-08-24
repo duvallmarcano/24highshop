@@ -6,13 +6,24 @@ import PostCard from '../../../components/blog/PostCard.astro';
 import { formatDate } from '../../../lib/format';
 import { AUTHORS } from '../../../lib/authors';
 import { breadcrumbSchema, collectionPageSchema } from '../../../lib/seo';
+import { ENABLED_LOCALES, localized } from '../../../lib/i18n';
+import type { LocaleCode } from '../../../data/site';
+
+// one copy of this page per enabled locale
+export function getStaticPaths() {
+  return ENABLED_LOCALES.map((lang) => ({ params: { lang } }));
+}
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
 );
 
 const [lead, ...rest] = posts;
-const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Guides' }];
+const crumbs = [{ label: 'Home', href: L('/') }, { label: 'Guides' }];
 const description = `${posts.length} guides on growing, dosing, harm reduction and the botany behind what 24highshop stocks — written by named authors and checked in-house.`;
 ---
 
@@ -21,7 +32,7 @@ const description = `${posts.length} guides on growing, dosing, harm reduction a
   description={description}
   schemas={[
     breadcrumbSchema(crumbs),
-    collectionPageSchema('24highshop Guides', description, '/en/blog'),
+    collectionPageSchema('24highshop Guides', description, '/blog'),
   ]}
 >
   <Breadcrumbs items={crumbs} />
@@ -31,19 +42,19 @@ const description = `${posts.length} guides on growing, dosing, harm reduction a
     <h1>Read before you buy</h1>
     <p class="head__lead">
       Growing notes, dosing guidance, harm reduction and the botany behind the
-      shelf. Written by <a href="/en/authors">people we name</a> and checked
+      shelf. Written by <a href={L("/authors")}>people we name</a> and checked
       in-house before it goes up.
     </p>
   </header>
 
   {
     lead && (
-      <a class="lead" href={`/en/blog/${lead.slug}`}>
+      <a class="lead" href={L(`/blog/${lead.slug}`)}>
         {lead.data.heroImage && (
           <img src={lead.data.heroImage} alt="" width="640" height="480" loading="eager" />
         )}
         <div class="lead__body">
-          <p class="eyebrow">Latest · {formatDate(lead.data.publishedAt)}</p>
+          <p class="eyebrow">Latest · {formatDate(lead.data.publishedAt, lang)}</p>
           <h2>{lead.data.title}</h2>
           <p>{lead.data.description}</p>
           <span class="lead__go">Read the guide →</span>
@@ -53,7 +64,7 @@ const description = `${posts.length} guides on growing, dosing, harm reduction a
   }
 
   <div class="posts">
-    {rest.map((post, i) => <PostCard post={post} eager={i < 3} />)}
+    {rest.map((post, i) => <PostCard post={post} eager={i < 3} lang={lang} />)}
   </div>
 </BaseLayout>
 

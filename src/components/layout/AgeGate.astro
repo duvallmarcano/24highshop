@@ -1,6 +1,14 @@
 ---
 import Icon from '../ui/Icon.astro';
-import { SITE } from '../../data/site';
+import { SITE, DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
+import { localized } from '../../lib/i18n';
+
+interface Props {
+  lang?: LocaleCode;
+}
+
+const { lang = DEFAULT_LOCALE } = Astro.props;
+const L = (path: string) => localized(path, lang);
 
 /**
  * 18+ verification.
@@ -47,7 +55,7 @@ import { SITE } from '../../data/site';
 
     <p class="gate__legal">
       By entering you confirm you are of legal age where you live. See our
-      <a href="/en/terms">terms</a> and <a href="/en/disclaimer">disclaimer</a>.
+      <a href={L("/terms")}>terms</a> and <a href={L("/disclaimer")}>disclaimer</a>.
     </p>
   </div>
 

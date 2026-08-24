@@ -1,15 +1,17 @@
 ---
 import ProductCard from './ProductCard.astro';
 import type { CollectionEntry } from 'astro:content';
+import { DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 
 interface Props {
   products: CollectionEntry<'products'>[];
   /** First N cards load eagerly; the rest defer. */
   eagerCount?: number;
   compact?: boolean;
+  lang?: LocaleCode;
 }
 
-const { products, eagerCount = 4, compact = false } = Astro.props;
+const { products, eagerCount = 4, compact = false, lang = DEFAULT_LOCALE } = Astro.props;
 ---
 
 <div class="grid">
@@ -23,6 +25,7 @@ const { products, eagerCount = 4, compact = false } = Astro.props;
         images={p.data.images}
         categoryLabel={p.data.categoryLabel}
         rating={p.data.rating}
+        lang={lang}
         compact={compact}
         eager={i < eagerCount}
       />

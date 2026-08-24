@@ -2,6 +2,8 @@
 import Stars from './Stars.astro';
 import Icon from '../ui/Icon.astro';
 import { formatDate } from '../../lib/format';
+import { localized } from '../../lib/i18n';
+import { DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 
 interface Review {
   author: string;
@@ -16,9 +18,11 @@ interface Props {
   reviews: Review[];
   rating?: { value: number; count: number };
   productTitle: string;
+  lang?: LocaleCode;
 }
 
-const { reviews, rating, productTitle } = Astro.props;
+const { reviews, rating, productTitle, lang = DEFAULT_LOCALE } = Astro.props;
+const L = (path: string) => localized(path, lang);
 
 // distribution, so the summary says something even with few reviews
 const buckets = [5, 4, 3, 2, 1].map((n) => ({
@@ -60,7 +64,7 @@ const max = Math.max(1, ...buckets.map((b) => b.count));
                 Averaged from {rating.count} customer rating
                 {rating.count === 1 ? '' : 's'} on the previous 24highshop
                 storefront. The written reviews did not carry across —
-                <a href="/en/contact"> send us yours</a> and it goes up here.
+                <a href={L("/contact")}> send us yours</a> and it goes up here.
               </p>
             )
           }
@@ -81,7 +85,7 @@ const max = Math.max(1, ...buckets.map((b) => b.count));
                     <Icon name="check-circle" size={13} /> Verified purchase
                   </span>
                 )}
-                <time datetime={r.date}>{formatDate(r.date)}</time>
+                <time datetime={r.date}>{formatDate(r.date, lang)}</time>
               </p>
             </li>
           ))}
@@ -90,7 +94,7 @@ const max = Math.max(1, ...buckets.map((b) => b.count));
     ) : (
       <p class="rev__empty">
         No reviews yet for {productTitle}. Ordered one? Tell us how it went at
-        <a href="/en/contact"> hello@24highshop.com</a> and we will publish it here.
+        <a href={L("/contact")}> hello@24highshop.com</a> and we will publish it here.
       </p>
     )
   }

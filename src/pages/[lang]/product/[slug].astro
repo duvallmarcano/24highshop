@@ -16,6 +16,12 @@ import { productFAQ, SHOP_FAQ } from '../../../data/faq';
 import { breadcrumbSchema } from '../../../lib/seo';
 import { alignDescription } from '../../../lib/keywords';
 import { firstImage } from '../../../lib/images';
+import { ENABLED_LOCALES, localized } from '../../../lib/i18n';
+import type { LocaleCode } from '../../../data/site';
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
@@ -29,15 +35,17 @@ export async function getStaticPaths() {
     else byCategory.set(key, [p]);
   }
 
-  return products.map((entry) => ({
-    params: { slug: entry.slug },
+  return ENABLED_LOCALES.flatMap((lang) =>
+    products.map((entry) => ({
+      params: { lang, slug: entry.slug },
     props: {
       entry,
       related: (byCategory.get(`${entry.data.shop}/${entry.data.category}`) ?? [])
         .filter((p) => p.slug !== entry.slug && p.data.images.length)
         .slice(0, 8),
     },
-  }));
+    }))
+  );
 }
 
 interface Props {
@@ -51,12 +59,12 @@ const { title, description, sku, price, inStock, shop, category, categoryLabel, 
 const { Content } = await entry.render();
 
 const shopMeta = SHOP_BY_ID.get(shop as ShopId);
-const url = `/en/product/${entry.slug}`;
+const url = `/product/${entry.slug}`;
 
 const crumbs = [
-  { label: 'Home', href: '/en/' },
+  { label: 'Home', href: L('/') },
   ...(shopMeta ? [{ label: shopMeta.label, href: shopMeta.href }] : []),
-  ...(categoryLabel ? [{ label: categoryLabel, href: `/en/shop/${shop}/${category}` }] : []),
+  ...(categoryLabel ? [{ label: categoryLabel, href: L(`/shop/${shop}/${category}`) }] : []),
   { label: title },
 ];
 
@@ -121,7 +129,7 @@ const metaDescription = alignDescription(
 
     <div class="pdp__info">
       {categoryLabel && (
-        <a class="pdp__cat eyebrow" href={`/en/shop/${shop}/${category}`}>{categoryLabel}</a>
+        <a class="pdp__cat eyebrow" href={L(`/shop/${shop}/${category}`)}>{categoryLabel}</a>
       )}
       <h1>{title}</h1>
       {
@@ -136,7 +144,7 @@ const metaDescription = alignDescription(
         )
       }
       {description && <p class="pdp__lead">{description}</p>}
-      <BuyBox title={title} sku={sku} price={price} inStock={inStock} />
+      <BuyBox title={title} sku={sku} price={price} inStock={inStock} lang={lang} />
     </div>
   </div>
 
@@ -152,7 +160,7 @@ const metaDescription = alignDescription(
   </div>
 
   <section class="pdp__reviews">
-    <Reviews reviews={reviews} rating={rating} productTitle={title} />
+    <Reviews reviews={reviews} rating={rating} productTitle={title} lang={lang} />
   </section>
 
   <section class="pdp__faq">
@@ -162,7 +170,8 @@ const metaDescription = alignDescription(
   <ProductRail
     title={`More ${categoryLabel || shopMeta?.label || 'products'}`}
     products={related}
-    href={`/en/shop/${shop}/${category}`}
+    lang={lang}
+    href={L(`/shop/${shop}/${category}`)}
   />
 </BaseLayout>
 

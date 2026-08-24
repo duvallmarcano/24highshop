@@ -10,6 +10,17 @@ import FAQ from '../../components/seo/FAQ.astro';
 import { SHOPS, SITE, TOTAL_PRODUCTS, TOP_SELLER_KEYS } from '../../data/site';
 import { GLOBAL_FAQ } from '../../data/faq';
 import { firstImage } from '../../lib/images';
+import { ENABLED_LOCALES, localized } from '../../lib/i18n';
+import type { LocaleCode } from '../../data/site';
+
+// one copy of this page per enabled locale
+export function getStaticPaths() {
+  return ENABLED_LOCALES.map((lang) => ({ params: { lang } }));
+}
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 const products = await getCollection('products');
 const posts = (await getCollection('blog')).sort(
@@ -141,14 +152,14 @@ const steps = [
           {posts.length} guides explaining them, written by people who actually use them.
         </p>
         <div class="hero__cta">
-          <Button href="/en/shop/mushrooms" size="lg" iconEnd="arrow-right">Shop mushrooms</Button>
-          <Button href="/en/blog" size="lg" variant="secondary">Start with a guide</Button>
+          <Button href={L("/shop/mushrooms")} size="lg" iconEnd="arrow-right">Shop mushrooms</Button>
+          <Button href={L("/blog")} size="lg" variant="secondary">Start with a guide</Button>
         </div>
       </div>
 
       {
         hero && (
-          <a class="hero__spec" href={`/en/product/${hero.slug}`}>
+          <a class="hero__spec" href={L(`/product/${hero.slug}`)}>
             <img
               src={firstImage(hero.data.images, 1000)}
               alt={hero.data.title}
@@ -254,7 +265,7 @@ const steps = [
           page, before you buy rather than after.
         </p>
         <p>
-          <a href="/en/about">How we source and check what we stock</a>
+          <a href={L("/about")}>How we source and check what we stock</a>
         </p>
       </div>
     </div>
@@ -267,9 +278,9 @@ const steps = [
         <h2>What people actually bought twice</h2>
         <p>Our most-rated products, ordered by how many customers left a score.</p>
       </div>
-      <a class="band__link" href="/en/shop/mushrooms">Browse the shop</a>
+      <a class="band__link" href={L("/shop/mushrooms")}>Browse the shop</a>
     </header>
-    <ProductGrid products={mostReviewed} eagerCount={4} />
+    <ProductGrid products={mostReviewed} eagerCount={4} lang={lang} />
   </section>
 
   <!-- ── highest rated ────────────────────────────────────────────────── -->
@@ -282,7 +293,7 @@ const steps = [
           a single five-star review does not put anything here.
         </p>
       </header>
-      <ProductGrid products={topRated} eagerCount={0} />
+      <ProductGrid products={topRated} eagerCount={0} lang={lang} />
     </div>
   </section>
 
@@ -296,9 +307,9 @@ const steps = [
           shelves are not buried under mushrooms and smartshop.
         </p>
       </div>
-      <a class="band__link" href="/en/shop/mushrooms">Browse all shops</a>
+      <a class="band__link" href={L("/shop/mushrooms")}>Browse all shops</a>
     </header>
-    <ProductGrid products={acrossShops} eagerCount={0} />
+    <ProductGrid products={acrossShops} eagerCount={0} lang={lang} />
   </section>
 
   <!-- ── guides ───────────────────────────────────────────────────────── -->
@@ -308,10 +319,10 @@ const steps = [
         <h2>Read before you buy</h2>
         <p>Cultivation notes, dosing guidance and the botany behind the shelf.</p>
       </div>
-      <a class="band__link" href="/en/blog">All guides</a>
+      <a class="band__link" href={L("/blog")}>All guides</a>
     </header>
     <div class="posts">
-      {latest.map((p, i) => <PostCard post={p} eager={i === 0} />)}
+      {latest.map((p, i) => <PostCard post={p} eager={i === 0} lang={lang} />)}
     </div>
   </section>
 

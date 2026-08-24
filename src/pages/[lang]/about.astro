@@ -8,9 +8,20 @@ import { SHOPS, SITE, TOTAL_PRODUCTS } from '../../data/site';
 import { GLOBAL_FAQ } from '../../data/faq';
 import { AUTHORS } from '../../lib/authors';
 import { breadcrumbSchema } from '../../lib/seo';
+import { ENABLED_LOCALES, localized } from '../../lib/i18n';
+import type { LocaleCode } from '../../data/site';
+
+// one copy of this page per enabled locale
+export function getStaticPaths() {
+  return ENABLED_LOCALES.map((lang) => ({ params: { lang } }));
+}
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 const posts = await getCollection('blog');
-const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'About' }];
+const crumbs = [{ label: 'Home', href: L('/') }, { label: 'About' }];
 
 const facts = [
   { label: 'Legal name', value: SITE.legalName },
@@ -66,7 +77,7 @@ const facts = [
           the EU threshold — so strength here is not the strength you know from abroad.
         </p>
         <p>
-          So we publish {posts.length} guides, written by <a href="/en/authors">named
+          So we publish {posts.length} guides, written by <a href={L("/authors")}>named
           people</a> rather than anonymously, and checked in-house before they go up.
           Where a product needs a dosing note or a plain word of caution, it is written
           down and linked from the product page — before you buy, not after.
@@ -90,7 +101,7 @@ const facts = [
           Strictly 18+, with no exceptions. Start low, do not combine substances, do not
           drive, and if you take prescription medication — particularly antidepressants,
           MAO inhibitors or blood pressure medication — talk to a professional before
-          using anything psychoactive. Our <a href="/en/disclaimer">disclaimer</a> sets
+          using anything psychoactive. Our <a href={L("/disclaimer")}>disclaimer</a> sets
           out the limits of what we can tell you.
         </p>
       </div>

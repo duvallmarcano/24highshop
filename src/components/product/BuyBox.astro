@@ -3,7 +3,7 @@ import Button from '../ui/Button.astro';
 import Price from '../ui/Price.astro';
 import Money from '../ui/Money.astro';
 import Icon from '../ui/Icon.astro';
-import { SITE, MIN_ORDER_EUR, toCHF } from '../../data/site';
+import { SITE, MIN_ORDER_EUR, toCHF, DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 import { exVat } from '../../lib/seo';
 import { useTranslations } from '../../i18n/ui';
 
@@ -12,15 +12,21 @@ interface Props {
   sku: string;
   price: number | null;
   inStock?: boolean;
+  lang?: LocaleCode;
 }
 
-const { title, sku, price, inStock = true } = Astro.props;
-const t = useTranslations('en');
+const { title, sku, price, inStock = true, lang = DEFAULT_LOCALE } = Astro.props;
+const t = useTranslations(lang);
 
 const chf = price === null ? null : toCHF(price);
 const net = chf === null ? null : exVat(chf);
 const netEUR = price === null ? null : exVat(price);
 const minCHF = toCHF(MIN_ORDER_EUR);
+
+// these two strings wrap a price element, so they are split rather than
+// interpolated — word order around the amount differs by language
+const [vatBefore, vatAfter] = t('buy.exVat').split('{net}');
+const [minBefore, minAfter] = t('buy.minOrder').split('{amount}');
 
 // How many of this item it takes to reach the minimum order value.
 const needed = price === null || price >= MIN_ORDER_EUR
@@ -37,10 +43,10 @@ const needed = price === null || price >= MIN_ORDER_EUR
     {
       net !== null ? (
         <>
-          <Money eur={netEUR!} chf={net} /> excl. VAT &middot; incl. 8.1% Swiss VAT
+          {vatBefore}<Money eur={netEUR!} chf={net} />{vatAfter}
         </>
       ) : (
-        'Price on request'
+        t('buy.priceOnRequest')
       )
     }
   </p>
@@ -49,8 +55,8 @@ const needed = price === null || price >= MIN_ORDER_EUR
     <span class:list={['dot', inStock ? 'dot--ok' : 'dot--out']} aria-hidden="true"></span>
     {
       inStock
-        ? `In stock in ${SITE.address.locality} — ships today if ordered before ${SITE.cutoff}`
-        : 'Sold out — back in stock soon'
+        ? t('buy.inStockAt', { city: SITE.address.locality, cutoff: SITE.cutoff })
+        : t('buy.soldOutSoon')
     }
   </div>
 
@@ -66,15 +72,15 @@ const needed = price === null || price >= MIN_ORDER_EUR
   <p class="buy__min">
     <Icon name="info" size={15} />
     <span>
-      Minimum order <Money eur={MIN_ORDER_EUR} chf={minCHF} />.
-      {needed > 1 && ` That is ${needed}× this item, or mix with anything else.`}
+      {minBefore}<Money eur={MIN_ORDER_EUR} chf={minCHF} />{minAfter}
+      {needed > 1 && t('buy.minOrderHint', { n: needed })}
     </span>
   </p>
 
   <ul class="buy__usp" role="list">
-    <li><Icon name="truck" size={15} /> Free shipping on every order</li>
-    <li><Icon name="package" size={15} /> Neutral, unmarked packaging</li>
-    <li><Icon name="bitcoin" size={15} /> Bitcoin or bank transfer</li>
+    <li><Icon name="truck" size={15} /> {t('buy.uspShipping')}</li>
+    <li><Icon name="package" size={15} /> {t('buy.uspPackaging')}</li>
+    <li><Icon name="bitcoin" size={15} /> {t('buy.uspPayment')}</li>
   </ul>
 
   <p class="buy__sku">{t('product.sku')} {sku}</p>

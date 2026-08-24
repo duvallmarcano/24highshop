@@ -5,6 +5,17 @@ import { EUR_TO_CHF } from '../../data/site';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
 import Button from '../../components/ui/Button.astro';
 import { toCHF } from '../../data/site';
+import { ENABLED_LOCALES, localized } from '../../lib/i18n';
+import type { LocaleCode } from '../../data/site';
+
+// one copy of this page per enabled locale
+export function getStaticPaths() {
+  return ENABLED_LOCALES.map((lang) => ({ params: { lang } }));
+}
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 // The basket lives in the visitor's own browser, so the page ships a lookup
 // table keyed by SKU and renders the contents client-side.
@@ -26,14 +37,14 @@ const rate = EUR_TO_CHF;
 ---
 
 <BaseLayout title="Your basket" description="Review the items in your 24highshop basket." noindex>
-  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'Basket' }]} />
+  <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Basket' }]} />
 
   <div class="cart">
     <h1>Your basket</h1>
 
     <div data-cart-empty hidden class="cart__empty">
       <p>Your basket is empty.</p>
-      <Button href="/en/shop/mushrooms" iconEnd="arrow-right">Start shopping</Button>
+      <Button href={L("/shop/mushrooms")} iconEnd="arrow-right">Start shopping</Button>
     </div>
 
     <div data-cart-filled hidden>
@@ -117,7 +128,7 @@ const rate = EUR_TO_CHF;
             <li class="line">
               <img src="${row.i ? `/images/products/${row.i}-200.webp` : '/favicon.svg'}"
                    alt="" width="64" height="64" loading="lazy" />
-              <a class="line__t" href="/en/product/${row.s}">${row.t}</a>
+              <a class="line__t" href={L("/product/${row.s}")}>${row.t}</a>
               <span class="line__q">
                 <button type="button" data-dec="${sku}" aria-label="Decrease quantity">−</button>
                 <span>${qty}</span>

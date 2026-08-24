@@ -1,14 +1,16 @@
 ---
 import ProductCard from './ProductCard.astro';
 import type { CollectionEntry } from 'astro:content';
+import { DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 
 interface Props {
   title: string;
   products: CollectionEntry<'products'>[];
   href?: string;
+  lang?: LocaleCode;
 }
 
-const { title, products, href } = Astro.props;
+const { title, products, href, lang = DEFAULT_LOCALE } = Astro.props;
 ---
 
 {
@@ -29,7 +31,10 @@ const { title, products, href } = Astro.props;
               images={p.data.images}
               categoryLabel={p.data.categoryLabel}
               rating={p.data.rating}
+              lang={lang}
+        lang={lang}
         rating={p.data.rating}
+        lang={lang}
               compact
             />
           </div>

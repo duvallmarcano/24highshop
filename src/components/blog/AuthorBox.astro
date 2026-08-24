@@ -1,14 +1,17 @@
 ---
 import { authorImage, type Author } from '../../lib/authors';
+import { localized } from '../../lib/i18n';
+import { DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 
 interface Props {
   author?: Author;
   /** Falls back to the organisation when a post has no named writer. */
   fallbackName?: string;
   updated?: string;
+  lang?: LocaleCode;
 }
 
-const { author, fallbackName = '24highshop', updated } = Astro.props;
+const { author, fallbackName = '24highshop', updated, lang = DEFAULT_LOCALE } = Astro.props;
 ---
 
 <aside class="abox">
@@ -28,7 +31,7 @@ const { author, fallbackName = '24highshop', updated } = Astro.props;
         <div class="abox__body">
           <p class="eyebrow">Written by</p>
           <p class="abox__name">
-            <a href={`/en/authors/${author.slug}`} rel="author">{author.name}</a>
+            <a href={localized(`/authors/${author.slug}`, lang)} rel="author">{author.name}</a>
           </p>
           {author.bio[0] && <p class="abox__bio">{author.bio[0]}</p>}
         </div>
@@ -39,7 +42,7 @@ const { author, fallbackName = '24highshop', updated } = Astro.props;
         <p class="abox__name">The {fallbackName} editorial team</p>
         <p class="abox__bio">
           Written and fact-checked in-house by the people who source and pack what we
-          sell. See our <a href="/en/editorial-policy">editorial standards</a>.
+          sell. See our <a href={localized('/editorial-policy', lang)}>editorial standards</a>.
         </p>
       </div>
     )

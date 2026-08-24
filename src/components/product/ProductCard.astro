@@ -2,6 +2,8 @@
 import Price from '../ui/Price.astro';
 import Stars from './Stars.astro';
 import { firstImage, productSrcSet } from '../../lib/images';
+import { localized } from '../../lib/i18n';
+import { DEFAULT_LOCALE, type LocaleCode } from '../../data/site';
 
 interface Props {
   slug: string;
@@ -13,14 +15,15 @@ interface Props {
   rating?: { value: number; count: number };
   compact?: boolean;
   eager?: boolean;
+  lang?: LocaleCode;
 }
 
 const {
   slug, title, price, inStock = true, images = [],
-  categoryLabel = '', rating, compact = false, eager = false,
+  categoryLabel = '', rating, compact = false, eager = false, lang = DEFAULT_LOCALE,
 } = Astro.props;
 
-const href = `/en/product/${slug}`;
+const href = localized(`/product/${slug}`, lang);
 const src = firstImage(images, 1000);
 const srcset = images.length ? productSrcSet(images[0]) : undefined;
 ---

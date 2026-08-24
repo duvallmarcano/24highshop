@@ -8,20 +8,28 @@ import { formatDate } from '../../../lib/format';
 import { authorByName, authorImage } from '../../../lib/authors';
 import { articleSchema, breadcrumbSchema } from '../../../lib/seo';
 import { alignDescription, relatedGuides } from '../../../lib/keywords';
+import { ENABLED_LOCALES, localized } from '../../../lib/i18n';
+import type { LocaleCode } from '../../../data/site';
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 export async function getStaticPaths() {
   const posts = (await getCollection('blog')).sort(
     (a, b) => Date.parse(b.data.publishedAt) - Date.parse(a.data.publishedAt)
   );
 
-  return posts.map((entry, i) => ({
-    params: { slug: entry.slug },
+  return ENABLED_LOCALES.flatMap((lang) =>
+    posts.map((entry, i) => ({
+      params: { lang, slug: entry.slug },
     props: {
       entry,
       more: [posts[i + 1], posts[i + 2], posts[i - 1]].filter(Boolean).slice(0, 3),
       bySlug: Object.fromEntries(posts.map((p) => [p.slug, p])),
     },
-  }));
+    }))
+  );
 }
 
 interface Props {
@@ -35,15 +43,15 @@ const { title, description, heroImage, publishedAt, updatedAt, author } = entry.
 const { Content } = await entry.render();
 
 const person = authorByName(author);
-const url = `/en/blog/${entry.slug}`;
+const url = `/blog/${entry.slug}`;
 
 // reading time from the rendered body, not a guess
 const words = entry.body.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
 const minutes = Math.max(1, Math.round(words / 220));
 
 const crumbs = [
-  { label: 'Home', href: '/en/' },
-  { label: 'Guides', href: '/en/blog' },
+  { label: 'Home', href: L('/') },
+  { label: 'Guides', href: L('/blog') },
   { label: title },
 ];
 
@@ -89,7 +97,7 @@ const related = relatedGuides(url, 4);
       <p class="article__meta">
         <span>{person ? person.name : 'The 24highshop editorial team'}</span>
         <span aria-hidden="true">·</span>
-        <time datetime={publishedAt}>{formatDate(publishedAt)}</time>
+        <time datetime={publishedAt}>{formatDate(publishedAt, lang)}</time>
         <span aria-hidden="true">·</span>
         <span>{minutes} min read</span>
       </p>
@@ -114,7 +122,8 @@ const related = relatedGuides(url, 4);
 
     <AuthorBox
       author={person}
-      updated={formatDate(updatedAt || publishedAt)}
+      updated={formatDate(updatedAt || publishedAt, lang)}
+      lang={lang}
     />
   </article>
 
@@ -122,7 +131,7 @@ const related = relatedGuides(url, 4);
     (() => {
       // prefer guides that share search vocabulary; fall back to neighbours by date
       const matched = related
-        .map((r) => bySlug[r.route.replace('/en/blog/', '')])
+        .map((r) => bySlug[r.route.replace('/blog/', '')])
         .filter(Boolean) as CollectionEntry<'blog'>[];
       const picks = (matched.length >= 2 ? matched : more).slice(0, 3);
       return picks.length > 0 ? (
@@ -130,7 +139,7 @@ const related = relatedGuides(url, 4);
           <h2>Related guides</h2>
           <div class="more__grid">
             {picks.map((p) => (
-              <PostCard post={p} />
+              <PostCard post={p} lang={lang} />
             ))}
           </div>
         </section>

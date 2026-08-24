@@ -3,12 +3,20 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
 import { INFO_PAGES, type InfoPage } from '../../data/info-pages';
 import { breadcrumbSchema } from '../../lib/seo';
+import { ENABLED_LOCALES, localized } from '../../lib/i18n';
+import type { LocaleCode } from '../../data/site';
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 export async function getStaticPaths() {
-  return INFO_PAGES.map((page) => ({
-    params: { info: page.slug },
+  return ENABLED_LOCALES.flatMap((lang) =>
+    INFO_PAGES.map((page) => ({
+      params: { lang, info: page.slug },
     props: { page },
-  }));
+    }))
+  );
 }
 
 interface Props {
@@ -16,7 +24,7 @@ interface Props {
 }
 
 const { page } = Astro.props;
-const crumbs = [{ label: 'Home', href: '/en/' }, { label: page.title }];
+const crumbs = [{ label: 'Home', href: L('/') }, { label: page.title }];
 ---
 
 <BaseLayout

@@ -7,6 +7,7 @@ import AgeGate from '../components/layout/AgeGate.astro';
 import CurrencySwitcher from '../components/layout/CurrencySwitcher.astro';
 import { organizationSchema, websiteSchema } from '../lib/seo';
 import { useTranslations } from '../i18n/ui';
+import { localeFromPath, bcp47 } from '../lib/i18n';
 import '../styles/global.css';
 
 interface Props {
@@ -27,7 +28,9 @@ const {
   activeShop, noindex = false, bare = false, schemas = [],
 } = Astro.props;
 
-const t = useTranslations('en');
+// one place derives the locale; everything below is driven from it
+const lang = localeFromPath(Astro.url.pathname);
+const t = useTranslations(lang);
 
 // The organisation and website entities are emitted on every page so the
 // brand resolves consistently; page-specific schema is appended.
@@ -35,9 +38,9 @@ const graph = [organizationSchema(), websiteSchema(), ...schemas];
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={bcp47(lang)}>
   <head>
-    <Meta title={title} description={description} image={image} type={type} noindex={noindex} />
+    <Meta title={title} description={description} image={image} type={type} noindex={noindex} lang={lang} />
     {
       graph.map((s) => (
         <script type="application/ld+json" is:inline set:html={JSON.stringify(s)} />
@@ -46,16 +49,16 @@ const graph = [organizationSchema(), websiteSchema(), ...schemas];
   </head>
   <body>
     <IconSprite />
-    <AgeGate />
+    <AgeGate lang={lang} />
     <a class="skip-link" href="#main">{t('nav.skip')}</a>
 
-    <Header activeShop={activeShop} />
+    <Header activeShop={activeShop} lang={lang} />
 
     <main id="main">
       {bare ? <slot /> : <div class="container page"><slot /></div>}
     </main>
 
-    <Footer />
+    <Footer lang={lang} />
 
     <CurrencySwitcher />
 

@@ -4,6 +4,17 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
 import { EUR_TO_CHF } from '../../data/site';
 import { toCHF } from '../../data/site';
+import { ENABLED_LOCALES, localized } from '../../lib/i18n';
+import type { LocaleCode } from '../../data/site';
+
+// one copy of this page per enabled locale
+export function getStaticPaths() {
+  return ENABLED_LOCALES.map((lang) => ({ params: { lang } }));
+}
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 // The whole catalogue is static, so search runs in the browser against a
 // small prebuilt index rather than needing a server.
@@ -22,7 +33,7 @@ const index = products.map((p) => ({
 ---
 
 <BaseLayout title="Search" description="Search the 24highshop catalogue." noindex>
-  <Breadcrumbs items={[{ label: 'Home', href: '/en/' }, { label: 'Search' }]} />
+  <Breadcrumbs items={[{ label: 'Home', href: '/' }, { label: 'Search' }]} />
 
   <header class="srchead">
     <h1>Search</h1>
@@ -108,7 +119,7 @@ const index = products.map((p) => ({
       out.innerHTML = hits
         .map(
           ({ r }) => `
-          <a class="hit" href="/en/product/${r.s}">
+          <a class="hit" href={L("/product/${r.s}")}>
             <img src="${r.i ? `/images/products/${r.i}-200.webp` : '/favicon.svg'}"
                  alt="" width="56" height="56" loading="lazy" />
             <span class="hit__t">${r.t}</span>

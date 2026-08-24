@@ -70,6 +70,16 @@ export const UI = {
     'cta.seeAll': 'See all',
     'cta.readGuides': 'Read the guides',
     'cta.learnMore': 'Learn more',
+
+    "buy.exVat": "{net} excl. VAT · incl. 8.1% Swiss VAT",
+    "buy.priceOnRequest": "Price on request",
+    "buy.inStockAt": "In stock in {city} — ships today if ordered before {cutoff}",
+    "buy.soldOutSoon": "Sold out — back in stock soon",
+    "buy.minOrder": "Minimum order {amount}.",
+    "buy.minOrderHint": " That is {n}× this item, or mix with anything else.",
+    "buy.uspShipping": "Free shipping on every order",
+    "buy.uspPackaging": "Neutral, unmarked packaging",
+    "buy.uspPayment": "Bitcoin or bank transfer",
   },
 
   de: {
@@ -136,6 +146,16 @@ export const UI = {
     "cta.seeAll": "Alle ansehen",
     "cta.readGuides": "Ratgeber lesen",
     "cta.learnMore": "Mehr erfahren",
+
+    "buy.exVat": "{net} exkl. MwSt. · inkl. 8,1% Schweizer MwSt.",
+    "buy.priceOnRequest": "Preis auf Anfrage",
+    "buy.inStockAt": "An Lager in {city} — Versand heute bei Bestellung vor {cutoff}",
+    "buy.soldOutSoon": "Ausverkauft — bald wieder an Lager",
+    "buy.minOrder": "Mindestbestellwert {amount}.",
+    "buy.minOrderHint": " Das sind {n}× dieser Artikel, oder beliebig kombiniert.",
+    "buy.uspShipping": "Kostenloser Versand bei jeder Bestellung",
+    "buy.uspPackaging": "Neutrale, unbeschriftete Verpackung",
+    "buy.uspPayment": "Bitcoin oder Banküberweisung",
   },
 
   fr: {
@@ -202,6 +222,16 @@ export const UI = {
     "cta.seeAll": "Tout voir",
     "cta.readGuides": "Lire les guides",
     "cta.learnMore": "En savoir plus",
+
+    "buy.exVat": "{net} hors TVA · TVA suisse 8,1% incluse",
+    "buy.priceOnRequest": "Prix sur demande",
+    "buy.inStockAt": "En stock à {city} — expédié le jour même si commandé avant {cutoff}",
+    "buy.soldOutSoon": "Épuisé — bientôt de retour",
+    "buy.minOrder": "Commande minimum {amount}.",
+    "buy.minOrderHint": " Soit {n}× cet article, ou tout autre mélange.",
+    "buy.uspShipping": "Livraison offerte sur chaque commande",
+    "buy.uspPackaging": "Emballage neutre et anonyme",
+    "buy.uspPayment": "Bitcoin ou virement bancaire",
   },
 
   it: {
@@ -268,6 +298,16 @@ export const UI = {
     "cta.seeAll": "Vedi tutto",
     "cta.readGuides": "Leggi le guide",
     "cta.learnMore": "Scopri di più",
+
+    "buy.exVat": "{net} IVA esclusa · IVA svizzera 8,1% inclusa",
+    "buy.priceOnRequest": "Prezzo su richiesta",
+    "buy.inStockAt": "Disponibile a {city} — spedito oggi se ordini entro le {cutoff}",
+    "buy.soldOutSoon": "Esaurito — presto di nuovo disponibile",
+    "buy.minOrder": "Ordine minimo {amount}.",
+    "buy.minOrderHint": " Sono {n}× questo articolo, o qualsiasi combinazione.",
+    "buy.uspShipping": "Spedizione gratuita su ogni ordine",
+    "buy.uspPackaging": "Imballaggio neutro e anonimo",
+    "buy.uspPayment": "Bitcoin o bonifico bancario",
   },
 
   nl: {
@@ -334,6 +374,16 @@ export const UI = {
     "cta.seeAll": "Alles bekijken",
     "cta.readGuides": "Lees de gidsen",
     "cta.learnMore": "Meer informatie",
+
+    "buy.exVat": "{net} excl. btw · incl. 8,1% Zwitserse btw",
+    "buy.priceOnRequest": "Prijs op aanvraag",
+    "buy.inStockAt": "Op voorraad in {city} — vandaag verzonden bij bestelling vóór {cutoff}",
+    "buy.soldOutSoon": "Uitverkocht — binnenkort weer op voorraad",
+    "buy.minOrder": "Minimale bestelling {amount}.",
+    "buy.minOrderHint": " Dat is {n}× dit artikel, of een andere combinatie.",
+    "buy.uspShipping": "Gratis verzending bij elke bestelling",
+    "buy.uspPackaging": "Neutrale, blanco verpakking",
+    "buy.uspPayment": "Bitcoin of bankoverschrijving",
   },
 
   es: {
@@ -400,6 +450,16 @@ export const UI = {
     "cta.seeAll": "Ver todo",
     "cta.readGuides": "Leer las guías",
     "cta.learnMore": "Saber más",
+
+    "buy.exVat": "{net} sin IVA · IVA suizo 8,1% incluido",
+    "buy.priceOnRequest": "Precio a consultar",
+    "buy.inStockAt": "En stock en {city} — se envía hoy si pides antes de las {cutoff}",
+    "buy.soldOutSoon": "Agotado — vuelve pronto",
+    "buy.minOrder": "Pedido mínimo {amount}.",
+    "buy.minOrderHint": " Son {n}× este artículo, o cualquier combinación.",
+    "buy.uspShipping": "Envío gratis en cada pedido",
+    "buy.uspPackaging": "Embalaje neutro y sin marcas",
+    "buy.uspPayment": "Bitcoin o transferencia bancaria",
   },
 
   pl: {
@@ -466,6 +526,16 @@ export const UI = {
     "cta.seeAll": "Zobacz wszystko",
     "cta.readGuides": "Czytaj poradniki",
     "cta.learnMore": "Dowiedz się więcej",
+
+    "buy.exVat": "{net} bez VAT · zawiera 8,1% szwajcarskiego VAT",
+    "buy.priceOnRequest": "Cena na zapytanie",
+    "buy.inStockAt": "Dostępny w {city} — wysyłka dziś przy zamówieniu przed {cutoff}",
+    "buy.soldOutSoon": "Wyprzedany — wkrótce wraca",
+    "buy.minOrder": "Minimalne zamówienie {amount}.",
+    "buy.minOrderHint": " To {n}× ten produkt lub dowolne połączenie.",
+    "buy.uspShipping": "Darmowa wysyłka przy każdym zamówieniu",
+    "buy.uspPackaging": "Neutralne opakowanie bez oznaczeń",
+    "buy.uspPayment": "Bitcoin lub przelew bankowy",
   },
 
   cs: {
@@ -532,6 +602,16 @@ export const UI = {
     "cta.seeAll": "Zobrazit vše",
     "cta.readGuides": "Číst průvodce",
     "cta.learnMore": "Zjistit více",
+
+    "buy.exVat": "{net} bez DPH · včetně 8,1% švýcarské DPH",
+    "buy.priceOnRequest": "Cena na dotaz",
+    "buy.inStockAt": "Skladem v {city} — odesíláme dnes při objednávce do {cutoff}",
+    "buy.soldOutSoon": "Vyprodáno — brzy naskladníme",
+    "buy.minOrder": "Minimální objednávka {amount}.",
+    "buy.minOrderHint": " To je {n}× tento produkt nebo libovolná kombinace.",
+    "buy.uspShipping": "Doprava zdarma u každé objednávky",
+    "buy.uspPackaging": "Neutrální balení bez označení",
+    "buy.uspPayment": "Bitcoin nebo bankovní převod",
   },
 
   pt: {
@@ -598,6 +678,16 @@ export const UI = {
     "cta.seeAll": "Ver tudo",
     "cta.readGuides": "Ler os guias",
     "cta.learnMore": "Saber mais",
+
+    "buy.exVat": "{net} sem IVA · IVA suíço 8,1% incluído",
+    "buy.priceOnRequest": "Preço sob consulta",
+    "buy.inStockAt": "Em stock em {city} — enviado hoje se encomendar antes das {cutoff}",
+    "buy.soldOutSoon": "Esgotado — regressa em breve",
+    "buy.minOrder": "Encomenda mínima {amount}.",
+    "buy.minOrderHint": " São {n}× este artigo, ou qualquer combinação.",
+    "buy.uspShipping": "Portes grátis em todas as encomendas",
+    "buy.uspPackaging": "Embalagem neutra e sem marcas",
+    "buy.uspPayment": "Bitcoin ou transferência bancária",
   },
 } satisfies Record<string, Record<string, string>>;
 

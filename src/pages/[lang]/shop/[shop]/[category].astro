@@ -14,12 +14,19 @@ import {
   itemListSchema,
 } from '../../../../lib/seo';
 import { alignDescription, keywordsFor, relatedGuides } from '../../../../lib/keywords';
+import { ENABLED_LOCALES, localized } from '../../../../lib/i18n';
+import type { LocaleCode } from '../../../../data/site';
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 export async function getStaticPaths() {
   const products = await getCollection('products');
-  return SHOPS.flatMap((shop) =>
+  return ENABLED_LOCALES.flatMap((lang) =>
+    SHOPS.flatMap((shop) =>
     shop.categories.map((category) => ({
-      params: { shop: shop.id, category: category.slug },
+      params: { lang, shop: shop.id, category: category.slug },
       props: {
         shop,
         category,
@@ -27,7 +34,8 @@ export async function getStaticPaths() {
           (p) => p.data.shop === shop.id && p.data.category === category.slug
         ),
       },
-    }))
+      }))
+    )
   );
 }
 
@@ -52,9 +60,9 @@ const fromCHF = fromEUR === null ? null : toCHF(fromEUR);
 const toCHFmax = toEUR === null ? null : toCHF(toEUR);
 const available = products.filter((p) => p.data.inStock).length;
 
-const url = `/en/shop/${shop.id}/${category.slug}`;
+const url = `/shop/${shop.id}/${category.slug}`;
 const crumbs = [
-  { label: 'Home', href: '/en/' },
+  { label: 'Home', href: L('/') },
   { label: shop.label, href: shop.href },
   { label: category.label },
 ];
@@ -126,7 +134,7 @@ const guides = relatedGuides(url, 3);
 
   {
     sorted.length > 0 ? (
-      <ProductGrid products={sorted} eagerCount={8} />
+      <ProductGrid products={sorted} eagerCount={8} lang={lang} />
     ) : (
       <p class="empty">
         Nothing in this category right now.{' '}
@@ -148,7 +156,7 @@ const guides = relatedGuides(url, 3);
             <li>
               <a href={g.route}>
                 {g.route
-                  .replace('/en/blog/', '')
+                  .replace('/blog/', '')
                   .replace(/-/g, ' ')
                   .replace(/^./, (c) => c.toUpperCase())}
               </a>

@@ -4,12 +4,23 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/layout/Breadcrumbs.astro';
 import { AUTHORS, authorImage } from '../../../lib/authors';
 import { breadcrumbSchema } from '../../../lib/seo';
+import { ENABLED_LOCALES, localized } from '../../../lib/i18n';
+import type { LocaleCode } from '../../../data/site';
+
+// one copy of this page per enabled locale
+export function getStaticPaths() {
+  return ENABLED_LOCALES.map((lang) => ({ params: { lang } }));
+}
+
+// the locale segment drives every link and every string on the page
+const lang = Astro.params.lang as LocaleCode;
+const L = (p: string) => localized(p, lang);
 
 const posts = await getCollection('blog');
 const countFor = (name: string) =>
   posts.filter((p) => p.data.author.toLowerCase() === name.toLowerCase()).length;
 
-const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Our writers' }];
+const crumbs = [{ label: 'Home', href: L('/') }, { label: 'Our writers' }];
 ---
 
 <BaseLayout
@@ -26,7 +37,7 @@ const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Our writers' }];
       Guides are written by named people with a track record in the subject, then
       checked in-house before publication. If something here is wrong, there is a
       person to hold to it — that is the point.
-      <a href="/en/editorial-policy">Read our editorial standards</a>.
+      <a href={L("/editorial-policy")}>Read our editorial standards</a>.
     </p>
   </header>
 
@@ -34,7 +45,7 @@ const crumbs = [{ label: 'Home', href: '/en/' }, { label: 'Our writers' }];
     {
       AUTHORS.map((a) => (
         <li>
-          <a class="author" href={`/en/authors/${a.slug}`}>
+          <a class="author" href={L(`/authors/${a.slug}`)}>
             {a.image && (
               <img src={authorImage(a, 300)} alt={a.name} width="88" height="88" loading="lazy" />
             )}

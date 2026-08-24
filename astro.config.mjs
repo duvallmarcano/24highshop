@@ -9,9 +9,8 @@ export default defineConfig({
   site: SITE,
   trailingSlash: 'ignore',
 
-  // The catalogue lives at /en/. The other languages are separate domains
-  // (24high.nl, .fr, .de, .es, .it), wired together by hreflang in Meta.astro,
-  // so this project ships one locale rather than six empty ones.
+  // Routes live under /[lang]/. Enabling a locale in src/data/site.ts makes
+  // every page generate for it; hreflang follows the same flag.
   redirects: {
     '/': '/en/',
     // 241 old URLs that still hold organic positions. Redirecting rather

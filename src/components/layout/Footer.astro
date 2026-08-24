@@ -1,25 +1,35 @@
 ---
 import Icon from '../ui/Icon.astro';
-import { SHOPS, SITE, LOCALES, PAYMENT_METHODS, MIN_ORDER_EUR, toCHF } from '../../data/site';
+import {
+  SHOPS, SITE, LOCALES, PAYMENT_METHODS, MIN_ORDER_EUR, toCHF,
+  DEFAULT_LOCALE, type LocaleCode,
+} from '../../data/site';
 import { useTranslations } from '../../i18n/ui';
+import { localized, switchLocale } from '../../lib/i18n';
 
-const t = useTranslations('en');
+interface Props {
+  lang?: LocaleCode;
+}
+
+const { lang = DEFAULT_LOCALE } = Astro.props;
+const t = useTranslations(lang);
+const L = (path: string) => localized(path, lang);
 const year = new Date().getFullYear();
 
 const company = [
-  { label: 'About 24highshop', href: '/en/about' },
-  { label: 'Our writers', href: '/en/authors' },
-  { label: 'Editorial standards', href: '/en/editorial-policy' },
-  { label: 'Guides', href: '/en/blog' },
-  { label: 'Contact', href: '/en/contact' },
+  { label: 'About 24highshop', href: '/about' },
+  { label: 'Our writers', href: '/authors' },
+  { label: 'Editorial standards', href: '/editorial-policy' },
+  { label: 'Guides', href: '/blog' },
+  { label: 'Contact', href: '/contact' },
 ];
 
 const legal = [
-  { label: 'Shipping & returns', href: '/en/shipping' },
-  { label: 'Terms & conditions', href: '/en/terms' },
-  { label: 'Privacy policy', href: '/en/privacy' },
-  { label: 'Cookie policy', href: '/en/cookies' },
-  { label: 'Disclaimer', href: '/en/disclaimer' },
+  { label: 'Shipping & returns', href: '/shipping' },
+  { label: 'Terms & conditions', href: '/terms' },
+  { label: 'Privacy policy', href: '/privacy' },
+  { label: 'Cookie policy', href: '/cookies' },
+  { label: 'Disclaimer', href: '/disclaimer' },
 ];
 
 const minCHF = toCHF(MIN_ORDER_EUR);
@@ -48,7 +58,7 @@ const minCHF = toCHF(MIN_ORDER_EUR);
 
     <div class="ftr__grid">
       <div class="ftr__brand">
-        <a class="ftr__logo" href="/en/">
+        <a class="ftr__logo" href={L("/")}>
           <span class="ftr__logo-a">24high</span><span class="ftr__logo-b">shop</span>
         </a>
         <p class="ftr__tag">{SITE.description}</p>
@@ -67,21 +77,21 @@ const minCHF = toCHF(MIN_ORDER_EUR);
       <nav class="ftr__col" aria-label="Shop">
         <h2>{t('footer.shop')}</h2>
         <ul role="list">
-          {SHOPS.map((s) => <li><a href={s.href}>{s.label}</a></li>)}
+          {SHOPS.map((s) => <li><a href={L(s.href)}>{s.label}</a></li>)}
         </ul>
       </nav>
 
       <nav class="ftr__col" aria-label="Company">
         <h2>{t('footer.company')}</h2>
         <ul role="list">
-          {company.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+          {company.map((l) => <li><a href={L(l.href)}>{l.label}</a></li>)}
         </ul>
       </nav>
 
       <nav class="ftr__col" aria-label="Legal">
         <h2>{t('footer.legal')}</h2>
         <ul role="list">
-          {legal.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+          {legal.map((l) => <li><a href={L(l.href)}>{l.label}</a></li>)}
         </ul>
       </nav>
 
@@ -92,7 +102,7 @@ const minCHF = toCHF(MIN_ORDER_EUR);
             LOCALES.map((l) => (
               <li>
                 {l.enabled ? (
-                  <a href={`/${l.code}/`} hreflang={l.hreflang} lang={l.code}>{l.label}</a>
+                  <a href={switchLocale(Astro.url.pathname, l.code)} hreflang={l.hreflang} lang={l.code}>{l.label}</a>
                 ) : (
                   <span class="ftr__soon" lang={l.code}>{l.label}</span>
                 )}
