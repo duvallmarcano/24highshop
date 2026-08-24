@@ -14,7 +14,9 @@
     "llms": "python3 scripts/generate_llms_txt.py",
     "authors": "python3 scripts/extract_authors.py",
     "content": "npm run normalize:images && npm run extract && npm run authors && npm run llms",
-    "keywords": "python3 scripts/build_keywords.py && python3 scripts/build_redirects.py"
+    "keywords": "python3 scripts/build_keywords.py && python3 scripts/build_redirects.py",
+    "translate": "python3 scripts/translate_content.py",
+    "translate:estimate": "python3 scripts/translate_content.py --estimate"
   },
   "dependencies": {
     "@astrojs/sitemap": "3.2.1",
