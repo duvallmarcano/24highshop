@@ -122,6 +122,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogens, nootropics and superfoods for focus, sleep and mood.",
     "page.faqTitle": "Ordering from 24highshop",
+    "footer.about": "About 24highshop",
+    "footer.writers": "Our writers",
+    "footer.editorial": "Editorial standards",
   },
 
   de: {
@@ -240,6 +243,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogene, Nootropika und Superfoods für Fokus, Schlaf und Stimmung.",
     "page.faqTitle": "Bestellen bei 24highshop",
+    "footer.about": "Über 24highshop",
+    "footer.writers": "Unsere Autorinnen und Autoren",
+    "footer.editorial": "Redaktionelle Grundsätze",
   },
 
   fr: {
@@ -358,6 +364,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogènes, nootropiques et superaliments pour la concentration, le sommeil et l’humeur.",
     "page.faqTitle": "Commander chez 24highshop",
+    "footer.about": "À propos de 24highshop",
+    "footer.writers": "Nos auteurs",
+    "footer.editorial": "Charte éditoriale",
   },
 
   it: {
@@ -476,6 +485,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adattogeni, nootropici e superfood per concentrazione, sonno e umore.",
     "page.faqTitle": "Ordinare da 24highshop",
+    "footer.about": "Chi è 24highshop",
+    "footer.writers": "I nostri autori",
+    "footer.editorial": "Linee guida editoriali",
   },
 
   nl: {
@@ -594,6 +606,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogenen, nootropica en superfoods voor focus, slaap en stemming.",
     "page.faqTitle": "Bestellen bij 24highshop",
+    "footer.about": "Over 24highshop",
+    "footer.writers": "Onze schrijvers",
+    "footer.editorial": "Redactionele richtlijnen",
   },
 
   es: {
@@ -712,6 +727,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptógenos, nootrópicos y superalimentos para concentración, sueño y ánimo.",
     "page.faqTitle": "Comprar en 24highshop",
+    "footer.about": "Sobre 24highshop",
+    "footer.writers": "Nuestros autores",
+    "footer.editorial": "Normas editoriales",
   },
 
   pl: {
@@ -830,6 +848,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogeny, nootropiki i superfoods na skupienie, sen i nastrój.",
     "page.faqTitle": "Zamawianie w 24highshop",
+    "footer.about": "O 24highshop",
+    "footer.writers": "Nasi autorzy",
+    "footer.editorial": "Zasady redakcyjne",
   },
 
   cs: {
@@ -948,6 +969,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogeny, nootropika a superpotraviny pro soustředění, spánek a náladu.",
     "page.faqTitle": "Objednávání v 24highshop",
+    "footer.about": "O 24highshop",
+    "footer.writers": "Naši autoři",
+    "footer.editorial": "Redakční zásady",
   },
 
   pt: {
@@ -1066,6 +1090,9 @@ export const UI = {
     "shopmeta.healthshop.label": "Healthshop",
     "shopmeta.healthshop.blurb": "Adaptogénios, nootrópicos e superalimentos para foco, sono e humor.",
     "page.faqTitle": "Encomendar na 24highshop",
+    "footer.about": "Sobre a 24highshop",
+    "footer.writers": "Os nossos autores",
+    "footer.editorial": "Normas editoriais",
   },
 } satisfies Record<string, Record<string, string>>;
 

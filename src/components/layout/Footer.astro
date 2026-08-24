@@ -6,6 +6,7 @@ import {
 } from '../../data/site';
 import { useTranslations } from '../../i18n/ui';
 import { localized, switchLocale } from '../../lib/i18n';
+import { infoPagesFor } from '../../data/info-pages';
 
 interface Props {
   lang?: LocaleCode;
@@ -16,20 +17,21 @@ const t = useTranslations(lang);
 const L = (path: string) => localized(path, lang);
 const year = new Date().getFullYear();
 
-const company = [
-  { label: 'About 24highshop', href: '/about' },
-  { label: 'Our writers', href: '/authors' },
-  { label: 'Editorial standards', href: '/editorial-policy' },
-  { label: 'Guides', href: '/blog' },
-  { label: 'Contact', href: '/contact' },
-];
+// titles come from the translated info pages, so the footer follows suit
+const info = infoPagesFor(lang);
+const titleOf = (slug: string) => info.find((p) => p.slug === slug)?.title ?? slug;
+const legal = ['shipping', 'terms', 'privacy', 'cookies', 'disclaimer'].map((slug) => ({
+  label: titleOf(slug),
+  href: `/${slug}`,
+}));
 
-const legal = [
-  { label: 'Shipping & returns', href: '/shipping' },
-  { label: 'Terms & conditions', href: '/terms' },
-  { label: 'Privacy policy', href: '/privacy' },
-  { label: 'Cookie policy', href: '/cookies' },
-  { label: 'Disclaimer', href: '/disclaimer' },
+
+const company = [
+  { label: t('footer.about'), href: '/about' },
+  { label: t('footer.writers'), href: '/authors' },
+  { label: t('footer.editorial'), href: '/editorial-policy' },
+  { label: t('blog.allGuides'), href: '/blog' },
+  { label: titleOf('contact'), href: '/contact' },
 ];
 
 const minCHF = toCHF(MIN_ORDER_EUR);

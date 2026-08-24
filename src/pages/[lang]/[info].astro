@@ -1,30 +1,29 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/layout/Breadcrumbs.astro';
-import { INFO_PAGES, type InfoPage } from '../../data/info-pages';
+import { INFO_SLUGS, infoPage, type InfoPage } from '../../data/info-pages';
 import { breadcrumbSchema } from '../../lib/seo';
 import { ENABLED_LOCALES, localized } from '../../lib/i18n';
 import type { LocaleCode } from '../../data/site';
+import { useTranslations } from '../../i18n/ui';
 
 // the locale segment drives every link and every string on the page
 const lang = Astro.params.lang as LocaleCode;
 const L = (p: string) => localized(p, lang);
+const t = useTranslations(lang);
 
-export async function getStaticPaths() {
+// copy comes from the locale table, not from props
+const page = infoPage(Astro.params.info as string, lang) as InfoPage;
+
+export function getStaticPaths() {
+  // one copy of each info page per enabled locale
   return ENABLED_LOCALES.flatMap((lang) =>
-    INFO_PAGES.map((page) => ({
-      params: { lang, info: page.slug },
-    props: { page },
-    }))
+    INFO_SLUGS.map((slug) => ({ params: { lang, info: slug } }))
   );
 }
 
-interface Props {
-  page: InfoPage;
-}
 
-const { page } = Astro.props;
-const crumbs = [{ label: 'Home', href: L('/') }, { label: page.title }];
+const crumbs = [{ label: t('page.home'), href: L('/') }, { label: page.title }];
 ---
 
 <BaseLayout

@@ -1,0 +1,1937 @@
+{
+ "en": {
+  "shipping": {
+   "title": "Shipping & returns",
+   "description": "Delivery times from Zürich, shipping costs in CHF, packaging, customs and how to return an order.",
+   "intro": "Orders placed before 16:00 on a working day are picked from Swiss stock and dispatched the same day, in plain packaging with nothing on the outside identifying the contents.",
+   "sections": [
+    {
+     "heading": "Delivery times",
+     "body": [
+      "Switzerland and Liechtenstein: one to two working days by Swiss Post. Germany, Austria and France: two to four working days. The rest of Europe: three to six. Every parcel is tracked, and the tracking code reaches you by email when the label is created.",
+      "Perishables — fresh truffles, grow kits, anything with a live culture — ship early in the week so they do not sit in a depot over the weekend."
+     ]
+    },
+    {
+     "heading": "Shipping costs and minimum order",
+     "body": [
+      "Nothing. Shipping is included on every order, in Switzerland and across Europe, and every parcel is tracked. That is possible because there is a minimum order value of €200 — roughly CHF 210 — which you can reach with any mix of products."
+     ]
+    },
+    {
+     "heading": "Customs and import",
+     "body": [
+      "Swiss orders ship domestically — no customs, no import duty, no handling fee. Orders leaving Switzerland cross a customs border, and any duty or VAT charged on arrival is payable by you. Some products cannot lawfully be imported into some countries; checking that is your responsibility, and we cannot refund parcels seized by customs."
+     ]
+    },
+    {
+     "heading": "Packaging",
+     "body": [
+      "Plain, unmarked boxes and bags. No branding, no product name, nothing on the outside indicating what is inside or that it came from a smartshop. The sender line shows a neutral company name."
+     ]
+    },
+    {
+     "heading": "Returns",
+     "body": [
+      "Unopened, undamaged items can be returned within 14 days of delivery for a refund. Perishable goods and opened consumables are excluded for hygiene reasons, as are seeds once the packaging is broken.",
+      "Contact us before sending anything back so we can confirm the return address and expect the parcel. Return postage is payable by you unless the item arrived faulty or we sent the wrong thing."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Contact",
+   "description": "How to reach 24highshop in Zürich about an order, a product, or advice before you buy.",
+   "intro": "Email reaches the people who pack the boxes. For anything about an order, include your order number and we will have the answer in front of us.",
+   "sections": [
+    {
+     "heading": "Email",
+     "body": [
+      "hello@24highshop.com — answered within one working day, usually much sooner. We read everything in English, German, French and Italian."
+     ]
+    },
+    {
+     "heading": "Advice before you buy",
+     "body": [
+      "If you are not sure which strain, dose, kit or strength suits you, ask before ordering. We would rather spend five minutes on an email than have you buy the wrong thing and be disappointed — or worse, take too much of something."
+     ]
+    },
+    {
+     "heading": "Something wrong with an order",
+     "body": [
+      "Damaged in transit, missing an item, or a grow kit that has not started colonising after three weeks? Send a photo with your order number. Grow kits that fail through no fault of yours are replaced."
+     ]
+    },
+    {
+     "heading": "Post",
+     "body": [
+      "${SITE.legalName}, ${SITE.address.street}, ${SITE.address.postalCode} ${SITE.address.locality}, ${SITE.address.countryName}. Please do not send returns to this address without contacting us first."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Terms & conditions",
+   "description": "The terms that apply to orders placed with 24highshop AG, a company registered in Zürich, Switzerland.",
+   "intro": "These terms apply to every order placed through this site. They sit alongside your rights under the Swiss Code of Obligations rather than replacing them.",
+   "sections": [
+    {
+     "heading": "Who you are buying from",
+     "body": [
+      "24highshop AG, registered in Zürich, Switzerland under UID CHE-000.000.000. Prices can be displayed in Swiss francs or euros using the currency switch; both include Swiss VAT at 8.1%. The EUR figure is converted at a fixed internal rate."
+     ]
+    },
+    {
+     "heading": "Age requirement",
+     "body": [
+      "You must be 18 or over to order. We may ask for proof of age, and we will cancel and refund any order where we have reason to believe the buyer is under 18."
+     ]
+    },
+    {
+     "heading": "Payment and minimum order",
+     "body": [
+      "We accept Bitcoin and bank transfer only. Bitcoin is settled on-chain, with the exchange rate locked for 15 minutes once you reach checkout; if payment does not arrive inside that window the rate is recalculated. Bank transfer accepts SEPA and Swiss IBAN, and goods are dispatched once the funds clear.",
+      "There is a minimum order value of €200. Both methods are settled manually, which is what makes smaller orders uneconomic — and what allows shipping to be included on every order."
+     ]
+    },
+    {
+     "heading": "Availability and pricing",
+     "body": [
+      "Stock levels and prices are kept current, but errors happen. If a product turns out to be unavailable or was listed at a clearly incorrect price, we will contact you before charging and offer a refund or an alternative. A listing is an invitation to treat, not a binding offer."
+     ]
+    },
+    {
+     "heading": "What we will not ship",
+     "body": [
+      "We do not ship controlled substances. Psilocybin-containing mushrooms and truffles are controlled under Swiss narcotics law and are not sold to Swiss addresses. Cannabis seeds and CBD products are sold in line with the Swiss 1% THC threshold."
+     ]
+    },
+    {
+     "heading": "Import restrictions",
+     "body": [
+      "Several products are lawful in Switzerland but restricted or prohibited elsewhere. Checking what may lawfully be imported into your country is your responsibility. We cannot refund parcels seized by customs, and we cannot advise on foreign law."
+     ]
+    },
+    {
+     "heading": "Governing law",
+     "body": [
+      "Swiss law governs these terms. The place of jurisdiction is Zürich, subject to any mandatory consumer protection rules that apply where you live."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Privacy policy",
+   "description": "What personal data 24highshop collects, why, how long it is kept, and your rights under the Swiss Data Protection Act.",
+   "intro": "We collect the minimum needed to take payment and get a parcel to you. We do not sell your data, and we do not share it for advertising.",
+   "sections": [
+    {
+     "heading": "What we collect",
+     "body": [
+      "Your name, delivery address, email address and order history. Payment details are handled entirely by the payment provider and never reach our servers — we see that a payment succeeded, not the card number behind it."
+     ]
+    },
+    {
+     "heading": "Why we hold it",
+     "body": [
+      "To process and deliver your order, handle returns and support requests, and meet the record-keeping obligations that apply to a registered Swiss retailer."
+     ]
+    },
+    {
+     "heading": "How long",
+     "body": [
+      "Order and invoice records are kept for ten years, as Swiss commercial law requires. Everything not subject to that obligation is deleted on request."
+     ]
+    },
+    {
+     "heading": "Where your data sits",
+     "body": [
+      "Order data is held on servers in Switzerland. Where a processor outside Switzerland is used — a shipping carrier, for example — only the data needed for that job is transferred, and only to countries with adequate protection or under contractual safeguards."
+     ]
+    },
+    {
+     "heading": "Your rights",
+     "body": [
+      "Under the revised Swiss Federal Act on Data Protection (revDSG) you can ask for a copy of the data we hold on you, ask us to correct it, or ask us to delete it. If you are in the EU, the GDPR gives you equivalent rights and we honour them the same way. Email hello@24highshop.com and we will respond within 30 days."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Cookie policy",
+   "description": "The cookies and browser storage this site uses, and what each one does.",
+   "intro": "This site keeps its cookie use small: what is needed to run a basket, plus aggregate analytics. No advertising trackers.",
+   "sections": [
+    {
+     "heading": "Strictly necessary",
+     "body": [
+      "Your basket contents and your light/dark preference are stored in your own browser using localStorage. They never leave your device, are not readable by us, and are not shared with anyone."
+     ]
+    },
+    {
+     "heading": "Analytics",
+     "body": [
+      "We use aggregate analytics to see which pages and products people look at, so we know what to stock and what to write about. It is not used to identify individuals and is not shared with advertising networks."
+     ]
+    },
+    {
+     "heading": "Turning them off",
+     "body": [
+      "Blocking cookies in your browser will not break browsing or reading. The basket will simply not remember what you put in it between visits."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Disclaimer",
+   "description": "Important limits on the information and products offered by 24highshop — not medical advice, and not encouragement to break the law.",
+   "intro": "Nothing on this site is medical advice, and nothing here should be read as encouragement to break the law where you live.",
+   "sections": [
+    {
+     "heading": "Not medical advice",
+     "body": [
+      "Our guides describe traditional use, botany and the published research as we understand it. They are not a substitute for a doctor or pharmacist. If you take prescription medication — particularly antidepressants, MAO inhibitors, thyroid medication or blood pressure medication — talk to a professional before using anything psychoactive or any new supplement."
+     ]
+    },
+    {
+     "heading": "Use responsibly",
+     "body": [
+      "Start low. Do not combine substances. Do not drive. Have a sober person present if you are trying something for the first time, and give yourself somewhere safe and unhurried to be. If something goes wrong, calling for medical help is always the right decision — Swiss emergency services are 144."
+     ]
+    },
+    {
+     "heading": "Legality",
+     "body": [
+      "Products offered here are lawful to sell in Switzerland. Their status elsewhere varies and changes. Cannabis below 1% THC is legal in Switzerland; psilocybin is not, and we do not sell it. Kratom is unlisted here but not authorised as a foodstuff, so it is sold as a botanical specimen and not for consumption. You are responsible for knowing the law that applies to you."
+     ]
+    },
+    {
+     "heading": "Strictly 18+",
+     "body": [
+      "We do not sell to anyone under the age of 18 under any circumstances."
+     ]
+    }
+   ]
+  }
+ },
+ "de": {
+  "shipping": {
+   "title": "Versand & Rückgabe",
+   "description": "Lieferzeiten ab Zürich, Versandkosten in CHF, Verpackung, Zoll und wie Sie eine Bestellung zurückgeben.",
+   "intro": "Bestellungen bis 16:00 Uhr an einem Werktag werden aus Schweizer Lagerbestand kommissioniert und am selben Tag versandt, in neutraler Verpackung, ohne Hinweis auf den Inhalt.",
+   "sections": [
+    {
+     "heading": "Lieferzeiten",
+     "body": [
+      "Schweiz und Liechtenstein: ein bis zwei Werktage mit der Schweizerischen Post. Deutschland, Österreich und Frankreich: zwei bis vier Werktage. Übriges Europa: drei bis sechs. Jedes Paket ist verfolgbar; den Trackingcode erhalten Sie per E-Mail, sobald das Etikett erstellt ist.",
+      "Verderbliches — frische Trüffel, Grow-Sets, alles mit lebender Kultur — wird früh in der Woche versandt, damit es nicht über das Wochenende im Depot liegt."
+     ]
+    },
+    {
+     "heading": "Versandkosten und Mindestbestellwert",
+     "body": [
+      "Nichts. Der Versand ist bei jeder Bestellung inbegriffen, in der Schweiz wie in ganz Europa, und jedes Paket ist verfolgbar. Möglich macht das ein Mindestbestellwert von 200 € — rund CHF 210 — den Sie mit beliebigen Produkten erreichen."
+     ]
+    },
+    {
+     "heading": "Zoll und Einfuhr",
+     "body": [
+      "Schweizer Bestellungen werden im Inland versandt: kein Zoll, keine Einfuhrabgaben, keine Bearbeitungsgebühr. Sendungen ins Ausland überqueren eine Zollgrenze; anfallende Abgaben oder Mehrwertsteuer tragen Sie. Manche Produkte dürfen in manche Länder nicht eingeführt werden — das zu prüfen liegt bei Ihnen, und vom Zoll beschlagnahmte Sendungen können wir nicht erstatten."
+     ]
+    },
+    {
+     "heading": "Verpackung",
+     "body": [
+      "Schlichte, unbeschriftete Kartons und Beutel. Kein Branding, kein Produktname, kein Hinweis von aussen auf den Inhalt oder darauf, dass es aus einem Smartshop kommt. Als Absender erscheint ein neutraler Firmenname."
+     ]
+    },
+    {
+     "heading": "Rückgabe",
+     "body": [
+      "Ungeöffnete, unbeschädigte Artikel können innerhalb von 14 Tagen nach Erhalt zurückgegeben werden. Verderbliche Ware und geöffnete Verbrauchsartikel sind aus Hygienegründen ausgeschlossen, ebenso Samen, sobald die Verpackung geöffnet wurde.",
+      "Melden Sie sich vor dem Rückversand, damit wir die Retourenadresse bestätigen und das Paket erwarten können. Das Rückporto tragen Sie, ausser die Ware kam beschädigt an oder wir haben das Falsche geschickt."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Kontakt",
+   "description": "So erreichen Sie 24highshop in Zürich — zu einer Bestellung, einem Produkt oder für Beratung vor dem Kauf.",
+   "intro": "E-Mail erreicht die Leute, die die Pakete packen. Bei Fragen zu einer Bestellung nennen Sie bitte die Bestellnummer, dann haben wir die Antwort direkt vor uns.",
+   "sections": [
+    {
+     "heading": "E-Mail",
+     "body": [
+      "hello@24highshop.com — Antwort innerhalb eines Werktags, meist deutlich schneller. Wir lesen Englisch, Deutsch, Französisch und Italienisch."
+     ]
+    },
+    {
+     "heading": "Beratung vor dem Kauf",
+     "body": [
+      "Wenn Sie unsicher sind, welche Sorte, Dosis, welches Set oder welche Stärke passt, fragen Sie vor der Bestellung. Lieber fünf Minuten E-Mail als das Falsche gekauft — oder schlimmer, zu viel genommen."
+     ]
+    },
+    {
+     "heading": "Etwas stimmt mit der Bestellung nicht",
+     "body": [
+      "Transportschaden, fehlender Artikel, oder ein Grow-Set, das nach drei Wochen nicht durchwachsen ist? Schicken Sie ein Foto mit der Bestellnummer. Grow-Sets, die ohne Ihr Verschulden ausfallen, ersetzen wir."
+     ]
+    },
+    {
+     "heading": "Post",
+     "body": [
+      "24highshop AG, Musterstrasse 1, 8005 Zürich, Schweiz. Bitte senden Sie Retouren nicht ohne vorherige Rücksprache an diese Adresse."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Allgemeine Geschäftsbedingungen",
+   "description": "Die Bedingungen für Bestellungen bei der 24highshop AG, eingetragen in Zürich, Schweiz.",
+   "intro": "Diese Bedingungen gelten für jede über diese Website aufgegebene Bestellung. Sie treten neben Ihre Rechte aus dem Schweizerischen Obligationenrecht, nicht an deren Stelle.",
+   "sections": [
+    {
+     "heading": "Wer Ihr Vertragspartner ist",
+     "body": [
+      "24highshop AG, eingetragen in Zürich, Schweiz, UID CHE-000.000.000. Preise lassen sich über den Währungsumschalter in Franken oder Euro anzeigen; beide verstehen sich inklusive 8,1% Schweizer MwSt. Der Eurobetrag wird zu einem festen internen Kurs umgerechnet."
+     ]
+    },
+    {
+     "heading": "Altersanforderung",
+     "body": [
+      "Sie müssen 18 Jahre oder älter sein, um zu bestellen. Wir können einen Altersnachweis verlangen und stornieren und erstatten jede Bestellung, bei der Grund zur Annahme besteht, dass die Käuferschaft minderjährig ist."
+     ]
+    },
+    {
+     "heading": "Zahlung und Mindestbestellwert",
+     "body": [
+      "Wir akzeptieren ausschliesslich Bitcoin und Banküberweisung. Bitcoin wird on-chain abgewickelt; der Wechselkurs ist ab Erreichen der Kasse 15 Minuten fixiert. Geht die Zahlung nicht innerhalb dieses Fensters ein, wird der Kurs neu berechnet. Die Banküberweisung akzeptiert SEPA und Schweizer IBAN; versandt wird, sobald die Mittel gutgeschrieben sind.",
+      "Es gilt ein Mindestbestellwert von 200 €. Beide Verfahren werden manuell abgewickelt — genau das macht kleinere Bestellungen unwirtschaftlich und erlaubt zugleich, den Versand bei jeder Bestellung einzuschliessen."
+     ]
+    },
+    {
+     "heading": "Verfügbarkeit und Preise",
+     "body": [
+      "Lagerbestände und Preise werden aktuell gehalten, Fehler kommen dennoch vor. Ist ein Produkt nicht verfügbar oder war es zu einem offensichtlich falschen Preis ausgezeichnet, melden wir uns vor der Belastung und bieten Erstattung oder Alternative an. Ein Angebot auf der Website ist eine Einladung zur Offerte, kein bindendes Angebot."
+     ]
+    },
+    {
+     "heading": "Was wir nicht versenden",
+     "body": [
+      "Wir versenden keine Betäubungsmittel. Psilocybinhaltige Pilze und Trüffel unterstehen dem Schweizer Betäubungsmittelrecht und werden nicht an Schweizer Adressen verkauft. Cannabissamen und CBD-Produkte werden im Rahmen der Schweizer 1%-THC-Grenze verkauft."
+     ]
+    },
+    {
+     "heading": "Einfuhrbeschränkungen",
+     "body": [
+      "Mehrere Produkte sind in der Schweiz zulässig, anderswo aber beschränkt oder verboten. Zu prüfen, was in Ihr Land eingeführt werden darf, liegt bei Ihnen. Vom Zoll beschlagnahmte Sendungen können wir nicht erstatten, und zu ausländischem Recht können wir nicht beraten."
+     ]
+    },
+    {
+     "heading": "Anwendbares Recht",
+     "body": [
+      "Es gilt Schweizer Recht. Gerichtsstand ist Zürich, vorbehaltlich zwingender Konsumentenschutzbestimmungen an Ihrem Wohnort."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Datenschutzerklärung",
+   "description": "Welche Personendaten 24highshop erhebt, wozu, wie lange sie aufbewahrt werden und welche Rechte Ihnen nach dem Schweizer Datenschutzgesetz zustehen.",
+   "intro": "Wir erheben das Minimum, das nötig ist, um die Zahlung entgegenzunehmen und ein Paket zuzustellen. Wir verkaufen Ihre Daten nicht und geben sie nicht für Werbung weiter.",
+   "sections": [
+    {
+     "heading": "Was wir erheben",
+     "body": [
+      "Ihren Namen, die Lieferadresse, die E-Mail-Adresse und Ihre Bestellhistorie. Zahlungsdaten werden vom Zahlungsdienstleister verarbeitet und erreichen unsere Server nie."
+     ]
+    },
+    {
+     "heading": "Warum wir sie aufbewahren",
+     "body": [
+      "Um Ihre Bestellung abzuwickeln und zuzustellen, Rückgaben und Supportanfragen zu bearbeiten und die Aufbewahrungspflichten zu erfüllen, die für ein eingetragenes Handelsunternehmen gelten."
+     ]
+    },
+    {
+     "heading": "Wie lange",
+     "body": [
+      "Bestellunterlagen werden zehn Jahre aufbewahrt, wie es das Schweizer Obligationenrecht verlangt. Alles Übrige wird auf Verlangen gelöscht."
+     ]
+    },
+    {
+     "heading": "Wo Ihre Daten liegen",
+     "body": [
+      "Auf Servern in der Schweiz und im EWR. Eine Übermittlung ausserhalb dieser Räume findet nicht statt."
+     ]
+    },
+    {
+     "heading": "Ihre Rechte",
+     "body": [
+      "Nach dem revidierten Schweizer Datenschutzgesetz (revDSG) und, soweit anwendbar, der DSGVO können Sie Auskunft über die zu Ihnen gespeicherten Daten verlangen, deren Berichtigung oder deren Löschung. Schreiben Sie an hello@24highshop.com; wir antworten innerhalb von 30 Tagen."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Cookie-Richtlinie",
+   "description": "Welche Cookies diese Website setzt und wozu.",
+   "intro": "Diese Website hält den Cookie-Einsatz klein: was für einen Warenkorb nötig ist, plus anonyme Statistik.",
+   "sections": [
+    {
+     "heading": "Unbedingt erforderlich",
+     "body": [
+      "Ihr Warenkorb, Ihre Sprach- und Währungswahl sowie die Hell/Dunkel-Einstellung werden in Ihrem eigenen Browser gespeichert. Sie verlassen Ihr Gerät nie und sind für uns nicht lesbar."
+     ]
+    },
+    {
+     "heading": "Statistik",
+     "body": [
+      "Wir verwenden aggregierte Statistik, um zu sehen, welche Seiten und Produkte angesehen werden — damit wissen wir, was wir führen und worüber wir schreiben sollen. Sie dient nicht der Identifikation einzelner Personen."
+     ]
+    },
+    {
+     "heading": "Abschalten",
+     "body": [
+      "Cookies im Browser zu blockieren, verhindert weder das Stöbern noch das Lesen. Der Warenkorb merkt sich dann allerdings zwischen zwei Besuchen nicht, was Sie hineingelegt haben."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Haftungsausschluss",
+   "description": "Wichtige Grenzen der von 24highshop bereitgestellten Informationen und Produkte.",
+   "intro": "Nichts auf dieser Website ist medizinischer Rat, und nichts davon ist als Aufforderung zu verstehen, an Ihrem Wohnort geltendes Recht zu brechen.",
+   "sections": [
+    {
+     "heading": "Kein medizinischer Rat",
+     "body": [
+      "Die Ratgeber auf dieser Website beschreiben traditionelle Verwendung, Botanik und die publizierte Forschung, so wie wir sie verstehen. Sie ersetzen keine Ärztin und keinen Arzt. Wenn Sie verschreibungspflichtige Medikamente nehmen — insbesondere Antidepressiva, MAO-Hemmer oder Blutdruckmittel — sprechen Sie mit einer Fachperson, bevor Sie etwas Psychoaktives verwenden."
+     ]
+    },
+    {
+     "heading": "Verantwortungsvoll verwenden",
+     "body": [
+      "Niedrig anfangen. Nichts kombinieren. Nicht Auto fahren. Beim ersten Mal eine nüchterne Person dabeihaben und sich einen sicheren, ungestörten Ort nehmen."
+     ]
+    },
+    {
+     "heading": "Legalität",
+     "body": [
+      "Die hier angebotenen Produkte dürfen in der Schweiz verkauft werden. Ihr Status anderswo ist unterschiedlich und ändert sich. Das für Sie geltende Recht zu kennen, liegt in Ihrer Verantwortung."
+     ]
+    },
+    {
+     "heading": "Strikt ab 18",
+     "body": [
+      "Wir verkaufen unter keinen Umständen an Personen unter 18 Jahren."
+     ]
+    }
+   ]
+  }
+ },
+ "fr": {
+  "shipping": {
+   "title": "Livraison et retours",
+   "description": "Délais depuis Zurich, frais de port en CHF, emballage, douane et modalités de retour.",
+   "intro": "Les commandes passées avant 16h00 un jour ouvré sont préparées depuis le stock suisse et expédiées le jour même, dans un emballage neutre qui n’indique rien du contenu.",
+   "sections": [
+    {
+     "heading": "Délais de livraison",
+     "body": [
+      "Suisse et Liechtenstein : un à deux jours ouvrés par la Poste suisse. Allemagne, Autriche et France : deux à quatre jours ouvrés. Reste de l’Europe : trois à six. Chaque colis est suivi et le numéro de suivi vous parvient par e-mail dès la création de l’étiquette.",
+      "Les denrées périssables — truffes fraîches, kits de culture, tout ce qui contient une culture vivante — partent en début de semaine pour ne pas rester en dépôt le week-end."
+     ]
+    },
+    {
+     "heading": "Frais de port et commande minimum",
+     "body": [
+      "Rien. La livraison est incluse sur chaque commande, en Suisse comme dans toute l’Europe, et chaque colis est suivi. C’est possible grâce à une commande minimum de 200 € — environ 210 CHF — que vous atteignez avec n’importe quels produits."
+     ]
+    },
+    {
+     "heading": "Douane et importation",
+     "body": [
+      "Les commandes suisses sont expédiées en national : pas de douane, pas de droits d’importation, pas de frais de dossier. Les envois qui quittent la Suisse franchissent une frontière douanière et les droits ou la TVA éventuellement perçus à l’arrivée sont à votre charge. Certains produits ne peuvent pas être importés légalement partout ; cette vérification vous incombe, et nous ne pouvons pas rembourser un colis saisi par la douane."
+     ]
+    },
+    {
+     "heading": "Emballage",
+     "body": [
+      "Cartons et pochettes neutres, sans marquage. Aucune marque, aucun nom de produit, rien à l’extérieur n’indique le contenu ni l’origine. L’expéditeur affiché est un nom de société neutre."
+     ]
+    },
+    {
+     "heading": "Retours",
+     "body": [
+      "Les articles non ouverts et intacts peuvent être retournés dans les 14 jours suivant la livraison. Les denrées périssables et les consommables ouverts sont exclus pour des raisons d’hygiène, de même que les graines dont l’emballage a été ouvert.",
+      "Contactez-nous avant tout renvoi afin que nous confirmions l’adresse de retour et attendions le colis. Les frais de retour sont à votre charge, sauf si l’article est arrivé défectueux ou si nous avons envoyé le mauvais produit."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Contact",
+   "description": "Comment joindre 24highshop à Zurich pour une commande, un produit ou un conseil avant l’achat.",
+   "intro": "L’e-mail arrive directement chez les personnes qui préparent les colis. Pour toute question sur une commande, indiquez le numéro de commande et nous aurons la réponse sous les yeux.",
+   "sections": [
+    {
+     "heading": "E-mail",
+     "body": [
+      "hello@24highshop.com — réponse sous un jour ouvré, généralement bien plus vite. Nous lisons l’anglais, l’allemand, le français et l’italien."
+     ]
+    },
+    {
+     "heading": "Conseil avant l’achat",
+     "body": [
+      "Si vous hésitez sur la variété, la dose, le kit ou la concentration, demandez avant de commander. Nous préférons passer cinq minutes sur un e-mail plutôt que vous voir acheter le mauvais produit — ou pire, en prendre trop."
+     ]
+    },
+    {
+     "heading": "Un problème avec une commande",
+     "body": [
+      "Colis abîmé, article manquant, ou un kit qui n’a pas colonisé après trois semaines ? Envoyez une photo avec votre numéro de commande. Les kits qui échouent sans faute de votre part sont remplacés."
+     ]
+    },
+    {
+     "heading": "Courrier",
+     "body": [
+      "24highshop AG, Musterstrasse 1, 8005 Zurich, Suisse. Merci de ne pas envoyer de retour à cette adresse sans nous avoir contactés au préalable."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Conditions générales",
+   "description": "Les conditions applicables aux commandes passées auprès de 24highshop AG, société inscrite à Zurich, en Suisse.",
+   "intro": "Ces conditions s’appliquent à toute commande passée sur ce site. Elles s’ajoutent à vos droits au titre du Code suisse des obligations, sans s’y substituer.",
+   "sections": [
+    {
+     "heading": "Votre cocontractant",
+     "body": [
+      "24highshop AG, inscrite à Zurich, Suisse, sous le numéro IDE CHE-000.000.000. Les prix peuvent être affichés en francs ou en euros via le sélecteur de devise ; les deux incluent la TVA suisse de 8,1%. Le montant en euros est converti à un taux interne fixe."
+     ]
+    },
+    {
+     "heading": "Condition d’âge",
+     "body": [
+      "Vous devez avoir 18 ans ou plus pour commander. Nous pouvons demander une preuve d’âge et annulerons et rembourserons toute commande s’il y a lieu de penser que l’acheteur est mineur."
+     ]
+    },
+    {
+     "heading": "Paiement et commande minimum",
+     "body": [
+      "Nous acceptons uniquement le Bitcoin et le virement bancaire. Le Bitcoin est réglé on-chain, le taux de change étant bloqué 15 minutes dès l’arrivée au paiement ; si le règlement n’intervient pas dans ce délai, le taux est recalculé. Le virement accepte SEPA et IBAN suisse, et la marchandise part dès que les fonds sont crédités.",
+      "Une commande minimum de 200 € s’applique. Les deux moyens sont réglés manuellement, ce qui rend les petites commandes non rentables — et permet d’inclure la livraison sur chaque commande."
+     ]
+    },
+    {
+     "heading": "Disponibilité et prix",
+     "body": [
+      "Les stocks et les prix sont tenus à jour, mais des erreurs surviennent. Si un produit se révèle indisponible ou était affiché à un prix manifestement erroné, nous vous contactons avant tout débit et proposons un remboursement ou une alternative. Une annonce constitue une invitation à traiter, non une offre ferme."
+     ]
+    },
+    {
+     "heading": "Ce que nous n’expédions pas",
+     "body": [
+      "Nous n’expédions pas de stupéfiants. Les champignons et truffes contenant de la psilocybine relèvent de la loi suisse sur les stupéfiants et ne sont pas vendus vers des adresses suisses. Les graines de cannabis et les produits CBD sont vendus dans le respect du seuil suisse de 1% de THC."
+     ]
+    },
+    {
+     "heading": "Restrictions à l’importation",
+     "body": [
+      "Plusieurs produits sont licites en Suisse mais restreints ou interdits ailleurs. Vérifier ce qui peut être légalement importé dans votre pays vous incombe. Nous ne pouvons pas rembourser un colis saisi par la douane, ni conseiller sur le droit étranger."
+     ]
+    },
+    {
+     "heading": "Droit applicable",
+     "body": [
+      "Le droit suisse régit ces conditions. Le for est Zurich, sous réserve des règles impératives de protection des consommateurs applicables à votre lieu de résidence."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Politique de confidentialité",
+   "description": "Quelles données personnelles 24highshop collecte, pourquoi, combien de temps elles sont conservées et vos droits selon la loi suisse sur la protection des données.",
+   "intro": "Nous collectons le minimum nécessaire pour encaisser un paiement et acheminer un colis. Nous ne vendons pas vos données et ne les partageons pas à des fins publicitaires.",
+   "sections": [
+    {
+     "heading": "Ce que nous collectons",
+     "body": [
+      "Votre nom, votre adresse de livraison, votre adresse e-mail et votre historique de commandes. Les données de paiement sont traitées par le prestataire de paiement et n’atteignent jamais nos serveurs."
+     ]
+    },
+    {
+     "heading": "Pourquoi nous les conservons",
+     "body": [
+      "Pour traiter et livrer votre commande, gérer les retours et les demandes d’assistance, et satisfaire aux obligations de conservation qui s’imposent à une société commerciale inscrite."
+     ]
+    },
+    {
+     "heading": "Combien de temps",
+     "body": [
+      "Les documents de commande sont conservés dix ans, comme l’exige le Code suisse des obligations. Tout le reste est supprimé sur demande."
+     ]
+    },
+    {
+     "heading": "Où sont vos données",
+     "body": [
+      "Sur des serveurs situés en Suisse et dans l’EEE. Aucun transfert hors de ces territoires n’a lieu."
+     ]
+    },
+    {
+     "heading": "Vos droits",
+     "body": [
+      "En vertu de la loi suisse révisée sur la protection des données (nLPD) et, le cas échéant, du RGPD, vous pouvez demander une copie des données vous concernant, leur rectification ou leur suppression. Écrivez à hello@24highshop.com ; nous répondons sous 30 jours."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Politique relative aux cookies",
+   "description": "Les cookies déposés par ce site et leur finalité.",
+   "intro": "Ce site limite l’usage des cookies : ce qu’il faut pour faire fonctionner un panier, plus des statistiques anonymes.",
+   "sections": [
+    {
+     "heading": "Strictement nécessaires",
+     "body": [
+      "Le contenu de votre panier, votre choix de langue et de devise et votre préférence clair/sombre sont enregistrés dans votre propre navigateur. Ils ne quittent jamais votre appareil et nous ne pouvons pas les lire."
+     ]
+    },
+    {
+     "heading": "Statistiques",
+     "body": [
+      "Nous utilisons des statistiques agrégées pour voir quelles pages et quels produits sont consultés, ce qui nous indique quoi référencer et sur quoi écrire. Elles ne servent pas à identifier des personnes."
+     ]
+    },
+    {
+     "heading": "Les désactiver",
+     "body": [
+      "Bloquer les cookies dans votre navigateur n’empêche ni la navigation ni la lecture. En revanche, le panier ne retiendra pas ce que vous y avez mis d’une visite à l’autre."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Avertissement",
+   "description": "Limites importantes concernant les informations et les produits proposés par 24highshop.",
+   "intro": "Rien sur ce site ne constitue un avis médical, et rien n’y encourage à enfreindre la loi en vigueur chez vous.",
+   "sections": [
+    {
+     "heading": "Pas un avis médical",
+     "body": [
+      "Les guides de ce site décrivent des usages traditionnels, de la botanique et la recherche publiée telle que nous la comprenons. Ils ne remplacent pas un médecin. Si vous prenez un traitement sur ordonnance — en particulier des antidépresseurs, des IMAO ou des médicaments pour la tension — parlez-en à un professionnel avant de consommer quoi que ce soit de psychoactif."
+     ]
+    },
+    {
+     "heading": "Usage responsable",
+     "body": [
+      "Commencez bas. Ne mélangez pas. Ne conduisez pas. Prévoyez une personne sobre à vos côtés pour une première fois, et un endroit sûr où vous ne serez pas pressé."
+     ]
+    },
+    {
+     "heading": "Légalité",
+     "body": [
+      "Les produits proposés ici peuvent être vendus en Suisse. Leur statut ailleurs varie et évolue. Il vous appartient de connaître le droit qui s’applique à vous."
+     ]
+    },
+    {
+     "heading": "Strictement 18+",
+     "body": [
+      "Nous ne vendons en aucun cas à des personnes de moins de 18 ans."
+     ]
+    }
+   ]
+  }
+ },
+ "it": {
+  "shipping": {
+   "title": "Spedizioni e resi",
+   "description": "Tempi di consegna da Zurigo, costi in CHF, imballaggio, dogana e come restituire un ordine.",
+   "intro": "Gli ordini effettuati entro le 16:00 di un giorno lavorativo vengono preparati dal magazzino svizzero e spediti in giornata, in imballaggio neutro che non rivela nulla del contenuto.",
+   "sections": [
+    {
+     "heading": "Tempi di consegna",
+     "body": [
+      "Svizzera e Liechtenstein: uno o due giorni lavorativi con la Posta svizzera. Germania, Austria e Francia: due-quattro giorni lavorativi. Resto d’Europa: tre-sei. Ogni pacco è tracciato e il codice arriva via e-mail appena l’etichetta viene creata.",
+      "I deperibili — tartufi freschi, kit di coltivazione, tutto ciò che contiene una coltura viva — partono a inizio settimana per non restare in deposito nel fine settimana."
+     ]
+    },
+    {
+     "heading": "Costi di spedizione e ordine minimo",
+     "body": [
+      "Nulla. La spedizione è inclusa in ogni ordine, in Svizzera e in tutta Europa, e ogni pacco è tracciato. È possibile grazie a un ordine minimo di 200 € — circa 210 CHF — raggiungibile con qualsiasi combinazione di prodotti."
+     ]
+    },
+    {
+     "heading": "Dogana e importazione",
+     "body": [
+      "Gli ordini svizzeri viaggiano come spedizioni interne: niente dogana, niente dazi, nessuna spesa di gestione. Le spedizioni che lasciano la Svizzera attraversano una frontiera doganale e dazi o IVA riscossi all’arrivo sono a tuo carico. Alcuni prodotti non possono essere importati legalmente ovunque: la verifica spetta a te e non possiamo rimborsare pacchi sequestrati in dogana."
+     ]
+    },
+    {
+     "heading": "Imballaggio",
+     "body": [
+      "Scatole e buste neutre, senza scritte. Nessun marchio, nessun nome di prodotto, nulla all’esterno che indichi il contenuto o la provenienza. Come mittente compare un nome societario neutro."
+     ]
+    },
+    {
+     "heading": "Resi",
+     "body": [
+      "Gli articoli non aperti e integri possono essere restituiti entro 14 giorni dalla consegna. Sono esclusi per igiene i deperibili e i consumabili già aperti, così come i semi con la confezione aperta.",
+      "Contattaci prima di rispedire, così confermiamo l’indirizzo di reso e attendiamo il pacco. Le spese di rientro sono a tuo carico, salvo articolo arrivato difettoso o spedizione errata da parte nostra."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Contatti",
+   "description": "Come raggiungere 24highshop a Zurigo per un ordine, un prodotto o un consiglio prima dell’acquisto.",
+   "intro": "L’e-mail arriva alle persone che preparano i pacchi. Per domande su un ordine indica il numero d’ordine e avremo la risposta davanti.",
+   "sections": [
+    {
+     "heading": "E-mail",
+     "body": [
+      "hello@24highshop.com — rispondiamo entro un giorno lavorativo, di solito molto prima. Leggiamo inglese, tedesco, francese e italiano."
+     ]
+    },
+    {
+     "heading": "Consigli prima dell’acquisto",
+     "body": [
+      "Se hai dubbi su varietà, dose, kit o concentrazione, chiedi prima di ordinare. Preferiamo spendere cinque minuti in una e-mail piuttosto che vederti comprare la cosa sbagliata — o peggio, prenderne troppa."
+     ]
+    },
+    {
+     "heading": "Qualcosa non va con un ordine",
+     "body": [
+      "Danni nel trasporto, un articolo mancante o un kit che dopo tre settimane non ha colonizzato? Manda una foto con il numero d’ordine. I kit che falliscono senza tua colpa vengono sostituiti."
+     ]
+    },
+    {
+     "heading": "Posta",
+     "body": [
+      "24highshop AG, Musterstrasse 1, 8005 Zurigo, Svizzera. Non spedire resi a questo indirizzo senza averci prima contattati."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Termini e condizioni",
+   "description": "Le condizioni applicabili agli ordini presso 24highshop AG, società iscritta a Zurigo, Svizzera.",
+   "intro": "Queste condizioni valgono per ogni ordine effettuato tramite questo sito. Si affiancano ai tuoi diritti secondo il Codice svizzero delle obbligazioni, senza sostituirli.",
+   "sections": [
+    {
+     "heading": "Con chi stai contrattando",
+     "body": [
+      "24highshop AG, iscritta a Zurigo, Svizzera, con numero IDI CHE-000.000.000. I prezzi possono essere mostrati in franchi o in euro tramite il selettore di valuta; entrambi includono l’IVA svizzera dell’8,1%. L’importo in euro è convertito a un tasso interno fisso."
+     ]
+    },
+    {
+     "heading": "Requisito di età",
+     "body": [
+      "Devi avere 18 anni compiuti per ordinare. Possiamo richiedere una prova dell’età e annulleremo e rimborseremo qualsiasi ordine qualora vi sia motivo di ritenere che l’acquirente sia minorenne."
+     ]
+    },
+    {
+     "heading": "Pagamento e ordine minimo",
+     "body": [
+      "Accettiamo solo Bitcoin e bonifico bancario. Il Bitcoin è regolato on-chain, con il cambio bloccato per 15 minuti dal momento del checkout; se il pagamento non arriva entro quella finestra il cambio viene ricalcolato. Il bonifico accetta SEPA e IBAN svizzero e la merce parte quando i fondi risultano accreditati.",
+      "Si applica un ordine minimo di 200 €. Entrambi i metodi sono gestiti manualmente: è ciò che rende gli ordini piccoli non sostenibili e che permette di includere la spedizione in ogni ordine."
+     ]
+    },
+    {
+     "heading": "Disponibilità e prezzi",
+     "body": [
+      "Scorte e prezzi sono tenuti aggiornati, ma gli errori capitano. Se un prodotto risulta non disponibile o era esposto a un prezzo palesemente errato, ti contattiamo prima di addebitare e offriamo rimborso o alternativa. Un annuncio costituisce un invito a trattare, non un’offerta vincolante."
+     ]
+    },
+    {
+     "heading": "Cosa non spediamo",
+     "body": [
+      "Non spediamo stupefacenti. Funghi e tartufi contenenti psilocibina rientrano nella legge svizzera sugli stupefacenti e non sono venduti a indirizzi svizzeri. Semi di cannabis e prodotti CBD sono venduti nel rispetto della soglia svizzera dell’1% di THC."
+     ]
+    },
+    {
+     "heading": "Restrizioni all’importazione",
+     "body": [
+      "Diversi prodotti sono leciti in Svizzera ma limitati o vietati altrove. Verificare cosa può essere legalmente importato nel tuo Paese spetta a te. Non possiamo rimborsare pacchi sequestrati in dogana né fornire consulenza sul diritto estero."
+     ]
+    },
+    {
+     "heading": "Legge applicabile",
+     "body": [
+      "Si applica il diritto svizzero. Il foro competente è Zurigo, fatte salve le norme imperative di tutela del consumatore vigenti nel tuo luogo di residenza."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Informativa sulla privacy",
+   "description": "Quali dati personali raccoglie 24highshop, perché, per quanto tempo li conserva e i tuoi diritti secondo la legge svizzera sulla protezione dei dati.",
+   "intro": "Raccogliamo il minimo necessario per incassare il pagamento e recapitare un pacco. Non vendiamo i tuoi dati e non li condividiamo per finalità pubblicitarie.",
+   "sections": [
+    {
+     "heading": "Cosa raccogliamo",
+     "body": [
+      "Nome, indirizzo di consegna, indirizzo e-mail e storico degli ordini. I dati di pagamento sono gestiti dal fornitore di pagamento e non raggiungono mai i nostri server."
+     ]
+    },
+    {
+     "heading": "Perché li conserviamo",
+     "body": [
+      "Per elaborare e consegnare l’ordine, gestire resi e richieste di assistenza e adempiere agli obblighi di conservazione previsti per una società commerciale iscritta."
+     ]
+    },
+    {
+     "heading": "Per quanto tempo",
+     "body": [
+      "I documenti d’ordine sono conservati dieci anni, come richiede il Codice svizzero delle obbligazioni. Tutto il resto viene cancellato su richiesta."
+     ]
+    },
+    {
+     "heading": "Dove risiedono i dati",
+     "body": [
+      "Su server in Svizzera e nello SEE. Non avviene alcun trasferimento al di fuori di queste aree."
+     ]
+    },
+    {
+     "heading": "I tuoi diritti",
+     "body": [
+      "In base alla legge svizzera riveduta sulla protezione dei dati (nLPD) e, ove applicabile, al GDPR, puoi chiedere copia dei dati che ti riguardano, la loro rettifica o la loro cancellazione. Scrivi a hello@24highshop.com: rispondiamo entro 30 giorni."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Informativa sui cookie",
+   "description": "I cookie impostati da questo sito e a cosa servono.",
+   "intro": "Questo sito usa pochi cookie: quelli necessari a far funzionare un carrello, più statistiche anonime.",
+   "sections": [
+    {
+     "heading": "Strettamente necessari",
+     "body": [
+      "Il contenuto del carrello, la scelta di lingua e valuta e la preferenza chiaro/scuro sono salvati nel tuo browser. Non lasciano mai il tuo dispositivo e non sono leggibili da noi."
+     ]
+    },
+    {
+     "heading": "Statistiche",
+     "body": [
+      "Usiamo statistiche aggregate per vedere quali pagine e prodotti vengono consultati, così sappiamo cosa tenere a magazzino e di cosa scrivere. Non servono a identificare singole persone."
+     ]
+    },
+    {
+     "heading": "Come disattivarli",
+     "body": [
+      "Bloccare i cookie nel browser non impedisce né la navigazione né la lettura, ma il carrello non ricorderà da una visita all’altra cosa avevi messo dentro."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Avvertenze",
+   "description": "Limiti importanti sulle informazioni e sui prodotti offerti da 24highshop.",
+   "intro": "Nulla in questo sito è un parere medico e nulla va inteso come incoraggiamento a violare la legge vigente dove vivi.",
+   "sections": [
+    {
+     "heading": "Non è un parere medico",
+     "body": [
+      "Le guide di questo sito descrivono usi tradizionali, botanica e la ricerca pubblicata per come la comprendiamo. Non sostituiscono un medico. Se assumi farmaci su prescrizione — in particolare antidepressivi, inibitori delle MAO o farmaci per la pressione — parlane con un professionista prima di usare qualsiasi sostanza psicoattiva."
+     ]
+    },
+    {
+     "heading": "Usa con responsabilità",
+     "body": [
+      "Parti basso. Non combinare sostanze. Non guidare. La prima volta tieni accanto una persona sobria e scegli un luogo sicuro e senza fretta."
+     ]
+    },
+    {
+     "heading": "Legalità",
+     "body": [
+      "I prodotti qui offerti possono essere venduti in Svizzera. Il loro status altrove varia e cambia nel tempo. Conoscere la legge che ti riguarda è una tua responsabilità."
+     ]
+    },
+    {
+     "heading": "Solo 18+",
+     "body": [
+      "Non vendiamo in nessun caso a persone di età inferiore ai 18 anni."
+     ]
+    }
+   ]
+  }
+ },
+ "nl": {
+  "shipping": {
+   "title": "Verzending en retour",
+   "description": "Levertijden vanuit Zürich, verzendkosten in CHF, verpakking, douane en hoe je een bestelling retourneert.",
+   "intro": "Bestellingen vóór 16:00 uur op een werkdag worden uit Zwitserse voorraad gepakt en dezelfde dag verzonden, in neutrale verpakking die niets over de inhoud prijsgeeft.",
+   "sections": [
+    {
+     "heading": "Levertijden",
+     "body": [
+      "Zwitserland en Liechtenstein: één tot twee werkdagen met de Zwitserse Post. Duitsland, Oostenrijk en Frankrijk: twee tot vier werkdagen. Rest van Europa: drie tot zes. Elk pakket heeft track & trace; de code krijg je per e-mail zodra het label is aangemaakt.",
+      "Bederfelijke waar — verse truffels, kweeksets, alles met een levende cultuur — gaat vroeg in de week weg zodat het niet in het weekend in een depot blijft liggen."
+     ]
+    },
+    {
+     "heading": "Verzendkosten en minimale bestelling",
+     "body": [
+      "Niets. Verzending is bij elke bestelling inbegrepen, binnen Zwitserland en door heel Europa, en elk pakket heeft track & trace. Dat kan dankzij een minimale bestelwaarde van € 200 — ongeveer CHF 210 — die je met elke combinatie van producten haalt."
+     ]
+    },
+    {
+     "heading": "Douane en invoer",
+     "body": [
+      "Zwitserse bestellingen gaan binnenlands: geen douane, geen invoerrechten, geen behandelkosten. Zendingen die Zwitserland verlaten passeren een douanegrens; rechten of btw bij aankomst zijn voor jouw rekening. Sommige producten mogen niet overal legaal worden ingevoerd; dat controleren is jouw verantwoordelijkheid, en door de douane in beslag genomen pakketten kunnen wij niet vergoeden."
+     ]
+    },
+    {
+     "heading": "Verpakking",
+     "body": [
+      "Blanco, ongemarkeerde dozen en zakken. Geen merknaam, geen productnaam, niets aan de buitenkant dat de inhoud of de herkomst verraadt. Als afzender staat een neutrale bedrijfsnaam."
+     ]
+    },
+    {
+     "heading": "Retourneren",
+     "body": [
+      "Ongeopende, onbeschadigde artikelen kunnen binnen 14 dagen na levering worden geretourneerd. Bederfelijke waren en geopende verbruiksartikelen zijn om hygiënische redenen uitgesloten, net als zaden waarvan de verpakking is geopend.",
+      "Neem contact op voordat je iets terugstuurt, zodat we het retouradres kunnen bevestigen en het pakket verwachten. De retourkosten zijn voor jouw rekening, tenzij het artikel defect aankwam of wij het verkeerde stuurden."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Contact",
+   "description": "Hoe je 24highshop in Zürich bereikt over een bestelling, een product of advies vooraf.",
+   "intro": "E-mail komt terecht bij de mensen die de pakketten inpakken. Bij vragen over een bestelling: vermeld het bestelnummer, dan hebben we het antwoord meteen voor ons.",
+   "sections": [
+    {
+     "heading": "E-mail",
+     "body": [
+      "hello@24highshop.com — antwoord binnen één werkdag, meestal veel sneller. We lezen Engels, Duits, Frans en Italiaans."
+     ]
+    },
+    {
+     "heading": "Advies vóór je bestelt",
+     "body": [
+      "Twijfel je over soort, dosering, kweekset of sterkte? Vraag het vóór je bestelt. Liever vijf minuten e-mail dan dat je het verkeerde koopt — of erger, te veel neemt."
+     ]
+    },
+    {
+     "heading": "Iets mis met een bestelling",
+     "body": [
+      "Transportschade, een ontbrekend artikel, of een kweekset die na drie weken nog niet is doorgegroeid? Stuur een foto met je bestelnummer. Kweeksets die buiten jouw schuld mislukken worden vervangen."
+     ]
+    },
+    {
+     "heading": "Post",
+     "body": [
+      "24highshop AG, Musterstrasse 1, 8005 Zürich, Zwitserland. Stuur retouren niet naar dit adres zonder eerst contact op te nemen."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Algemene voorwaarden",
+   "description": "De voorwaarden voor bestellingen bij 24highshop AG, ingeschreven in Zürich, Zwitserland.",
+   "intro": "Deze voorwaarden gelden voor elke bestelling via deze site. Ze komen naast je rechten onder het Zwitserse verbintenissenrecht, niet in de plaats daarvan.",
+   "sections": [
+    {
+     "heading": "Met wie je een overeenkomst sluit",
+     "body": [
+      "24highshop AG, ingeschreven in Zürich, Zwitserland, onder UID CHE-000.000.000. Prijzen kunnen via de valutaschakelaar in frank of euro worden getoond; beide zijn inclusief 8,1% Zwitserse btw. Het eurobedrag wordt omgerekend tegen een vaste interne koers."
+     ]
+    },
+    {
+     "heading": "Leeftijdseis",
+     "body": [
+      "Je moet 18 jaar of ouder zijn om te bestellen. We kunnen een leeftijdsbewijs vragen en annuleren en vergoeden elke bestelling waarbij er reden is aan te nemen dat de koper minderjarig is."
+     ]
+    },
+    {
+     "heading": "Betaling en minimale bestelling",
+     "body": [
+      "We accepteren uitsluitend Bitcoin en bankoverschrijving. Bitcoin wordt on-chain afgewikkeld met de koers 15 minuten vastgezet vanaf het afrekenen; komt de betaling niet binnen dat venster binnen, dan wordt de koers opnieuw berekend. Bankoverschrijving accepteert SEPA en Zwitserse IBAN, en de goederen gaan weg zodra het bedrag is bijgeschreven.",
+      "Er geldt een minimale bestelwaarde van € 200. Beide methoden worden handmatig verwerkt — precies dat maakt kleinere bestellingen onrendabel en maakt het mogelijk verzending bij elke bestelling in te sluiten."
+     ]
+    },
+    {
+     "heading": "Beschikbaarheid en prijzen",
+     "body": [
+      "Voorraden en prijzen worden actueel gehouden, maar fouten komen voor. Blijkt een product niet leverbaar of stond het tegen een duidelijk verkeerde prijs vermeld, dan nemen we contact op vóór we afschrijven en bieden we terugbetaling of een alternatief. Een vermelding is een uitnodiging tot onderhandeling, geen bindend aanbod."
+     ]
+    },
+    {
+     "heading": "Wat we niet verzenden",
+     "body": [
+      "We verzenden geen verdovende middelen. Paddenstoelen en truffels met psilocybine vallen onder de Zwitserse verdovingsmiddelenwet en worden niet aan Zwitserse adressen verkocht. Cannabiszaden en CBD-producten worden verkocht binnen de Zwitserse grens van 1% THC."
+     ]
+    },
+    {
+     "heading": "Invoerbeperkingen",
+     "body": [
+      "Verschillende producten zijn in Zwitserland toegestaan maar elders beperkt of verboden. Nagaan wat legaal in jouw land mag worden ingevoerd is jouw verantwoordelijkheid. We kunnen door de douane in beslag genomen pakketten niet vergoeden en adviseren niet over buitenlands recht."
+     ]
+    },
+    {
+     "heading": "Toepasselijk recht",
+     "body": [
+      "Zwitsers recht is van toepassing. Bevoegde rechter is Zürich, behoudens dwingende consumentenbeschermingsregels die gelden waar je woont."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Privacyverklaring",
+   "description": "Welke persoonsgegevens 24highshop verzamelt, waarom, hoe lang ze worden bewaard en je rechten onder de Zwitserse wet bescherming persoonsgegevens.",
+   "intro": "We verzamelen het minimum dat nodig is om een betaling te verwerken en een pakket te bezorgen. We verkopen je gegevens niet en delen ze niet voor advertenties.",
+   "sections": [
+    {
+     "heading": "Wat we verzamelen",
+     "body": [
+      "Je naam, bezorgadres, e-mailadres en bestelgeschiedenis. Betaalgegevens worden door de betaaldienstverlener verwerkt en bereiken onze servers nooit."
+     ]
+    },
+    {
+     "heading": "Waarom we ze bewaren",
+     "body": [
+      "Om je bestelling te verwerken en te bezorgen, retouren en supportvragen af te handelen en te voldoen aan de bewaarplichten die voor een ingeschreven handelsonderneming gelden."
+     ]
+    },
+    {
+     "heading": "Hoe lang",
+     "body": [
+      "Bestelgegevens worden tien jaar bewaard, zoals het Zwitserse verbintenissenrecht vereist. Al het overige wordt op verzoek verwijderd."
+     ]
+    },
+    {
+     "heading": "Waar je gegevens staan",
+     "body": [
+      "Op servers in Zwitserland en de EER. Er vindt geen doorgifte buiten deze gebieden plaats."
+     ]
+    },
+    {
+     "heading": "Je rechten",
+     "body": [
+      "Onder de herziene Zwitserse wet bescherming persoonsgegevens (revDSG) en, waar van toepassing, de AVG kun je een kopie opvragen van de gegevens die we over je hebben, correctie vragen of verwijdering. Mail hello@24highshop.com; we reageren binnen 30 dagen."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Cookiebeleid",
+   "description": "Welke cookies deze site plaatst en wat ze doen.",
+   "intro": "Deze site houdt het cookiegebruik klein: wat nodig is om een winkelmand te laten werken, plus anonieme statistiek.",
+   "sections": [
+    {
+     "heading": "Strikt noodzakelijk",
+     "body": [
+      "De inhoud van je winkelmand, je taal- en valutakeuze en je licht/donker-voorkeur worden in je eigen browser opgeslagen. Ze verlaten je apparaat nooit en zijn voor ons niet leesbaar."
+     ]
+    },
+    {
+     "heading": "Statistiek",
+     "body": [
+      "We gebruiken geaggregeerde statistiek om te zien welke pagina’s en producten bekeken worden, zodat we weten wat we moeten inkopen en waarover we moeten schrijven. Het dient niet om personen te identificeren."
+     ]
+    },
+    {
+     "heading": "Uitzetten",
+     "body": [
+      "Cookies blokkeren in je browser breekt het bladeren of lezen niet. Wel onthoudt de winkelmand dan tussen bezoeken niet meer wat je erin had gelegd."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Disclaimer",
+   "description": "Belangrijke beperkingen bij de informatie en producten van 24highshop.",
+   "intro": "Niets op deze site is medisch advies, en niets ervan is bedoeld als aanmoediging om de wet te overtreden waar jij woont.",
+   "sections": [
+    {
+     "heading": "Geen medisch advies",
+     "body": [
+      "De gidsen op deze site beschrijven traditioneel gebruik, botanie en de gepubliceerde wetenschap zoals wij die begrijpen. Ze vervangen geen arts. Gebruik je medicijnen op recept — vooral antidepressiva, MAO-remmers of bloeddrukmedicatie — overleg dan met een professional voordat je iets psychoactiefs gebruikt."
+     ]
+    },
+    {
+     "heading": "Gebruik verantwoord",
+     "body": [
+      "Begin laag. Combineer niets. Rijd niet. Zorg bij een eerste keer voor een nuchter iemand in de buurt en een veilige plek waar je niet hoeft te haasten."
+     ]
+    },
+    {
+     "heading": "Legaliteit",
+     "body": [
+      "De hier aangeboden producten mogen in Zwitserland worden verkocht. Hun status elders verschilt en verandert. Weten welk recht voor jou geldt is je eigen verantwoordelijkheid."
+     ]
+    },
+    {
+     "heading": "Strikt 18+",
+     "body": [
+      "We verkopen onder geen enkele omstandigheid aan personen onder de 18."
+     ]
+    }
+   ]
+  }
+ },
+ "es": {
+  "shipping": {
+   "title": "Envíos y devoluciones",
+   "description": "Plazos desde Zúrich, gastos de envío en CHF, embalaje, aduana y cómo devolver un pedido.",
+   "intro": "Los pedidos hechos antes de las 16:00 en día laborable se preparan desde el stock suizo y salen el mismo día, en embalaje neutro que no revela nada del contenido.",
+   "sections": [
+    {
+     "heading": "Plazos de entrega",
+     "body": [
+      "Suiza y Liechtenstein: uno o dos días laborables con Correos de Suiza. Alemania, Austria y Francia: dos a cuatro días laborables. Resto de Europa: tres a seis. Todos los paquetes llevan seguimiento y el código llega por correo en cuanto se crea la etiqueta.",
+      "Los perecederos — trufas frescas, kits de cultivo, todo lo que lleve cultivo vivo — salen a principios de semana para que no queden en un depósito durante el fin de semana."
+     ]
+    },
+    {
+     "heading": "Gastos de envío y pedido mínimo",
+     "body": [
+      "Nada. El envío está incluido en cada pedido, en Suiza y en toda Europa, y todos los paquetes llevan seguimiento. Es posible gracias a un pedido mínimo de 200 € — unos 210 CHF — que puedes alcanzar con cualquier combinación de productos."
+     ]
+    },
+    {
+     "heading": "Aduana e importación",
+     "body": [
+      "Los pedidos suizos viajan como envíos nacionales: sin aduana, sin aranceles, sin gastos de gestión. Los envíos que salen de Suiza cruzan una frontera aduanera y cualquier arancel o IVA cobrado a la llegada corre por tu cuenta. Algunos productos no pueden importarse legalmente en todos los países; comprobarlo es responsabilidad tuya y no podemos reembolsar paquetes incautados en aduana."
+     ]
+    },
+    {
+     "heading": "Embalaje",
+     "body": [
+      "Cajas y bolsas neutras, sin marcas. Sin marca comercial, sin nombre de producto y sin nada en el exterior que indique el contenido ni la procedencia. Como remitente figura un nombre de empresa neutro."
+     ]
+    },
+    {
+     "heading": "Devoluciones",
+     "body": [
+      "Los artículos sin abrir y en buen estado pueden devolverse en un plazo de 14 días desde la entrega. Quedan excluidos por higiene los perecederos y los consumibles ya abiertos, así como las semillas cuyo envase se haya abierto.",
+      "Contáctanos antes de enviar nada de vuelta para que confirmemos la dirección de devolución y esperemos el paquete. Los portes de devolución corren por tu cuenta salvo que el artículo llegara defectuoso o enviáramos el equivocado."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Contacto",
+   "description": "Cómo contactar con 24highshop en Zúrich sobre un pedido, un producto o para pedir consejo antes de comprar.",
+   "intro": "El correo llega a las personas que preparan los paquetes. Para cualquier consulta sobre un pedido, incluye el número de pedido y tendremos la respuesta delante.",
+   "sections": [
+    {
+     "heading": "Correo electrónico",
+     "body": [
+      "hello@24highshop.com — respondemos en un día laborable, normalmente mucho antes. Leemos inglés, alemán, francés e italiano."
+     ]
+    },
+    {
+     "heading": "Consejo antes de comprar",
+     "body": [
+      "Si dudas sobre la variedad, la dosis, el kit o la concentración, pregunta antes de pedir. Preferimos dedicar cinco minutos a un correo que verte comprar lo que no era — o peor, tomar de más."
+     ]
+    },
+    {
+     "heading": "Algo va mal con un pedido",
+     "body": [
+      "¿Daños en el transporte, falta un artículo, o un kit que no ha colonizado a las tres semanas? Envía una foto con tu número de pedido. Los kits que fallan sin culpa tuya se reponen."
+     ]
+    },
+    {
+     "heading": "Correo postal",
+     "body": [
+      "24highshop AG, Musterstrasse 1, 8005 Zúrich, Suiza. No envíes devoluciones a esta dirección sin contactarnos antes."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Términos y condiciones",
+   "description": "Las condiciones aplicables a los pedidos realizados a 24highshop AG, sociedad inscrita en Zúrich, Suiza.",
+   "intro": "Estas condiciones se aplican a todo pedido realizado a través de este sitio. Se suman a tus derechos según el Código suizo de obligaciones, sin sustituirlos.",
+   "sections": [
+    {
+     "heading": "A quién compras",
+     "body": [
+      "24highshop AG, inscrita en Zúrich, Suiza, con número UID CHE-000.000.000. Los precios pueden mostrarse en francos o en euros con el selector de moneda; ambos incluyen el 8,1% de IVA suizo. El importe en euros se convierte a un tipo interno fijo."
+     ]
+    },
+    {
+     "heading": "Requisito de edad",
+     "body": [
+      "Debes tener 18 años o más para pedir. Podemos solicitar una prueba de edad y cancelaremos y reembolsaremos cualquier pedido cuando haya motivos para creer que el comprador es menor de edad."
+     ]
+    },
+    {
+     "heading": "Pago y pedido mínimo",
+     "body": [
+      "Aceptamos únicamente Bitcoin y transferencia bancaria. El Bitcoin se liquida on-chain, con el tipo de cambio bloqueado 15 minutos desde que llegas al pago; si el pago no llega dentro de esa ventana, el tipo se recalcula. La transferencia acepta SEPA e IBAN suizo, y la mercancía sale en cuanto los fondos quedan acreditados.",
+      "Se aplica un pedido mínimo de 200 €. Ambos métodos se liquidan manualmente, que es justamente lo que hace inviables los pedidos pequeños — y lo que permite incluir el envío en todos los pedidos."
+     ]
+    },
+    {
+     "heading": "Disponibilidad y precios",
+     "body": [
+      "Las existencias y los precios se mantienen actualizados, pero los errores ocurren. Si un producto resulta no estar disponible o figuraba a un precio claramente incorrecto, te contactaremos antes de cobrar y ofreceremos reembolso o alternativa. Un anuncio es una invitación a contratar, no una oferta vinculante."
+     ]
+    },
+    {
+     "heading": "Lo que no enviamos",
+     "body": [
+      "No enviamos estupefacientes. Las setas y trufas con psilocibina están sujetas a la ley suiza de estupefacientes y no se venden a direcciones suizas. Las semillas de cannabis y los productos de CBD se venden respetando el umbral suizo del 1% de THC."
+     ]
+    },
+    {
+     "heading": "Restricciones a la importación",
+     "body": [
+      "Varios productos son lícitos en Suiza pero están restringidos o prohibidos en otros países. Comprobar qué puede importarse legalmente en el tuyo es responsabilidad tuya. No podemos reembolsar paquetes incautados en aduana ni asesorar sobre derecho extranjero."
+     ]
+    },
+    {
+     "heading": "Ley aplicable",
+     "body": [
+      "Se aplica el derecho suizo. El fuero es Zúrich, sin perjuicio de las normas imperativas de protección al consumidor vigentes en tu lugar de residencia."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Política de privacidad",
+   "description": "Qué datos personales recoge 24highshop, para qué, cuánto tiempo los conserva y tus derechos según la ley suiza de protección de datos.",
+   "intro": "Recogemos lo mínimo necesario para cobrar un pago y hacer llegar un paquete. No vendemos tus datos ni los compartimos con fines publicitarios.",
+   "sections": [
+    {
+     "heading": "Qué recogemos",
+     "body": [
+      "Tu nombre, dirección de entrega, dirección de correo e historial de pedidos. Los datos de pago los gestiona el proveedor de pagos y nunca llegan a nuestros servidores."
+     ]
+    },
+    {
+     "heading": "Por qué los conservamos",
+     "body": [
+      "Para tramitar y entregar tu pedido, gestionar devoluciones y consultas de soporte, y cumplir las obligaciones de conservación que se aplican a una sociedad mercantil inscrita."
+     ]
+    },
+    {
+     "heading": "Cuánto tiempo",
+     "body": [
+      "Los registros de pedidos se conservan diez años, como exige el Código suizo de obligaciones. Todo lo demás se elimina a petición."
+     ]
+    },
+    {
+     "heading": "Dónde están tus datos",
+     "body": [
+      "En servidores en Suiza y en el EEE. No se realiza ninguna transferencia fuera de estos territorios."
+     ]
+    },
+    {
+     "heading": "Tus derechos",
+     "body": [
+      "Según la ley suiza revisada de protección de datos (nLPD) y, cuando proceda, el RGPD, puedes solicitar una copia de los datos que tenemos sobre ti, su rectificación o su supresión. Escribe a hello@24highshop.com; respondemos en un plazo de 30 días."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Política de cookies",
+   "description": "Las cookies que instala este sitio y para qué sirven.",
+   "intro": "Este sitio hace un uso reducido de cookies: lo necesario para que funcione una cesta, más analítica anónima.",
+   "sections": [
+    {
+     "heading": "Estrictamente necesarias",
+     "body": [
+      "El contenido de tu cesta, tu elección de idioma y moneda y tu preferencia de tema claro u oscuro se guardan en tu propio navegador. Nunca salen de tu dispositivo y nosotros no podemos leerlos."
+     ]
+    },
+    {
+     "heading": "Analítica",
+     "body": [
+      "Usamos analítica agregada para ver qué páginas y productos se consultan, y así saber qué tener en stock y sobre qué escribir. No sirve para identificar a personas concretas."
+     ]
+    },
+    {
+     "heading": "Cómo desactivarlas",
+     "body": [
+      "Bloquear las cookies en tu navegador no impide navegar ni leer, pero la cesta no recordará entre visitas lo que habías puesto en ella."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Aviso legal",
+   "description": "Límites importantes sobre la información y los productos que ofrece 24highshop.",
+   "intro": "Nada en este sitio es consejo médico, y nada debe leerse como una invitación a infringir la ley donde vives.",
+   "sections": [
+    {
+     "heading": "No es consejo médico",
+     "body": [
+      "Las guías de este sitio describen usos tradicionales, botánica y la investigación publicada tal como la entendemos. No sustituyen a un médico. Si tomas medicación con receta — especialmente antidepresivos, inhibidores de la MAO o fármacos para la tensión — consulta con un profesional antes de usar cualquier sustancia psicoactiva."
+     ]
+    },
+    {
+     "heading": "Consume con responsabilidad",
+     "body": [
+      "Empieza bajo. No mezcles. No conduzcas. La primera vez, ten cerca a alguien sobrio y un sitio seguro donde no tengas prisa."
+     ]
+    },
+    {
+     "heading": "Legalidad",
+     "body": [
+      "Los productos que se ofrecen aquí pueden venderse en Suiza. Su estatus en otros lugares varía y cambia. Conocer la ley que se te aplica es responsabilidad tuya."
+     ]
+    },
+    {
+     "heading": "Solo mayores de 18",
+     "body": [
+      "No vendemos a menores de 18 años bajo ninguna circunstancia."
+     ]
+    }
+   ]
+  }
+ },
+ "pt": {
+  "shipping": {
+   "title": "Envios e devoluções",
+   "description": "Prazos a partir de Zurique, portes em CHF, embalagem, alfândega e como devolver uma encomenda.",
+   "intro": "As encomendas feitas antes das 16:00 num dia útil são preparadas a partir do stock suíço e seguem no mesmo dia, em embalagem neutra que nada revela sobre o conteúdo.",
+   "sections": [
+    {
+     "heading": "Prazos de entrega",
+     "body": [
+      "Suíça e Liechtenstein: um a dois dias úteis pelos Correios suíços. Alemanha, Áustria e França: dois a quatro dias úteis. Restante Europa: três a seis. Todas as encomendas têm rastreio e o código chega por e-mail assim que a etiqueta é criada.",
+      "Os perecíveis — trufas frescas, kits de cultivo, tudo o que contenha cultura viva — seguem no início da semana para não ficarem num entreposto durante o fim de semana."
+     ]
+    },
+    {
+     "heading": "Portes e encomenda mínima",
+     "body": [
+      "Nada. Os portes estão incluídos em todas as encomendas, na Suíça e em toda a Europa, e todas têm rastreio. Isto é possível graças a uma encomenda mínima de 200 € — cerca de 210 CHF — que atinge com qualquer combinação de produtos."
+     ]
+    },
+    {
+     "heading": "Alfândega e importação",
+     "body": [
+      "As encomendas suíças seguem como envios nacionais: sem alfândega, sem direitos de importação, sem taxa de processamento. Os envios que saem da Suíça atravessam uma fronteira aduaneira e quaisquer direitos ou IVA cobrados à chegada são da sua responsabilidade. Alguns produtos não podem ser importados legalmente em todos os países; essa verificação cabe-lhe a si, e não podemos reembolsar encomendas apreendidas na alfândega."
+     ]
+    },
+    {
+     "heading": "Embalagem",
+     "body": [
+      "Caixas e sacos neutros, sem marcações. Sem marca, sem nome de produto e sem nada no exterior que indique o conteúdo ou a origem. O remetente apresenta um nome de empresa neutro."
+     ]
+    },
+    {
+     "heading": "Devoluções",
+     "body": [
+      "Artigos por abrir e sem danos podem ser devolvidos no prazo de 14 dias após a entrega. Excluem-se por higiene os bens perecíveis e os consumíveis já abertos, bem como sementes cuja embalagem tenha sido aberta.",
+      "Contacte-nos antes de devolver seja o que for, para confirmarmos a morada de devolução e aguardarmos a encomenda. Os portes de devolução são da sua responsabilidade, salvo se o artigo chegou defeituoso ou se enviámos o produto errado."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Contacto",
+   "description": "Como contactar a 24highshop em Zurique sobre uma encomenda, um produto ou para aconselhamento antes da compra.",
+   "intro": "O e-mail chega às pessoas que preparam as encomendas. Para questões sobre uma encomenda, indique o número e teremos a resposta à frente.",
+   "sections": [
+    {
+     "heading": "E-mail",
+     "body": [
+      "hello@24highshop.com — respondemos no prazo de um dia útil, normalmente bem antes. Lemos inglês, alemão, francês e italiano."
+     ]
+    },
+    {
+     "heading": "Aconselhamento antes de comprar",
+     "body": [
+      "Se tiver dúvidas sobre variedade, dose, kit ou concentração, pergunte antes de encomendar. Preferimos gastar cinco minutos num e-mail a vê-lo comprar o produto errado — ou pior, tomar demais."
+     ]
+    },
+    {
+     "heading": "Algo errado com uma encomenda",
+     "body": [
+      "Danos no transporte, um artigo em falta, ou um kit que não colonizou ao fim de três semanas? Envie uma fotografia com o número da encomenda. Os kits que falham sem culpa sua são substituídos."
+     ]
+    },
+    {
+     "heading": "Correio",
+     "body": [
+      "24highshop AG, Musterstrasse 1, 8005 Zurique, Suíça. Não envie devoluções para esta morada sem nos contactar primeiro."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Termos e condições",
+   "description": "As condições aplicáveis às encomendas feitas à 24highshop AG, sociedade registada em Zurique, Suíça.",
+   "intro": "Estas condições aplicam-se a todas as encomendas feitas através deste site. Somam-se aos seus direitos ao abrigo do Código suíço das obrigações, sem os substituir.",
+   "sections": [
+    {
+     "heading": "A quem está a comprar",
+     "body": [
+      "24highshop AG, registada em Zurique, Suíça, sob o número UID CHE-000.000.000. Os preços podem ser apresentados em francos ou em euros através do seletor de moeda; ambos incluem 8,1% de IVA suíço. O valor em euros é convertido a uma taxa interna fixa."
+     ]
+    },
+    {
+     "heading": "Requisito de idade",
+     "body": [
+      "Tem de ter 18 anos ou mais para encomendar. Podemos pedir prova de idade e cancelaremos e reembolsaremos qualquer encomenda em que haja motivos para crer que o comprador é menor."
+     ]
+    },
+    {
+     "heading": "Pagamento e encomenda mínima",
+     "body": [
+      "Aceitamos apenas Bitcoin e transferência bancária. O Bitcoin é liquidado on-chain, com a taxa de câmbio fixada durante 15 minutos a partir do checkout; se o pagamento não chegar nessa janela, a taxa é recalculada. A transferência aceita SEPA e IBAN suíço, e a mercadoria segue assim que os fundos são creditados.",
+      "Aplica-se uma encomenda mínima de 200 €. Ambos os métodos são liquidados manualmente, o que torna as encomendas pequenas inviáveis — e o que permite incluir os portes em todas as encomendas."
+     ]
+    },
+    {
+     "heading": "Disponibilidade e preços",
+     "body": [
+      "Os stocks e os preços são mantidos atualizados, mas ocorrem erros. Se um produto se revelar indisponível ou estiver anunciado a um preço claramente incorreto, contactamo-lo antes de cobrar e propomos reembolso ou alternativa. Um anúncio é um convite a contratar, não uma proposta vinculativa."
+     ]
+    },
+    {
+     "heading": "O que não enviamos",
+     "body": [
+      "Não enviamos estupefacientes. Cogumelos e trufas com psilocibina estão abrangidos pela lei suíça de estupefacientes e não são vendidos para moradas suíças. Sementes de canábis e produtos de CBD são vendidos dentro do limiar suíço de 1% de THC."
+     ]
+    },
+    {
+     "heading": "Restrições à importação",
+     "body": [
+      "Vários produtos são lícitos na Suíça mas restritos ou proibidos noutros países. Verificar o que pode ser legalmente importado no seu país é da sua responsabilidade. Não podemos reembolsar encomendas apreendidas na alfândega nem aconselhar sobre direito estrangeiro."
+     ]
+    },
+    {
+     "heading": "Lei aplicável",
+     "body": [
+      "Aplica-se o direito suíço. O foro é Zurique, sem prejuízo das normas imperativas de proteção do consumidor aplicáveis no seu local de residência."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Política de privacidade",
+   "description": "Que dados pessoais a 24highshop recolhe, porquê, durante quanto tempo os conserva e os seus direitos ao abrigo da lei suíça de proteção de dados.",
+   "intro": "Recolhemos o mínimo necessário para receber um pagamento e entregar uma encomenda. Não vendemos os seus dados nem os partilhamos para publicidade.",
+   "sections": [
+    {
+     "heading": "O que recolhemos",
+     "body": [
+      "O seu nome, morada de entrega, endereço de e-mail e histórico de encomendas. Os dados de pagamento são tratados pelo prestador de pagamentos e nunca chegam aos nossos servidores."
+     ]
+    },
+    {
+     "heading": "Porque os conservamos",
+     "body": [
+      "Para processar e entregar a sua encomenda, tratar devoluções e pedidos de apoio, e cumprir as obrigações de conservação que se aplicam a uma sociedade comercial registada."
+     ]
+    },
+    {
+     "heading": "Durante quanto tempo",
+     "body": [
+      "Os registos de encomendas são conservados dez anos, conforme exige o Código suíço das obrigações. Tudo o resto é eliminado a pedido."
+     ]
+    },
+    {
+     "heading": "Onde ficam os seus dados",
+     "body": [
+      "Em servidores na Suíça e no EEE. Não há qualquer transferência para fora destes territórios."
+     ]
+    },
+    {
+     "heading": "Os seus direitos",
+     "body": [
+      "Ao abrigo da lei suíça revista de proteção de dados (nLPD) e, quando aplicável, do RGPD, pode pedir uma cópia dos dados que temos sobre si, a sua retificação ou a sua eliminação. Escreva para hello@24highshop.com; respondemos no prazo de 30 dias."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Política de cookies",
+   "description": "Os cookies que este site coloca e para que servem.",
+   "intro": "Este site usa poucos cookies: o necessário para um cesto funcionar, mais estatísticas anónimas.",
+   "sections": [
+    {
+     "heading": "Estritamente necessários",
+     "body": [
+      "O conteúdo do seu cesto, a escolha de idioma e moeda e a preferência de tema claro ou escuro ficam guardados no seu próprio navegador. Nunca saem do seu dispositivo e não são legíveis por nós."
+     ]
+    },
+    {
+     "heading": "Estatísticas",
+     "body": [
+      "Usamos estatísticas agregadas para ver que páginas e produtos são consultados, o que nos diz o que ter em stock e sobre o que escrever. Não servem para identificar pessoas."
+     ]
+    },
+    {
+     "heading": "Como desativar",
+     "body": [
+      "Bloquear cookies no navegador não impede navegar nem ler. O cesto é que deixará de recordar, entre visitas, o que lá tinha colocado."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Aviso legal",
+   "description": "Limites importantes sobre a informação e os produtos disponibilizados pela 24highshop.",
+   "intro": "Nada neste site constitui aconselhamento médico, e nada deve ser lido como incentivo a infringir a lei onde vive.",
+   "sections": [
+    {
+     "heading": "Não é aconselhamento médico",
+     "body": [
+      "Os guias deste site descrevem usos tradicionais, botânica e a investigação publicada tal como a entendemos. Não substituem um médico. Se toma medicação sujeita a receita — sobretudo antidepressivos, inibidores da MAO ou medicamentos para a tensão — fale com um profissional antes de usar qualquer substância psicoativa."
+     ]
+    },
+    {
+     "heading": "Use com responsabilidade",
+     "body": [
+      "Comece baixo. Não misture. Não conduza. Na primeira vez, tenha por perto alguém sóbrio e um sítio seguro onde não tenha pressa."
+     ]
+    },
+    {
+     "heading": "Legalidade",
+     "body": [
+      "Os produtos aqui oferecidos podem ser vendidos na Suíça. O seu estatuto noutros locais varia e muda. Conhecer a lei que se lhe aplica é da sua responsabilidade."
+     ]
+    },
+    {
+     "heading": "Estritamente 18+",
+     "body": [
+      "Não vendemos a menores de 18 anos em circunstância alguma."
+     ]
+    }
+   ]
+  }
+ },
+ "pl": {
+  "shipping": {
+   "title": "Wysyłka i zwroty",
+   "description": "Terminy dostaw z Zurychu, koszty wysyłki w CHF, opakowanie, cło i sposób zwrotu zamówienia.",
+   "intro": "Zamówienia złożone przed 16:00 w dzień roboczy kompletujemy ze szwajcarskiego magazynu i wysyłamy tego samego dnia, w neutralnym opakowaniu, które nie zdradza zawartości.",
+   "sections": [
+    {
+     "heading": "Terminy dostaw",
+     "body": [
+      "Szwajcaria i Liechtenstein: jeden do dwóch dni roboczych Pocztą Szwajcarską. Niemcy, Austria i Francja: dwa do czterech dni roboczych. Reszta Europy: trzy do sześciu. Każda paczka ma śledzenie, a numer trafia na e-mail zaraz po utworzeniu etykiety.",
+      "Towary łatwo psujące się — świeże trufle, zestawy do uprawy, wszystko z żywą kulturą — wysyłamy na początku tygodnia, żeby nie leżały w sortowni przez weekend."
+     ]
+    },
+    {
+     "heading": "Koszty wysyłki i minimalne zamówienie",
+     "body": [
+      "Nic. Wysyłka jest wliczona w każde zamówienie, na terenie Szwajcarii i w całej Europie, a każda paczka ma śledzenie. Jest to możliwe dzięki minimalnej wartości zamówienia 200 € — około 210 CHF — którą osiągniesz dowolnym zestawem produktów."
+     ]
+    },
+    {
+     "heading": "Cło i import",
+     "body": [
+      "Zamówienia szwajcarskie idą jako przesyłki krajowe: bez cła, bez opłat importowych, bez kosztów obsługi. Przesyłki opuszczające Szwajcarię przekraczają granicę celną, a ewentualne cło lub VAT naliczone przy odbiorze pokrywasz Ty. Niektórych produktów nie wolno legalnie sprowadzać do każdego kraju; sprawdzenie tego należy do Ciebie, a paczek zatrzymanych przez służby celne nie zwracamy."
+     ]
+    },
+    {
+     "heading": "Opakowanie",
+     "body": [
+      "Zwykłe, nieoznakowane kartony i koperty. Bez logo, bez nazwy produktu, bez żadnej wskazówki z zewnątrz co do zawartości czy pochodzenia. Jako nadawca widnieje neutralna nazwa firmy."
+     ]
+    },
+    {
+     "heading": "Zwroty",
+     "body": [
+      "Nieotwarte i nieuszkodzone produkty można zwrócić w ciągu 14 dni od dostawy. Ze względów higienicznych wyłączone są towary łatwo psujące się i otwarte produkty konsumpcyjne, a także nasiona z naruszonym opakowaniem.",
+      "Skontaktuj się z nami przed odesłaniem, żebyśmy potwierdzili adres zwrotu i oczekiwali paczki. Koszt odesłania pokrywasz Ty, chyba że produkt dotarł uszkodzony albo wysłaliśmy nie to, co trzeba."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Kontakt",
+   "description": "Jak skontaktować się z 24highshop w Zurychu w sprawie zamówienia, produktu lub porady przed zakupem.",
+   "intro": "E-mail trafia do osób, które pakują paczki. Przy pytaniach o zamówienie podaj jego numer — będziemy mieli odpowiedź od razu przed sobą.",
+   "sections": [
+    {
+     "heading": "E-mail",
+     "body": [
+      "hello@24highshop.com — odpowiadamy w ciągu jednego dnia roboczego, zwykle znacznie szybciej. Czytamy po angielsku, niemiecku, francusku i włosku."
+     ]
+    },
+    {
+     "heading": "Porada przed zakupem",
+     "body": [
+      "Jeśli nie masz pewności co do odmiany, dawki, zestawu czy mocy, zapytaj przed złożeniem zamówienia. Wolimy poświęcić pięć minut na e-mail, niż patrzeć, jak kupujesz nie to — albo gorzej, bierzesz za dużo."
+     ]
+    },
+    {
+     "heading": "Coś jest nie tak z zamówieniem",
+     "body": [
+      "Uszkodzenie w transporcie, brakujący produkt albo zestaw, który po trzech tygodniach nie zarósł? Wyślij zdjęcie z numerem zamówienia. Zestawy, które zawiodły nie z Twojej winy, wymieniamy."
+     ]
+    },
+    {
+     "heading": "Poczta",
+     "body": [
+      "24highshop AG, Musterstrasse 1, 8005 Zurych, Szwajcaria. Nie wysyłaj zwrotów na ten adres bez wcześniejszego kontaktu."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Regulamin",
+   "description": "Warunki obowiązujące przy zamówieniach w 24highshop AG, spółce zarejestrowanej w Zurychu w Szwajcarii.",
+   "intro": "Warunki te dotyczą każdego zamówienia złożonego przez tę stronę. Uzupełniają Twoje prawa wynikające ze szwajcarskiego kodeksu zobowiązań, a nie zastępują ich.",
+   "sections": [
+    {
+     "heading": "Od kogo kupujesz",
+     "body": [
+      "24highshop AG, zarejestrowana w Zurychu w Szwajcarii pod numerem UID CHE-000.000.000. Ceny można wyświetlać we frankach lub w euro przełącznikiem waluty; obie zawierają 8,1% szwajcarskiego VAT. Kwota w euro przeliczana jest po stałym kursie wewnętrznym."
+     ]
+    },
+    {
+     "heading": "Wymóg wieku",
+     "body": [
+      "Aby złożyć zamówienie, musisz mieć ukończone 18 lat. Możemy poprosić o potwierdzenie wieku, a zamówienie anulujemy i zwrócimy środki, jeśli istnieje podejrzenie, że kupujący jest niepełnoletni."
+     ]
+    },
+    {
+     "heading": "Płatność i minimalne zamówienie",
+     "body": [
+      "Przyjmujemy wyłącznie Bitcoin i przelew bankowy. Bitcoin rozliczany jest on-chain, a kurs zablokowany na 15 minut od przejścia do płatności; jeśli wpłata nie dotrze w tym czasie, kurs jest przeliczany ponownie. Przelew obsługuje SEPA i szwajcarski IBAN, a towar wychodzi po zaksięgowaniu środków.",
+      "Obowiązuje minimalna wartość zamówienia 200 €. Obie metody rozliczamy ręcznie — to właśnie sprawia, że mniejsze zamówienia są nieopłacalne, i to pozwala wliczyć wysyłkę w każde zamówienie."
+     ]
+    },
+    {
+     "heading": "Dostępność i ceny",
+     "body": [
+      "Stany magazynowe i ceny utrzymujemy aktualne, ale błędy się zdarzają. Jeśli produkt okaże się niedostępny albo był wystawiony w wyraźnie błędnej cenie, skontaktujemy się przed obciążeniem i zaproponujemy zwrot lub alternatywę. Ogłoszenie stanowi zaproszenie do zawarcia umowy, nie wiążącą ofertę."
+     ]
+    },
+    {
+     "heading": "Czego nie wysyłamy",
+     "body": [
+      "Nie wysyłamy środków odurzających. Grzyby i trufle zawierające psylocybinę podlegają szwajcarskiemu prawu narkotykowemu i nie są sprzedawane na szwajcarskie adresy. Nasiona konopi i produkty CBD sprzedajemy w granicach szwajcarskiego progu 1% THC."
+     ]
+    },
+    {
+     "heading": "Ograniczenia importowe",
+     "body": [
+      "Kilka produktów jest legalnych w Szwajcarii, ale ograniczonych lub zakazanych gdzie indziej. Sprawdzenie, co można legalnie sprowadzić do Twojego kraju, należy do Ciebie. Nie zwracamy pieniędzy za paczki zatrzymane przez służby celne i nie doradzamy w zakresie prawa obcego."
+     ]
+    },
+    {
+     "heading": "Prawo właściwe",
+     "body": [
+      "Obowiązuje prawo szwajcarskie. Sądem właściwym jest Zurych, z zastrzeżeniem bezwzględnie obowiązujących przepisów o ochronie konsumentów w Twoim miejscu zamieszkania."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Polityka prywatności",
+   "description": "Jakie dane osobowe zbiera 24highshop, po co, jak długo je przechowuje i jakie masz prawa według szwajcarskiej ustawy o ochronie danych.",
+   "intro": "Zbieramy minimum potrzebne do przyjęcia płatności i dostarczenia paczki. Nie sprzedajemy Twoich danych ani nie udostępniamy ich do celów reklamowych.",
+   "sections": [
+    {
+     "heading": "Co zbieramy",
+     "body": [
+      "Imię i nazwisko, adres dostawy, adres e-mail oraz historię zamówień. Dane płatnicze obsługuje dostawca płatności i nigdy nie trafiają na nasze serwery."
+     ]
+    },
+    {
+     "heading": "Dlaczego je przechowujemy",
+     "body": [
+      "Aby zrealizować i dostarczyć zamówienie, obsłużyć zwroty i zgłoszenia, a także spełnić obowiązki archiwizacyjne ciążące na zarejestrowanej spółce handlowej."
+     ]
+    },
+    {
+     "heading": "Jak długo",
+     "body": [
+      "Dokumentację zamówień przechowujemy dziesięć lat, zgodnie ze szwajcarskim kodeksem zobowiązań. Wszystko pozostałe usuwamy na żądanie."
+     ]
+    },
+    {
+     "heading": "Gdzie znajdują się dane",
+     "body": [
+      "Na serwerach w Szwajcarii i w EOG. Nie przekazujemy danych poza te obszary."
+     ]
+    },
+    {
+     "heading": "Twoje prawa",
+     "body": [
+      "Na podstawie znowelizowanej szwajcarskiej ustawy o ochronie danych (revDSG) oraz, w stosownych przypadkach, RODO możesz poprosić o kopię swoich danych, ich sprostowanie albo usunięcie. Napisz na hello@24highshop.com; odpowiadamy w ciągu 30 dni."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Polityka cookies",
+   "description": "Jakie pliki cookie ustawia ta strona i do czego służą.",
+   "intro": "Ta strona korzysta z cookies oszczędnie: tylko tyle, ile trzeba do działania koszyka, plus anonimowa statystyka.",
+   "sections": [
+    {
+     "heading": "Niezbędne",
+     "body": [
+      "Zawartość koszyka, wybór języka i waluty oraz ustawienie jasnego lub ciemnego motywu zapisywane są w Twojej przeglądarce. Nigdy nie opuszczają Twojego urządzenia i nie są dla nas czytelne."
+     ]
+    },
+    {
+     "heading": "Statystyka",
+     "body": [
+      "Korzystamy ze zbiorczych statystyk, żeby widzieć, które strony i produkty są oglądane — dzięki temu wiemy, co trzymać na stanie i o czym pisać. Nie służy to identyfikowaniu osób."
+     ]
+    },
+    {
+     "heading": "Jak je wyłączyć",
+     "body": [
+      "Zablokowanie cookies w przeglądarce nie uniemożliwia przeglądania ani czytania. Koszyk nie zapamięta jednak między wizytami, co do niego włożyłeś."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Zastrzeżenie",
+   "description": "Ważne ograniczenia dotyczące informacji i produktów oferowanych przez 24highshop.",
+   "intro": "Nic na tej stronie nie jest poradą medyczną i nic nie należy odczytywać jako zachęty do łamania prawa obowiązującego w Twoim kraju.",
+   "sections": [
+    {
+     "heading": "To nie porada medyczna",
+     "body": [
+      "Poradniki na tej stronie opisują tradycyjne zastosowania, botanikę i opublikowane badania tak, jak je rozumiemy. Nie zastępują lekarza. Jeśli przyjmujesz leki na receptę — zwłaszcza antydepresanty, inhibitory MAO albo leki na ciśnienie — porozmawiaj ze specjalistą, zanim sięgniesz po cokolwiek psychoaktywnego."
+     ]
+    },
+    {
+     "heading": "Używaj odpowiedzialnie",
+     "body": [
+      "Zacznij od niskiej dawki. Nie łącz substancji. Nie prowadź pojazdów. Za pierwszym razem miej obok trzeźwą osobę i bezpieczne miejsce, w którym nigdzie się nie spieszysz."
+     ]
+    },
+    {
+     "heading": "Legalność",
+     "body": [
+      "Produkty oferowane tutaj mogą być sprzedawane w Szwajcarii. Ich status gdzie indziej bywa różny i się zmienia. Znajomość prawa, które Cię dotyczy, jest Twoją odpowiedzialnością."
+     ]
+    },
+    {
+     "heading": "Wyłącznie 18+",
+     "body": [
+      "W żadnych okolicznościach nie sprzedajemy osobom poniżej 18. roku życia."
+     ]
+    }
+   ]
+  }
+ },
+ "cs": {
+  "shipping": {
+   "title": "Doprava a vrácení",
+   "description": "Dodací lhůty z Curychu, cena dopravy v CHF, balení, clo a jak vrátit objednávku.",
+   "intro": "Objednávky zadané do 16:00 v pracovní den vychystáme ze švýcarského skladu a odešleme týž den, v neutrálním balení, které o obsahu nic neprozradí.",
+   "sections": [
+    {
+     "heading": "Dodací lhůty",
+     "body": [
+      "Švýcarsko a Lichtenštejnsko: jeden až dva pracovní dny Švýcarskou poštou. Německo, Rakousko a Francie: dva až čtyři pracovní dny. Zbytek Evropy: tři až šest. Každá zásilka má sledování a kód dorazí e-mailem, jakmile je vytvořen štítek.",
+      "Rychle se kazící zboží — čerstvé lanýže, pěstební sady, cokoli s živou kulturou — odesíláme na začátku týdne, aby neleželo přes víkend v depu."
+     ]
+    },
+    {
+     "heading": "Cena dopravy a minimální objednávka",
+     "body": [
+      "Nic. Doprava je zahrnuta u každé objednávky, v rámci Švýcarska i po celé Evropě, a každá zásilka má sledování. Umožňuje to minimální hodnota objednávky 200 € — přibližně 210 CHF — které dosáhnete libovolnou kombinací produktů."
+     ]
+    },
+    {
+     "heading": "Clo a dovoz",
+     "body": [
+      "Švýcarské objednávky jdou jako vnitrostátní zásilky: bez cla, bez dovozních poplatků, bez manipulačního poplatku. Zásilky opouštějící Švýcarsko překračují celní hranici a případné clo či DPH vyměřené při doručení hradíte vy. Některé produkty nelze legálně dovézt všude; ověřit to je na vás a zásilky zabavené celní správou nemůžeme proplatit."
+     ]
+    },
+    {
+     "heading": "Balení",
+     "body": [
+      "Jednoduché, neoznačené krabice a obálky. Bez loga, bez názvu produktu, bez čehokoli zvenčí, co by prozrazovalo obsah nebo původ. Jako odesílatel je uveden neutrální název firmy."
+     ]
+    },
+    {
+     "heading": "Vrácení",
+     "body": [
+      "Neotevřené a nepoškozené zboží lze vrátit do 14 dnů od doručení. Z hygienických důvodů jsou vyloučeny rychle se kazící produkty a otevřené spotřební zboží, stejně jako semena s porušeným obalem.",
+      "Než cokoli odešlete zpět, ozvěte se nám, ať potvrdíme adresu pro vrácení a zásilku očekáváme. Poštovné za vrácení hradíte vy, ledaže zboží dorazilo vadné nebo jsme poslali něco jiného."
+     ]
+    }
+   ]
+  },
+  "contact": {
+   "title": "Kontakt",
+   "description": "Jak se spojit s 24highshop v Curychu ohledně objednávky, produktu nebo rady před nákupem.",
+   "intro": "E-mail dorazí lidem, kteří zásilky balí. U dotazů k objednávce uveďte její číslo — budeme mít odpověď rovnou před sebou.",
+   "sections": [
+    {
+     "heading": "E-mail",
+     "body": [
+      "hello@24highshop.com — odpovídáme do jednoho pracovního dne, obvykle mnohem dřív. Čteme anglicky, německy, francouzsky a italsky."
+     ]
+    },
+    {
+     "heading": "Rada před nákupem",
+     "body": [
+      "Pokud si nejste jistí odrůdou, dávkou, sadou nebo silou, zeptejte se před objednáním. Raději strávíme pět minut nad e-mailem, než abyste koupili špatnou věc — nebo hůř, vzali si toho příliš."
+     ]
+    },
+    {
+     "heading": "Něco není v pořádku",
+     "body": [
+      "Poškození při přepravě, chybějící položka nebo sada, která po třech týdnech neprorostla? Pošlete fotografii s číslem objednávky. Sady, které selžou bez vašeho zavinění, vyměníme."
+     ]
+    },
+    {
+     "heading": "Pošta",
+     "body": [
+      "24highshop AG, Musterstrasse 1, 8005 Curych, Švýcarsko. Neposílejte na tuto adresu vrácené zboží bez předchozí domluvy."
+     ]
+    }
+   ]
+  },
+  "terms": {
+   "title": "Obchodní podmínky",
+   "description": "Podmínky vztahující se na objednávky u 24highshop AG, společnosti zapsané v Curychu ve Švýcarsku.",
+   "intro": "Tyto podmínky se vztahují na každou objednávku učiněnou přes tento web. Doplňují vaše práva podle švýcarského obligačního zákoníku, nenahrazují je.",
+   "sections": [
+    {
+     "heading": "Od koho nakupujete",
+     "body": [
+      "24highshop AG, zapsaná v Curychu ve Švýcarsku pod číslem UID CHE-000.000.000. Ceny lze přepínačem měny zobrazit ve francích nebo eurech; obě zahrnují 8,1% švýcarskou DPH. Částka v eurech se přepočítává pevným interním kurzem."
+     ]
+    },
+    {
+     "heading": "Věková podmínka",
+     "body": [
+      "Pro objednání vám musí být 18 let nebo více. Můžeme si vyžádat doklad o věku a objednávku zrušíme a proplatíme, existuje-li důvod se domnívat, že kupující je nezletilý."
+     ]
+    },
+    {
+     "heading": "Platba a minimální objednávka",
+     "body": [
+      "Přijímáme pouze Bitcoin a bankovní převod. Bitcoin se vypořádává on-chain, kurz je od vstupu do pokladny zafixován na 15 minut; nedorazí-li platba v tomto okně, kurz se přepočítá. Bankovní převod přijímá SEPA i švýcarský IBAN a zboží odchází, jakmile jsou prostředky připsány.",
+      "Platí minimální hodnota objednávky 200 €. Obě metody se vyřizují ručně — právě to činí menší objednávky nerentabilními a zároveň umožňuje zahrnout dopravu do každé objednávky."
+     ]
+    },
+    {
+     "heading": "Dostupnost a ceny",
+     "body": [
+      "Skladové zásoby i ceny udržujeme aktuální, chyby se však stávají. Ukáže-li se produkt nedostupným nebo byl uveden ve zjevně chybné ceně, ozveme se před stržením platby a nabídneme vrácení peněz nebo alternativu. Nabídka na webu je výzvou k jednání, nikoli závaznou nabídkou."
+     ]
+    },
+    {
+     "heading": "Co neodesíláme",
+     "body": [
+      "Neodesíláme omamné látky. Houby a lanýže obsahující psilocybin spadají pod švýcarský zákon o omamných látkách a na švýcarské adresy je neprodáváme. Konopná semena a CBD produkty prodáváme v mezích švýcarské hranice 1 % THC."
+     ]
+    },
+    {
+     "heading": "Dovozní omezení",
+     "body": [
+      "Několik produktů je ve Švýcarsku legálních, jinde však omezených nebo zakázaných. Ověřit, co lze legálně dovézt do vaší země, je na vás. Zásilky zabavené celní správou neproplácíme a k zahraničnímu právu neradíme."
+     ]
+    },
+    {
+     "heading": "Rozhodné právo",
+     "body": [
+      "Řídí se švýcarským právem. Místem soudní příslušnosti je Curych, s výhradou kogentních norem ochrany spotřebitele platných v místě vašeho bydliště."
+     ]
+    }
+   ]
+  },
+  "privacy": {
+   "title": "Zásady ochrany osobních údajů",
+   "description": "Jaké osobní údaje 24highshop shromažďuje, proč, jak dlouho je uchovává a jaká máte práva podle švýcarského zákona o ochraně osobních údajů.",
+   "intro": "Shromažďujeme minimum potřebné k přijetí platby a doručení zásilky. Vaše údaje neprodáváme ani je nesdílíme pro reklamní účely.",
+   "sections": [
+    {
+     "heading": "Co shromažďujeme",
+     "body": [
+      "Vaše jméno, doručovací adresu, e-mailovou adresu a historii objednávek. Platební údaje zpracovává poskytovatel platebních služeb a na naše servery se nikdy nedostanou."
+     ]
+    },
+    {
+     "heading": "Proč je uchováváme",
+     "body": [
+      "Abychom objednávku zpracovali a doručili, vyřídili vrácení a dotazy podpory a splnili povinnosti uchovávání dokladů, které se na zapsanou obchodní společnost vztahují."
+     ]
+    },
+    {
+     "heading": "Jak dlouho",
+     "body": [
+      "Doklady k objednávkám uchováváme deset let, jak vyžaduje švýcarský obligační zákoník. Vše ostatní na žádost smažeme."
+     ]
+    },
+    {
+     "heading": "Kde vaše údaje leží",
+     "body": [
+      "Na serverech ve Švýcarsku a v EHP. K přenosu mimo tato území nedochází."
+     ]
+    },
+    {
+     "heading": "Vaše práva",
+     "body": [
+      "Podle revidovaného švýcarského zákona o ochraně osobních údajů (revDSG) a tam, kde se uplatní, podle GDPR můžete požádat o kopii údajů, které o vás vedeme, o jejich opravu nebo výmaz. Napište na hello@24highshop.com; odpovíme do 30 dnů."
+     ]
+    }
+   ]
+  },
+  "cookies": {
+   "title": "Zásady používání cookies",
+   "description": "Jaké soubory cookie tento web ukládá a k čemu slouží.",
+   "intro": "Tento web používá cookies úsporně: jen to, co je potřeba k fungování košíku, plus anonymní statistiku.",
+   "sections": [
+    {
+     "heading": "Nezbytně nutné",
+     "body": [
+      "Obsah košíku, volba jazyka a měny a nastavení světlého či tmavého motivu se ukládají ve vašem vlastním prohlížeči. Nikdy neopustí vaše zařízení a my je nedokážeme přečíst."
+     ]
+    },
+    {
+     "heading": "Statistika",
+     "body": [
+      "Používáme souhrnnou statistiku, abychom viděli, které stránky a produkty se prohlížejí — díky tomu víme, co držet skladem a o čem psát. Neslouží k identifikaci jednotlivců."
+     ]
+    },
+    {
+     "heading": "Jak je vypnout",
+     "body": [
+      "Zablokování cookies v prohlížeči vám nezabrání procházet ani číst. Košík si ale mezi návštěvami nezapamatuje, co jste do něj vložili."
+     ]
+    }
+   ]
+  },
+  "disclaimer": {
+   "title": "Upozornění",
+   "description": "Důležitá omezení informací a produktů nabízených 24highshop.",
+   "intro": "Nic na tomto webu není lékařská rada a nic z toho nelze číst jako pobídku k porušování práva platného tam, kde žijete.",
+   "sections": [
+    {
+     "heading": "Nejde o lékařskou radu",
+     "body": [
+      "Průvodci na tomto webu popisují tradiční užití, botaniku a publikovaný výzkum tak, jak jim rozumíme. Lékaře nenahrazují. Pokud užíváte léky na předpis — zejména antidepresiva, inhibitory MAO nebo léky na krevní tlak — poraďte se s odborníkem dřív, než sáhnete po čemkoli psychoaktivním."
+     ]
+    },
+    {
+     "heading": "Užívejte zodpovědně",
+     "body": [
+      "Začněte nízko. Nekombinujte látky. Neřiďte. Poprvé mějte poblíž střízlivého člověka a bezpečné místo, kde nikam nespěcháte."
+     ]
+    },
+    {
+     "heading": "Legálnost",
+     "body": [
+      "Produkty zde nabízené lze prodávat ve Švýcarsku. Jejich status jinde se liší a mění. Znát právo, které se na vás vztahuje, je vaše odpovědnost."
+     ]
+    },
+    {
+     "heading": "Pouze 18+",
+     "body": [
+      "Osobám mladším 18 let neprodáváme za žádných okolností."
+     ]
+    }
+   ]
+  }
+ }
+}
